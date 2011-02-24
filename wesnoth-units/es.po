@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-05-24 17:53+0200\n"
-"PO-Revision-Date: 2011-02-23 21:14-0500\n"
+"PO-Revision-Date: 2011-02-23 21:18-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
@@ -1108,12 +1108,13 @@ msgid ""
 "The chief ability of Druids lies in healing, and it is for this skill that "
 "they are revered by their people."
 msgstr ""
-"The magic of the wood-elves is poorly suited for combat, but effective "
-"nonetheless. The forests in which they thrive can become quickened by a word "
-"of command, and will lash out at those who threaten their peace.\n"
+"La magia de los elfos de los bosques no es muy indicada para situaciones de "
+"combate cuerpo a cuerpo, pero puede resultar efectiva de todos modos. Los "
+"bosques en los que viven pueden ser animados mediante palabras mágicas, y se "
+"cerrarán sobre aquellos que osen perturbar su paz.\n"
 "\n"
-"The chief ability of Druids lies in healing, and it is for this skill that "
-"they are revered by their people."
+"Los druidas elfos tienen la capacidad de sanar, por lo que son venerados por "
+"su gente."
 
 #. [attack]: type=impact
 #: data/core/units/elves/Druid.cfg:40 data/core/units/elves/Enchantress.cfg:38
@@ -2495,9 +2496,8 @@ msgstr ""
 
 #. [attack]: type=impact
 #: data/core/units/humans/Loyalist_Shock_Trooper.cfg:36
-#, fuzzy
 msgid "flail"
-msgstr "cola"
+msgstr "mangual"
 
 #. [unit_type]: id=Spearman, race=human
 #: data/core/units/humans/Loyalist_Spearman.cfg:4
