@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-02-16 17:15-0500\n"
+"PO-Revision-Date: 2011-02-23 20:15-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
@@ -215,7 +215,7 @@ msgstr "Traducción afrikáans"
 #. [about]
 #: data/core/about.cfg:1198
 msgid "Arabic Translation"
-msgstr "Traducción Arábica"
+msgstr "Traducción arábica"
 
 #. [about]
 #: data/core/about.cfg:1205
@@ -240,7 +240,7 @@ msgstr "Traducción china"
 #. [about]
 #: data/core/about.cfg:1340
 msgid "Chinese (Taiwan) Translation"
-msgstr "Traducción China (Taiwan)"
+msgstr "Traducción china (Taiwan)"
 
 #. [about]
 #: data/core/about.cfg:1350
