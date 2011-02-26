@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-05-31 18:29+0200\n"
-"PO-Revision-Date: 2009-12-15 17:59+0100\n"
-"Last-Translator: Diego J. <diegojromerolopez@gmail.com>\n"
+"PO-Revision-Date: 2011-02-23 21:24-0500\n"
+"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr ""
 #. [campaign]: id=An_Orcish_Incursion
 #: data/campaigns/An_Orcish_Incursion/_main.cfg:11
 msgid "An Orcish Incursion"
-msgstr "Una Incursión de Orcos"
+msgstr "Una incursión de orcos"
 
 #. [campaign]: id=An_Orcish_Incursion
 #: data/campaigns/An_Orcish_Incursion/_main.cfg:12
@@ -59,7 +59,7 @@ msgstr "(Desafiante)"
 #. [campaign]: id=An_Orcish_Incursion
 #: data/campaigns/An_Orcish_Incursion/_main.cfg:18
 msgid "High Lord"
-msgstr "Gran Señor"
+msgstr "Gran señor"
 
 #. [campaign]: id=An_Orcish_Incursion
 #: data/campaigns/An_Orcish_Incursion/_main.cfg:22
@@ -813,7 +813,7 @@ msgstr ""
 #. [scenario]: id=4_Valley_of_Trolls
 #: data/campaigns/An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:9
 msgid "Valley of Trolls"
-msgstr "Valle de Trolls"
+msgstr "Valle de trolls"
 
 #. [side]: type=Troll, type=Troll Warrior, id=Gurk
 #: data/campaigns/An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:40
@@ -1348,7 +1348,7 @@ msgstr "Pensamos como uno, entonces. Vamos hacia allí."
 #. [scenario]: id=6_A_Detour_through_the_Swamp
 #: data/campaigns/An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:9
 msgid "A Detour through the Swamp"
-msgstr "Un Desvío a través del Pantano"
+msgstr "Un desvío a través del pantano"
 
 #. [side]: type=Lich, id=Keremal
 #: data/campaigns/An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:42
