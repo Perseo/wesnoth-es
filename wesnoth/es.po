@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:21+0100\n"
-"PO-Revision-Date: 2011-02-26 01:25-0500\n"
+"PO-Revision-Date: 2011-02-26 01:57-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
@@ -6394,9 +6394,8 @@ msgstr "Pico $name, montaña $name"
 
 #. [language]
 #: data/hardwired/english.cfg:25
-#, fuzzy
 msgid "$name's Swamp,$name|marsh,$name|fen"
-msgstr "$name|ham,$name|ton,$name|field"
+msgstr "Pantano de $name,Marisma de $name,Ciénaga de $name"
 
 #. [language]
 #: data/hardwired/english.cfg:26
@@ -6431,11 +6430,10 @@ msgstr "$name|ham,$name|ton,$name|field"
 
 #. [language]
 #: data/hardwired/english.cfg:31
-#, fuzzy
 msgid ""
 "$name|ham,$name|ton,$name|wood,$name Forest,$forest|wood,$forest|ham,$forest|"
 "ton"
-msgstr "$name|ham,$name|ton,$name|wood,Bosque $name"
+msgstr "Bosque $name, Bosque de $name, Selva de $name, Selva $name"
 
 #. [language]
 #: data/hardwired/english.cfg:32
