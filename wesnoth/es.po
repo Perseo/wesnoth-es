@@ -20,8 +20,8 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:21+0100\n"
-"PO-Revision-Date: 2010-05-04 19:57+0100\n"
-"Last-Translator: Diego J. <diegojromerolopez@gmail.com>\n"
+"PO-Revision-Date: 2011-02-26 00:49-0500\n"
+"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -69,7 +69,7 @@ msgstr "Mostrar animación de pantalla principal"
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:54
 msgid "Unit Standing Animations"
-msgstr "Animaciones de Unidades Quietas"
+msgstr "Animaciones de unidades quietas"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:61
@@ -118,15 +118,13 @@ msgstr "Desactiva el guardado automático."
 
 #. [ai]: id=default # id is needed uniquely identify a MP AI, it is not needed in the scenario AI
 #: data/ai/ais/default_ai.cfg:4
-#, fuzzy
 msgid "Multiplayer_AI^Default AI"
-msgstr "Multijugador"
+msgstr "IA predeterminada"
 
 #. [ai]: id=testing_ai_default
 #: data/ai/ais/testing_ai_default.cfg:5
-#, fuzzy
 msgid "Multiplayer_AI^RCA AI"
-msgstr "Multijugador"
+msgstr "IA RCA"
 
 #. [time]: id=underground
 #. [illuminated_time]: id=underground_illum
@@ -339,7 +337,7 @@ msgstr "Traducción afrikáans"
 #. [about]
 #: data/core/about.cfg:1081
 msgid "Arabic Translation"
-msgstr "Traducción Arábica"
+msgstr "Traducción arábica"
 
 #. [about]
 #: data/core/about.cfg:1088
@@ -364,7 +362,7 @@ msgstr "Traducción china"
 #. [about]
 #: data/core/about.cfg:1223
 msgid "Chinese (Taiwan) Translation"
-msgstr "Traducción China (Taiwan)"
+msgstr "Traducción china (Taiwan)"
 
 #. [about]
 #: data/core/about.cfg:1233
@@ -574,7 +572,7 @@ msgstr "Traducción al vietnamita"
 #. [about]
 #: data/core/about.cfg:2480
 msgid "RACV's Translation"
-msgstr "Traducción RACV"
+msgstr "Traducción de la RACV"
 
 #. [about]
 #: data/core/about.cfg:2487
@@ -2992,8 +2990,8 @@ msgstr ""
 "Cede los controles del bando (escriba aquí el número del bando) al usuario "
 "(escriba aquí el apodo del jugador u observador). Puedes comprobar qué bando "
 "pertenece a qué jugador en el diálogo de «Ajustes de Escenario» (Presiona el "
-"botón «más» en la «Tabla de Estado» (alt+s por defecto) para llegar ahí.). "
-"El servidor puede cambiar el control de cualquier bando.\n"
+"botón «más» en la «Tabla de Estado» (alt+s por defecto) para llegar ahí.). El "
+"servidor puede cambiar el control de cualquier bando.\n"
 "\n"
 
 #. [topic]: id=mp_commands
@@ -4139,7 +4137,6 @@ msgid "storm trident"
 msgstr "tridente de tormentas"
 
 #: data/core/macros/names.cfg:18
-#, fuzzy
 msgid ""
 "Egar,Elch,Ga'ash,Gadé Ihn,Gakré Ohm,Galeck,Galsh,Garadin,Garchin,Gark,Garlan,"
 "Garlin Ohn,Garrutin,Gart'lo,Garushi,Gashinar,Gashol,Gaushii,Gaustun,Gegchi,"
@@ -4152,25 +4149,24 @@ msgid ""
 "Verath,Verditt,Verkon,Verlinn,Vermad,Vertick,Vladnir"
 msgstr ""
 "Egar,Elch,Ga'ash,Gadé Ihn,Gakré Ohm,Galeck,Galsh,Garadin,Garchin,Gark,Garlan,"
-"Garlin ohn,Garrutin,Gart'lo,Garushi,Gashinar,Gashöl,Gaushii,Gaustun,Gegchi,"
-"Gelka Kon,Gelknick,Gillan,Gisharri,Goyst,Grada,Græt Ihn,Grashen,Gravlan,Gray,"
-"Grelnit,Grenn ohn,Gretz,Gribbel,Gridda,Grish,Gron ih,Ka,Kahn Ih,Karigan,"
-"Karri Kon,Karron,Kasp,Kegrid,Kerath Ihn,Kerath Kor,Klash,Kon Garashé,Kraag,"
-"Krall Ohn,Kran Kor,Krash,Kraslar,Krenli,Kruggen,Kun,Mah Toa,Mal,Margian,"
-"Marhildian,Markan,Markinos,Mar Ohn,Marra Di'lek,Marrito,Marritos,Merkush,"
+"Garlin Ohn,Garrutin,Gart'lo,Garushi,Gashinar,Gashol,Gaushii,Gaustun,Gegchi,"
+"Gelka Kon,Gelknick,Gillan,Gisharri,Gost,Grada,Græt Ihn,Grashen,Gravlan,Grag,"
+"Grelnit,Grenn Ohn,Greth,Gribbel,Gridda,Grish,Gron Ihn,Ka,Kahn Ih,Karigan,"
+"Karri Kon,Karron,Kask,Kegrid,Kerath Ihn,Kerath Kor,Klash,Kon Garashé,Kraag,"
+"Krall Ohn,Kran Kor,Krash,Kraslar,Krenli,Kruggen,Kun,Mah Toa,Margian,"
+"Mar'Ildian,Markan,Markinos,Mar Ohn,Marra Di'lek,Marrito,Marritos,Merkush,"
 "Merritos Gark,Morusté,Murr,Omataké,Reshan,Vashitt,Velnick,Veralon,Veramo,"
-"Verath,Verditt,Verkon,Verlinn,Vermay,Vertick,Vladnir"
+"Verath,Verditt,Verkon,Verlinn,Vermad,Vertick,Vladnir"
 
 #: data/core/macros/names.cfg:19
-#, fuzzy
 msgid ""
 "Alen Ka,Alinash Mal,Ashirt,Auginet Ka,Auuglann,Damell,Dell,Demla,Dinsill,"
 "Eshi,Olath,Omage,Omagrra,Orra Ka,Orridan,Orrida,Oshibi,Vallin,Valnirra,"
 "Valnitt,Velisk,Verra,Vellin Ka,Veshtar,Vushtin"
 msgstr ""
-"Alen Ka,Alinash Mal,Ashijt,Auginet Ka,Auuglann,Damell,Dell,Demla,Dinsill,"
-"Eshyi,Olath,Omage,Omagrra,Orra Ka,Orridan,Orriday,Oshibi,Vallin,Valnirra,"
-"Valnitt,Velisp,Vellin Ka,Vushtin,Werra,Weshter,Wilniss"
+"Alen Ka,Alinash Mal,Ashirt,Auginet Ka,Auuglann,Damell,Dell,Demla,Dinsill,"
+"Eshi,Olath,Omage,Omagrra,Orra Ka,Orridan,Orrida,Oshibi,Vallin,Valnirra,"
+"Valnitt,Velisk,Verra,Vellin Ka,Veshtar,Vushtin"
 
 #: data/core/macros/names.cfg:23
 msgid ""
@@ -5496,7 +5492,7 @@ msgid ""
 "a relatively cold climate, a feature which has allowed them to populate even "
 "some of the mountains of the far north of the Great Continent."
 msgstr ""
-"Los Dracos son criaturas grandes, aladas y con aliento de fuego, que "
+"Los dracos son criaturas grandes, aladas y con aliento de fuego, que "
 "recuerdan a los verdaderos dragones. En promedio, un draco adulto está en "
 "torno a los tres metros de altura y fácilmente pesa más que un hombre y un "
 "caballo juntos. Su piel está formada por escamas duras, resistentes a la "
@@ -5511,7 +5507,7 @@ msgstr ""
 "su gran tamaño, los hace un blanco fácil para aquellos que se atreven a "
 "atacarlos.\n"
 "\n"
-"Los Dracos son inherentemente criaturas mágicas, con un misterioso fuego "
+"Los dracos son inherentemente criaturas mágicas, con un misterioso fuego "
 "interior alimentando sus propias vidas. Esto se puede ver fácilmente cuando "
 "uno de su especie perece en combate; su fuego interno es liberado, quemando "
 "sus restos hasta las cenizas. Su fuego interior es también su mayor "
@@ -5522,7 +5518,7 @@ msgstr ""
 "funciones de esta magia.\n"
 "\n"
 "<header>text='Sociedad'</header>\n"
-"Los Dracos son una raza relativamente bélica y sus sociedades pueden "
+"Los dracos son una raza relativamente bélica y sus sociedades pueden "
 "describirse mejor como cultas sociedades marciales. Un pequeño grupo de "
 "veteranos guerreros encabezado por un líder con quien se respetan "
 "mutuamente  - o a quien simplemente temen - que gobierna la sociedad con un "
@@ -5555,10 +5551,10 @@ msgstr ""
 "su gente.\n"
 "\n"
 "<header>text='Geografía'</header>\n"
-"Los Dracos proceden de una cadena de islas volcánicas en el Gran Océano.  "
+"Los dracos proceden de una cadena de islas volcánicas en el Gran Océano.  "
 "Una combinación de presión de población y del hundimiento de muchas de sus "
 "islas natales ha causado que las colonias de dracos se esparzan al Gran "
-"Continente. Los Dracos tienden a hacer sus hogares en las cavernas de las "
+"Continente. Los dracos tienden a hacer sus hogares en las cavernas de las "
 "montañas cerca de los volcanes para proteger sus huevos, nidos y forjas. "
 "Mientras que los dracos prefieren naturalmente el calor, su fuego interno es "
 "más que capaz de mantenerlos incluso en un clima relativamente frío, una "
@@ -6568,7 +6564,7 @@ msgstr ""
 #: data/hardwired/tips.cfg:198 data/hardwired/tips.cfg:202
 #: data/hardwired/tips.cfg:207
 msgid "- The Wesnoth Tactical Guide"
-msgstr "- La Guía Táctica de Wesnoth"
+msgstr "- La guía táctica de Wesnoth"
 
 #. [tip]
 #: data/hardwired/tips.cfg:11
@@ -6577,10 +6573,10 @@ msgid ""
 "Early in a campaign, try to give killing blows to these units so you can get "
 "some high-level troops sooner."
 msgstr ""
-"Las unidades con el rasgo «inteligente» necesitan menos puntos de "
-"experiencia para subir de nivel. En los inicios de una campaña, trata de "
-"facilitarles el golpe final estas unidades de manera que puedas obtener "
-"algunas tropas de alto nivel más pronto."
+"Las unidades con el rasgo «inteligente» necesitan menos puntos de experiencia "
+"para subir de nivel. En los inicios de una campaña, trata de facilitarles el "
+"golpe final estas unidades de manera que puedas obtener algunas tropas de "
+"alto nivel más pronto."
 
 #. [tip]
 #: data/hardwired/tips.cfg:12
@@ -6642,7 +6638,7 @@ msgstr ""
 #. [tip]
 #: data/hardwired/tips.cfg:28 data/hardwired/tips.cfg:100
 msgid "- High Lord Kalenz, 470YW"
-msgstr "- Gran Señor Kalenz, 470DW"
+msgstr "- Gran señor Kalenz, 470DW"
 
 #. [tip]
 #: data/hardwired/tips.cfg:31
@@ -6677,7 +6673,7 @@ msgstr ""
 #. [tip]
 #: data/hardwired/tips.cfg:40
 msgid "- The Wesnoth Community"
-msgstr "- La Comunidad Wesnoth"
+msgstr "- La comunidad de Wesnoth"
 
 # Todos los consejos del «Compendio de guerra y virtud» van dirigidos a «vos»
 #. [tip]
@@ -6706,7 +6702,7 @@ msgstr ""
 #: data/hardwired/tips.cfg:48 data/hardwired/tips.cfg:72
 #: data/hardwired/tips.cfg:120 data/hardwired/tips.cfg:128
 msgid "- Handbook of Tactical Analysis Volume I - Haldric II, 42YW"
-msgstr "- Manual de Análisis Táctico Volumen I - Haldric II, 42DW"
+msgstr "- Manual de análisis táctico volumen I - Haldric II, 42DW"
 
 #. [tip]
 #: data/hardwired/tips.cfg:51
@@ -6716,11 +6712,11 @@ msgid ""
 "cost. Try to choose scouts that can easily move across the surrounding "
 "terrain, because units see as far as they can move in one turn."
 msgstr ""
-"Si estás jugando con «Oscuridad» o «Niebla de Guerra» activada, no sabrás a "
-"lo que te estás enfrentando. En este caso, las unidades exploradoras de "
-"largo alcance unidades valen su coste. Trata de elegir exploradores que "
-"puedan moverse fácilmente a través del terreno, ya que las unidades ven tan "
-"lejos como pueden moverse en un turno."
+"Si estás jugando con «Oscuridad» o «Niebla de Guerra» activada, no sabrás a lo "
+"que te estás enfrentando. En este caso, las unidades exploradoras de largo "
+"alcance unidades valen su coste. Trata de elegir exploradores que puedan "
+"moverse fácilmente a través del terreno, ya que las unidades ven tan lejos "
+"como pueden moverse en un turno."
 
 #. [tip]
 #: data/hardwired/tips.cfg:55
@@ -6772,8 +6768,8 @@ msgid ""
 "'Actions' menu. By recalling the same units over and over, you can build up "
 "a powerful and experienced army."
 msgstr ""
-"Puede usar unidades de escenarios previos seleccionando «Reincorporar», en "
-"el menú «Acciones». Llamando a las mismas unidades una y otra vez, puede "
+"Puede usar unidades de escenarios previos seleccionando «Reincorporar», en el "
+"menú «Acciones». Llamando a las mismas unidades una y otra vez, puede "
 "construir un ejército poderoso y experimentado."
 
 #. [tip]
@@ -6809,7 +6805,7 @@ msgstr ""
 #. [tip]
 #: data/hardwired/tips.cfg:76
 msgid "- Handbook of Tactical Analysis Volume II - Haldric II, 43YW"
-msgstr "- Manual de Análisis Táctico Volumen II - Haldric II, 42DW"
+msgstr "- Manual de análisis táctico volumen II - Haldric II, 42DW"
 
 #. [tip]
 #: data/hardwired/tips.cfg:79
@@ -7019,7 +7015,7 @@ msgstr ""
 #. [tip]
 #: data/hardwired/tips.cfg:152
 msgid "- The Scroll of Chantal, 516YW"
-msgstr "- El Pergamino de Chantal, 516DW"
+msgstr "- El pergamino de Chantal, 516DW"
 
 #. [tip]
 #: data/hardwired/tips.cfg:155
@@ -7039,7 +7035,7 @@ msgstr "Los ataques arcanos son muy poderosos contra los no muertos."
 #. [tip]
 #: data/hardwired/tips.cfg:160
 msgid "- Great Sage Dacyn, 626YW"
-msgstr "- Gran Sabio Dacyn, 626DW"
+msgstr "- Gran sabio Dacyn, 626DW"
 
 #. [tip]
 #: data/hardwired/tips.cfg:163
@@ -7069,10 +7065,10 @@ msgid ""
 "from advancing a level, so it is generally more useful to try to advance "
 "your lower-level units instead."
 msgstr ""
-"En lugar de subir de nivel, las unidades de alto nivel ganan un «Avance "
-"Sobre el Máximo Nivel» (ASMN, AMLA en inglés), lo que normalmente eleva los "
-"puntos de vida máximos de la unidad en 3 y la sana completamente. Esto es "
-"mucho menos que el beneficio obtenido por avanzar un nivel, por tanto es "
+"En lugar de subir de nivel, las unidades de alto nivel ganan un «Avance Sobre "
+"el Máximo Nivel» (ASMN, AMLA en inglés), lo que normalmente eleva los puntos "
+"de vida máximos de la unidad en 3 y la sana completamente. Esto es mucho "
+"menos que el beneficio obtenido por avanzar un nivel, por tanto es "
 "generalmente más útil intentar mejorar tus unidades de más bajo nivel."
 
 #. [tip]
@@ -7082,8 +7078,8 @@ msgid ""
 "are limited by its maximum movement. Remember this when deciding what unit "
 "is best to scout specific types of terrain."
 msgstr ""
-"En los mapas donde se haya habilitado la «oscuridad» o «niebla de guerra», "
-"el alcance de la vista de una unidad está limitado por su máximo movimiento. "
+"En los mapas donde se haya habilitado la «oscuridad» o «niebla de guerra», el "
+"alcance de la vista de una unidad está limitado por su máximo movimiento. "
 "Recuerde esto cuando decida qué unidad es la mejor para explorar tipos "
 "específicos de terreno."
 
@@ -7135,9 +7131,9 @@ msgid ""
 "ability to undo."
 msgstr ""
 "No puedes deshacer un movimiento que haya mostrado una parte del terreno "
-"oculta debido a la oscuridad o la niebla. Activa la opción «Retardar "
-"refresco de zonas oscuras» cuando quieras mover unidades y a la vez "
-"preservar tu capacidad de deshacer movimientos."
+"oculta debido a la oscuridad o la niebla. Activa la opción «Retardar refresco "
+"de zonas oscuras» cuando quieras mover unidades y a la vez preservar tu "
+"capacidad de deshacer movimientos."
 
 #. [tip]
 #: data/hardwired/tips.cfg:197
@@ -8757,8 +8753,8 @@ msgid ""
 "Unknown command '$command', try $help_command for a list of available "
 "commands."
 msgstr ""
-"Orden «$command» desconocida, ejecute $help_command para mostrar una lista "
-"de órdenes disponibles."
+"Orden «$command» desconocida, ejecute $help_command para mostrar una lista de "
+"órdenes disponibles."
 
 #: src/menu_events.cpp:1951
 msgid ""
@@ -8809,14 +8805,12 @@ msgid "aliases:"
 msgstr "alias:"
 
 #: src/menu_events.cpp:2199
-#, fuzzy
 msgid "(A) - admin command"
-msgstr "(A) - orden de autores"
+msgstr "(A) - orden de administrador"
 
 #: src/menu_events.cpp:2206 src/menu_events.cpp:2405
-#, fuzzy
 msgid "(admin only)"
-msgstr "(sólo autores)"
+msgstr "(sólo administrador)"
 
 #: src/menu_events.cpp:2226
 msgid ""
@@ -8987,18 +8981,16 @@ msgid "Room query."
 msgstr "Consulta de partida."
 
 #: src/menu_events.cpp:2397
-#, fuzzy
 msgid "(D) - debug only, (N) - network only, (A) - admin only"
-msgstr "(D) - sólo depuración, (N) - sólo red, (A) - sólo autores"
+msgstr "(D) - sólo depuración, (N) - sólo red, (A) - sólo administrador"
 
 #: src/menu_events.cpp:2403
 msgid "(debug command)"
 msgstr "(orden de depuración)"
 
 #: src/menu_events.cpp:2404
-#, fuzzy
 msgid "(network only)"
-msgstr " (sólo red)"
+msgstr "(sólo red)"
 
 #: src/menu_events.cpp:2429
 msgid "Refresh gui."
@@ -9375,8 +9367,8 @@ msgid ""
 "underscores and hyphens are allowed."
 msgstr ""
 "El nombre de usuario «$nick|» contiene caracteres no válidos. Sólo se "
-"permiten caracteres alfanuméricos, barras de subrayado (« _ ») y guiones (« "
-"- »)."
+"permiten caracteres alfanuméricos, barras de subrayado (« _ ») y guiones (« - "
+"»)."
 
 #: src/multiplayer.cpp:305
 msgid "The nick '$nick' is too long. Nicks must be 18 characters or less."
@@ -9767,13 +9759,12 @@ msgid "Quit"
 msgstr "Salir"
 
 #: src/multiplayer_lobby.cpp:734
-#, fuzzy
 msgid "Apply Filter"
-msgstr "Filtro: "
+msgstr "Aplicar filtro"
 
 #: src/multiplayer_lobby.cpp:735
 msgid "Invert"
-msgstr ""
+msgstr "Invertir"
 
 #: src/multiplayer_lobby.cpp:736
 #, fuzzy
@@ -9782,12 +9773,11 @@ msgstr "Plaza libre:"
 
 #: src/multiplayer_lobby.cpp:737
 msgid "Friends in Game"
-msgstr ""
+msgstr "Amigos en partida"
 
 #: src/multiplayer_lobby.cpp:738
-#, fuzzy
 msgid "Filter:"
-msgstr "Filtro: "
+msgstr "Filtro:"
 
 #: src/multiplayer_lobby.cpp:747
 msgid "Skip quickly to the active turn when observing"
@@ -10236,8 +10226,7 @@ msgstr "Nombre de variable vacío"
 #: src/serialization/parser.cpp:247
 msgid "Unexpected characters after variable name (expected , or =)"
 msgstr ""
-"Caracteres inesperados detrás del nombre de variable (se esperaban «,» o "
-"«=» )"
+"Caracteres inesperados detrás del nombre de variable (se esperaban «,» o «=» )"
 
 #: src/serialization/parser.cpp:282 src/serialization/parser.cpp:306
 msgid "Unterminated quoted string"
@@ -10419,7 +10408,7 @@ msgstr "Salir del juego"
 #: src/titlescreen.cpp:450
 #, fuzzy
 msgid "Show previous tip of the day"
-msgstr "Mostrar el siguiente consejo del día"
+msgstr "Mostrar el consejo anterior del día"
 
 #: src/titlescreen.cpp:451
 msgid "Show next tip of the day"
@@ -10440,7 +10429,7 @@ msgstr "Tipo de unidad desconocido «$type|»"
 
 #: src/unit.cpp:2285 src/unit.cpp:2472 src/unit.cpp:2545
 msgid " and "
-msgstr "and"
+msgstr " y"
 
 #: src/unit.cpp:2296
 msgid "$attack_list|: $effect_description"
