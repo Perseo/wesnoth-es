@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:21+0100\n"
-"PO-Revision-Date: 2011-02-26 01:06-0500\n"
+"PO-Revision-Date: 2011-02-26 01:25-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
@@ -113,7 +113,7 @@ msgstr "Sonidos de sala"
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:107
 msgid "Disable notifications"
-msgstr "Desactiva notificaciones"
+msgstr "Desactivar notificaciones"
 
 #. [ai]: id=default # id is needed uniquely identify a MP AI, it is not needed in the scenario AI
 #: data/ai/ais/default_ai.cfg:4
@@ -5753,7 +5753,7 @@ msgstr ""
 "por éste. Las leyendas élficas indican que esto era más común en el pasado "
 "lejano.\n"
 "\n"
-"Los Elfos pasan mucho de su tiempo perfeccionando sus talentos y "
+"Los elfos pasan mucho de su tiempo perfeccionando sus talentos y "
 "habilidades. Aquellos que no son adeptos en las artes mágicas típicamente "
 "dedican su tiempo a perfeccionar sus habilidades físicas. Como resultado, "
 "los elfos sobresalen en tiro con arco, que es tal vez el método más "
@@ -6711,7 +6711,7 @@ msgid ""
 "cost. Try to choose scouts that can easily move across the surrounding "
 "terrain, because units see as far as they can move in one turn."
 msgstr ""
-"Si estás jugando con «Oscuridad» o «Niebla de Guerra» activada, no sabrás a lo "
+"Si estás jugando con «Oscuridad» o «Niebla de guerra» activada, no sabrás a lo "
 "que te estás enfrentando. En este caso, las unidades exploradoras de largo "
 "alcance unidades valen su coste. Trata de elegir exploradores que puedan "
 "moverse fácilmente a través del terreno, ya que las unidades ven tan lejos "
@@ -9013,11 +9013,11 @@ msgstr "Asigna el control de un bando a otro jugador u observador."
 
 #: src/menu_events.cpp:2436
 msgid "Clear chat history."
-msgstr "Borra la historia de conversaciones."
+msgstr "Borrar la historia de conversaciones."
 
 #: src/menu_events.cpp:2438
 msgid "Visualize the screen refresh procedure."
-msgstr "Visualiza el procedimiento de actualización de pantalla."
+msgstr "Visualizar el procedimiento de actualización de pantalla."
 
 #: src/menu_events.cpp:2439
 msgid "Show fps."
@@ -9025,15 +9025,15 @@ msgstr "Mostrar FPS"
 
 #: src/menu_events.cpp:2441
 msgid "Save game."
-msgstr "Guarda la partida."
+msgstr "Guardar la partida."
 
 #: src/menu_events.cpp:2443
 msgid "Quit game."
-msgstr "Sale de la partida."
+msgstr "Salir de la partida."
 
 #: src/menu_events.cpp:2447
 msgid "Save and quit."
-msgstr "Guarda y sale de la partida."
+msgstr "Guardar y salir de la partida."
 
 #: src/menu_events.cpp:2450
 msgid "Ignore replay errors."
@@ -9041,7 +9041,7 @@ msgstr "Ignorar errores de repetición."
 
 #: src/menu_events.cpp:2452
 msgid "Disable autosaves."
-msgstr "Desactiva el guardado automático."
+msgstr "Desactivar el guardado automático."
 
 #: src/menu_events.cpp:2454
 msgid "<id>"
@@ -9053,15 +9053,15 @@ msgstr "Avanza al escenario siguiente, o al escenario correspondiente a «id»"
 
 #: src/menu_events.cpp:2457
 msgid "Choose next scenario"
-msgstr "Seleccione el siguiente escenario"
+msgstr "Seleccionar el siguiente escenario"
 
 #: src/menu_events.cpp:2460
 msgid "Turn debug mode on."
-msgstr "Activa el modo de depuración."
+msgstr "Activar el modo de depuración."
 
 #: src/menu_events.cpp:2462
 msgid "Turn debug mode off."
-msgstr "Desactiva el modo de depuración."
+msgstr "Desactivar el modo de depuración."
 
 #: src/menu_events.cpp:2464 src/menu_events.cpp:2468
 msgid "<command>[;<command>...]"
@@ -9073,12 +9073,12 @@ msgstr "Ejecutar sentencia en Lua."
 
 #: src/menu_events.cpp:2466
 msgid "Grant higher privileges to Lua scripts."
-msgstr "Otorga privilegios superiores a la escritura Lua."
+msgstr "Otorgar privilegios superiores a la escritura Lua."
 
 #: src/menu_events.cpp:2468
 msgid "Set the command used by the custom command hotkey"
 msgstr ""
-"Establece el comando utilizado por la sequencia de acceso directo "
+"Establecer el comando utilizado por la sequencia de acceso directo "
 "personalizada"
 
 #: src/menu_events.cpp:2470
@@ -9125,27 +9125,27 @@ msgstr "Crear una unidad."
 
 #: src/menu_events.cpp:2492
 msgid "Toggle fog for the current player."
-msgstr "Alterna niebla para el jugador actual."
+msgstr "Alternar niebla para el jugador actual."
 
 #: src/menu_events.cpp:2494
 msgid "Toggle shroud for the current player."
-msgstr "Alterna oscuridad para el jugador actual."
+msgstr "Alternar oscuridad para el jugador actual."
 
 #: src/menu_events.cpp:2496
 msgid "Give gold to the current player."
-msgstr "Entrega oro al jugador actual."
+msgstr "Entregar oro al jugador actual."
 
 #: src/menu_events.cpp:2498
 msgid "Fire a game event."
-msgstr "Desencadena un evento del juego."
+msgstr "Desencadenar un evento del juego."
 
 #: src/menu_events.cpp:2501
 msgid "Toggle overlaying of x,y coordinates on hexes."
-msgstr "Alterna la visualización de coordenadas x,y en los hexágonos."
+msgstr "Alternar la visualización de coordenadas x,y en los hexágonos."
 
 #: src/menu_events.cpp:2504
 msgid "Toggle overlaying of terrain codes on hexes."
-msgstr "Alterna la visualización de códigos de terreno en los hexágonos."
+msgstr "Alternar la visualización de códigos de terreno en los hexágonos."
 
 #: src/menu_events.cpp:2548
 msgid "Unknown debug level: '$level'."
