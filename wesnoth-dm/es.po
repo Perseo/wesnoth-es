@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-02-25 23:59-0500\n"
+"PO-Revision-Date: 2011-02-26 01:47-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -2942,9 +2942,8 @@ msgstr ""
 
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:308
-#, fuzzy
 msgid "If I were human, I think I would be in love with him."
-msgstr "Sea humano, pienso que sería"
+msgstr "Si yo fuese humana, creo que estaría enamorada de él."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:312
@@ -4280,7 +4279,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:193
 msgid "New Objective: Find the secret door. Explore the manor."
-msgstr "Nuevo objetivo: Buscar la puerta secreta. Explorar la "
+msgstr "Nuevo objetivo: Buscar la puerta secreta. Explorar el señorío."
 
 #. [message]: id=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:212
@@ -4593,8 +4592,8 @@ msgid ""
 "Chantal! No — you can’t be dead! I have no hope of returning to Wesnoth "
 "now..."
 msgstr ""
-"¡Chantal! ¡No — no puedes ser muerto! No tengo ninguna esperanza de volver a "
-"Wesnoth ahora..."
+"¡Chantal! ¡No — no puedes estar muerto! No tengo ninguna esperanza de volver "
+"a Wesnoth ahora..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:54
