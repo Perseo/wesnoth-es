@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:21+0100\n"
-"PO-Revision-Date: 2011-02-26 02:04-0500\n"
+"PO-Revision-Date: 2011-02-26 03:48-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
@@ -9013,11 +9013,11 @@ msgstr "Asigna el control de un bando a otro jugador u observador."
 
 #: src/menu_events.cpp:2436
 msgid "Clear chat history."
-msgstr "Borrar la historia de conversaciones."
+msgstr "Borra la historia de conversaciones."
 
 #: src/menu_events.cpp:2438
 msgid "Visualize the screen refresh procedure."
-msgstr "Visualizar el procedimiento de actualización de pantalla."
+msgstr "Visualiza el procedimiento de actualización de pantalla."
 
 #: src/menu_events.cpp:2439
 msgid "Show fps."
@@ -9025,15 +9025,15 @@ msgstr "Mostrar FPS"
 
 #: src/menu_events.cpp:2441
 msgid "Save game."
-msgstr "Guardar la partida."
+msgstr "Guarda la partida."
 
 #: src/menu_events.cpp:2443
 msgid "Quit game."
-msgstr "Salir de la partida."
+msgstr "Sale de la partida."
 
 #: src/menu_events.cpp:2447
 msgid "Save and quit."
-msgstr "Guardar y salir de la partida."
+msgstr "Guarda y sale de la partida."
 
 #: src/menu_events.cpp:2450
 msgid "Ignore replay errors."
@@ -9041,7 +9041,7 @@ msgstr "Ignorar errores de repetición."
 
 #: src/menu_events.cpp:2452
 msgid "Disable autosaves."
-msgstr "Desactivar el guardado automático."
+msgstr "Desactiva el guardado automático."
 
 #: src/menu_events.cpp:2454
 msgid "<id>"
@@ -9053,15 +9053,15 @@ msgstr "Avanza al escenario siguiente, o al escenario correspondiente a «id»"
 
 #: src/menu_events.cpp:2457
 msgid "Choose next scenario"
-msgstr "Seleccionar el siguiente escenario"
+msgstr "Seleccione el siguiente escenario"
 
 #: src/menu_events.cpp:2460
 msgid "Turn debug mode on."
-msgstr "Activar el modo de depuración."
+msgstr "Activa el modo de depuración."
 
 #: src/menu_events.cpp:2462
 msgid "Turn debug mode off."
-msgstr "Desactivar el modo de depuración."
+msgstr "Desactiva el modo de depuración."
 
 #: src/menu_events.cpp:2464 src/menu_events.cpp:2468
 msgid "<command>[;<command>...]"
@@ -9073,12 +9073,12 @@ msgstr "Ejecutar sentencia en Lua."
 
 #: src/menu_events.cpp:2466
 msgid "Grant higher privileges to Lua scripts."
-msgstr "Otorgar privilegios superiores a la escritura Lua."
+msgstr "Otorga privilegios superiores a la escritura Lua."
 
 #: src/menu_events.cpp:2468
 msgid "Set the command used by the custom command hotkey"
 msgstr ""
-"Establecer el comando utilizado por la sequencia de acceso directo "
+"Establece el comando utilizado por la sequencia de acceso directo "
 "personalizada"
 
 #: src/menu_events.cpp:2470
@@ -9125,7 +9125,7 @@ msgstr "Crear una unidad."
 
 #: src/menu_events.cpp:2492
 msgid "Toggle fog for the current player."
-msgstr "Alternar niebla para el jugador actual."
+msgstr "Alterna niebla para el jugador actual."
 
 #: src/menu_events.cpp:2494
 msgid "Toggle shroud for the current player."
@@ -9133,19 +9133,19 @@ msgstr "Alternar oscuridad para el jugador actual."
 
 #: src/menu_events.cpp:2496
 msgid "Give gold to the current player."
-msgstr "Entregar oro al jugador actual."
+msgstr "Entrega oro al jugador actual."
 
 #: src/menu_events.cpp:2498
 msgid "Fire a game event."
-msgstr "Desencadenar un evento del juego."
+msgstr "Desencadena un evento del juego."
 
 #: src/menu_events.cpp:2501
 msgid "Toggle overlaying of x,y coordinates on hexes."
-msgstr "Alternar la visualización de coordenadas x,y en los hexágonos."
+msgstr "Alterna la visualización de coordenadas x,y en los hexágonos."
 
 #: src/menu_events.cpp:2504
 msgid "Toggle overlaying of terrain codes on hexes."
-msgstr "Alternar la visualización de códigos de terreno en los hexágonos."
+msgstr "Alterna la visualización de códigos de terreno en los hexágonos."
 
 #: src/menu_events.cpp:2548
 msgid "Unknown debug level: '$level'."
