@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:21+0100\n"
-"PO-Revision-Date: 2011-02-26 00:49-0500\n"
+"PO-Revision-Date: 2011-02-26 01:06-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
@@ -112,9 +112,8 @@ msgstr "Sonidos de sala"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:107
-#, fuzzy
 msgid "Disable notifications"
-msgstr "Desactiva el guardado automático."
+msgstr "Desactiva notificaciones"
 
 #. [ai]: id=default # id is needed uniquely identify a MP AI, it is not needed in the scenario AI
 #: data/ai/ais/default_ai.cfg:4
@@ -9074,7 +9073,7 @@ msgstr "Ejecutar sentencia en Lua."
 
 #: src/menu_events.cpp:2466
 msgid "Grant higher privileges to Lua scripts."
-msgstr ""
+msgstr "Otorga privilegios superiores a la escritura Lua."
 
 #: src/menu_events.cpp:2468
 msgid "Set the command used by the custom command hotkey"
@@ -9277,7 +9276,7 @@ msgstr "¡Modo de depuración desactivado!"
 
 #: src/menu_events.cpp:3191
 msgid "Unsafe Lua scripts."
-msgstr ""
+msgstr "Escritura Lua insegura."
 
 #: src/menu_events.cpp:3192
 msgid ""
@@ -9285,10 +9284,15 @@ msgid ""
 "continue? If you have downloaded add-ons, do not click 'ok'! They would "
 "instantly take over your computer. You have been warned."
 msgstr ""
+"Está a punto de abrir una zona insegura, que infringe las normas de "
+"seguridad y que le recomendamos que no haga, en Wesnoth. ¿Está seguro que "
+"desea continuar? (Si usted ha descargado o piensa descargar algún "
+"complemento a través de este medio, ¡no acepte instalarlo! Esto podría "
+"causar daños irreparables en su computadora. ¡Está siendo advertido!)"
 
 #: src/menu_events.cpp:3195
 msgid "Unsafe mode enabled!"
-msgstr ""
+msgstr "¡Modo inseguro activado!"
 
 #: src/menu_events.cpp:3238
 msgid "Variable not found"
@@ -9767,9 +9771,8 @@ msgid "Invert"
 msgstr "Invertir"
 
 #: src/multiplayer_lobby.cpp:736
-#, fuzzy
 msgid "Vacant Slots"
-msgstr "Plaza libre:"
+msgstr "Posiciones vacantes"
 
 #: src/multiplayer_lobby.cpp:737
 msgid "Friends in Game"
@@ -9788,25 +9791,34 @@ msgid ""
 "Enable the games filter. If unchecked all games are shown, regardless of any "
 "filter."
 msgstr ""
+"Permite el filtrado de partidas. Si no está seleccionado, todas las partidas "
+"serán mostradas, sin importar que otros filtros se hayan escogido."
 
 #: src/multiplayer_lobby.cpp:754
 msgid ""
 "Show all games that do *not* match your filter. Useful for hiding games you "
 "are not interested in."
 msgstr ""
+"Muestra todas las partidas que NO forman parte del filtrado que usted ha "
+"escogido. Esto es útil para ocultar aquellas partidas que no se interesan "
+"ver."
 
 #: src/multiplayer_lobby.cpp:758
 msgid "Only show games that have at least one vacant slot"
-msgstr ""
+msgstr "Solamente muestra partidas que contengan por lo menos un solo vacante."
 
 #: src/multiplayer_lobby.cpp:762
 msgid ""
 "Only show games that are played or observed by at least one of your friends"
 msgstr ""
+"Solamente muestra partidas que están siendo jugadas u observadas por lo "
+"menos por uno de sus amigos."
 
 #: src/multiplayer_lobby.cpp:768
 msgid "Only show games whose title or description contain the entered text"
 msgstr ""
+"Solamente muestra partidas que contengan el titulo o la descripción en el "
+"texto introducido."
 
 #: src/multiplayer_lobby.cpp:903
 msgid "Joining this game requires a password."
