@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:21+0100\n"
-"PO-Revision-Date: 2011-02-26 01:57-0500\n"
+"PO-Revision-Date: 2011-02-26 02:04-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
@@ -6375,7 +6375,7 @@ msgstr "Carretera de $name,Paso de $name,Camino de $name"
 #. [language]
 #: data/hardwired/english.cfg:21
 msgid "$name River,River $name"
-msgstr "Río $name, Río $name"
+msgstr "Río $name,Río $name"
 
 #. [language]
 #: data/hardwired/english.cfg:22
@@ -6389,6 +6389,7 @@ msgstr "Lago $name"
 
 #. [language]
 #: data/hardwired/english.cfg:24
+#, fuzzy
 msgid "$name's Peak,Mount $name"
 msgstr "Pico $name, montaña $name"
 
@@ -6433,7 +6434,7 @@ msgstr "$name|ham,$name|ton,$name|field"
 msgid ""
 "$name|ham,$name|ton,$name|wood,$name Forest,$forest|wood,$forest|ham,$forest|"
 "ton"
-msgstr "Bosque $name, Bosque de $name, Selva de $name, Selva $name"
+msgstr "Bosque $name,Bosque de $name,Selva de $name,Selva $name"
 
 #. [language]
 #: data/hardwired/english.cfg:32
@@ -6455,6 +6456,7 @@ msgstr ""
 
 #. [language]
 #: data/hardwired/english.cfg:35
+#, fuzzy
 msgid "$road's Rest,$road's Waypoint,$road|bury,$road|ham,$name|bury,$name|ham"
 msgstr "el descanso de $road, el "
 
