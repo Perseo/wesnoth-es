@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2009-12-15 23:09+0100\n"
-"Last-Translator: Diego J. <diegojromerolopez@gmail.com>\n"
+"PO-Revision-Date: 2011-02-25 23:59-0500\n"
+"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -16,30 +16,28 @@ msgstr ""
 #. [editor_group]: id=dm
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:25
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:99
-#, fuzzy
 msgid "Delfador’s Memoirs"
-msgstr "Las Memorias de Delfador"
+msgstr "Las memorias de Delfador"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:26
 msgid "DM"
-msgstr ""
+msgstr "LmdD"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:32
 msgid "(Normal)"
-msgstr ""
+msgstr "(Normal)"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:32
-#, fuzzy
 msgid "Apprentice"
-msgstr "Aprendiz=(más fácil)"
+msgstr "Aprendiz"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:33
 msgid "(Challenging)"
-msgstr ""
+msgstr "(Desafiante)"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:33
@@ -49,19 +47,17 @@ msgstr "Mago"
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:34
 msgid "(Difficult)"
-msgstr ""
+msgstr "(Difícil)"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:34
-#, fuzzy
 msgid "Great Mage"
-msgstr "Gran Mago=(más dificil)"
+msgstr "Gran mago"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:38
-#, fuzzy
 msgid "(Intermediate level, 19 scenarios.)"
-msgstr "(Nivel intermedio, 23 escenarios)"
+msgstr "(Nivel intermedio, 19 escenarios)"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:38
@@ -132,9 +128,8 @@ msgstr "Tercer oráculo"
 
 #. [side]: type=Mage of Light, id=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:45
-#, fuzzy
 msgid "Fourth Oracle"
-msgstr "Fuerte Brell"
+msgstr "Quarto oráculo"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:57
@@ -167,27 +162,24 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:66
-#, fuzzy
 msgid "<i>The New Mage Ceremony</i>"
-msgstr " La Ceremonia del Nuevo Mago"
+msgstr "<i>La ceremonia del nuevo mago</i>"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:69
-#, fuzzy
 msgid "and"
-msgstr " y"
+msgstr "y"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:72
-#, fuzzy
 msgid "<i>The Name Journey</i>"
-msgstr " La Jornada del Nombre"
+msgstr "<i>La jornada del nombre</i>"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:91
 #, fuzzy
 msgid "Academy of Magic, Isle of Alduin."
-msgstr "Escuela de Magos de la luz, isla de Anduin."
+msgstr "Escuela de magos de la luz, isla de Anduin."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:97
@@ -196,9 +188,8 @@ msgstr "Escuela de Magos de la luz, isla de Anduin."
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:137
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:146
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:155
-#, fuzzy
 msgid "... thorum restro targa thorum..."
-msgstr " ...thorum restro targa thorum... "
+msgstr "... thorum restro targa thorum..."
 
 #. [message]: speaker=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:102
@@ -257,13 +248,12 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:160
 #, fuzzy
 msgid "DELFADOR, open your eyes. And open them again!"
-msgstr ""
-" Mariscal: Póngase de pie, DELFADOR, y abra sus ojos. ¡Y los abre de nuevo!"
+msgstr "¡DELFADOR, abre los ojos. ¡Y ábrelos otra vez!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:165
 msgid ". ."
-msgstr ".."
+msgstr ". ."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:169
@@ -429,7 +419,7 @@ msgstr "Muerte de Delfador"
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:119
 msgid "Grooar! Burn! Burn! Ahahaha..."
-msgstr "¡Grooar! ¡Quemen! ¡Quemen! Ahahaha..."
+msgstr "¡Grooar! ¡Quemen! ¡Quemen! Ajajaja..."
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:130
@@ -522,7 +512,7 @@ msgstr "Enemigos"
 #. [label]
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:68
 msgid "The Great Valley"
-msgstr "El Gran Valle"
+msgstr "El gran valle"
 
 #. [label]
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:72
@@ -804,7 +794,7 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:259
 msgid "Is that Garard, King of Wesnoth, you refer to?!"
-msgstr "¡¿Es ese Garard, Rey de Wesnoth, a quien usted se refiere?!"
+msgstr "¡¿Es ese Garard, rey de Wesnoth, a quien usted se refiere?!"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:263
@@ -1008,7 +998,7 @@ msgstr ""
 #. [scenario]: id=06_Swamps_of_Illuven
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:3
 msgid "The Swamps of Illuven"
-msgstr "Los Pantanos de Illuven"
+msgstr "Los pantanos de Illuven"
 
 #. [side]: type=Rogue, id=Garrath
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:47
@@ -1068,9 +1058,8 @@ msgstr ""
 
 #. [option]: speaker=Garrath
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:141
-#, fuzzy
 msgid "Thanks very much. Here’s the gold..."
-msgstr "Muchas gracias. Aquí está el oro"
+msgstr "Muchas gracias. Aquí está el oro..."
 
 #. [message]: speaker=Garrath
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:154
@@ -1081,7 +1070,7 @@ msgstr "Es un placer hacer negocios con usted... ¡Adiós!"
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:171
 msgid "Where did he go?"
-msgstr "¿Dónde se fue?"
+msgstr "¿Adónde se fue?"
 
 #. [message]: speaker=Harold
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:175
@@ -1097,11 +1086,10 @@ msgstr "Bien, por lo menos ahora sólo tenemos que tratar con uno de ellos..."
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:189
 #, fuzzy
 msgid "No thanks — we’ll manage by ourselves..."
-msgstr "No gracias - nos arreglaremos solos..."
+msgstr "No gracias — nos arreglaremos solos..."
 
 #. [message]: speaker=Garrath
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:193
-#, fuzzy
 msgid "You’ll regret it!"
 msgstr "¡Lo lamentará!"
 
@@ -1122,7 +1110,7 @@ msgstr ""
 #. [scenario]: id=07_Night_in_the_Swamp
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_Night_in_the_Swamp.cfg:3
 msgid "Night in the Swamp"
-msgstr "Noche en el Pantano"
+msgstr "Noche en el pantano"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_Night_in_the_Swamp.cfg:85
@@ -1405,9 +1393,8 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:232
-#, fuzzy
 msgid "Ommmmmmm..."
-msgstr "Ommmmmmm...."
+msgstr "Ommmmmmm..."
 
 #. [message]: speaker=Pruark
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:276
@@ -1438,7 +1425,7 @@ msgstr "Sí, yo lo sirvo."
 #. [message]: speaker={STRING}
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:65
 msgid "Then you will not mind if we kill you! Hahahahah!"
-msgstr "¡Entonces no le importará si nosotros lo matamos! ¡Hahahahah!"
+msgstr "¡Entonces no le importará si nosotros lo matamos! ¡Jajajaja!"
 
 #. [option]: speaker={STRING}
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:70
@@ -1475,9 +1462,8 @@ msgstr ""
 
 #. [scenario]: id=09_Houses_of_the_Dead
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:192
-#, fuzzy
 msgid "Houses of the Dead"
-msgstr "La tierra de los Muertos"
+msgstr "Las casas de los muertos"
 
 #. [unit]: id=Rorthin, type=Ghost
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:265
@@ -1677,13 +1663,12 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:497
 msgid "WHO ENTERS THE TOMB OF AN-USRUKHAR?"
-msgstr ""
+msgstr "¿QUÍEN ENTRA LA TUMBA DE AN-USRUKHAR?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:502
-#, fuzzy
 msgid "I... I am Delfador, a mage of Wesnoth."
-msgstr "Yo... Yo soy Delfador, un mago de Wesnoth."
+msgstr "Yo... yo soy Delfador, un mago de Wesnoth."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:509
@@ -1739,7 +1724,7 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:547
 msgid "I serve my king and my kingdom."
-msgstr ""
+msgstr "Sirvo mi rey y mi reino."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:555
@@ -1763,9 +1748,11 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:572
+#, fuzzy
 msgid ""
 "I... I serve life against death. Love against fear. Light against darkness."
 msgstr ""
+"Yo... yo sirvo vida contra muerte. Amor conta temor. Luz contra oscuridad."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:580
@@ -1978,7 +1965,7 @@ msgid ""
 "none before have returned unchanged. Fate is heavy upon you, and you deserve "
 "our help."
 msgstr ""
-"Sí. soy Chantal, y sé muchas cosas. Sé que vienes del gran estado humano del "
+"Sí. Soy Chantal, y sé muchas cosas. Sé que vienes del gran estado humano del "
 "sur, y eres maestro entre los humano de todas las artes de la magia. Has "
 "enfrentado gran adversidad, y visitado un lugar de donde hay poca esperanza "
 "de regresar, y de donde ninguno antes ha regresado sin cambios. El destino "
@@ -2092,9 +2079,8 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:116
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:103
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:87
-#, fuzzy
 msgid "Death of Chantal"
-msgstr "Muerte de Lionel"
+msgstr "Muerte de Chantal"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:258
@@ -2111,7 +2097,7 @@ msgstr ""
 #. [scenario]: id=12_Terror_at_the_Ford_of_Parthyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:5
 msgid "Terror at the Ford of Parthyn"
-msgstr ""
+msgstr "Terror en el vado de Parthyn"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:31
@@ -2123,9 +2109,8 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:660
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:187
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:156
-#, fuzzy
 msgid "Defeat all enemies"
-msgstr "Derrotar al líder enemigo"
+msgstr "Derrotar a todos los enimigos"
 
 #. [side]: type=Orcish Warlord, id=Upgar
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:109
@@ -2144,9 +2129,8 @@ msgstr "Niktor"
 
 #. [side]: type=White Mage, id=Arpus
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:191
-#, fuzzy
 msgid "Arpus"
-msgstr "aplastar"
+msgstr "Arpus"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:230
@@ -2184,9 +2168,8 @@ msgstr "Axhamr"
 
 #. [unit]: id=Horfir, type=Spectre
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:265
-#, fuzzy
 msgid "Horfir"
-msgstr "fuego"
+msgstr "Horfir"
 
 #. [unit]: id=Backu, type=Nightgaunt
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:278
@@ -2231,7 +2214,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:383
 msgid "Orcs! Orcs at the Ford!"
-msgstr ""
+msgstr "¡Orcos! Orcos en el vado!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:387
@@ -2410,9 +2393,8 @@ msgstr "Bled"
 
 #. [unit]: type=Ghost, id=Crod
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:784
-#, fuzzy
 msgid "Crod"
-msgstr "Harold"
+msgstr "Crod"
 
 #. [unit]: type=Wraith, id=Angedd
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:803
@@ -2452,9 +2434,8 @@ msgstr "¡Larga vida al Rey! Espera, no eres..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:898
-#, fuzzy
 msgid "—The enemy? Yes, we’re on your side."
-msgstr "... ¿el enemigo? Sí, estamos de tu lado."
+msgstr "—¿El enemigo? Sí, estamos de tu lado."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:902
@@ -2493,9 +2474,8 @@ msgstr "¿Hay alguien aquí?"
 
 #. [unit]: type=Draug, id=Dreadred
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1003
-#, fuzzy
 msgid "Dreadred"
-msgstr "Delfador"
+msgstr "Dreadred"
 
 #. [message]: speaker=Dreadred
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1014
@@ -2689,9 +2669,8 @@ msgstr "Clartakis"
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:112
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:99
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:83
-#, fuzzy
 msgid "Death of Kalenz"
-msgstr "Muerte de Leollyn"
+msgstr "Muerte de Kalenz"
 
 #. [message]: id=Tan-drul
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:208
@@ -2818,7 +2797,6 @@ msgstr ""
 
 #. [scenario]: id=14_Shadows_in_the_Dark
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:4
-#, fuzzy
 msgid "Shadows in the Dark"
 msgstr "Sombras en la oscuridad"
 
@@ -2847,9 +2825,8 @@ msgstr "Barth-Malal"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:119
-#, fuzzy
 msgid "Defeat all enemy leaders"
-msgstr "Derrotar al líder enemigo"
+msgstr "Derrotar a todos los líderes enimigos"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:149
@@ -2867,7 +2844,7 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:160
 #, fuzzy
 msgid "Undead! Where did they come from?"
-msgstr "¿Dónde se fue?"
+msgstr "¡No muertos! ¿De dónde se fue?"
 
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:164
@@ -2953,7 +2930,7 @@ msgstr "Criaturas nauseabundas, ¡es hora de vuestro descanso eterno!"
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:300
 msgid "That is Delfador. Do you see, now?"
-msgstr ""
+msgstr "Éste es Delfador. ¿Ve, ahora?"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:304
@@ -2965,8 +2942,9 @@ msgstr ""
 
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:308
+#, fuzzy
 msgid "If I were human, I think I would be in love with him."
-msgstr ""
+msgstr "Sea humano, pienso que sería"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:312
@@ -2989,9 +2967,8 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:326
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:357
-#, fuzzy
 msgid "New Objective: Defeat all enemies"
-msgstr "Derrotar al líder enemigo"
+msgstr "Nuevo objetivo: Derrotar a todos los enemigos"
 
 #. [unit]: id=Krumful, type=Draug
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:369
@@ -3118,21 +3095,22 @@ msgstr ""
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:274
-#, fuzzy
 msgid "Victory!"
 msgstr "¡Victoria!"
 
 #. [message]: id=Garard II
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:278
+#, fuzzy
 msgid ""
 "Delfador! And you, elvish friends! The kingdom of Wesnoth is in your debt "
 "today!"
-msgstr ""
+msgstr "¡Delfador! ¡Y vosotros, amigos elfos! El reino de Wesnoth es"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:282
+#, fuzzy
 msgid "My King, this is Kalenz, High Lord of the Elves."
-msgstr ""
+msgstr "Mi rey, éste es Kalenz, gran señor de los elfos."
 
 #. [message]: id=Garard II
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:286
@@ -3262,7 +3240,7 @@ msgstr "¡Por el Rey!"
 #. [scenario]: id=16_Dark_Sky_Over_Weldyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:3
 msgid "Dark Sky Over Weldyn"
-msgstr "Luz oscura sobre Weldyn"
+msgstr "Cielo oscuro sobre Weldyn"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:19
@@ -3591,8 +3569,9 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:177
+#, fuzzy
 msgid "I am Delfador. And you are dust!"
-msgstr ""
+msgstr "Soy Delfador. ¡Y eres polvo!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:188
@@ -4212,7 +4191,7 @@ msgstr ""
 #. [scenario]: id=21_Clash_at_the_Manor
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:4
 msgid "Clash at the Manor"
-msgstr ""
+msgstr "Conflicto en el señorío"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:26
@@ -4301,7 +4280,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:193
 msgid "New Objective: Find the secret door. Explore the manor."
-msgstr ""
+msgstr "Nuevo objetivo: Buscar la puerta secreta. Explorar la "
 
 #. [message]: id=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:212
@@ -4315,9 +4294,8 @@ msgstr ""
 
 #. [scenario]: id=22_Face_of_the_Enemy
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:4
-#, fuzzy
 msgid "Face of the Enemy"
-msgstr "La tierra de los Muertos"
+msgstr "La cara de los enemigos"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:21
@@ -4355,8 +4333,9 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:127
+#, fuzzy
 msgid "Who are you, and what did I ever steal from you?"
-msgstr ""
+msgstr "¿Quién sois, y qué robé de vos?"
 
 #. [message]: speaker=Sagus
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:132
@@ -4367,8 +4346,9 @@ msgstr ""
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:136
+#, fuzzy
 msgid "Asheviere is this thing’s daughter?"
-msgstr ""
+msgstr "¿Asheviere es la hija de esta cosa?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:140
@@ -4456,14 +4436,13 @@ msgstr ""
 #. [terrain_type]: id=milestone2
 #: data/campaigns/Delfadors_Memoirs/terrain.cfg:16
 #: data/campaigns/Delfadors_Memoirs/terrain.cfg:25
-#, fuzzy
 msgid "Milestone"
-msgstr "Hito1"
+msgstr "Hito"
 
 #. [unit_type]: id=Journeyman Mage
 #: data/campaigns/Delfadors_Memoirs/units/Journeyman_Mage.cfg:7
 msgid "Journeyman Mage"
-msgstr "Mago Jornalero"
+msgstr "Mago jornalero"
 
 #. [unit_type]: id=Journeyman Mage
 #: data/campaigns/Delfadors_Memoirs/units/Journeyman_Mage.cfg:13
@@ -4499,7 +4478,7 @@ msgstr ""
 #. [unit_type]: id=Mage Commander
 #: data/campaigns/Delfadors_Memoirs/units/Mage_Commander.cfg:7
 msgid "Mage Commander"
-msgstr "Comandante de Mago"
+msgstr "Comandante de mago"
 
 #. [unit_type]: id=Mage Commander
 #: data/campaigns/Delfadors_Memoirs/units/Mage_Commander.cfg:16
@@ -4526,7 +4505,7 @@ msgstr "bastón"
 #. [unit_type]: id=Mage Leader
 #: data/campaigns/Delfadors_Memoirs/units/Mage_Leader.cfg:7
 msgid "Mage Leader"
-msgstr "Líder de Mago"
+msgstr "Líder de mago"
 
 #. [unit_type]: id=Mage Leader
 #: data/campaigns/Delfadors_Memoirs/units/Mage_Leader.cfg:15
@@ -4556,7 +4535,7 @@ msgstr ""
 #. [unit_type]: id=Wose Shaman, race=wose
 #: data/campaigns/Delfadors_Memoirs/units/Wose_Shaman.cfg:4
 msgid "Wose Shaman"
-msgstr "Wose Shaman"
+msgstr "Cháman wose"
 
 #. [unit_type]: id=Wose Shaman, race=wose
 #: data/campaigns/Delfadors_Memoirs/units/Wose_Shaman.cfg:66
@@ -4614,7 +4593,7 @@ msgid ""
 "Chantal! No — you can’t be dead! I have no hope of returning to Wesnoth "
 "now..."
 msgstr ""
-"¡Chantal! ¡No - no puedes morir! No tengo ninguna esperanza de volver a "
+"¡Chantal! ¡No — no puedes ser muerto! No tengo ninguna esperanza de volver a "
 "Wesnoth ahora..."
 
 #. [message]: speaker=unit
@@ -4687,7 +4666,7 @@ msgstr "Un pasaje secreto... Me pregunto donde conduce..."
 #: data/campaigns/Delfadors_Memoirs/utils/schedules.cfg:5
 #: data/campaigns/Delfadors_Memoirs/utils/schedules.cfg:12
 msgid "Land of the Dead"
-msgstr "La tierra de los Muertos"
+msgstr "La tierra de los muertos"
 
 #. [unit]: id=Clogrin, type=Royal Guard
 #: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:229
