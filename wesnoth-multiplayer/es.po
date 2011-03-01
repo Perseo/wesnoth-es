@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-12-08 18:05+0100\n"
-"PO-Revision-Date: 2011-03-01 17:05-0500\n"
+"PO-Revision-Date: 2011-03-01 17:14-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
@@ -323,11 +323,11 @@ msgid ""
 "(inscribed by Gauteamus)"
 msgstr ""
 "De cuerpo alto, delgado y de gran habilidad\n"
-"- - Siete Piedras y Once\n"
+"— Siete Piedras y Once\n"
 "Dejo a sus enemigos poca oportunidad\n"
-"- - Siete Piedras y Once\n"
+"— Siete Piedras y Once\n"
 "Arquero, Dragonbane era llamado\n"
-"- - Siete Piedras - y los Elfos\n"
+"— Siete Piedras — y los Elfos\n"
 "Entre las estatuas fue asesinado\n"
 "(inscrito por Gauteamus)"
 
@@ -1429,12 +1429,11 @@ msgstr "4 jug. — Asedia los castillos"
 
 #. [multiplayer]: id=multiplayer_Siege_Castles
 #: data/multiplayer/scenarios/4p_Siege_Castles.cfg:9
-#, fuzzy
 msgid ""
 "36X36 4 player map where 4 mighty castles face off at the convergence of two "
 "rivers. Works well as 2 vs. 2 or FFA. There are approximately 45 villages."
 msgstr ""
-"Mapa de 40x30 y 4 jugadores con 4 poderosos castillos enfrentados en la "
+"Mapa de 36x36 donde 4 jugadores con 4 poderosos castillos enfrentados en la "
 "convergencia de dos ríos. Funciona bien como 2 contra 2 o como todos contra "
 "todos. Hay aproximadamente 45 aldeas."
 
@@ -1585,13 +1584,11 @@ msgstr "Defensor"
 
 #. [objective]: condition=win
 #: data/multiplayer/scenarios/6p_Team_Survival.cfg:426
-#, fuzzy
 msgid "Survive all enemy attacks"
 msgstr "Sobrevive a todos los ataques enemigos."
 
 #. [objective]: condition=lose
 #: data/multiplayer/scenarios/6p_Team_Survival.cfg:432
-#, fuzzy
 msgid "Death of your team leaders"
 msgstr "Muerte de los líderes de su equipo."
 
