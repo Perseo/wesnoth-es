@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-12-08 18:05+0100\n"
-"PO-Revision-Date: 2011-02-26 19:17-0500\n"
+"PO-Revision-Date: 2011-03-01 17:05-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
@@ -646,7 +646,7 @@ msgstr ""
 #. [then]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:972
 msgid "Heavy Snowfall"
-msgstr "Fuerte Nevada"
+msgstr "Fuerte nevada"
 
 #. [then]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:986
@@ -656,7 +656,7 @@ msgstr "Nevada"
 #. [then]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1006
 msgid "Heavy Rains"
-msgstr "Fuertes Lluvias"
+msgstr "Fuertes lluvias"
 
 #. [then]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1020
@@ -683,12 +683,12 @@ msgstr "Humanos"
 #. [then]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1386
 msgid "Single player mode — uses the reduced strength spawns."
-msgstr "Modo de un jugador - utiliza engendramientos de fuerza reducida"
+msgstr "Modo de un jugador — utiliza engendramientos de fuerza reducida"
 
 #. [else]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1389
 msgid "Two player mode — uses the full strength spawns."
-msgstr "Modo de dos jugadores - utiliza engendramientos a plena fuerza."
+msgstr "Modo de dos jugadores — utiliza engendramientos a plena fuerza."
 
 #. [objectives]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1409
@@ -765,7 +765,7 @@ msgstr ""
 #. [message]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1454
 msgid "So this is the accursed valley — a land ours for the taking."
-msgstr "Así que este es el valle maldito - una tierra libre para tomarla."
+msgstr "Así que este es el valle maldito — una tierra libre para tomarla."
 
 #. [message]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1458
@@ -945,7 +945,7 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_Hornshark_Island
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:5
 msgid "2p — Hornshark Island"
-msgstr "2 jug. - La isla de los tiburones cornudos"
+msgstr "2 jug. — La isla de los tiburones cornudos"
 
 #. [multiplayer]: id=multiplayer_Hornshark_Island
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:6
@@ -959,7 +959,7 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_Howling_Ghost_Badlands
 #: data/multiplayer/scenarios/2p_Howling_Ghost_Badlands.cfg:5
 msgid "2p — Howling Ghost Badlands"
-msgstr "2 jug. - Tierras del fantasma aullador"
+msgstr "2 jug. — Tierras del fantasma aullador"
 
 #. [multiplayer]: id=multiplayer_Howling_Ghost_Badlands
 #: data/multiplayer/scenarios/2p_Howling_Ghost_Badlands.cfg:6
