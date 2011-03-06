@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-09-13 14:13+0200\n"
-"PO-Revision-Date: 2009-12-15 23:53+0100\n"
-"Last-Translator: Diego J. <diegojromerolopez@gmail.com>\n"
+"PO-Revision-Date: 2011-03-06 02:56-0500\n"
+"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -35,7 +35,7 @@ msgstr "Bajo los soles ardientes"
 #. [campaign]: id=Under_the_Burning_Suns
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:16
 msgid "UtBS"
-msgstr "BlSA"
+msgstr "Blsa"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:21
@@ -95,17 +95,17 @@ msgstr ""
 #. [about]
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:31
 msgid "Campaign Design"
-msgstr "Diseño de la Campaña"
+msgstr "Diseño de la campaña"
 
 #. [about]
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:40
 msgid "Campaign Maintenance"
-msgstr "Mantenimiento de la Campaña"
+msgstr "Mantenimiento de la campaña"
 
 #. [about]
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:58
 msgid "Artwork and Graphics Design"
-msgstr "Arte y Diseño Gráfico"
+msgstr "Arte y diseño gráfico"
 
 #. [about]
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:104
@@ -1007,7 +1007,7 @@ msgid ""
 "because you are our leader, I will follow where you go."
 msgstr ""
 "Temo por los peligros que acechan en las crueles arenas y más allá hacia el "
-"norte, pero porque sois nuestro líder, os seguiré a donde vayas."
+"norte, pero porque sois nuestro líder, os seguiré adonde vayas."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1354
@@ -3173,7 +3173,7 @@ msgid ""
 msgstr ""
 "Los orcos y los goblins han estado viviendo aquí durante cientos de años y "
 "su red de túneles y cuevas es más extensa de lo que podrías imaginar. ¿Quién "
-"sabe a dónde llegan bajo tierra? No estamos preparados en absoluto para "
+"sabe adónde llegan bajo tierra? No estamos preparados en absoluto para "
 "escalar entre esos picos helados. Por mucho que me disgusten esas cuevas "
 "negras como boca lobo si queremos cruzar esas montañas no tenemos elección."
 
@@ -7896,7 +7896,7 @@ msgid ""
 "I though you said $intl_ally_name, that you'd been here before? Where are we "
 "supposed to go from here?"
 msgstr ""
-"¿Creí que dijiste $intl_ally_name, que habías estado aquí antes? ¿A dónde se "
+"¿Creí que dijiste $intl_ally_name, que habías estado aquí antes? ¿Adónde se "
 "supone que debemos ir desde aquí?"
 
 #. [message]: speaker=$ally_name
@@ -8502,7 +8502,7 @@ msgstr ""
 "cumplir ese juramento. No me gustan las tierras de la superficie, son "
 "demasiado abiertas y expuestas, siento como si pudiera ser atacado desde "
 "cualquier dirección. Pero un juramento es un juramento y por ello te seguiré "
-"a ti y a tu gente a donde quiera que vayáis y te protegeré lo mejor que "
+"a ti y a tu gente adonde quiera que vayáis y te protegeré lo mejor que "
 "pueda. Los túneles no pueden quedar inundados para siempre; después quizás "
 "sea capaz de volver por este camino, y pueda encontrar el camino de vuelta a "
 "mi hogar. Pero por ahora estoy a tu servicio."
@@ -11408,7 +11408,7 @@ msgid ""
 "but where you go I will follow."
 msgstr ""
 "Agh, estar atrapado entre el agua y los soles es un terrible sitio para "
-"estar, pero a donde vayas te seguiré."
+"estar, pero adonde vayas te seguiré."
 
 #. [message]: speaker=$ally_name
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2875
@@ -12119,7 +12119,7 @@ msgid ""
 "pestilence might spread? I have scryed far and wide and there are few that "
 "have the strength to stand up to such a force. If we do not, who will?"
 msgstr ""
-"Debéis daros cuenta que si no se la para, quién sabe a dónde llegará su "
+"Debéis daros cuenta que si no se la para, quién sabe adónde llegará su "
 "pestilencia. He observado a lo largo y ancho del mundo y son muy pocos los "
 "que tienen la fuerza para aguantar tal fuerza. Si nosotros no lo hacemos, "
 "¿quién lo hará?"
@@ -12276,7 +12276,7 @@ msgstr ""
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:447
 msgid "Even if we turn around and leave now, where will we go?"
-msgstr "Incluso si nos volvemos y abandonamos, ¿a dónde iremos?"
+msgstr "Incluso si nos volvemos y abandonamos, ¿adónde iremos?"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:452
@@ -12454,7 +12454,7 @@ msgid ""
 "we will follow."
 msgstr ""
 "Eso es muy compasivo por tu parte, pero dudo que muchos de nuestra gente "
-"superviviente deseen quedarse atrás. Tú eres nuestro líder, Kaleh, y a donde "
+"superviviente deseen quedarse atrás. Tú eres nuestro líder, Kaleh, y adonde "
 "tú vayas, te seguiremos."
 
 #. [message]: speaker=narrator
@@ -16104,8 +16104,8 @@ msgstr ""
 "del cielo llovieron rocas ardientes, pedruscos más grandes de lo que "
 "pudieras imaginar. Atravesaban el cielo como ráfagas relampagueantes, "
 "prendiendo fuego a cualquier cosa que pudiera quemarse y aplastando casas, "
-"muros y elfos. No había ningún sitio para esconderse, ningún lugar a donde "
-"ir paraprotegerse. Estaba terriblemente asustado, y pensé que si intentaba "
+"muros y elfos. No había ningún sitio para esconderse, ningún lugar adonde ir "
+"paraprotegerse. Estaba terriblemente asustado, y pensé que si intentaba "
 "moverme sería destrozado, así que me escondí allí mismo y recé a Eloh, "
 "nuestra diosa protectora. Nunca había rezado tanto antes como lo hice esa "
 "noche. Oí llantos y gritos afuera, pero no pude moverme. Eventualmente los "
@@ -16211,8 +16211,8 @@ msgstr ""
 "yo, sino todo mi pueblo al que tenía que proteger. Dependían de mi juicio, y "
 "estaba solo, demasiado consciente del peso sobre mis estrechos hombros. "
 "Pensando en la última vez que tuvimos que irnos por la fuerza, hice un "
-"silencioso rezo a mi padre para que nos protegiera. No había ningún sitio a "
-"donde ir salvo hacia el norte."
+"silencioso rezo a mi padre para que nos protegiera. No había ningún sitio "
+"adonde ir salvo hacia el norte."
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:46
@@ -16418,7 +16418,7 @@ msgstr ""
 "la vida era más que tan sólo una lucha para sobrevivir. La vida no parecía "
 "haberse facilitado para mi gente en las últimas generaciones, es más, la "
 "tierra parecía haberse vuelto aún menos misericordiosa. ¿Quedaba algún lugar "
-"en el mundo a donde pudiera llevar a mi pueblo que fuese mejor que la tierra "
+"en el mundo adonde pudiera llevar a mi pueblo que fuese mejor que la tierra "
 "en la que nacimos?"
 
 #. [part]

@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-05-24 17:53+0200\n"
-"PO-Revision-Date: 2011-03-01 17:42-0500\n"
+"PO-Revision-Date: 2011-03-01 17:51-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
@@ -4935,7 +4935,7 @@ msgstr ""
 #. [unit_type]: id=Chocobone, race=undead
 #: data/core/units/undead/Skele_Chocobone.cfg:4
 msgid "Chocobone"
-msgstr "Chocobo"
+msgstr "Chocobo esquelético"
 
 #. [unit_type]: id=Chocobone, race=undead
 #: data/core/units/undead/Skele_Chocobone.cfg:21
@@ -5152,7 +5152,7 @@ msgid ""
 "encountering one is that it is likely only the harbinger of a much more "
 "dangerous force that will follow in its wake."
 msgstr ""
-"A veces conocidos como 'hombres huecos', los espectros actúan como el brazo "
+"A veces conocidos como «hombres huecos», los espectros actúan como el brazo "
 "derecho del poder de sus amos. Resultan aterradores para los vivos, pues son "
 "tan mortíferos como aparentan.\n"
 "\n"

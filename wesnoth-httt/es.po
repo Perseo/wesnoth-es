@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-09-13 14:02+0200\n"
-"PO-Revision-Date: 2011-02-26 01:36-0500\n"
+"PO-Revision-Date: 2011-03-06 02:52-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
@@ -30,7 +30,7 @@ msgstr "Heredero al trono"
 #. [campaign]: id=Heir_To_The_Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:12
 msgid "HttT"
-msgstr "HaT"
+msgstr "Hat"
 
 #. [campaign]: id=Heir_To_The_Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:16
@@ -76,6 +76,7 @@ msgid ""
 "\n"
 msgstr ""
 "Lucha para recuperar el trono de Wesnoth, del que eres legítimo heredero.\n"
+"\n"
 
 #. [about]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:29
@@ -374,8 +375,7 @@ msgstr "¡Son demasiados para vencerlos! ¡Debemos escapar!"
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:266
 msgid "But to where? This is the only home we have! What about the elves?"
 msgstr ""
-"¿Pero a dónde? ¡Este es el único hogar que tenemos! ¿Y qué pasa con los "
-"elfos?"
+"¿Pero adónde? ¡Este es el único hogar que tenemos! ¿Y qué pasa con los elfos?"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:270
@@ -8653,7 +8653,7 @@ msgstr "¡Por fin! ¡Tengo el Cetro!"
 msgid ""
 "Indeed. You managed to reach it, Li'sar. I hope you shall use it wisely."
 msgstr ""
-"Así es. Os las habéis arreglado para conseguirlo, Li'Sar. Ojalá lo uséis "
+"Así es. Os las habéis arreglado para conseguirlo, Li'sar. Ojalá lo uséis "
 "sabiamente."
 
 #. [message]: speaker=Li'sar
