@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-03-27 14:22+0200\n"
-"PO-Revision-Date: 2011-04-09 18:10-0500\n"
+"PO-Revision-Date: 2011-04-09 18:17-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
@@ -391,7 +391,7 @@ msgstr "Traducción noruega"
 #: data/core/about.cfg:2271
 #| msgid "English (GB) Translation"
 msgid "Old English Translation"
-msgstr "Traddución anglosajón"
+msgstr "Traddución al anglosajón"
 
 #. [about]
 #: data/core/about.cfg:2280
