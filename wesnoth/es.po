@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-03-27 14:22+0200\n"
-"PO-Revision-Date: 2011-02-23 20:15-0500\n"
+"PO-Revision-Date: 2011-04-09 18:10-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
@@ -389,10 +389,9 @@ msgstr "Traducción noruega"
 
 #. [about]
 #: data/core/about.cfg:2271
-#, fuzzy
 #| msgid "English (GB) Translation"
 msgid "Old English Translation"
-msgstr "Traducción inglesa (GB)"
+msgstr "Traddución anglosajón"
 
 #. [about]
 #: data/core/about.cfg:2280
@@ -790,11 +789,11 @@ msgstr ""
 
 #: data/core/macros/items.cfg:267
 msgid "holy water^Take it"
-msgstr ""
+msgstr "Tomarla"
 
 #: data/core/macros/items.cfg:268
 msgid "holy water^Leave it"
-msgstr ""
+msgstr "Dejarla"
 
 #: data/core/macros/items.cfg:269
 msgid "I am not suited to the use of this item! Let another take it."
@@ -879,16 +878,14 @@ msgid "Should $unit.name pick up the trident?"
 msgstr "Debería $unit.name recoger el tridente?"
 
 #: data/core/macros/items.cfg:513
-#, fuzzy
 #| msgid "storm trident"
 msgid "storm trident^Leave it"
-msgstr "tridente de las tormentas"
+msgstr "Dejarlo"
 
 #: data/core/macros/items.cfg:513
-#, fuzzy
 #| msgid "storm trident"
 msgid "storm trident^Take it"
-msgstr "tridente de las tormentas"
+msgstr "Tomarlo"
 
 #. [object]
 #: data/core/macros/items.cfg:515
@@ -2049,17 +2046,15 @@ msgstr "Servidor alternativo de Wesnoth"
 
 #. [fonts]
 #: data/hardwired/fonts.cfg:7
-#, fuzzy
 #| msgid "DejaVuSans.ttf,Andagii.ttf,wqy-zenhei.ttc"
 msgid "DejaVuSans.ttf,Andagii.ttf,wqy-zenhei.ttc,Junicode-Regular.ttf"
-msgstr "DejaVuSans.ttf,Andagii.ttf,wqy-zenhei.ttc"
+msgstr "DejaVuSans.ttf,Andagii.ttf,wqy-zenhei.ttc,Junicode-Regular.ttf"
 
 #. [fonts]
 #: data/hardwired/fonts.cfg:8
-#, fuzzy
 #| msgid "DejaVu Sans,Andagii,WenQuanYi Zen Hei"
 msgid "DejaVu Sans,Andagii,WenQuanYi Zen Hei,Junicode"
-msgstr "DejaVu Sans,Andagii,WenQuanYi Zen Hei"
+msgstr "DejaVu Sans,Andagii,WenQuanYi Zen Hei,Junicode"
 
 #. [tip]
 #: data/hardwired/tips.cfg:4
@@ -3908,7 +3903,6 @@ msgid "Reading unit files"
 msgstr "Leyendo archivos de unidades"
 
 #: src/loadscreen.cpp:227
-#, fuzzy
 #| msgid "Re-initialize fonts for the current language"
 msgid "Reinitialize fonts for the current language"
 msgstr "Reinicia tipografías para el idioma actual"
@@ -4361,6 +4355,8 @@ msgid ""
 "Report abuse, rule violations, etc. to the server moderators. Make sure to "
 "mention relevant nicks, etc."
 msgstr ""
+"Reporte abusos, violaciones de las reglas, etc. a los moderadores del "
+"servidor. Asegúrese de mencionar nombres de usarios, etc."
 
 #: src/menu_events.cpp:2324
 msgid "<message>"
@@ -6099,7 +6095,7 @@ msgstr ""
 
 #: src/unit.cpp:2332 src/unit.cpp:2529 src/unit.cpp:2600
 msgid " and "
-msgstr "y"
+msgstr " y "
 
 #: src/unit.cpp:2343
 msgid "$attack_list|: $effect_description"
