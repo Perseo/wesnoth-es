@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-02-12 13:10+0100\n"
+"POT-Creation-Date: 2011-03-27 14:22+0200\n"
 "PO-Revision-Date: 2011-02-26 01:47-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
@@ -1074,7 +1074,9 @@ msgstr "¿Adónde se fue?"
 
 #. [message]: speaker=Harold
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:175
-msgid "Haw haw haw! Suckers!"
+#, fuzzy
+#| msgid "Haw haw haw! Suckers!"
+msgid "Haw haw haw! Fools!"
 msgstr "¡Espina espina espina! ¡Lechones!"
 
 #. [message]: speaker=Lionel
@@ -1099,7 +1101,7 @@ msgid "They certainly will! Haw haw haw!"
 msgstr "¡Como quieran! ¡Espina espina espina!"
 
 #. [message]: speaker=unit
-#: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:217
+#: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:218
 #, fuzzy
 msgid ""
 "This chest contains all the money that rogue has taken from unwary travelers!"
@@ -4592,7 +4594,7 @@ msgid ""
 "Chantal! No — you can’t be dead! I have no hope of returning to Wesnoth "
 "now..."
 msgstr ""
-"¡Chantal! ¡No — no puedes estar muerto! No tengo ninguna esperanza de volver "
+"¡Chantal! ¡No — no puedes estar muerta! No tengo ninguna esperanza de volver "
 "a Wesnoth ahora..."
 
 #. [message]: speaker=unit
