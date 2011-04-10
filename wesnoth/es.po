@@ -15,13 +15,14 @@
 # Ignacio R. Morelle <shikadilord@users.sourceforge.net>, 2008, 2009.
 # Gustavo Gingins <gusgins@gmail.com>, 2009.
 # Alvin Eloy Luna Castro <alvineloy@gmail.com>, 2011.
+# Ignacio Riquelme Morelle <shadowm2006@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-03-27 14:22+0200\n"
-"PO-Revision-Date: 2011-04-09 18:17-0500\n"
-"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
+"PO-Revision-Date: 2011-04-10 01:58-0300\n"
+"Last-Translator: Ignacio Riquelme Morelle <shadowm2006@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +30,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);X-Generator: KBabel 1.11.4X-"
 "Generator: KBabel 1.11.4\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Lokalize 1.0\n"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:5
@@ -476,13 +477,12 @@ msgstr ""
 
 #. [note]
 #: data/core/macros/ai_controller.cfg:5
-#, fuzzy
 msgid ""
 "In this scenario, you may issue instructions to an allied side by right-"
 "clicking on a unit that belongs to it."
 msgstr ""
-"En este escenario le puede dar instrucciones a un bando aliado a través del "
-"menú del botón derecho."
+"En este escenario, Ud. puede darle instrucciones a un bando aliado haciendo "
+"clic con el botón derecho en una unidad del bando deseado."
 
 #. [overview_message_has_instructions]: speaker=narrator
 #. [overview_message_no_instructions]: speaker=narrator
@@ -4189,10 +4189,9 @@ msgstr[1] ""
 "Ha de tener por lo menos $cost piezas de oro para reincorporar a una unidad"
 
 #: src/menu_events.cpp:1345
-#, fuzzy
 #| msgid "pause at end of turn"
 msgid "You cannot end your turn yet!"
-msgstr "pausa al final del turno"
+msgstr "¡No puede terminar su turno aún!"
 
 #: src/menu_events.cpp:1369
 msgid ""
@@ -4366,7 +4365,6 @@ msgid "Send an emotion or personal action in chat."
 msgstr "Envía una emoción o acción personal a la conversación."
 
 #: src/menu_events.cpp:2327
-#, fuzzy
 #| msgid ""
 #| "Sends a private message. You can’t send messages to players that don’t "
 #| "control a side in a running game you are in."
@@ -4374,8 +4372,8 @@ msgid ""
 "Sends a private message. You cannot send private messages to players in a "
 "running game you observe or play in."
 msgstr ""
-"Envía un mensaje privado. No se pueden enviar mensajes a jugadores que "
-"controlen algún bando del juego en que se encuentra."
+"Envía un mensaje privado. No se pueden enviar mensajes a jugadores de una "
+"partida en curso que Ud. esté observando o jugando."
 
 #: src/menu_events.cpp:2329
 msgid "<nick> <message>"
