@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-05-30 20:47+0200\n"
-"PO-Revision-Date: 2011-07-25 13:36-0500\n"
+"PO-Revision-Date: 2011-07-25 15:07-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
@@ -710,7 +710,7 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_2p_Dark_Forecast
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:5
 msgid "2p — Dark Forecast (Survival)"
-msgstr "2 jug. — Pronóstico Oscuro (Supervivencia)"
+msgstr "2 jug. — Pronóstico oscuro (supervivencia)"
 
 #. [multiplayer]: id=multiplayer_2p_Dark_Forecast
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:8
@@ -722,7 +722,7 @@ msgid ""
 "\n"
 "Note: You need to use map settings for the scenario to work right."
 msgstr ""
-"Pronóstico Oscuro es un escenario de supervivencia para jugar en solitario o "
+"Pronóstico oscuro es un escenario de supervivencia para jugar en solitario o "
 "con dos jugadores en equipo para jugar contra las unidades generadas "
 "aleatoriamente por la IA. La victoria se consigue sobreviviendo a todas las "
 "oleadas enemigas. En el transcurso del juego, el terreno cambiará basándose "
@@ -819,7 +819,7 @@ msgstr "Muerte de todos los líderes de su equipo."
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1426
 msgid "Dark Forecast — a random survival scenario"
-msgstr "Pronóstico Oscuro — un escenario de supervivencia aleatorio."
+msgstr "Pronóstico oscuro — un escenario de supervivencia aleatorio."
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1449
@@ -848,11 +848,11 @@ msgid ""
 "<span color='green'>Rhuvaen</span>\n"
 "— WML implementation"
 msgstr ""
-"Tu objetivo es sobrevivir las oleadas enviadas y derrotar a los enemigos "
+"Su objetivo es sobrevivir las oleadas enviadas y derrotar a los enemigos "
 "finales.\n"
-"       \n"
+"\n"
 "Las oleadas enviadas son generadas aleatoriamente y serán diferentes cada "
-"vez que se juegue a Pronóstico Oscuro.\n"
+"vez que se juegue a Pronóstico oscuro.\n"
 "\n"
 "\n"
 "Aparecen a lo largo del norte, sur y oeste de los límites del mapa, aunque "
@@ -865,13 +865,13 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"<span color='red'>Pronóstico Oscuro fue realizado por:</span>\n"
+"<span color='red'>Pronóstico oscuro fue realizado por:</span>\n"
 "\n"
 "<span color='green'>jb</span>\n"
-"- diseño del mapa, generación de oleadas y concepto del escenario\n"
+"— diseño del mapa, generación de oleadas y concepto del escenario\n"
 "\n"
 "<span color='green'>Rhuvaen</span>\n"
-"- implementación WML"
+"— implementación WML"
 
 #. [message]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1454
@@ -930,7 +930,7 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_Den_of_Onis
 #: data/multiplayer/scenarios/2p_Den_of_Onis.cfg:6
 msgid "2p — Den of Onis"
-msgstr "2 jug. — La guarida de Onis"
+msgstr "2 jug. — La guarida de los onis"
 
 #. [multiplayer]: id=multiplayer_Den_of_Onis
 #: data/multiplayer/scenarios/2p_Den_of_Onis.cfg:7
@@ -1165,7 +1165,7 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_thousand_stings_garrison
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:36
 msgid "2p — Thousand Stings Garrison"
-msgstr "2 jug. — Mil pinchos Garrison"
+msgstr "2 jug. — Guarnición de mil aguijones"
 
 #. [multiplayer]: id=multiplayer_thousand_stings_garrison
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:38
