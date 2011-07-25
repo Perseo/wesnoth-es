@@ -28,9 +28,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);X-Generator: KBabel 1.11.4X-"
-"Generator: KBabel 1.11.4\n"
-"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:4
