@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-05-30 20:47+0200\n"
-"PO-Revision-Date: 2011-02-17 17:24-0500\n"
+"PO-Revision-Date: 2011-07-24 23:17-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
@@ -2339,9 +2339,8 @@ msgstr ""
 
 #. [topic]: id=traits_feral
 #: data/core/help.cfg:399
-#, fuzzy
 msgid "Feral"
-msgstr "Total"
+msgstr ""
 
 #. [topic]: id=traits_feral
 #: data/core/help.cfg:400
@@ -2458,10 +2457,9 @@ msgstr ""
 
 #. [topic]: id=traits_elemental
 #: data/core/help.cfg:429
-#, fuzzy
 #| msgid "elemental"
 msgid "trait^Elemental"
-msgstr "elemental"
+msgstr "Elemental"
 
 #. [topic]: id=traits_elemental
 #: data/core/help.cfg:430
@@ -4194,7 +4192,7 @@ msgstr ""
 
 #: data/core/macros/special-notes.cfg:14
 msgid " This unit is capable of basic healing."
-msgstr "Esta unidad es capaz de realizar sanamiento básico."
+msgstr " Esta unidad es capaz de realizar sanamiento básico."
 
 #: data/core/macros/special-notes.cfg:17
 #, fuzzy
@@ -4214,8 +4212,8 @@ msgid ""
 " This unit is capable of neutralizing the effects of poison in units around "
 "it."
 msgstr ""
-"Esta unidad es capaz de neutralizar los efectos del veneno en las unidades "
-"alrededor de ella."
+" Esta unidad es capaz de neutralizar los efectos del veneno en las unidades "
+"que la rodean."
 
 #: data/core/macros/special-notes.cfg:26
 msgid ""
@@ -4283,7 +4281,7 @@ msgid ""
 " This unit can hide in villages (with the exception of water villages), and "
 "remain undetected by its enemies, except by those standing next to it."
 msgstr ""
-"Esta unidad puede ocultarse en las aldeas (con la excepción de las aldeas "
+" Esta unidad puede ocultarse en las aldeas (con la excepción de las aldeas "
 "acuáticas), y permanecer indetectada por sus enemigos, a excepción de los "
 "que están junto a ella."
 
@@ -4299,7 +4297,7 @@ msgid ""
 " This unit gains 1 hitpoint added to its maximum whenever it kills a living "
 "unit."
 msgstr ""
-"Esta unidad gana 1 punto de vida añadido a su máximo cuando mata a una "
+" Esta unidad gana 1 punto de vida añadido a su máximo cuando mata a una "
 "unidad viva."
 
 #: data/core/macros/special-notes.cfg:59
@@ -4348,7 +4346,7 @@ msgid ""
 " This unit’s marksmanship gives it a high chance of hitting targeted "
 "enemies, but only on the attack."
 msgstr ""
-"La puntería de esta unidad le confiere una alta probabilidad de golpear a "
+" La puntería de esta unidad le confiere una alta probabilidad de golpear a "
 "los enemigos fijados como blanco, pero sólo durante el ataque."
 
 #: data/core/macros/special-notes.cfg:77
@@ -4364,7 +4362,7 @@ msgid ""
 " The swarming attacks of this unit become less deadly whenever its members "
 "are wounded."
 msgstr ""
-"Los ataques en masa de esta unidad se vuelven menos mortíferos cuando sus "
+" Los ataques en masa de esta unidad se vuelven menos mortíferos cuando sus "
 "miembros están heridos."
 
 #: data/core/macros/special-notes.cfg:83
@@ -4429,7 +4427,6 @@ msgstr "no muerta"
 #. [trait]: id=elemental
 #: data/core/macros/traits.cfg:24 data/core/macros/traits.cfg:39
 #: data/core/macros/traits.cfg:54
-#, fuzzy
 #| msgid "Immune to drain, poison and plague"
 msgid "Immune to drain, poison, and plague"
 msgstr "Inmune al drenado, veneno y plaga"
@@ -4536,15 +4533,13 @@ msgstr "Lucha normalmente durante momentos desfavorables del día o la noche"
 
 #. [trait]: id=feral
 #: data/core/macros/traits.cfg:190
-#, fuzzy
 msgid "feral"
-msgstr "Total"
+msgstr ""
 
 #. [trait]: id=feral
 #: data/core/macros/traits.cfg:191
-#, fuzzy
 msgid "female^feral"
-msgstr "neutral"
+msgstr ""
 
 #. [trait]: id=feral
 #: data/core/macros/traits.cfg:192
@@ -5048,7 +5043,6 @@ msgstr "Monstruo"
 
 #. [race]: id=monster
 #: data/core/units.cfg:215
-#, fuzzy
 #| msgid "race^Monster"
 msgid "race+female^Monster"
 msgstr "Monstruo"
@@ -5073,10 +5067,9 @@ msgstr "Naga"
 
 #. [race]: id=naga
 #: data/core/units.cfg:225
-#, fuzzy
 #| msgid "race^Nagani"
 msgid "race^Nagini"
-msgstr "Nagani"
+msgstr "Nagini"
 
 #. [race]: id=naga
 #: data/core/units.cfg:226
@@ -5440,10 +5433,9 @@ msgstr "Lobo"
 
 #. [race]: id=wolf, description=
 #: data/core/units.cfg:303
-#, fuzzy
 #| msgid "race+female^Elf"
 msgid "race+female^Wolf"
-msgstr "Elfa"
+msgstr "Loba"
 
 #. [race]: id=wolf, description=
 #: data/core/units.cfg:304
@@ -5488,24 +5480,21 @@ msgstr ""
 
 #. [race]: id=falcon, description=
 #: data/core/units.cfg:336
-#, fuzzy
 #| msgid "race^Human"
 msgid "race^Falcon"
-msgstr "Humano"
+msgstr "Halcón"
 
 #. [race]: id=falcon, description=
 #: data/core/units.cfg:337
-#, fuzzy
 #| msgid "race+female^Human"
 msgid "race+female^Falcon"
-msgstr "Humana"
+msgstr "Halcón"
 
 #. [race]: id=falcon, description=
 #: data/core/units.cfg:338
-#, fuzzy
 #| msgid "race^Humans"
 msgid "race^Falcons"
-msgstr "Humanos"
+msgstr "Halcones"
 
 #: src/help.cpp:51
 msgid "Help"
