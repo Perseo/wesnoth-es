@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-07-24 14:56+0200\n"
-"PO-Revision-Date: 2011-04-10 02:03-0300\n"
-"Last-Translator: Ignacio Riquelme Morelle <shadowm2006@gmail.com>\n"
+"PO-Revision-Date: 2011-07-24 20:57-0500\n"
+"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <shadowm2006@gmail.com>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -121,10 +121,9 @@ msgstr "Hojas"
 #. [terrain_type]: id=road
 #: data/core/terrain.cfg:174 data/core/terrain.cfg:184
 #: data/core/terrain.cfg:194
-#, fuzzy
 #| msgid "Dry Dirt"
 msgid "Dirt"
-msgstr "Tierra seca"
+msgstr "Tierra"
 
 #. [terrain_type]: id=dirt_dark
 #: data/core/terrain.cfg:175
@@ -179,10 +178,9 @@ msgstr "Nieve"
 
 #. [terrain_type]: id=desert
 #: data/core/terrain.cfg:260
-#, fuzzy
 #| msgid "Desert Keep"
 msgid "Desert"
-msgstr "Torreón desértico"
+msgstr "Desierto"
 
 #. [terrain_type]: id=desert
 #: data/core/terrain.cfg:261
@@ -283,10 +281,9 @@ msgstr "Gran árbol"
 
 #. [terrain_type]: id=great_tree_dead
 #: data/core/terrain.cfg:440
-#, fuzzy
 #| msgid "Great Tree"
 msgid "Dead Great Tree"
-msgstr "Gran árbol"
+msgstr "Gran árbol muerto"
 
 #. [terrain_type]: id=tropical_forest
 #. [terrain_type]: id=forest
@@ -499,10 +496,9 @@ msgstr "Colinas forestadas mixtas nevadas"
 
 #. [terrain_type]
 #: data/core/terrain.cfg:878
-#, fuzzy
 #| msgid "Basic Wooden Floor"
 msgid "Wooden Floor"
-msgstr "Piso básico de madera"
+msgstr "Piso de madera"
 
 #. [terrain_type]
 #: data/core/terrain.cfg:880
@@ -517,7 +513,7 @@ msgstr "Iluminado"
 #. [terrain_type]: id=lit
 #: data/core/terrain.cfg:894
 msgid "Beam of Light"
-msgstr "Entrada de luz"
+msgstr "Rayo de luz"
 
 #. [terrain_type]: id=cave
 #. [terrain_type]: id=cave_earthy
@@ -629,10 +625,9 @@ msgstr "Montañas infranqueables nevadas"
 #. [terrain_type]: id=cavewall_earthy_hewn
 #: data/core/terrain.cfg:1117 data/core/terrain.cfg:1128
 #: data/core/terrain.cfg:1139 data/core/terrain.cfg:1150
-#, fuzzy
 #| msgid "Hewn Cave Wall"
 msgid "Cave Wall"
-msgstr "Pared de cueva minada"
+msgstr "Pared de cueva"
 
 #. [terrain_type]: id=cavewall
 #: data/core/terrain.cfg:1118
@@ -847,7 +842,7 @@ msgstr "Cabaña nevada"
 #. [terrain_type]: id=igloo
 #: data/core/terrain.cfg:1529
 msgid "Igloo"
-msgstr ""
+msgstr "Iglú"
 
 #. [terrain_type]: id=swamp_village
 #: data/core/terrain.cfg:1544
@@ -932,10 +927,9 @@ msgstr "Castillo enano"
 #. [terrain_type]: id=sand_castle_ruin
 #: data/core/terrain.cfg:1692 data/core/terrain.cfg:1704
 #: data/core/terrain.cfg:1717 data/core/terrain.cfg:1742
-#, fuzzy
 #| msgid "Ruined Human Castle"
 msgid "Ruined Castle"
-msgstr "Castillo humano en ruinas"
+msgstr "Castillo en ruinas"
 
 #. [terrain_type]: id=ruin
 #: data/core/terrain.cfg:1693
@@ -1031,10 +1025,9 @@ msgstr "Torreón de castillo enano"
 #. [terrain_type]: id=desert_keep_ruined
 #: data/core/terrain.cfg:1874 data/core/terrain.cfg:1887
 #: data/core/terrain.cfg:1900 data/core/terrain.cfg:1926
-#, fuzzy
 #| msgid "Ruined Desert Keep"
 msgid "Ruined Keep"
-msgstr "Torreón desértico en ruinas"
+msgstr "Torreón en ruinas"
 
 #. [terrain_type]: id=ruined_keep
 #: data/core/terrain.cfg:1875
@@ -1083,10 +1076,9 @@ msgstr "Capa de torreón"
 #: data/core/terrain.cfg:2020 data/core/terrain.cfg:2032
 #: data/core/terrain.cfg:2046 data/core/terrain.cfg:2057
 #: data/core/terrain.cfg:2069
-#, fuzzy
 #| msgid "Wooden Bridge"
 msgid "Bridge"
-msgstr "Puente de madera"
+msgstr "Puente"
 
 #. [terrain_type]: id=bridge
 #. [terrain_type]: id=bridgediag1
@@ -1919,7 +1911,6 @@ msgstr "Inf. de jugador -"
 
 #. [button]: id=start_whisper
 #: data/gui/default/window/lobby_player_info.cfg:70
-#, fuzzy
 #| msgid "Send private message"
 msgid "Send Private Message"
 msgstr "Enviar mensaje privado"
@@ -2600,10 +2591,9 @@ msgstr "Animación de mapa"
 
 #: src/game_preferences_display.cpp:208 src/game_preferences_display.cpp:209
 #: src/game_preferences_display.cpp:210 src/game_preferences_display.cpp:211
-#, fuzzy
 #| msgid "SFX Volume:"
 msgid "Volume:"
-msgstr "Volumen de los efectos de sonido:"
+msgstr "Volumen:"
 
 #: src/game_preferences_display.cpp:213
 msgid "Scroll Speed:"
@@ -3817,7 +3807,7 @@ msgid ""
 "The key '$key' is deprecated and support will be removed in version "
 "$removal_version."
 msgstr ""
-"El atributo '$key' está obsoleto y su manutención se quitará en la versión "
+"El atributo «$key|» está obsoleto y su manutención se quitará en la versión "
 "$removal_version."
 
 #: src/wml_exception.cpp:130
@@ -3825,8 +3815,9 @@ msgid ""
 "The key '$deprecated_key' has been renamed to '$key'. Support for "
 "'$deprecated_key' will be removed in version $removal_version."
 msgstr ""
-"El nombre del atributo '$deprecated_key' ha cambiado a '$key'. La "
-"manutención para '$deprecated_key' se quitará en la versión $removal_version."
+"El nombre del atributo «$deprecated_key|» ha cambiado a «$key|». La "
+"manutención para «$deprecated_key|» se quitará en la versión "
+"$removal_version."
 
 #~ msgid "Aquatic Village"
 #~ msgstr "Aldea acuática"
