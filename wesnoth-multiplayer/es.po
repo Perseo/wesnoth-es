@@ -19,8 +19,8 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-05-30 20:47+0200\n"
-"PO-Revision-Date: 2011-07-25 12:10-0000\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2011-07-25 13:36-0500\n"
+"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -106,7 +106,7 @@ msgstr "No muertos"
 #. [multiplayer]: id=multiplayer_Arcanclave_Citadel
 #: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:6
 msgid "2p — Arcanclave Citadel"
-msgstr "2 jugadores - Ciudadela de Arcanclave"
+msgstr "2 jug. — Ciudadela de Arcanclave"
 
 #. [multiplayer]: id=multiplayer_Arcanclave_Citadel
 #: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:7
@@ -819,7 +819,7 @@ msgstr "Muerte de todos los líderes de su equipo."
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1426
 msgid "Dark Forecast — a random survival scenario"
-msgstr "Pronóstico Oscuro - un escenario de supervivencia aleatorio."
+msgstr "Pronóstico Oscuro — un escenario de supervivencia aleatorio."
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1449
@@ -1165,7 +1165,7 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_thousand_stings_garrison
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:36
 msgid "2p — Thousand Stings Garrison"
-msgstr "2 jugadore - Mil pinchos Garrison"
+msgstr "2 jug. — Mil pinchos Garrison"
 
 #. [multiplayer]: id=multiplayer_thousand_stings_garrison
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:38
@@ -1242,7 +1242,6 @@ msgstr "Diseñado por Doc Paterson."
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:354
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:358
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:362
-#, fuzzy
 #| msgid "statue"
 msgid "Statue"
 msgstr "Estatua"
@@ -1250,7 +1249,7 @@ msgstr "Estatua"
 #. [multiplayer]: id=multiplayer_Weldyn_Channel
 #: data/multiplayer/scenarios/2p_Weldyn_Channel.cfg:5
 msgid "2p — Weldyn Channel"
-msgstr "2 jug. - El Canal de Weldyn"
+msgstr "2 jug. — El Canal de Weldyn"
 
 #. [multiplayer]: id=multiplayer_Weldyn_Channel
 #: data/multiplayer/scenarios/2p_Weldyn_Channel.cfg:7
