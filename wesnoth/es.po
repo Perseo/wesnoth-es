@@ -21,8 +21,8 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-07-24 18:18+0200\n"
-"PO-Revision-Date: 2011-04-10 01:58-0300\n"
-"Last-Translator: Ignacio Riquelme Morelle <shadowm2006@gmail.com>\n"
+"PO-Revision-Date: 2011-07-24 21:48-0500\n"
+"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -271,10 +271,9 @@ msgstr ""
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:46
-#, fuzzy
 #| msgid "Easy"
 msgid "(Easy)"
-msgstr "Fácil"
+msgstr "(Fácil)"
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:46
@@ -283,10 +282,9 @@ msgstr ""
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:47
-#, fuzzy
 #| msgid "Normal"
 msgid "(Normal)"
-msgstr "Normal"
+msgstr "(Normal)"
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:47
@@ -295,10 +293,9 @@ msgstr ""
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:48
-#, fuzzy
 #| msgid "Hard"
 msgid "(Hard)"
-msgstr "Difícil"
+msgstr "(Difícil)"
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:48
@@ -319,17 +316,15 @@ msgstr ""
 #. [side]: id=Bravo, type=Elvish Archer
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:24
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:41
-#, fuzzy
 #| msgid "Players: "
 msgid "Players"
-msgstr "Jugadores: "
+msgstr "Jugadores"
 
 #. [side]: id=Charlie, type=Orcish Grunt
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:53
-#, fuzzy
 #| msgid "Enemy village"
 msgid "Enemies"
-msgstr "Aldea enemiga"
+msgstr "Enemigos"
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:73
@@ -343,24 +338,21 @@ msgstr ""
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:87
-#, fuzzy
 #| msgid "Difficulty: "
 msgid "Difficulty: Easy"
-msgstr "Dificultad: "
+msgstr "Dificultad: Fácil"
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:90
-#, fuzzy
 #| msgid "Difficulty: "
 msgid "Difficulty: Normal"
-msgstr "Dificultad: "
+msgstr "Dificultad: Normal"
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:93
-#, fuzzy
 #| msgid "Difficulty: "
 msgid "Difficulty: Hard"
-msgstr "Dificultad: "
+msgstr "Dificultad: Difícil"
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:100
@@ -698,7 +690,7 @@ msgstr "Traducción al vietnamita"
 #. [about]
 #: data/core/about.cfg:2694
 msgid "RACV’s Translation"
-msgstr "Traducción de la RACV"
+msgstr "Traducción al idioma de la RACV"
 
 #. [about]
 #: data/core/about.cfg:2701
@@ -2202,12 +2194,12 @@ msgstr "Carretera de $name,Paso de $name,Camino de $name"
 #. [language]
 #: data/english.cfg:21
 msgid "$name River,River $name"
-msgstr "Río de $name, Río $name"
+msgstr "Río de $name,Río $name"
 
 #. [language]
 #: data/english.cfg:22
 msgid "$name Forest,$name|’s Forest"
-msgstr "Bosque $name, Bosque de $name"
+msgstr "Bosque $name,Bosque de $name,Selva $name,Selva de $name"
 
 #. [language]
 #: data/english.cfg:23
@@ -2217,7 +2209,7 @@ msgstr "Lago $name"
 #. [language]
 #: data/english.cfg:24
 msgid "$name|’s Peak,Mount $name"
-msgstr "Pico de $name, Monte $name"
+msgstr "Pico de $name,Monte $name"
 
 #. [language]
 #: data/english.cfg:25
@@ -3206,7 +3198,7 @@ msgstr "Cancelar"
 #. [set_menu_item]: id=reload_and_execute_lua_code
 #: data/scenario-test.cfg:738
 msgid "Reload and execute lua code"
-msgstr ""
+msgstr "Recargar y ejecutar código lua"
 
 # Esta es una traducción literal, ya que puede tener varios significados en el idioma inglés.  Esto último se debe a que no tiene más palabras que de a entender a lo que se refiere en inglés.
 #. [language]
@@ -3563,10 +3555,9 @@ msgid "Downloading add-on: $addon_title|..."
 msgstr "Descargando complemento: $addon_title|..."
 
 #: src/addon/manager.cpp:588 src/addon/manager.cpp:1137
-#, fuzzy
 #| msgid "Download"
 msgid "Downloading..."
-msgstr "Descargar"
+msgstr "Descargando..."
 
 #: src/addon/manager.cpp:600
 msgid ""
@@ -3740,10 +3731,9 @@ msgid "Confirm"
 msgstr "Confirmar"
 
 #: src/addon/manager.cpp:1130
-#, fuzzy
 #| msgid "Connecting to Server..."
 msgid "Connecting..."
-msgstr "Conectando al servidor..."
+msgstr "Conectando..."
 
 #: src/addon/manager.cpp:1130
 msgid "Requesting list of add-ons"
@@ -5300,10 +5290,9 @@ msgid "Do you want to continue?"
 msgstr "¿Desea guardar su partida?"
 
 #: src/multiplayer.cpp:250
-#, fuzzy
 #| msgid "Warning: "
 msgid "Warning"
-msgstr "Advertencia: "
+msgstr "Advertencia"
 
 #: src/multiplayer.cpp:294
 msgid "Bad data received from server"
