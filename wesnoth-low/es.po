@@ -638,7 +638,7 @@ msgstr "Son demasiados. ¡No tenemos otra opción salvo rendirnos!"
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:444
 msgid ""
-"Elves must never surrender to the’se foul beasts! Who will fight them beside "
+"Elves must never surrender to these foul beasts! Who will fight them beside "
 "me?"
 msgstr ""
 "¡Los elfos jamás deben rendirse a estas asquerosas bestias! ¿Quiénes "
@@ -648,7 +648,7 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:452
 #, fuzzy
 msgid "We will follow you, Kalenz — but where can we go?"
-msgstr "¿Nosotros os seguiremos, Kalenz  pero a dónde hemos de ir?"
+msgstr "¿Nosotros os seguiremos, Kalenz — pero a dónde hemos de ir?"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:456
@@ -839,7 +839,7 @@ msgstr "Grugl"
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/02_Hostile_Mountains.cfg:494
 msgid ""
-"I had hoped to avoid the’se paths... The eastern way is through dwarvish "
+"I had hoped to avoid these paths... The eastern way is through dwarvish "
 "territory and is shorter. I pray the dwarves will grant us safe passage, "
 "since the other path is through troll territory..."
 msgstr ""
@@ -1002,7 +1002,7 @@ msgstr "Mutaf-uru"
 #. [message]: id=Mutaf-uru
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Ka'lian_under_Attack.cfg:424
 msgid "Good, you are returned. What news is there?"
-msgstr "Bien,  regresado. ¿Qué novedades hay sobre la situación?"
+msgstr "Bien, ha regresado. ¿Qué novedades hay sobre la situación?"
 
 #. [message]: id=Urudin
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Ka'lian_under_Attack.cfg:428
@@ -1114,7 +1114,7 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Ka'lian_under_Attack.cfg:885
 msgid ""
 "No, we are fleeing an attack on our home in the Lintanir. Time enough for "
-"talk later; we must defeat the’se orcs together, or at least hold them off "
+"talk later; we must defeat these orcs together, or at least hold them off "
 "long enough for the humans to come to our aid."
 msgstr ""
 "No, nosotros huimos de un ataque a nuestro hogar, Lintanir. Habrá suficiente "
@@ -1355,8 +1355,7 @@ msgstr "Y veo que el resto de la guarnición ha sido hecha prisionera."
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:332
 msgid ""
-"We must free them and make the’se saurians pay. Attack and leave no one "
-"alive!"
+"We must free them and make these saurians pay. Attack and leave no one alive!"
 msgstr ""
 "Debemos liberarlos y hacer pagar a estos saurios. ¡Atacad y no dejad ninguno "
 "con vida!"
@@ -1420,7 +1419,7 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/04_The_Elvish_Treasury.cfg:443
 msgid ""
 "I accept your service gratefully, for I will need every sword and bow and "
-"spell with which to defeat the’se invaders. There will be time for talk "
+"spell with which to defeat these invaders. There will be time for talk "
 "later; now, we must fight."
 msgstr ""
 "Acepto sus servicios con gratitud, pues necesitaré toda espada, arco, o "
@@ -1763,7 +1762,7 @@ msgstr ""
 
 #. [message]: id=Cleodil
 #: data/campaigns/Legend_of_Wesmere/scenarios/06_Acquaintance_in_Need.cfg:284
-msgid "Let us give them aid  it’s clear they need it!"
+msgid "Let us give them aid — it’s clear they need it!"
 msgstr "¡Les brindaremos nuestro apoyo — está claro que lo necesitan!"
 
 #. [message]: id=Landar
@@ -2186,8 +2185,8 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_Last_Stand.cfg:834
 msgid ""
-"Galtrid, my friend. Do not let my death be in vain. Destroy the’se foul "
-"orcs, and sing for me in the green woods when we have won."
+"Galtrid, my friend. Do not let my death be in vain. Destroy these foul orcs, "
+"and sing for me in the green woods when we have won."
 msgstr ""
 "Galtrid, compañero mio, no permita que mi muerte sea en vano. Aniquile a "
 "estos pestilentes orcos y cante por mi en los verdes bosques una vez hayamos "
@@ -2762,8 +2761,8 @@ msgstr ""
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:440
 msgid ""
-"Remember, we are here on a mission. We will fight the’se saurians if we "
-"must, but our mission is to get to Thoria."
+"Remember, we are here on a mission. We will fight these saurians if we must, "
+"but our mission is to get to Thoria."
 msgstr ""
 "Recuerden, estamos aquí en una misión. Lucharemos contra los saurios si es "
 "necesario, pero nuestra prioridad es llegar a Thoria."
@@ -2843,7 +2842,7 @@ msgstr "¡Al fin!"
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:593
-msgid "We’ll need to settle things with the’se saurians once and for all!"
+msgid "We’ll need to settle things with these saurians once and for all!"
 msgstr ""
 "¡Pronto tendremos que arreglar cuentas con estos saurios de una vez por "
 "todas!"
@@ -3215,7 +3214,7 @@ msgstr "Revelaciones"
 msgid ""
 "So you are the ones who defeated Aquagar and his drakes. Olurf, I know you; "
 "you were here before when we were both much younger. But Elves never come to "
-"Thoria. Yet the’se are no ordinary times for this land. I know all; I have "
+"Thoria. Yet these are no ordinary times for this land. I know all; I have "
 "foreseen this would happen."
 msgstr ""
 "As que sois vosotros, los que derrotaron a Aquagar y sus dracos. Olurf, os "
@@ -3315,6 +3314,7 @@ msgstr "Qué es eso, y qué tiene que ver con nosotros?"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/12_Revelations.cfg:89
+#, fuzzy
 msgid ""
 "It’s the source of your troubles. It is a very powerful magical artifact. "
 "The tyrant Haldric has it, but he has fooled the orcs into believing that "
@@ -3507,7 +3507,7 @@ msgstr ""
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/12_Revelations.cfg:184
 msgid ""
-"I am sure all the’se secrets are far beyond my art. My art is the healing "
+"I am sure all these secrets are far beyond my art. My art is the healing "
 "kind and I..."
 msgstr ""
 "Seguramente todos esos secretos superan mis capacidades. Mis artes son de "
@@ -3883,7 +3883,7 @@ msgstr "Eh! Tengo pintas de elfo?"
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/14_Human_Alliance.cfg:461
-msgid "I can scarce believe I am fighting besides the’se betrayers."
+msgid "I can scarce believe I am fighting besides these betrayers."
 msgstr "Apenas puedo creer que est luchando junto a estos traidores."
 
 #. [message]: id=Cleodil
@@ -4018,9 +4018,8 @@ msgstr ""
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/14_Human_Alliance.cfg:879
 msgid ""
-"No, it is not. But if we do not defeat the’se orcs here and now our "
-"divisions will all be moot. I will take every sword-arm I can get and be "
-"glad of them."
+"No, it is not. But if we do not defeat these orcs here and now our divisions "
+"will all be moot. I will take every sword-arm I can get and be glad of them."
 msgstr ""
 "No, no lo es. Si no machacamos a los orcos aquí y ahora, nuestras "
 "diferencias sern juzgadas. Tomar a cualquier espada dispuesta, hay que "
@@ -4132,7 +4131,7 @@ msgstr "Haldric II"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/15_The_Treaty.cfg:20
 msgid ""
-"King Haldric II, I am very pleased to hear the’se words. We are facing "
+"King Haldric II, I am very pleased to hear these words. We are facing "
 "dangerous adversaries. We intend to put an end to this threat and we will "
 "welcome any ally against it."
 msgstr ""
@@ -4143,7 +4142,7 @@ msgstr ""
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/15_The_Treaty.cfg:25
 msgid ""
-"What? We cannot trust the’se humans! Where were they when we fought the orcs "
+"What? We cannot trust these humans! Where were they when we fought the orcs "
 "alone? This King is bound to betray us just as his father did!"
 msgstr ""
 "¿Qué? ¡No podemos confiar en los humanos! ¿Dónde estaban cuando luchábamos "
@@ -4668,7 +4667,7 @@ msgstr "Muerte de Uradredia"
 #: data/campaigns/Legend_of_Wesmere/scenarios/17_Breaking_the_Siege.cfg:301
 msgid ""
 "I see troops coming from the south! It must be that our army has beaten "
-"the’se elves and humans and will now help us crush the’se remaining elves!"
+"these elves and humans and will now help us crush these remaining elves!"
 msgstr ""
 "¡Veo tropas provenientes del sur! ¡Debe tratarse de nuestro ejército, que ha "
 "aplastado a elfos y humanos, y ahora vienen a ayudarnos a destruir a los "
@@ -5094,6 +5093,7 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/20_Council_Ruling.cfg:31
+#, fuzzy
 msgid ""
 "With all respect my lords, we were and still are in a war. We could not "
 "spare the time to consult with you, lest our opportunities slip from our "
@@ -5111,7 +5111,7 @@ msgstr ""
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/20_Council_Ruling.cfg:36
 msgid ""
-"The council is not blind to the’se benefits. But, still, you cannot decide "
+"The council is not blind to these benefits. But, still, you cannot decide "
 "high matters of statecraft on behalf of the Elves. We cannot allow it."
 msgstr ""
 "El consejo no obvia estos beneficios. Aún así, no tenéis potestad para "
@@ -5872,7 +5872,7 @@ msgstr "Ha obtenido $amount_gold piezas de oro."
 #, fuzzy
 #~ msgid ""
 #~ "Sssstupid elves thought the treasury would be unguarded! Guards, slay "
-#~ "the’se intruders!"
+#~ "these intruders!"
 #~ msgstr ""
 #~ "Los elfos estpidos creyeron que la tesorera estara desprotegida! "
 #~ "Guardias, aniquilad a estos intrusos!"
