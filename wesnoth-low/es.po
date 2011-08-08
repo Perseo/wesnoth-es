@@ -125,133 +125,133 @@ msgstr ""
 "crítica, ayuda con WML y gráficos."
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:21
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:21
 msgid "River Telfar"
 msgstr "Río Telfar"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:26
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:26
 msgid "Northern Shallows"
 msgstr "Vados norteños"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:27
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:27
 msgid "Ford of Alyas"
 msgstr "Vado de Alyas"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:28
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:28
 msgid "Ford of Tifranur"
 msgstr "Vado de Tifranur"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:29
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:31
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:29
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:31
 msgid "North Tower"
 msgstr "Torre norte"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:32
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:32
 msgid "West Tower"
 msgstr "Torre occidental"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:33
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:33
 msgid "East Tower"
 msgstr "Torre oriental"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:35
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:35
 msgid "South Bastion"
 msgstr "Bastión del sur"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:36
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:36
 msgid "Telfar Green"
 msgstr "Claro de Telfar"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:37
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:37
 msgid "Dancer’s Green"
 msgstr "Claro del danzante"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:38
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:38
 msgid "Karmarth Hills"
 msgstr "Colinas Karmarth"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:39
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:39
 msgid "North Bridge"
 msgstr "Puente norte"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:42
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:42
 msgid "Brightleaf Wood"
 msgstr "Bosque de hoja brillante"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:43
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:43
 msgid "Westwind Wood"
 msgstr "Bosque del viento oeste"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:44
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:44
 msgid "Southwind Wood"
 msgstr "Bosque del viento sur"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:45
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:45
 msgid "Telionath"
 msgstr "Telionath"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:46
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:46
 msgid "Arthen"
 msgstr "Arthen"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:47
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:47
 msgid "Arryn"
 msgstr "Arryn"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:48
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:48
 msgid "Illissa"
 msgstr "Illissa"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:49
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:49
 msgid "Viricon"
 msgstr "Viricon"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:50
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:50
 msgid "Tireas"
 msgstr "Tireas"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:51
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:51
 msgid "Essarn"
 msgstr "Essarn"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:52
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:52
 msgid "Valcathra"
 msgstr "Valcathra"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:53
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:53
 msgid "Aelion"
 msgstr "Aelion"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:54
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:54
 msgid "Elendor"
 msgstr "Elendor"
 
 #. [event]
-#: data/campaigns/Legend_of_Wesmere/maps/Ka'lian_map.cfg:55
+#: data/campaigns/Legend_of_Wesmere/maps/Kalian_map.cfg:55
 msgid "Erethean"
 msgstr "Erethean"
 
