@@ -7,14 +7,14 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-09-04 11:42+0200\n"
-"PO-Revision-Date: 2011-08-09 22:56+0200\n"
+"PO-Revision-Date: 2011-09-06 00:25+0200\n"
 "Last-Translator: Víctor <quianaaelonin@gmail.com>\n"
-"Language-Team: Spanish <es@li.org>\n"
+"Language-Team: Español (Castellano) <quianaaelonin@gmail.com>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Plural-Forms: -s ; -es\n"
 
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:86
@@ -29,7 +29,7 @@ msgstr "La leyenda de Wesmere"
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:90
 msgid "(Intermediate level, 18 scenarios.)"
-msgstr "(Nivel Intermedio, 18 escenarios.)"
+msgstr "(Nivel intermedio, 18 escenarios.)"
 
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:90
@@ -257,7 +257,6 @@ msgstr "Erethean"
 
 #. [multiplayer]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:4
-#, fuzzy
 #| msgid ""
 #| "<i>The Legend of Wesmere</i>\n"
 #| "Multiplayer Campaign\n"
@@ -268,10 +267,9 @@ msgid ""
 "Multiplayer Campaign\n"
 "Chapter one"
 msgstr ""
-"<i>La Leyenda de Wesmere</i>\n"
+"<i>La leyenda de Wesmere</i>\n"
 "Campaña Multijugador\n"
-"Capítulo primero\n"
-" Dificultad: Fácil"
+"Capítulo primero"
 
 #. [part]
 #. [scenario]: id=01_The_Uprooting
@@ -282,7 +280,6 @@ msgstr "El desarraigo"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:44
-#, fuzzy
 #| msgid ""
 #| "<i>The Legend of Wesmere</i>,\n"
 #| "Chapter One\n"
@@ -291,9 +288,8 @@ msgid ""
 "<i>The Legend of Wesmere</i>,\n"
 "Chapter One"
 msgstr ""
-"<i>La Leyenda de Wesmere</i>,\n"
-"Capítulo primero\n"
-"Huida y lucha"
+"<i>La leyenda de Wesmere</i>,\n"
+"Capítulo primero"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:48
@@ -301,6 +297,8 @@ msgid ""
 "Chapter One,\n"
 "<i>Flight and fight</i>"
 msgstr ""
+"Capítulo Primero,\n"
+"<i>Huida y lucha</i>"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:57
@@ -308,10 +306,11 @@ msgid ""
 "The great elven heroes Kalenz and Landar were born in a quiet green wood in "
 "Lintanir on the fringes of the Great Northern Forest."
 msgstr ""
+"El grandes héroes elfos Kalenz y Landar nacieron en el tranquilo bosque de "
+"Lintanir en las lindes del gran Bosque del Norte. "
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:60
-#, fuzzy
 #| msgid ""
 #| "The great elvish hero Kalenz was born in a quiet green wood in Lintanir "
 #| "on the fringes of the Great Northern Forest. Though not of noble birth, "
@@ -324,12 +323,10 @@ msgid ""
 "elders normally inclined to pay little heed to anyone younger than a century "
 "old."
 msgstr ""
-"El gran héroe elfo Kalenz nació en el tranquilo bosque de Lintanir en las "
-"lindes del gran Bosque del Norte. Aún no siendo noble de nacimiento, pronto "
-"demostró una habilidad prometedora en las artes de su gente. Con su "
-"brillantez recibió un respeto mayor de lo habitual entre los acianos que, "
-"comúnmente, no otorgaban interés a nadie que no hubiere vivido por una "
-"centuria."
+"Aún no siendo noble de nacimiento, pronto demostró una habilidad prometedora "
+"en las artes de su gente. Con su brillantez recibió un respeto mayor de lo "
+"habitual entre los acianos que, comúnmente, no otorgaban interés a nadie que "
+"no hubiere vivido por una centuria."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:66
@@ -339,6 +336,10 @@ msgid ""
 "But there was no real harm in the boy, and his jokes made him popular among "
 "the younger elves."
 msgstr ""
+"Landar y Kalenz han sido amigos desde la infancia. Él, Landar, también "
+"atraía la atención de los ancianos, en especial por su habilidad innata para "
+"hacer trastadas, travesuras. Pero el joven no tenía mala intención, y sus "
+"bromas le hicieron popular entre los elfos más jóvenes."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:72
@@ -355,7 +356,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:76
-#, fuzzy
 #| msgid ""
 #| "Some changes were good. The Elves, awakened as from a long dream, began "
 #| "to increase in population. But some were very bad, and the worst of those "
@@ -370,13 +370,12 @@ msgid ""
 msgstr ""
 "Algunos cambios fueron buenos. Los elfos, como si hubiesen despertado de un "
 "prolongado letargo, comenzaron a incrementar su población. Pero otros "
-"cambios fueron muy malos, y el peor de ellos fue la llegada de los orcos, "
-"los destructores, los asesinos de árboles. Los años de la larga infancia de "
-"Kalenz fueron una edad dorada, y la última poca de paz ininterrumpida."
+"cambios fueron nefastos, y el peor de ellos fue la llegada de los orcos, los "
+"destructores, los asesinos de árboles. Los años de la larga infancia de "
+"Kalenz fueron una edad dorada, y la última época de paz ininterrumpida."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:82
-#, fuzzy
 #| msgid ""
 #| "The elves had never been a martial people, and they were not prepared for "
 #| "the inevitable war with the orcs. Kalenz came of age in the very year "
@@ -396,11 +395,12 @@ msgid ""
 "This is the story of Kalenz, Landar, and of the Elves in the first days of "
 "the humans in Wesnoth."
 msgstr ""
-"Los elfos jamás habían sido gente marcial, y no estaban preparados para la "
-"inevitable guerra contra los orcos. Kalenz alcanzó su madurez el mismo año "
-"que Erlornas se enfrentó contra los primeros invasores orcos. A lo largo de "
-"la siguiente década, las incursiones orcas aumentaron enormemente, y su "
-"sombra, amenazadora, se alzaba sobre los elfos como nunca antes.\n"
+"Los elfos jamás habían sido gente marcial, no estaban preparados para la "
+"inevitable guerra contra los orcos. Los amigos, Kalenz y Landar, alcanzaron "
+"su madurez el mismo año que Erlornas se enfrentó contra los primeros "
+"invasores orcos. A lo largo de la siguiente década, las incursiones orcas "
+"aumentaron enormemente, y su sombra, amenazadora, se alzaba sobre los elfos "
+"como nunca antes.\n"
 "\n"
 "Ésta es la historia de Kalenz, y de los elfos, en tiempos de un ingente "
 "Wesnoth."
@@ -744,6 +744,9 @@ msgid ""
 "Fight to subdue, and do not kill unless you must. We have foes enough as it "
 "is without making blood enemies of these dwarves."
 msgstr ""
+"Luchen para reducirlos, no les maten salvo extrema necesidad. Suficientes "
+"enemigos tenemos ya en nuestra situación sin hacernos enemigos acérrimos de "
+"éstos enanos."
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/02_Hostile_Mountains.cfg:349
@@ -1074,10 +1077,9 @@ msgstr ""
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:931
-#, fuzzy
 #| msgid "How can they dare to break the treaty!"
 msgid "How dare they break the treaty!"
-msgstr "¿¡Cómo han podido osar ignorar la alianza!?"
+msgstr "¡Cómo osan ignorar la alianza!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:956
@@ -1212,14 +1214,12 @@ msgstr ""
 
 #. [multiplayer]: id=04_The_Elvish_Treasury
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:17
-#, fuzzy
 #| msgid "3p MC — LoW, Hard Mode, Chapter two"
 msgid "3p MC — LoW, Chapter two"
-msgstr "3 jug. CM — LdW, nivel difícil, capítulo segundo"
+msgstr "3 jug. CM — LdW, capítulo segundo"
 
 #. [multiplayer]: id=04_The_Elvish_Treasury
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:18
-#, fuzzy
 #| msgid ""
 #| "<i>The Legend of Wesmere</i>\n"
 #| "Multiplayer Campaign\n"
@@ -1232,8 +1232,7 @@ msgid ""
 msgstr ""
 "<i>La Leyenda de Wesmere</i>\n"
 "Campaña Multijugador\n"
-"Capítulo segundo\n"
-" Dificultad: Difícil"
+"Capítulo segundo"
 
 #. [scenario]: id=04_The_Elvish_Treasury
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:26
@@ -1242,21 +1241,23 @@ msgstr "La tesorería élfica"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:52
-#, fuzzy
 #| msgid "The Legend of Wesmere, Chapter two"
 msgid ""
 "<i>The Legend of Wesmere</i>,\n"
 "Chapter Two"
-msgstr "La Leyenda de Wesmere, capítulo segundo"
+msgstr ""
+"<i>La leyenda de Wesmere</i>,\n"
+"Capítulo segundo"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:57
-#, fuzzy
 #| msgid "Chapter Two: The Treasury"
 msgid ""
 "Chapter Two,\n"
 "<i>The Treasury</i>"
-msgstr "Capítulo segundo: La tesorería"
+msgstr ""
+"Capítulo segundo,\n"
+"<i>La tesorería</i>"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:61
@@ -1877,7 +1878,6 @@ msgstr "¡Cácenles, rematen a todos y cada uno de ellos!"
 
 #. [message]: id=Cleodil
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:509
-#, fuzzy
 #| msgid ""
 #| "It's not wise to bring a wounded dear in a desperate situation. Let them "
 #| "flee so they can tell about their defeat."
@@ -1886,12 +1886,12 @@ msgid ""
 "fight harder for it. Break their will and let them flee, so they will spread "
 "fear of us among their kind."
 msgstr ""
-"No es sabio ejecutar a un líder herido que está desesperado. Déjenles huir y "
-"que informen de su derrota."
+"No es sabio arrastrar a un enemigo herido a una situación de desespero; así "
+"sólo luchará con mayor fuerza. Desmoralincenlos, y déjenles huir, así, entre "
+"los suyos, propagarán su temor hacia nosotros."
 
 #. [message]: id=Galtrid
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:513
-#, fuzzy
 #| msgid ""
 #| "She is right. Don't let them lure you away from the Ka’lian, preparations "
 #| "for when more of them arrive return must be done."
@@ -2426,12 +2426,11 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/08_Council_of_Hard_Choices.cfg:80
-#, fuzzy
 #| msgid "And our home? How do we free Lintanir without bringing war to orcs?"
 msgid ""
 "And our home? How can we free Lintanir without taking the war to the orcs?"
 msgstr ""
-"¿Y qué ocurrirá con nuestro hogar? ¿Cómo liberaremos Lintanir sin detonar de "
+"¿Y qué ocurre con nuestro hogar? ¿Cómo liberaremos Lintanir sin detonar de "
 "nuevo la guerra contra los orcos?"
 
 #. [part]
@@ -2580,12 +2579,13 @@ msgstr "Cazarecompensas"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:35
-#, fuzzy
 #| msgid "The Legend of Wesmere, Chapter two"
 msgid ""
 "<i>The Legend of Wesmere</i>,\n"
 "Chapter Three"
-msgstr "La Leyenda de Wesmere, capítulo segundo"
+msgstr ""
+"<i>La leyenda de Wesmere</i>,\n"
+"Capítulo tercero"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:37
@@ -2599,12 +2599,13 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:43
-#, fuzzy
 #| msgid "Chapter two, Part one: The book of Crelanu"
 msgid ""
 "Chapter Three,\n"
 "<i>The Book of Crelanu</i>"
-msgstr "Capítulo segundo; parte primera: El libro de Crelanu"
+msgstr ""
+"Capítulo tercero\n"
+"<i>El libro de Crelanu</i>"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:48
@@ -2695,11 +2696,10 @@ msgstr ""
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:432
-#, fuzzy
 #| msgid ""
 #| "They are far too much to risk a confrontation, let's cross the river!"
 msgid "They are far too numerous to risk battle with. Let’s cross the river!"
-msgstr "¡Son demasiados para arriesgarnos a lidiar con ellos, crucemos el río!"
+msgstr "Son demasiados para arriesgarnos a lidiar con ellos, ¡crucemos el río!"
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:436
@@ -3746,21 +3746,23 @@ msgstr "Alianza con los humanos"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:125
-#, fuzzy
 #| msgid "The Legend of Wesmere, Chapter two"
 msgid ""
 "<i>The Legend of Wesmere</i>,\n"
 "Chapter Four"
-msgstr "La Leyenda de Wesmere, capítulo segundo"
+msgstr ""
+"<i>La leyenda de Wesmere</i>,\n"
+"Capítulo cuarto"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:130
-#, fuzzy
 #| msgid "Chapter two, Part two, The Alliance"
 msgid ""
 "Chapter Four,\n"
 "<i>The Alliance</i>"
-msgstr "Capítulo segundo; parte segunda: La alianza"
+msgstr ""
+"Capítulo cuarto,\n"
+"<i>La alianza</i>"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:135
@@ -4831,7 +4833,6 @@ msgstr "Una venganza gravosa"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:50
-#, fuzzy
 #| msgid ""
 #| "<i>The Legend of Wesmere</i>,\n"
 #| "Chapter One\n"
@@ -4840,9 +4841,8 @@ msgid ""
 "<i>The Legend of Wesmere</i>,\n"
 "Chapter Five"
 msgstr ""
-"<i>La Leyenda de Wesmere</i>,\n"
-"Capítulo primero\n"
-"Huida y lucha"
+"<i>La leyenda de Wesmere</i>,\n"
+"Capítulo quinto"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:55
@@ -4850,6 +4850,8 @@ msgid ""
 "Chapter Five,\n"
 "<i>Civil War</i>"
 msgstr ""
+"Capítulo quinto,\n"
+"<i>Guerra civil</i>"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:59
@@ -5656,7 +5658,6 @@ msgstr "cura a Kalenz +4"
 
 #. [heals]: id=heals_kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/abilities.cfg:38
-#, fuzzy
 #| msgid ""
 #| "heals +4:\n"
 #| "If a shyde has developed a special bond to a person her healing abilities "
@@ -5670,7 +5671,7 @@ msgid ""
 msgstr ""
 "cura +4:\n"
 "Si una shyde desarrolla un lazo afectivo especial con alguien, éste podrá "
-"recibir sus habilidades curativas. Esto permite a Cleodil otorgar a Kalenz "
+"recibir sus habilidades curativas.  Esto permite a Cleodil otorgar a Kalenz "
 "puntos extra de curación al comienzo del turno."
 
 #. [message]: speaker=unit
