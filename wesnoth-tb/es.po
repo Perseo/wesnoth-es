@@ -2,25 +2,26 @@
 # Spanish translations for Battle for Wesnoth package.
 # Copyright (C) 2004, 2005, 2006, 2007 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
-#
+# 
 # Roberto Romero <sildurin@gmail.com>, 2007.
 # Sergi March <sergi.march@gmail.com>, 2008.
 # Gustavo Gingins <gusgins@gmail.com>, 2009.
 # Ignacio R. Morelle <shikadilord@users.sourceforge.net>, 2009.
-# Víctor <quianaaelonin@gmail.com>, 2011.
+# Víctor <quianaaelonin@gmail.com>, 2011., 2011.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-07-09 09:00+0200\n"
-"PO-Revision-Date: 2011-09-06 03:41+0200\n"
+"PO-Revision-Date: 2011-09-07 00:25+0200\n"
 "Last-Translator: Víctor <quianaaelonin@gmail.com>\n"
-"Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
+"Language-Team: Español (Castellano) <quianaaelonin@gmail.com>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Plural-Forms: -s ; -es\n"
 
 #. [campaign]: id=Two_Brothers
 #: data/campaigns/Two_Brothers/_main.cfg:12
@@ -145,7 +146,7 @@ msgstr ""
 "cabalgando, los mensajeros encargados de peticionar su ayuda no regresaban."
 
 # El hecho de traducir "Las gentes" en vez de "La gente" es puramente poético.
-#
+# 
 # El "algo malogradas" y "half-forgotten" es cuestionable como traducción, pero creo que en el contexto dentro de la oración mantiene el significado.
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:63
@@ -929,7 +930,6 @@ msgstr "Castillo custodiado"
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:54
-#, fuzzy
 msgid ""
 "19 IV, 363 YW\n"
 "Excerpt from the journal of Rotharik the Clanless\n"
@@ -958,17 +958,18 @@ msgstr ""
 "reconocer que era un hombre. Mordak siempre fue un imprudente. Todas estas "
 "maquinaciones desesperadas han sido obras suya, supongo que podría culparle "
 "por todo lo que hemos sufrido si acaso eso importase ahora. Él también fue "
-"quien atrajo la ira de los orcos contra nosotros. But all the same, he "
-"managed to accomplish what he set out to do. I still cannot believe the "
-"finality of what has happened; until now we had always managed to make it "
-"through somehow.\n"
+"quien atrajo la ira de los orcos contra nosotros. Pero daba igual, conseguía "
+"hacer lo que se proponía. Aún no me puedo creer que todo esto haya acabado "
+"así, que no haya vuelta a atrás; hasta hoy, de una manera u otra, siempre "
+"hemos conseguido salir de apuros.\n"
 "\n"
-"We had hoped to deliver the mage to Tairach in return for our lives. I do "
-"not know what the warlord wants with this man, but he matches the "
-"description. I suppose that Mordak’s plan would have worked perfectly if not "
-"for the appearance of the horse warriors. Now they are coming here, led by a "
-"man rumored to be this mage’s brother. If that is true, he will stop at "
-"nothing, no more than would I if they held Mordak."
+"Teníamos la esperanza de entregar al mago a Tairach a cambio de nuestras "
+"vidas. No sé lo ese señor de la guerra quiere de él, pero encaja con la "
+"descripción. Supongo que el plan de Mordak habría funcionado a la perfección "
+"si no hubiesen aparecido esos guerreros montados. Ahora son ellos los que se "
+"dirigen hacia aquí, guiados por el hombre que, se rumorea, es el hermano del "
+"mago. Si eso es cierto, nada le detendrá, al menos, nada que no me hubiese "
+"detenido a mi si ellos hubieran capturado a Mordak."
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:62
@@ -1101,13 +1102,12 @@ msgstr ""
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:398
-#, fuzzy
 msgid ""
 "My sword-arm has a say in who will do the dying. Come on, men, let’s kill "
 "some orcs."
 msgstr ""
-"Mi espada tiene una opinión sobre quién morirá. Adelante, hombres, matemos "
-"algunos orcos."
+"Mi espada tiene algo que decir acerca de quién morirá. Adelante, hombres, "
+"matemos algunos orcos."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:409
@@ -1122,7 +1122,7 @@ msgstr "¿Capitán, qué hacen <i>orcos</i> tan al sur?"
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:420
 msgid "Good question. Perhaps my brother will have found out."
-msgstr ""
+msgstr "Buena pregunta. Quizá mi hermano sepa algo de eso."
 
 #. [message]: speaker=Guard2_leader
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:471
@@ -1178,7 +1178,7 @@ msgstr "¡$second_password_4|!"
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:518
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:634
 msgid "Thanks! Irritating little formality, isn’t it?"
-msgstr "¡Gracias! Irritante pequeña formalidad, ¿no?"
+msgstr "¡Gracias! Irritante pequeña formalidad, ¿verdad?"
 
 #. [message]: speaker=Guard2_leader
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:531
@@ -1201,53 +1201,51 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:666
 msgid "Your hand or Tairach’s, death is still death... (argh)"
-msgstr ""
+msgstr "Sea tu mano o la de Tairach, la muerte no deja de ser igual... (argh)"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:674
 msgid "‘Tairach’? Who or what is Tairach?"
-msgstr ""
+msgstr "¿‘Tairach’? ¿Quién es ese Tairach?"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:678
 msgid "There’s a key in his robes."
-msgstr "Hay una llave en su túnica."
+msgstr "Tenía una llave en su túnica."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:682
-#, fuzzy
 #| msgid ""
 #| "That may well be the key to the cell they’re holding Bjarn in! I will "
 #| "take it."
 msgid ""
 "That may well be the key to the cell they’re holding Baran in! I will take "
 "it."
-msgstr "¡Debe ser la llave de la celda dónde tienen a Bjarn! Yo la tomaré."
+msgstr ""
+"¡Debe ser la llave de la celda dónde tienen preso a Baran! Yo la tomaré."
 
 #. [objective]: condition=win
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:688
-#, fuzzy
 #| msgid "Move Arne to the cell with his brother to free him"
 msgid "Move Arvith to the cell with his brother to free him"
-msgstr "Mueva a Arne a la celda junto a su hermano para liberarle"
+msgstr "Mueva a Arvith a la celda junto a su hermano para liberarle"
 
 #. [message]: speaker=unit
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:721
 msgid "Look what I have found in here! I can count a hundred pieces of gold."
-msgstr "¡Mirad lo que he encontrado aquí! Puedo contar cien piezas de oro."
+msgstr "¡Miren lo que he encontrado aquí! Puedo contar cien piezas de oro."
 
 #. [message]: speaker=unit
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:734
 msgid "Look what I have found in here! I can count fifty pieces of gold."
 msgstr ""
-"¡Mirad lo que he encontrado aquí! Puedo contar cincuenta piezas de oro."
+"¡Miren lo que he encontrado aquí! Puedo contar cincuenta piezas de oro."
 
 #. [message]: speaker=unit
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:782
-#, fuzzy
 #| msgid "I found Bjarn. He is in this cell."
 msgid "I found Baran. He is in this cell."
-msgstr "Encontré a Bjarn. Está en esta celda."
+msgstr "Encontré a Barán. Está en esta celda."
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:792
