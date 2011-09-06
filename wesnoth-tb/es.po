@@ -14,14 +14,14 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-07-09 09:00+0200\n"
-"PO-Revision-Date: 2011-09-07 00:25+0200\n"
+"PO-Revision-Date: 2011-09-07 00:42+0200\n"
 "Last-Translator: Víctor <quianaaelonin@gmail.com>\n"
-"Language-Team: Español (Castellano) <quianaaelonin@gmail.com>\n"
+"Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: UTF-8\n"
-"Plural-Forms: -s ; -es\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=(n =! 1);\n"
 
 #. [campaign]: id=Two_Brothers
 #: data/campaigns/Two_Brothers/_main.cfg:12
@@ -1399,10 +1399,9 @@ msgstr "Averigüe qué está pasando en la aldea"
 #. [objective]: condition=lose
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:64
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:259
-#, fuzzy
 #| msgid "Death of Bjarn"
 msgid "Death of Baran"
-msgstr "Muerte de Bjarn"
+msgstr "Muerte de Baran"
 
 #. [side]: type=Orcish Warlord, id=Tairach
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:103
@@ -1572,7 +1571,7 @@ msgstr ""
 #. [scenario]: id=05_Epilogue
 #: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:4
 msgid "A Tale of Two Brothers — Epilogue"
-msgstr "Un cuento sobre dos hermanos - Epílogo"
+msgstr "Un cuento sobre dos hermanos — Epílogo"
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:25
