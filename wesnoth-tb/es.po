@@ -2,13 +2,13 @@
 # Spanish translations for Battle for Wesnoth package.
 # Copyright (C) 2004, 2005, 2006, 2007 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
-#
+# 
 # Roberto Romero <sildurin@gmail.com>, 2007.
 # Sergi March <sergi.march@gmail.com>, 2008.
 # Gustavo Gingins <gusgins@gmail.com>, 2009.
 # Ignacio R. Morelle <shikadilord@users.sourceforge.net>, 2009.
 # Víctor <quianaaelonin@gmail.com>, 2011.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
@@ -146,7 +146,7 @@ msgstr ""
 "cabalgando, los mensajeros encargados de peticionar su ayuda no regresaban."
 
 # El hecho de traducir "Las gentes" en vez de "La gente" es puramente poético.
-#
+# 
 # El "algo malogradas" y "half-forgotten" es cuestionable como traducción, pero creo que en el contexto dentro de la oración mantiene el significado.
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:63
