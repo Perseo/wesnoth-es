@@ -7,21 +7,22 @@
 # Sergi March <sergi.march@gmail.com>, 2008.
 # Gustavo Gingins <gusgins@gmail.com>, 2009.
 # Ignacio R. Morelle <shikadilord@users.sourceforge.net>, 2009.
-# Víctor <quianaaelonin@gmail.com>, 2011.
 # 
+# Víctor <quianaaelonin@gmail.com>, 2011., 2011.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-07-09 09:00+0200\n"
-"PO-Revision-Date: 2011-09-07 00:42+0200\n"
+"PO-Revision-Date: 2011-09-12 10:38+0200\n"
 "Last-Translator: Víctor <quianaaelonin@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
-"Plural-Forms: nplurals=2; plural=(n =! 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. [campaign]: id=Two_Brothers
 #: data/campaigns/Two_Brothers/_main.cfg:12
@@ -971,6 +972,7 @@ msgstr ""
 "mago. Si eso es cierto, nada le detendrá, al menos, nada que no me hubiese "
 "detenido a mi si ellos hubieran capturado a Mordak."
 
+# Batir es sinónimo de explorar y rastrear.
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:62
 msgid ""
@@ -987,6 +989,20 @@ msgid ""
 "be different, but we are broken... and these two men are whole. In each "
 "other, in the ties that bind them, they have strength."
 msgstr ""
+"19 IV, 363 AW\n"
+"Extracto del diario de Rotharik el Sinclan\n"
+"\n"
+"He hecho todo lo que estaba en mis manos para fortificar este castillo "
+"ruinoso. Los orcos que nos acompañaron hacen guardia en el portón, y estoy "
+"agrupando a mis sirvientes en el santa-sanctórum. Oscuro destino se cierne "
+"sobre mi. Aún sea o no que derrote a este guerrero montado, los orcos "
+"vendrán por mí; ya están batiendo las tierras limítrofes y saqueando campos "
+"de cultivo al norte en nuestra busca.\n"
+"\n"
+"Y por alguna razón, temo más a los hermanos. Si Mordak estuviese, todo "
+"habría sido diferente, pero estamos separados, nuestra unión, rota... y "
+"estos dos hombres son uno sólo. Sacan fuerza el uno del otro gracias a los "
+"férreos lazos que los atan."
 
 #. [side]: type=Dark Sorcerer, id=Rotharik
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:97
@@ -1249,24 +1265,22 @@ msgstr "Encontré a Barán. Está en esta celda."
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:792
-#, fuzzy
 msgid "It’s good to see you, Arvith."
-msgstr "Estoy encantado de ver que habéis vuelto."
+msgstr "Estoy encantado de verte, Arvith."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:796
 msgid "And you too, brother."
-msgstr ""
+msgstr "Yo a ti también, hermano."
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:802
-#, fuzzy
 #| msgid ""
 #| "You must be one of Arne’s men. Please help me get out of this dungeon."
 msgid ""
 "You must be one of Arvith’s men. Please help me get out of this dungeon."
 msgstr ""
-"Vos debéis ser uno de los hombres de Arne. Por favor ayudadme a salir de "
+"Vos debéis ser uno de los soldados de Arvith. Por favor ayudadme a salir de "
 "este calabozo."
 
 #. [message]: speaker=Baran
@@ -1287,15 +1301,13 @@ msgstr "Mate al hechicero oscuro para obtener la llave de la celda"
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:860
-#, fuzzy
 msgid "Thank you for saving me. I... was not certain you would come."
-msgstr ""
-"Gracias por salvarme. Casi había perdido la esperanza de que me liberarías."
+msgstr "Gracias por salvarme. Yo... no estaba seguro de que fueses a venir."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:864
 msgid "Have you no faith in your brother, Baran?"
-msgstr ""
+msgstr "¿No confías en tu hermano, Baran?"
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:868
@@ -1303,6 +1315,8 @@ msgid ""
 "It’s not that. Perhaps I deserved to rot here. I failed you. I failed you "
 "again."
 msgstr ""
+"No es eso. Posiblemente merezco pudrirme aquí. Te fallé, y te he vuelto a "
+"fallar."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:872
@@ -1310,17 +1324,18 @@ msgid ""
 "That is as may be. But you are my brother still. And... I never doubted you "
 "would have come for me."
 msgstr ""
+"Cierto es. Pero no por ello dejas de se mi hermano. Y... yo nunca habría "
+"dudado que vinieses a por mi."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:876
-#, fuzzy
 msgid ""
 "It was no great trial, after all. A few elves, one or two dark sorcerers, a "
 "gang of orcs and some undead. Really just a day’s work for the company."
 msgstr ""
-"Oh, no fue nada, unos pocos elfos, uno o dos hechiceros oscuros, un puñado "
-"de orcos y algunos no muertos. Realmente sólo un día de trabajo para unos "
-"mercenarios como nosotros."
+"Oh, no fue nada después de todo. Unos cuantos elfos, uno o dos hechiceros "
+"oscuros, una banda de orcos, y algunos no muertos. Sólo un día de trabajo "
+"para unos mercenarios como nosotros."
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:880
@@ -1335,9 +1350,8 @@ msgstr "Todo está perdido ahora que estoy muerto..."
 
 #. [message]: speaker=Rotharik
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:918
-#, fuzzy
 msgid "You are too late! Your brother is already dead! Muahahaha...!"
-msgstr "¡Demasiado tarde para ti! ¡Tu hermano ya está muerto! Muajajajaja..."
+msgstr "¡Llegas demasiado tarde! ¡Tu hermano ya está muerto! ¡Muajajajaja...!"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:922
@@ -1351,6 +1365,7 @@ msgstr "Retorno a la aldea"
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:37
+#, fuzzy
 msgid ""
 "27 V, 363 YW\n"
 "Excerpt from the journal of Baran of Maghre\n"
@@ -1368,6 +1383,22 @@ msgid ""
 "way around it we traveled through some truly beautiful countryside. It has "
 "given us plenty of time to talk."
 msgstr ""
+"27 V, 363 AW\n"
+"Extracto del diario de Baran de Maghre\n"
+"\n"
+"Ya casi estamos en casa. Esta última semana, para mí, ha estado repleta de "
+"sentimientos confusos — se alternaban duros y gozosos. Ha sido maravilloso "
+"salir de esa prisión y volver a ver la luz del día, y que en mi cabeza "
+"dejasen de amenazar la muerte o cosas peores... dejado eso atrás, se me "
+"presenta la igualmente dura tarea de   but with that behind me, I turned to "
+"the almost equally daunting task of making amends with my brother.\n"
+"\n"
+"Arvith had largely forgiven me by the time he freed me from my cell. All the "
+"same, it has taken all of the past week for us to rebuild the sense of "
+"comfort in each other we once had. It is fortunate that we have been able to "
+"take our time getting back — we gave the Grey Woods a wide berth, and on our "
+"way around it we traveled through some truly beautiful countryside. It has "
+"given us plenty of time to talk."
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:47
@@ -1394,7 +1425,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:56
 msgid "Find out what is happening in the village"
-msgstr "Averigüe qué está pasando en la aldea"
+msgstr "Averigüe qué ocurre en la aldea"
 
 #. [objective]: condition=lose
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:64
@@ -1416,70 +1447,73 @@ msgstr "Reeve Hoban"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:162
-#, fuzzy
 msgid ""
 "There. The village is just across those hills, and already I see men coming "
 "to greet us!"
 msgstr ""
-"Allí. Tu aldea está justo cruzando esas colinas, ¡y ya veo hombres viniendo "
-"a darnos la bienvenida!"
+"Mira ahí. Nuestra aldea está tras esas colinas, ¡ya veo gente viniendo a "
+"darnos la bienvenida!"
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:166
 msgid ""
 "No, they are fleeing from something. We must find out what is happening over "
 "there!"
-msgstr ""
-"No. Están huyendo de algo. ¡Tenemos que averiguar qué está pasando allí!"
+msgstr "No, huyen de alguien. ¡Hemos de descubrir qué es lo que ocurre!"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:170
-#, fuzzy
 msgid "Men! Ready your arms!"
-msgstr "¡Hombres! ¡Preparad vuestras armas!"
+msgstr "¡Compañeros! ¡A las armas!"
 
+# El maybe en este contexto no es tan literal como "quizá", se supone que Reeve Hoban es un conocido del pueblo, y precisamente son los del pueblo los que huyen... simplemente es una forma de no asegurar que, de hecho, sabe algo.
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:174
-#, fuzzy
 msgid "We should find Reeve Hoban. Maybe he knows what is going on here."
 msgstr ""
-"Deberíamos ir allí y hablar con el concejal Hoban. Quizás él sepa qué está "
-"ocurriendo aquí."
+"Tenemos que encontrar a Reeve Hoban, seguramente él sepa qué sucede aquí."
 
 #. [message]: speaker=unit
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:185
 msgid "We’re almost there!"
-msgstr ""
+msgstr "¡Nos queda poco para llegar!"
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:189
 msgid "That warlord! It’s..."
-msgstr ""
+msgstr "¡Ese señor de la guerra! Es..."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:193
 msgid "Yes, I’d know that face anywhere. Especially after what you did to it."
 msgstr ""
+"Sin duda, reconocería su faz donde fuese. Especialmente después de cómo se "
+"la dejaste..."
 
+# Quiero entender que Toen Caric es el lugar desde donde probiene ese señor de la guerra.
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:197
 msgid "The warlord from Toen Caric."
-msgstr ""
+msgstr "Es señor de la guerra de Toen Caric."
 
+# La marco como difusa, porque quizá sea modificada (especialmente debido a la parte que queda sólo en mayúsculas, que creo que es algo que se está quitando de wesnoth).
 #. [message]: speaker=Tairach
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:201
+#, fuzzy
 msgid "You! The mage who scarred me with fire! KILL THEM!"
-msgstr ""
+msgstr "¡Tú! ¡El mago que me abrasó la cara con su fuego! ¡Maten a todos!"
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:205
 msgid "Let’s finish what we started, brother."
-msgstr ""
+msgstr "Acabemos lo que hace tiempo comenzamos, hermano."
 
+# Esta cadena cierra al fin el tema inicial de la enemistad entre los hermanos con una caden a similar a la del inicio; por ello, ha de asemejarse al máximo a tal cadena.
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:209
 msgid "Aye. I’ll be the right arm, and you’ll be the left. Let’s go!"
 msgstr ""
+"De acuerdo. Yo seré la mano derecha, tú habrás de ser la izquierda. ¡Vamos!"
 
 #. [message]: speaker=Reeve Hoban
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:223
@@ -1489,7 +1523,7 @@ msgstr "Estoy encantado de ver que habéis vuelto."
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:227
 msgid "No gladder than I am to be here. But what has happened to Maghre?"
-msgstr "No tan contento como yo de estar aquí. ¿Mas qué le ha pasado a Maghre?"
+msgstr "No tan contento como yo de estar aquí, ¿mas qué le ha pasado a Maghre?"
 
 #. [message]: speaker=Reeve Hoban
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:231
@@ -1497,8 +1531,8 @@ msgid ""
 "Soon after you departed we were beset by orcs. With half the men of Maghre "
 "gone, we could not stop them."
 msgstr ""
-"Poco después de que partiste, fuimos sitiados por orcos. Con la mitad de los "
-"hombres de Maghre fuera, no pudimos detenerlos."
+"Poco después de que partieseis, fuimos sitiados por orcos. Con la mitad de "
+"los hombres de Maghre fuera, no pudimos detenerlos."
 
 #. [message]: speaker=Reeve Hoban
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:235
@@ -1506,7 +1540,7 @@ msgid ""
 "The orcish warlord aims to enslave us. We will not be able to hold out for "
 "much longer."
 msgstr ""
-"El señor de la guerra orco quiere esclavizarnos. No seremos capaces de "
+"El señor de la guerra orco intenta hacernos esclavos. No seremos capaces de "
 "resistir mucho tiempo más."
 
 #. [message]: speaker=Reeve Hoban
@@ -1516,8 +1550,8 @@ msgid ""
 "who can bear arms, but I will send them to aid you in battle."
 msgstr ""
 "Tened cuidado, sus hombres son luchadores feroces y han matado a muchos. Muy "
-"pocos quedan que puedan usar armas, pero les enviaré para que os ayuden en "
-"la batalla."
+"pocos quedamos capaces de manejar armas, se los enviaré para que os ayuden "
+"en la batalla."
 
 #. [objective]: condition=win
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:251
@@ -1530,6 +1564,7 @@ msgid ""
 "It is finished. We’ve defeated him at last. It was good to have you at my "
 "side, Baran."
 msgstr ""
+"Se acabó. Le derrotamos al fin. Menos mal que te tuve a mi lado, Baran."
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:275
@@ -1538,7 +1573,7 @@ msgid ""
 "and undead have wrecked. And they could come again."
 msgstr ""
 "Mucho ha sido destruido. Será difícil reparar todo el daño que los orcos y "
-"los no muertos han causado. Y podrían volver a venir."
+"los no muertos han causado. Y volverán a venir."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:279
@@ -1546,8 +1581,8 @@ msgid ""
 "I must go back to earning my living. But we have our amulets, little "
 "brother. If you are beset again, I will come."
 msgstr ""
-"Debo volver a ganarme la vida. Pero tenemos nuestros amuletos, pequeño "
-"hermano. Si sois atacados nuevamente, yo vendré."
+"Debo continuar ganándome la vida. Pero tenemos nuestros amuletos, joven "
+"hermano. Si sois atacados nuevamente, vendré."
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:294
@@ -1562,11 +1597,10 @@ msgstr ""
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:323
-#, fuzzy
 msgid "I was too weak to protect these people. Oh, why did this happen to me?!"
 msgstr ""
-"Fui demasiado débil para proteger a esta gente. Oh, ¿¡¿Por qué tuvo que "
-"pasarme esto?!?"
+"Fui demasiado débil como para proteger a esta gente. Oh, ¡¿Por qué hubo de "
+"pasarme esto?!"
 
 #. [scenario]: id=05_Epilogue
 #: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:4
