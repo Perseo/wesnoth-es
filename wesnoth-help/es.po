@@ -15,18 +15,20 @@
 # Sergi March <sergi.march@gmail.com>, 2008.
 # Ignacio R. Morelle <shikadilord@users.sourceforge.net>, 2008, 2009.
 # Gustavo Gingins <gusgins@gmail.com>, 2009.
+# Víctor <quianaaelonin@gmail.com>, 2011.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-09-04 11:42+0200\n"
-"PO-Revision-Date: 2011-07-24 23:17-0500\n"
-"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
+"PO-Revision-Date: 2011-09-14 23:48+0200\n"
+"Last-Translator: Víctor <quianaaelonin@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8-bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. [time]: id=underground
@@ -174,6 +176,7 @@ msgstr "Casta"
 
 #. [topic]: id=caste
 #: data/core/encyclopedia/drakes.cfg:8
+#, fuzzy
 msgid ""
 "One of the variant forms of the drake: either be a <ref>dst='unit_Drake "
 "Clasher' text='Clasher'</ref> or a <ref>dst='unit_Drake Fighter' text='Drake "
@@ -190,8 +193,10 @@ msgstr ""
 msgid "Aerie"
 msgstr "Aeria"
 
+# Ver futuras notas acerca del significado de "breed".
 #. [topic]: id=aerie
 #: data/core/encyclopedia/drakes.cfg:14
+#, fuzzy
 msgid ""
 "A very large castle-like structure that is home to a <ref>dst='flight' "
 "text='flight'</ref>. It contains the <ref>dst='breeding_pen' text='breeding "
@@ -201,15 +206,29 @@ msgstr ""
 "<ref>dst='flight' text='bandada'</ref>. Contiene el <ref>dst='breeding_pen' "
 "text='area de incubación.'</ref>."
 
+# No... definitivamente, no... nein...
+#
+# Aunque "breed" se pueda traducir como "criar", también se entiende como "aparear". [Fornicar sólo por tener descendencia.] El contexto apunta a "aparearse".
+#
+# N.del.R: Aunque fornicar y alimentarse no son acciones excluyentes, en primer lugar, la acción de mayor peso, es la reproductiva. Y, aunque pongamos como ejemplo a la mantis, el peso de la acción reproductiva es el mismo; además de que no encaja en el contexto de una sociedad draco patriarcal en la que las hembras son "máquinas de hacer crías".
 #. [topic]: id=breeding_pen
 #: data/core/encyclopedia/drakes.cfg:19
 #, fuzzy
 msgid "Breeding Pen"
 msgstr "alimentación"
 
-# Depende de lo que sea un aerie. Será un o una.
+# >Depende de lo que sea un aerie. Será un o una.
+#  
+# Además de lo del aerie, non-sentient =/= insensibles. La idea de non-sentient es la de no tener conciencia; y en el contexto, va más allá. La situación que describe es:
+# "Las hembras/criadoras no tienen conciencia/raciocinio, y viven en las fortalezas-nido, "reclusas" en un área destinado a follarlas... y las vigila el "Dominante"[Jefe, el líder]"
+# En otras palabras, las hembras en la sociedad draconiana no tienen libertad ni voluntad, solo son un "trámite" necesario para tener más crías." (Nótese la enorme crítica que hay en esto a ciertas sociedades e ideologías...)
+#
+# Dominant=Dominante (en ningún lugar pone "Dominant Drake").
+#
+# Se podría considerar la traducción de breeders; la traducción más correcta es la que designe mejor que las hembras draco "sólo sirven para aparearse".
 #. [topic]: id=breeding_pen
 #: data/core/encyclopedia/drakes.cfg:20
+#, fuzzy
 msgid ""
 "The portion of an <ref>dst='aerie' text='aerie'</ref> where the nonsentient "
 "<ref>dst='breeder' text='Breeders'</ref> live under the <ref>dst='dominant' "
@@ -224,23 +243,41 @@ msgstr ""
 msgid "Breeding Cycle"
 msgstr "Ciclo de reproducción."
 
+# Modificado... one egg laying to the next no estaba bien traducido, y no tenía sentido alguno... (el tiempo que pasa entre un huevo y la puesta del siguiente)
+# [Eso no tiene sentido, mides el tiempo entre un huevo y ota cosa... (el huevo es un ente físico, y aunque disfruta de la 4ª dimensión, el tiempo, "el huevo" no es un momento específico de la historia.)]
 #. [topic]: id=breeding_cycle
 #: data/core/encyclopedia/drakes.cfg:26
 msgid ""
 "The time that passes between one <ref>dst=egg text='egg'</ref> laying to the "
 "next."
 msgstr ""
-"El tiempo que pasa entre un <ref>dst=egg text='huevo'</ref> y la puesta del "
-"siguiente."
+"El tiempo que pasa entre la puesta de un <ref>dst=egg text='huevo'</ref> y "
+"la del siguiente."
 
-# ¿Qué es exactamente? Un mundo oceánico o el océano del mundo.
+# >¿Qué es exactamente? Un mundo oceánico o >el océano del mundo.
+#
+# He de admitir que no lo sé. El World Ocean coincide con el "gran océano" de la cultura wesnothiana, es decir, es el mismo; pero tiene diferente traducción.
+#
+# De acuerdo a los conocimientos de los dracos, el mundo es plano, y la tierra está rodeada por mar en todas la direcciones, hasta caer al abismo. No se sabe de lo que hay más allá (hasta el vuelo de Galun, en Wings of Victory); por tanto, se podría decir que es una superstición dracónica el creer que el gran océano es "el océano del fin del mundo", o algo así; confío en la imaginación del traductor para sacar una buena traducción.
 #. [topic]: id=world_ocean
 #: data/core/encyclopedia/drakes.cfg:31
+#, fuzzy
 msgid "World Ocean"
 msgstr "El gran océano"
 
+# Revisar comentario anterios.
+#
+# Open seas=Mar abierto
+# (No se puede decir "el mar abierto que rodea").
+#
+# Abyss: abismo vs Abismo
+#
+# Depende, hay gente que escribe Limbo, Infierno, Dios, y gente que lo hace sin mayúsculas. Creo que por convención, los nombres propios, aún sean de lugares, se escriben con mayúscula.
+#
+# Revisa tildes.
 #. [topic]: id=world_ocean
 #: data/core/encyclopedia/drakes.cfg:32
+#, fuzzy
 msgid ""
 "The World Ocean is the name of the open seas that surround the archipelago "
 "of <ref>dst='morogor' text='Morogor'</ref>. The drakes believe it to end at "
