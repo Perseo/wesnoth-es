@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-07-09 09:00+0200\n"
-"PO-Revision-Date: 2011-09-13 00:04+0200\n"
+"PO-Revision-Date: 2011-09-18 20:05+0200\n"
 "Last-Translator: Víctor <quianaaelonin@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
@@ -1520,9 +1520,8 @@ msgstr "Es señor de la guerra de Toen Caric."
 # La marco como difusa, porque quizá sea modificada (especialmente debido a la parte que queda sólo en mayúsculas, que creo que es algo que se está quitando de wesnoth).
 #. [message]: speaker=Tairach
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:201
-#, fuzzy
 msgid "You! The mage who scarred me with fire! KILL THEM!"
-msgstr "¡Tú! ¡El mago que me abrasó la cara con su fuego! ¡Maten a todos!"
+msgstr "¡Tú! ¡El mago que me abrasó con su fuego! ¡Maten a todos!"
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:205
