@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-09-04 11:42+0200\n"
-"PO-Revision-Date: 2011-09-19 23:51+0200\n"
+"PO-Revision-Date: 2011-09-24 18:55+0200\n"
 "Last-Translator: Víctor <quianaaelonin@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
@@ -429,13 +429,12 @@ msgstr ""
 
 #. [set_variable]
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:264
-#, fuzzy
 msgid ""
 "<span color='green'>$player_name</span>\n"
 "Share knowledge of warfare"
 msgstr ""
 "<span color='green'>$player_name</span>\n"
-"Compartir el conocimiento del combate."
+"Compartir el conocimiento de tácticas de guerra."
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:293
@@ -467,7 +466,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:333
 msgid "Who will you donate funds to?"
-msgstr "¿A quién desea donarle fondos?"
+msgstr "¿A quién desea donar fondos?"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:336
@@ -481,13 +480,13 @@ msgid ""
 "<span color='green'>Share Knowledge</span>\n"
 "Help an ally with their research"
 msgstr ""
-"<span color='green'>Compartir conocimientos</span>\n"
-"Ayudar a un aliado con sus investigaciones"
+"<span color='green'>Compartir conocimiento</span>\n"
+"Ayudar a un aliado en sus investigaciones"
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:377
 msgid "Who will you share knowledge with?"
-msgstr "¿Con quién desea compartir conocimientos?"
+msgstr "¿Con quién desea compartir conocimiento?"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:417
@@ -527,8 +526,8 @@ msgid ""
 "Our talks are complete — the Dwarves will gladly fight by your side. Which "
 "of our brethren do you want to recruit?"
 msgstr ""
-"Nuestros acuerdos están hechos — los enanos lucharán para vos. ¿A quiénes de "
-"los nuestros deseáis reclutar?"
+"Hemos alcanzado un acuerdo — los enanos gustosamente lucharán para vos. ¿A "
+"quiénes de los nuestros deseáis reclutar?"
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:573
@@ -536,8 +535,8 @@ msgid ""
 "Our talks are complete — the Elves shall aid you in this battle. Which our "
 "of kin do you wish to recruit?"
 msgstr ""
-"Nuestros acuerdos están hechos — los elfos os brindarán ayuda en esta "
-"batalla. ¿A quiénes de nuestras líneas deseáis reclutar?"
+"Hemos llegado a un acuerdo — los elfos os brindarán ayuda en esta batalla. "
+"¿A quiénes de entre nuestras líneas deseáis reclutar?"
 
 #. [set_menu_item]: id=anl_choose_new_recruit
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:34
@@ -644,7 +643,7 @@ msgstr ""
 #. [command]
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:198
 msgid "warfare"
-msgstr "guerra"
+msgstr "tácticas de guerra"
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:247
@@ -677,13 +676,13 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_special_macros.cfg:197
 msgid "Let’s cut you free!"
-msgstr "¡Os liberaremos!"
+msgstr "¡Vamos a liberaros!"
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_special_macros.cfg:201
 msgid "You release the creature from the web and it agrees to help you."
 msgstr ""
-"Habéis liberado a la criatura de la red y ésta acepta ayudar a vuestra causa."
+"Habéis liberado a la criatura de la tela de araña y ésta acepta ayudaros."
 
 #. [set_menu_item]: id=anl_get_to_work
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:6
@@ -758,7 +757,7 @@ msgstr "Plantar retoños"
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:192
 msgid "Chop Down Forest"
-msgstr "Derribar el bosque"
+msgstr "Talar el bosque"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:192
@@ -843,4 +842,4 @@ msgstr "Establecer universidad"
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:547
 msgid "Clear the Ground"
-msgstr "Despejar la superficie"
+msgstr "Despejar la el campo"
