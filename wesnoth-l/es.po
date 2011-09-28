@@ -8,13 +8,15 @@
 # Sergi March <sergi.march@gmail.com>, 2008.
 # Gustavo Gingins <gusgins@gmail.com>, 2009.
 # Ignacio R. Morelle <shikadilord@users.sourceforge.net>, 2009.
+# Víctor <quianaaelonin@gmail.com>, 2011.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-07-09 09:00+0200\n"
-"PO-Revision-Date: 2009-01-12 00:28-0300\n"
-"Last-Translator: Gustavo Gingins <gusgins@gmail.com>\n"
+"PO-Revision-Date: 2011-09-25 23:38+0200\n"
+"Last-Translator: Víctor <quianaaelonin@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -60,7 +62,7 @@ msgstr "Fugitivo"
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:27
 msgid "(Intermediate level, 8 scenarios.)"
-msgstr ""
+msgstr "(Nivel Intermedio, 8 escenarios.)"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:27
@@ -72,13 +74,12 @@ msgid ""
 "troops but darker foes including orcs and undead.\n"
 "\n"
 msgstr ""
-"Mientras la sombra de la guerra civil se alarga a través de Wesnoth, una "
-"banda de robustos hombres de los confines se subleva contra la tiranía de la "
-"reina Asheviere. Para ganar su camino a la libertad, tendrán que derrotar no "
-"sólo a las entrenadas espadas de las tropas de Wesnoth, sino también "
-"enemigos más oscuros incluidos los orcos y los no muertos.\n"
+"Mientras la sombra de la guerra civil se extiende a través de Wesnoth, una "
+"banda de robustos hombres de los confines wesnothianos se subleva contra la "
+"tiranía de la reina Asheviere. Para ganar su camino a la libertad, tendrán "
+"que derrotar no sólo a las entrenadas espadas de las tropas de Wesnoth, sino "
+"también enemigos más oscuros incluidos los orcos y los no muertos.\n"
 "\n"
-"(Nivel intermedio, 9 escenarios)"
 
 #. [about]
 #: data/campaigns/Liberty/_main.cfg:30

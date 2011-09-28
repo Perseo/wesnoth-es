@@ -1,16 +1,18 @@
+# Alvin Eloy Luna Castro <alvineloy@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-08-10 11:40+0200\n"
-"PO-Revision-Date: 2011-02-26 01:47-0500\n"
-"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
-"Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
-"Language: es\n"
+"PO-Revision-Date: 2011-09-22 21:01-0400\n"
+"Last-Translator: Alvin Eloy Luna Castro <alvineloy@gmail.com>\n"
+"Language-Team: Spanish <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.2\n"
 
 #. [campaign]: id=Delfadors_Memoirs
 #. [editor_group]: id=dm
@@ -159,6 +161,8 @@ msgid ""
 "After ten years of training, two tests stand between that apprentice and "
 "attainment of the degree of Mage:"
 msgstr ""
+"Luego de dies días de entrenamiento, dos pruebas se interponen para que el "
+"aprendiz pueda llegar al grado de mago:"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:66
@@ -296,6 +300,7 @@ msgstr "Debes completar tu jornada. Methor te llevará."
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:217
 msgid "But I will not see you to its end, for that is yours alone."
 msgstr ""
+"Mas no os veré alcanzar el final, pues eso os corresponde solamente a vos."
 
 #. [message]: speaker=Methor
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:228
@@ -303,6 +308,8 @@ msgid ""
 "Dangers and trials await us. When you have truly claimed the name you have "
 "been given, I will depart."
 msgstr ""
+"Peligros y pruebas nos esperan.  Cuando verdaderamente reclaméis el nombre "
+"que os corresponde, os abandonaré."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:232
@@ -327,6 +334,11 @@ msgid ""
 "magecraft to aid those they traveled among and to deepen their understanding "
 "of the hidden currents and powers of the world."
 msgstr ""
+"El tiempo que pasó Delfador vagando junto a Methor, los llevó a conocer "
+"muchos lugares estraños, tanto dentro como fuera de las tierras de los "
+"humanos.  Ellos estudiaron y practicaron, utilizando la magia para ayudar a "
+"aquellos con los que viajaban, y a la vez, aumentando su entendimiento sobre "
+"las corrientes y los poderes ocultos del mundo."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:57
@@ -338,6 +350,13 @@ msgid ""
 "a handful of youths who might in time be worthy to enter the great Academy "
 "on Alduin."
 msgstr ""
+"Pero, la salud del anciano mago se vio afectada por el rigor de la jornada.  "
+"Un año después, los dos abandonaron Alduin.  Methor se estableció en un "
+"valle tranquilo en las cercanías de las Colinas Dulatus, no muy lejos al "
+"sureste de la capital, en Weldyn, y abrió una pequeña escuela con la ayuda "
+"de Delfador.  Ellos comenzaron a entrenar a un grupo grande de jovenes, los "
+"cuáles, con el tiempo, podrían ser dignos de entrar en la grandiosa Academia "
+"de Alduin."
 
 #. [message]: speaker=Methor
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:72
@@ -466,6 +485,9 @@ msgid ""
 "And it is no good news I will bring him. Orcs, so far south and so near the "
 "capital? This is a dire sign; things are gravely amiss in Wesnoth."
 msgstr ""
+"Además, no son buenas noticias las que os llevaré a él.  ¿Los orcos, tan "
+"lejos en el sur y tan cerca de la capital?  Esto es una señal de mal agüero; "
+"las cosas están gravemente fuera de lugar en Wesnoth. "
 
 #. [scenario]: id=03_The_Road_to_Weldyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:3
@@ -583,6 +605,10 @@ msgid ""
 "help each other — and you’ll not be sorry to fight beside us, for this "
 "region trains the best bowmen in Wesnoth."
 msgstr ""
+"Vos me veis armado para la guerra, porque nos reuníamos para ayudar a "
+"nuestra clase.  Nos podemos ayudar unos a otros -- no os arrepentiréis al "
+"luchar junto a nosotros, pues en esta región entrenamos a los mejores "
+"arqueros de Wesnoth."
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:156
@@ -721,7 +747,7 @@ msgstr "Uh oh... no me gusta lo que estoy viendo..."
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:195
 msgid "Their blood sheds as readily as any man’s."
-msgstr ""
+msgstr "Su sangre vierte tan fácilmente como la de cualquier humano."
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:199
@@ -984,7 +1010,7 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg:154
 msgid "If that is how I may best serve, I will do it right willingly."
-msgstr ""
+msgstr "Si así es como he de servir mejor, lo haré con mucho gusto."
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg:158
@@ -994,6 +1020,11 @@ msgid ""
 "going, into the wild country north of Tath. It is a chancy place at the best "
 "of times, and orcs may already be raiding south of the Ford."
 msgstr ""
+"Entonces, ¡debéis hacerlo!  Lionel y sus hombres os acompañaréis, pues "
+"necesitaréis más que magia de protección en el camino... especialmente a "
+"donde os dirigís, a las tierras inhóspitas del norte de Tath.  Son lugares "
+"muy arriesgados para visitar, en sus tiempos más tranquilos, y puede que ya "
+"hayan orcos cabalgando hacia el sur del Vado."
 
 #. [scenario]: id=06_Swamps_of_Illuven
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:3
@@ -1031,6 +1062,11 @@ msgid ""
 "and north across them to the Ford of Abez. The western road around the other "
 "edge of the Brown Hills would have been safer, but..."
 msgstr ""
+"Estos son los Pántanos de Illuven -- poco parecido al Pántando del Pavor, al "
+"norte del Gran Río, pero peculiarmente bastante nocivo.  Nuestro destino nos "
+"espera al oeste y al norte de aquí, pasando a través de ellos, hacia el Vado "
+"de Abez.  El camino occidental que pasa alrededor del otro borde de las "
+"Colinas Marrones, podría ser un camino más seguro, pero..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:124
@@ -1038,6 +1074,8 @@ msgid ""
 "... I insisted on the most direct possible route. I know; let us both hope "
 "the choice was not folly. Who made those villages in the swamps? Orcs?"
 msgstr ""
+"... yo insistí en la ruta más directa posible, lo sé; esperemos que no haya "
+"sido una locura.  ¿Quién construyó esas aldeas en el pantano?  ¿Orcos?"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:128
@@ -1127,7 +1165,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_Night_in_the_Swamp.cfg:100
 msgid "Survive until daybreak."
-msgstr ""
+msgstr "Sobrevivir hasta el amanecer"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_Night_in_the_Swamp.cfg:130
@@ -1408,10 +1446,11 @@ msgstr "Un mago humano... ¿esta muerto?"
 msgid "Easy to find out... thump it and see if it wakes up!"
 msgstr "¡Fácil de averiguar... golpéalo y veremos si despierta!"
 
+# (alunacast38) Sonido de explosión.
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:285
 msgid "<i>Thump</i>!"
-msgstr ""
+msgstr "¡Púm!"
 
 #. [message]: speaker={STRING}
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:59
@@ -1453,7 +1492,7 @@ msgstr "¡Destruyan al intruso, mis favoritos!"
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:150
 msgid "Something does not feel right about those villages..."
-msgstr ""
+msgstr "Algo no está bien con esas aldeas..."
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:184
@@ -1461,6 +1500,8 @@ msgid ""
 "I must find that artifact of which the ghost spoke; it sounds too powerful a "
 "thing to be left in Iliah-Malal’s hands."
 msgstr ""
+"Debo encontrar ese artefacto, del que hablaba el fantasma.  Algo así de "
+"poderoso no se debe permanecer en las manos de Iliah-Malal."
 
 #. [scenario]: id=09_Houses_of_the_Dead
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:192
@@ -1496,17 +1537,23 @@ msgid ""
 "ground, but before his head reached it he vanished as though he had never "
 "been there at all."
 msgstr ""
+"El estallido interrumpió la meditación de Delfador.  Él se lanzó al suelo, "
+"pero antes de que su cabeza tocara el piso, él se desvaneció, como si nunca "
+"hubiera estado ahí. "
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:289
 msgid "Move Delfador to the signpost"
 msgstr "Mover a Delfador al poste indicador"
 
+# (alunacast38) <i>texto</i> se utiliza para poner palabras en cursiva.
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:315
 msgid ""
 "Delfador opens his eyes and realizes he is <i>alone</i> in the <i>dark</i>."
 msgstr ""
+"Delfador abrió sus ojos y se dio cuenta que estaba <i>solo</i> y en la "
+"<i>oscuridad</i>."
 
 #. [scenario]: id=09_Houses_of_the_Dead
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:326
@@ -1521,7 +1568,7 @@ msgstr "Huesos"
 #. [scenario]: id=09_Houses_of_the_Dead
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:331
 msgid "Penella"
-msgstr ""
+msgstr "Penella"
 
 #. [message]: speaker=Penella
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:335
@@ -1539,7 +1586,7 @@ msgstr ""
 #. [scenario]: id=09_Houses_of_the_Dead
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:342
 msgid "Roddry"
-msgstr ""
+msgstr "Roddry"
 
 #. [message]: speaker=Roddry
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:346
@@ -1604,7 +1651,7 @@ msgstr ""
 #. [scenario]: id=09_Houses_of_the_Dead
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:371
 msgid "Sythan"
-msgstr ""
+msgstr "Sythan"
 
 #. [message]: speaker=Sythan
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:375
@@ -1616,10 +1663,11 @@ msgstr ""
 "Era una vez un gran señor... ¡comandé ejércitos! Ihiah-Malal prometió que lo "
 "haría de nuevo."
 
+# (alunacast38) Es un nombre.  No se traduce.
 #. [scenario]: id=09_Houses_of_the_Dead
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:378
 msgid "Hereld"
-msgstr ""
+msgstr "Hereld"
 
 #. [message]: speaker=Hereld
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:382
@@ -1713,12 +1761,17 @@ msgid ""
 "the morning of time, who sleeps now in a death beyond death until the "
 "unmaking of the world."
 msgstr ""
+"Yo soy la voluntad de An-Usrukhar, el más grandioso de los magos, quién se "
+"antepuso a Irdya en la alba del tiempo, que ahora duerme en una muerte más "
+"allá de la muerte hasta que se deshaga el mundo. "
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:514
 msgid ""
 "I am only a man, a living man seeking a way home from the house of the dead."
 msgstr ""
+"Soy sólo un hombre, un hombre vivo buscando el camino a su hogar desde la "
+"casa de la muerte."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:518
@@ -1727,6 +1780,9 @@ msgid ""
 "untouched since the Primal Aeon. And it was foretold that one like you would "
 "come."
 msgstr ""
+"¿Vivo...?  Ya veo que eso es correcto.  Vuestra respiración hace mover el "
+"polvo, que ha permanecido intocado desde el comienzo de los tiempos.  "
+"Además, ya se había previsto la llegada de uno como vos."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:523
@@ -1741,6 +1797,10 @@ msgid ""
 "the Mirror of Evanescent Time that a living man would come here to be "
 "tested. AND I AM THE TEST!"
 msgstr ""
+"Previsto en el comienzo de los tiempos, más años de los que podamos contar.  "
+"An-Usrukhar, el grande, del cuál yo sólo soy una tenue sombra y fragmento, "
+"había previsto en el Espejo del Tiempo Evanescente que un hombre vivo "
+"vendría a este lugar a ser probado.  ¡Y YO SOY LA PRUEBA!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:538
@@ -1748,7 +1808,10 @@ msgid ""
 "I have felt the coils of prophecy on me before. I am beginning to dislike "
 "them."
 msgstr ""
+"Ya he sentido la carga de las profecías sobre mi anteriormente.  Están "
+"comenzando a desagradarme."
 
+# (alunacast38)
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:542
 msgid ""
@@ -1756,24 +1819,32 @@ msgid ""
 "shoulder; the great must suffer its weight whether they will or no. "
 "Delfador, mage of Wesnoth, ARE YOU A SERVANT OF THE LIGHT?"
 msgstr ""
+"Solamente se le entrega al pequeño la oportunidad de no sentir en sus "
+"hombros la mano del destino; los grandes deben sufrir su peso aunque lo "
+"quieran o no.  Delfador, mago de Wesnoth, ¿VOS SERÉIS SEGUIDOR DE LA LUZ?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:547
 msgid "I serve my king and my kingdom."
 msgstr "Sirvo mi rey y mi reino."
 
+# (alunacast38)
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:555
 msgid ""
 "Your king will die in an eyeblink and your kingdom in the drawing of a "
 "breath. Delfador, I ask you again, ARE YOU A SERVANT OF THE LIGHT?"
 msgstr ""
+"Vuestro rey, morirá en un abrir y cerrar de ojos, y vuestro reino, en un "
+"sólo suspiro.  Delfador, os pregunto una vez más, ¿VOS SERÉIS SEGUIDOR DE LA "
+"LUZ?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:560
 msgid "I serve my people and my land."
 msgstr "Sirvo a mi gente y a mi tierra."
 
+# (alunacast38)
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:567
 msgid ""
@@ -1781,6 +1852,10 @@ msgid ""
 "true matter of the world is deeper. Delfador, I ask you a third time, and on "
 "your answer hangs your life: ARE YOU A SERVANT OF THE LIGHT?"
 msgstr ""
+"Las personas desaparecen y las tierras se marchitan bajo la despiadada "
+"mirada de la etenidad; la materia verdadera del mundo es más profunda que "
+"eso.  Delfador, os pregunto una tercera vez, y en vuestra respuesta recae el "
+"destino de vuestra vida: ¿VOS SERÉIS SEGUIDOR DE LA LUZ? "
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:572
@@ -1790,12 +1865,16 @@ msgid ""
 msgstr ""
 "Yo... yo sirvo vida contra muerte. Amor conta temor. Luz contra oscuridad."
 
+# (alunacast38)
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:580
 msgid ""
 "IT IS WELL. Take up, O servant of light, the Staff of An-Usrukhar. The "
 "trials before you will be great. So is its power."
 msgstr ""
+"¡ESTÁ BIEN!  Tomad, sirviente de la luz, el Cetro de An-Usrukhar.  Mas os "
+"advirto, las pruebas que vendrán serán grandiosas, como lo es el poder del "
+"cetro."
 
 #. [scenario]: id=10_The_Gate_Between_Worlds
 #: data/campaigns/Delfadors_Memoirs/scenarios/10_The_Gate_Between_Worlds.cfg:3
@@ -2103,6 +2182,7 @@ msgstr ""
 "¿Atacado por orcos? ¡Entonces podría ayudarte a derrotarlos, y compensar tu "
 "ayuda y amabilidad!"
 
+# (alunacast38)
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:237
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:39
@@ -2130,15 +2210,17 @@ msgstr ""
 "área, y nuestros bosques están seguros.  Tan seguros que incluso puedo "
 "acompañarte en tu jornada al sur... por lo menos hasta el Gran Río."
 
+# (alunacast38)
 #. [scenario]: id=12_Terror_at_the_Ford_of_Parthyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:5
 msgid "Terror at the Ford of Parthyn"
 msgstr "Terror en el vado de Parthyn"
 
+# (alunacast38)
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:31
 msgid "Find out what is happening at the Ford"
-msgstr ""
+msgstr "Descubre que está sucediendo en el vado"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:58
@@ -2170,32 +2252,43 @@ msgstr "Arpus"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:230
+#, fuzzy
 msgid ""
 "This is the nearest human garrison, Delfador. Here is the only place to "
 "cross the river. Soon after the last King of Wesnoth began his reign, he put "
 "a strong garrison not far south of here in the town of Parthyn, and orcs "
 "have not been able to cross into Wesnoth over this part of the river since."
 msgstr ""
+"Esta es la guarnición de humanos más cercana, Delfador.  Aquí es el único "
+"lugar donde se puede cruzar el río.  Poco después de que el último rey de "
+"Wesnoth comenzara su reinado, él colocó una fuerte guarnición no muy lejos "
+"de aquí, al sur, en la ciudad de Parthyn, y desde entonces, los orcos no han "
+"podido cruzar el río para llegar a Wesnoth.  "
 
+# (alunacast38)
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:234
 msgid ""
 "This mist is unusual, though, even if we are close to the river. I have "
 "never seen it so thick before."
 msgstr ""
+"Esta niebla es inusual, incluso, aún estando tan cerca del río.  Nunca antes "
+"la había visto tan espesa."
 
+# (alunacast38)
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:242
 msgid ""
 "There should be no orcs this far south. But I do not like the feel of this "
 "mist."
 msgstr ""
+"No deben haber orcos aquí, tan lejos en el sur.  Aún así, no me gusta la "
+"sensación que me produce esta niebla."
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:246
-#, fuzzy
 msgid "Stay close. I don’t like the feel of it either."
-msgstr "Uh oh... no me gusta lo que estoy viendo..."
+msgstr "Manteneos cerca... tampoco me gusta como se siente..."
 
 #. [unit]: id=Axhamr, type=Draug
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:253
@@ -2232,36 +2325,44 @@ msgstr "Kalip"
 msgid "Abmin"
 msgstr "Abmin"
 
+# (alunacast38) Verificar esta traducción, puede que no esté bien...
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:354
+#, fuzzy
 msgid "Be wary. Something does not feel right about that village..."
-msgstr ""
+msgstr "Séis precavidos.  Algo en ese poblado no está bien..."
 
+# (alunacast38)
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:366
 msgid "What in the wide green world is this abomination?"
-msgstr ""
+msgstr "¿Qué, en el amplio mundo verde, es esta abominación?"
 
+# (alunacast38)
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:370
 msgid "One of Iliah-Malal’s creatures. So it has begun!"
-msgstr ""
+msgstr "Una de las criaturas de Iliah-Malal.  Así que... ¡ha comenzado!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:383
 msgid "Orcs! Orcs at the Ford!"
-msgstr "¡Orcos! Orcos en el vado!"
+msgstr "¡Orcos!  ¡Orcos en el vado!"
 
+# (alunacast38) Le hice unas modificaciones a esta traducción.
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:387
 msgid "Prepare to fight them! We must clear the Ford!"
-msgstr ""
+msgstr "¡Preparáis para la batalla!  ¡Debéis despejar el vado!"
 
+# (alunacast38) Hay que ver si es formar o informal.  Puede ser DETENED en vez de ALTO
 #. [message]: speaker=Niktor
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:401
+#, fuzzy
 msgid "Halt! Who goes there?"
-msgstr ""
+msgstr "¡Alto!  ¿Quién anda ahí?"
 
+# (alunacast38)
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:405
 msgid ""
@@ -2269,47 +2370,73 @@ msgid ""
 "with me is Chantal, a great lady of the Lintanir Elves. Quickly, I must "
 "speak with your commander; death treads upon our very heels."
 msgstr ""
+"Soy Delfador, mago de la corte de Wesnoth y el legado del archimago "
+"Leollyn;  junto a mi se encuentra Chantal, una gran dama de los elfos de "
+"Lintanir.  Debo hablar con vuestro comandante;  la muerte nos sigue los "
+"pasos."
 
+# (alunacast38)
 #. [message]: speaker=Niktor
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:409
+#, fuzzy
 msgid ""
 "I command here, but we have lost the north shore. Uncanny creatures stalk "
 "the night; our weapons scarcely seem to scathe them. I fear we cannot hold "
 "against an attack in strength."
 msgstr ""
+"Yo doy las ordenes aquí, mas hemos perdido la costa norte.  Criaturas "
+"misteriosas acechan la noche; nuestras armas parecen apenas hacerles daño.  "
+"Temo que no podamos aguantar un ataque más fuerte."
 
+# (alunacast38)
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:414
 msgid ""
 "I have fought these before. Be of heart: impact weapons and magic can defeat "
 "them. Do I recall aright that there is a school of mages not far from here?"
 msgstr ""
+"He luchado esto antes.  Dar al corazón: armas de impacto y magia pueden "
+"derrotarlos.  Si no me falla la memoria, ¿Hay una escuela de magos no muy "
+"lejos de aquí?"
 
+# (alunacast38)
 #. [message]: speaker=Niktor
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:418
+#, fuzzy
 msgid ""
 "Yes, close by the southeast wall of our fort across the the Ford. But they "
 "are jealous of their privileges and hold aloof from us."
 msgstr ""
+"Sí, cerca de la pared sureste de nuestro fuerte, cruzando el vado.  Pero, "
+"ellos son celosos de sus privilegios y se mantienen alejados de nosotros."
 
+# (alunacast38)
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:422
+#, fuzzy
 msgid ""
 "That shall soon end. Send to them in my name and the Arch-Mage Leollyn’s; "
 "nay, tell them that in this matter I speak with the King’s voice!"
 msgstr ""
+"Eso ha de culminar pronto.  Enviáis a ellos, mi nombre y el del archimago "
+"Leollyn; no, decirles que sobre este asunto ¡yo hablo con la voz del rey!"
 
+# (alunacast38)
 #. [message]: speaker=Niktor
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:426
 msgid "I heed the King’s voice. My men are at your command."
 msgstr ""
+"Yo hago caso a lo que dice el rey.  Mis hombres están a vuestro servicio."
 
+# (alunacast38)
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:455
 msgid ""
 "To wake up the mages, move a unit that is currently out of sight of their "
 "tower to within visual range of it."
 msgstr ""
+"Para despertar a los magos, mueva una unidad que se encuentre fuera del "
+"campo de visión de su torre, cerca de ella."
 
 #. [message]: speaker=Arpus
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:551
@@ -2340,10 +2467,12 @@ msgstr ""
 msgid "I recognize it. Very well; we shall join battle."
 msgstr ""
 
+# (alunacast38)
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:587
 msgid "What is going on here? This village has been burned to the ground!"
 msgstr ""
+"¿Qué ha sucedido aquí?  ¡Esta aldea ha sido quemada hasta sus cimientos!"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:591
@@ -2352,40 +2481,49 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:605
+#, fuzzy
 msgid "Another village burned. Nobody to be seen!"
-msgstr ""
+msgstr "Otra aldea quemada.  ¡No hay nadie aquí!"
 
 #. [unit]: type=Spearman, id=Theorin
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:626
 msgid "Theorin"
 msgstr "Theorin"
 
+# (alunacast38) Hay que ver que tenga sentido...
 #. [message]: speaker=Theorin
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:638
+#, fuzzy
 msgid "Please, spare me..."
-msgstr ""
+msgstr "Por favor, sálveme..."
 
+# (alunacast38)
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:642
 msgid "Spare you from whom, soldier? What has happened here?"
-msgstr ""
+msgstr "¿Qué os salve de quién, soldado?  ¿Qué os habéis pasado aquí?"
 
+# (alunacast38)
 #. [message]: speaker=Theorin
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:646
 msgid "They come at night... and leave no one alive..."
-msgstr ""
+msgstr "Ellos vienen durante la noche... y a nadie dejan vivo..."
 
+# (alunacast38)
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:650
 msgid "Get hold of yourself, soldier! Who is ‘they’?"
-msgstr ""
+msgstr "¡Mantenga la calma, soldado!  ¿Quiénes son «ellos»?"
 
+# (alunacast38)
 #. [message]: speaker=Theorin
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:654
 msgid ""
 "I do not know. No one has seen their faces and lived. All I could hear is my "
 "comrades’ screams as they were being slaughtered."
 msgstr ""
+"Eso no lo sé.  Nadie ha visto sus rostros y ha sobrevivido.  Todo lo que "
+"pude oír fueron los gritos de mis camaradas según eran aniquilados."
 
 #. [unit]: type=Heavy Infantryman, id=Donc
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:696
@@ -2397,25 +2535,28 @@ msgstr "Donc"
 msgid "Stanis"
 msgstr "Stanis"
 
+# (alunacast38)
 #. [message]: speaker=Donc
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:725
 msgid "It’s time to stand up and fight... What’s this?"
-msgstr ""
+msgstr "Ha llegado el momento de levantarnos y luchar... ¿Qué es esto?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:729
 msgid "Friends, soldiers. Why were you hiding?"
 msgstr "Amigos, soldados. ¿Por qué os escondíais?"
 
+# (alunacast38)
 #. [message]: speaker=Stanis
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:733
 msgid "Our post was overrun. Very few of us survived."
-msgstr ""
+msgstr "Nos superaron en números.  Pocos sobrevivimos."
 
+# (alunacast38)
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:737
 msgid "Your orders from the King are to fight. Just stay close to me."
-msgstr ""
+msgstr "Las ordenes del rey son que vosotros luchen.  Manteneos cerca de mi."
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:752
@@ -2464,19 +2605,19 @@ msgstr "Adran"
 
 #. [message]: speaker=Adran
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:894
-#, fuzzy
 msgid "Long live the King! Wait, you are not—"
-msgstr "¡Larga vida al Rey! Espera, no eres..."
+msgstr "¡Larga vida al Rey!  Espera, tú no eres..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:898
 msgid "—The enemy? Yes, we’re on your side."
-msgstr "—¿El enemigo? Sí, estamos de tu lado."
+msgstr "—¿El enemigo?  Sí, estamos de vuestro lado."
 
+# (alunacast38)
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:902
 msgid "Soldiers of Wesnoth, rise to fight for your King!"
-msgstr ""
+msgstr "¡Soldados de Wesnoth, levantaos para luchar por su rey!"
 
 #. [unit]: type=Heavy Infantryman, id=Axios
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:926
@@ -2498,10 +2639,11 @@ msgstr "Ogdal"
 msgid "Is the enemy gone?"
 msgstr "¿Se ha marchado el enemigo?"
 
+# (alunacast38)
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:977
 msgid "He will be, if you help. Now follow me into battle!"
-msgstr ""
+msgstr "Él lo será, si vosotros nos ayudáis.  ¡Ahora seguidme a la batalla!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:991
@@ -2513,10 +2655,11 @@ msgstr "¿Hay alguien aquí?"
 msgid "Dreadred"
 msgstr "Dreadred"
 
+# (alunacast38) Según entiendo, este personaje es uno con una forma torpe de hablar.
 #. [message]: speaker=Dreadred
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1014
 msgid "Master said more would come!"
-msgstr ""
+msgstr "¡Amo dijo más vendrían!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1032
@@ -2628,12 +2771,15 @@ msgid ""
 "all the strength you have. I think we will meet again."
 msgstr ""
 
+# (alunacast38)
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1220
 msgid ""
 "They have unleashed a second wave. Soldiers, stand firm and send these "
 "abominations back to the darkness!"
 msgstr ""
+"Ellos han desatado una segunda oleada.  ¡Soldados, manteneos firmes y enviar "
+"a estas abominaciones de regreso a las tinieblas!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1229
@@ -3456,6 +3602,8 @@ msgid ""
 "This is a disaster. I should have led the army myself and died with them. "
 "And I should have listened to you, Delfador."
 msgstr ""
+"Esto es un desastre.  Yo debí guiar la armada yo mismo y morir junto a "
+"ellos.  Además, debí escucharos, Delfador."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:98
@@ -3653,6 +3801,7 @@ msgid ""
 "waste!"
 msgstr ""
 
+# (alunacast38) Se acortan palabras en el idioma inglés, la cuáles no se puden acortar literalmente en el español (ye'd; ta'en; ye), en su traducción.  Se acortaron otras dos palabras en el español (pa'l; demasia'o), para tratar de darle el mismo sentido que en el inglés.
 #. [message]: speaker=Ulrek
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:224
 msgid ""
@@ -3660,6 +3809,9 @@ msgid ""
 "Listra, is too dangerous. That valley is swarming with orcs now. We’ll take "
 "ye by a safer route, through tunnels under these hills."
 msgstr ""
+"Delfador, la superficie del camino pa'l norte que debíais tomar, a lo largo "
+"de Listra, es demasia'o peligroso.  Ese valle está repleto de orcos.  Os "
+"llevaremos por una ruta más segura, a través de túneles bajo estas colinas."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:243
@@ -3864,6 +4016,12 @@ msgid ""
 "crossing the Listra by night, found the necromancer there, on the brink of "
 "raising another army amidst the fetid reek."
 msgstr ""
+"Con el portal cerrado, Iliah-Malal se debilitó.  Él se retiró al Pantano del "
+"Pavor para recuperar sus fuerzas y así poder intentar otra conjuración.  Las "
+"tropas de Delfador, apresurándose hacia el oeste a través de los caminos "
+"secretos de los enanos y atravesando sigilosamente la Listra durante la "
+"noche, encontraron al nigromante allí, a punto de levantar otro ejercito en "
+"medio de la pestilencia."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:22
@@ -4051,14 +4209,17 @@ msgstr ""
 msgid ""
 "Evil has been vanquished on this day. May this victory bring lasting peace."
 msgstr ""
+"La maldad ha sido erradicada en este día.  Esta victoria puede que traiga "
+"paz duradera. "
 
+# (alunacast38) verificar la traducción "the accursed one" por "el maldito".
 #. [message]: speaker=Kalenz
 #. [message]: speaker=Admirer5
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:450
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:460
 msgid ""
 "You have earned the name the accursed one gave you... Delfador the Great."
-msgstr ""
+msgstr "Has ganado el nombre que el maldito os ha dado... Delfador el Grande."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:472
