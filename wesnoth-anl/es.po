@@ -20,7 +20,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-09-04 11:42+0200\n"
+"POT-Creation-Date: 2011-10-07 22:09+0200\n"
 "PO-Revision-Date: 2011-09-24 18:55+0200\n"
 "Last-Translator: Víctor <quianaaelonin@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
@@ -37,9 +37,6 @@ msgstr "4 jug. — Una nueva tierra"
 
 #. [multiplayer]: id=multiplayer_A_New_Land
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:6
-#| msgid ""
-#| "This 4p survival scenario allows you to construct buildings and terraform "
-#| "the land. Use map settings. Recommended starting gold=100."
 msgid ""
 "This 4p survival scenario allows you to construct buildings and terraform "
 "the land. Use map settings. The recommended starting gold is 100."
@@ -134,9 +131,13 @@ msgstr ""
 # Este cambio de número plural/sigular no funciona igual de bien en castillano; he estado por poner todo en plural y dejar la segunda parte en impersonal. Opté por lo segundo.
 #. [message]: type=Peasant
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:591
+#, fuzzy
+#| msgid ""
+#| "I swear I saw somebody trapped in the spider’s web. Maybe we should "
+#| "rescue them?"
 msgid ""
 "I swear I saw somebody trapped in the spider’s web. Maybe we should rescue "
-"them?"
+"him?"
 msgstr ""
 "Juro haber visto a alguien atrapado entre la tela de araña de ahí. ¿Quizá "
 "deberíamos acudir al rescate?"
