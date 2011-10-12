@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-10-07 22:09+0200\n"
-"PO-Revision-Date: 2011-10-11 09:54-0500\n"
+"PO-Revision-Date: 2011-10-12 12:03-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
@@ -3032,7 +3032,7 @@ msgstr "No hay nodos definidos para la vista de árbol."
 
 #: src/gui/auxiliary/window_builder/tree_view.cpp:86
 msgid "[node]id 'root' is reserved for the implementation."
-msgstr "Id. de nodo 'root' reservado para la implementación."
+msgstr "Id. de nodo «root» reservado para la implementación."
 
 #: src/gui/auxiliary/window_builder/tree_view.cpp:90
 msgid "No node defined."
