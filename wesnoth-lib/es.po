@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-10-17 23:28+0200\n"
-"PO-Revision-Date: 2011-10-12 12:03-0500\n"
+"PO-Revision-Date: 2011-10-31 11:17-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
@@ -80,17 +80,15 @@ msgstr "Arrecife costero"
 
 #. [terrain_type]: id=gray_reef
 #: data/core/terrain.cfg:93
-#, fuzzy
 #| msgid "Coastal Reef"
 msgid "Gray Coastal Reef"
-msgstr "Arrecife costero"
+msgstr "Arrecife costero gris"
 
 #. [terrain_type]: id=tropical_reef
 #: data/core/terrain.cfg:113
-#, fuzzy
 #| msgid "Coastal Reef"
 msgid "Tropical Coastal Reef"
-msgstr "Arrecife costero"
+msgstr "Arrecife costero tropical"
 
 #. [terrain_type]: id=swamp_water
 #. [terrain_type]: id=quagmire
@@ -2446,11 +2444,11 @@ msgstr "jugador"
 
 #: src/game_preferences.cpp:777
 msgid "%H:%M"
-msgstr ""
+msgstr "%H:%M"
 
 #: src/game_preferences.cpp:780
 msgid "%I:%M %p"
-msgstr ""
+msgstr "%I:%M %p"
 
 #: src/game_preferences_display.cpp:163
 #, fuzzy
@@ -3950,7 +3948,6 @@ msgstr ""
 "manutención para «$deprecated_key|» se quitará en la versión "
 "$removal_version."
 
-#, fuzzy
 #~| msgid "Save password to preferences (clear text)"
 #~ msgid "Save Password to Preferences (Plain Text)"
 #~ msgstr "Guardar contraseña en preferencias (no cifrada)"
