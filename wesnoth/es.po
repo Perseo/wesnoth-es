@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-10-17 23:28+0200\n"
-"PO-Revision-Date: 2011-10-12 13:11-0500\n"
+"PO-Revision-Date: 2011-10-31 10:56-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
@@ -3991,10 +3991,9 @@ msgid "%a %b %d %H:%M %Y"
 msgstr "%a %b %d %H:%M %Y"
 
 #: src/dialogs.cpp:454 src/savegame.cpp:136
-#, fuzzy
 #| msgid "%a %b %d %H:%M %Y"
 msgid "%a %b %d %I:%M %p %Y"
-msgstr "%a %b %d %H:%M %Y"
+msgstr "%a %b %d %I:%M %p %Y"
 
 #: src/dialogs.cpp:470
 msgid "#(Invalid)"
@@ -4045,17 +4044,16 @@ msgstr "%H:%M"
 
 #: src/dialogs.cpp:548 src/reports.cpp:1217 src/savegame.cpp:176
 msgid "%I:%M %p"
-msgstr ""
+msgstr "%I:%M %p"
 
 #: src/dialogs.cpp:553 src/savegame.cpp:181
 msgid "%A, %H:%M"
 msgstr "%A, %H:%M"
 
 #: src/dialogs.cpp:556 src/savegame.cpp:184
-#, fuzzy
 #| msgid "%A, %H:%M"
 msgid "%A, %I:%M %p"
-msgstr "%A, %H:%M"
+msgstr "%A, %I:%M %p"
 
 #: src/dialogs.cpp:560 src/savegame.cpp:188
 msgid "%b %d"
@@ -6551,7 +6549,6 @@ msgid "prefix_milli^m"
 msgstr "m"
 
 #: src/serialization/string_utils.cpp:291
-#, fuzzy
 #| msgid "prefix_micro^μ"
 msgid "prefix_micro^µ"
 msgstr "µ"
@@ -6805,7 +6802,6 @@ msgstr "Reemplazar con $player"
 msgid "Whiteboard Options"
 msgstr ""
 
-#, fuzzy
 #~| msgid "Invalid location"
 #~ msgid "Invalid WML found"
 #~ msgstr "Ubicación inválida"
