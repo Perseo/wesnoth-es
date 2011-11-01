@@ -2526,8 +2526,8 @@ msgid ""
 "<i>“Bring these Wesfolk too? It would be... highly irregular.”</i> Bah! I’ll "
 "show you irregular..."
 msgstr ""
-"'¿Transportaremos también a estos Wesfolk? Sería... altamente irregular.' "
-"¡Bah! Te voy a enseñar yo lo que es irregular..."
+"'¿Transportaremos también a estos Wesfolk? Sería... altamente "
+"irregular.' ¡Bah! Te voy a enseñar yo lo que es irregular..."
 
 #. [message]: speaker=Ut'Tan-Vrork
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:382
@@ -2806,8 +2806,9 @@ msgid ""
 "Okay. Let’s un-petrify that lich and take his book, then get into the "
 "sewers. Umm, what language would that book be in?"
 msgstr ""
-"Vale. Primero «despetrificamos» al liche, luego cogemos su libro, y luego nos "
-"metemos en las alcantarillas. Umm, ¿en qué lengua estará escrito el libro?"
+"Vale. Primero «despetrificamos» al liche, luego cogemos su libro, y luego "
+"nos metemos en las alcantarillas. Umm, ¿en qué lengua estará escrito el "
+"libro?"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:268
@@ -4772,8 +4773,8 @@ msgid ""
 "Fair enough. I decree a ‘Pact of Mutual Aid’ between our peoples. But— "
 "aren’t you setting us in conflict with the Dwarves?"
 msgstr ""
-"Es justo. Decreto un «Pacto de ayuda mutua» entre nuestros pueblos. Pero, ¿no "
-"estáis poniéndonos en conflicto con los enanos?"
+"Es justo. Decreto un «Pacto de ayuda mutua» entre nuestros pueblos. Pero, "
+"¿no estáis poniéndonos en conflicto con los enanos?"
 
 #. [message]: speaker=Lord Logalmier
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:517
@@ -5366,7 +5367,8 @@ msgstr ""
 "Puede que no hayamos tomado la decisión apropiada. Si los humanos atraen a "
 "los orcos, se supone que deberíamos honrar nuestro compromiso. Pero si los "
 "siguen más problemas hasta aquí, deberíamos dejarlos luchar solos, y "
-"entonces «encargarnos» de los sobrevivientes, y hacer un trato con los enanos."
+"entonces «encargarnos» de los sobrevivientes, y hacer un trato con los "
+"enanos."
 
 #. [message]: speaker=Lady Dionli
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/18_A_Spy_in_the_Woods.cfg:131
@@ -5385,8 +5387,8 @@ msgid ""
 "Dwarves.”</i>"
 msgstr ""
 "Somos la gente del bosque, sabéis bien que todo lo hablado a esta subgente "
-"es de importancia mínima ante nuestras necesidades. Como dijo Lord Aryad, «si "
-"los siguen más problemas hasta aquí, deberíamos dejarlos luchar solos, y "
+"es de importancia mínima ante nuestras necesidades. Como dijo Lord Aryad, "
+"«si los siguen más problemas hasta aquí, deberíamos dejarlos luchar solos, y "
 "entonces encargarnos de los sobrevivientes, y hacer un trato con los enanos.»"
 
 #. [message]: speaker=Lady Dionli
