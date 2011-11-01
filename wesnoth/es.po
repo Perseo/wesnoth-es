@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-10-17 23:28+0200\n"
-"PO-Revision-Date: 2011-10-31 10:56-0500\n"
+"PO-Revision-Date: 2011-11-01 16:41-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
@@ -492,7 +492,7 @@ msgstr "Edición de texto en inglés"
 #. [about]
 #: data/core/about.cfg:1230
 msgid "Afrikaans Translation"
-msgstr "Traducción afrikáans"
+msgstr "Traducción al afrikáans"
 
 #. [about]
 #: data/core/about.cfg:1250
@@ -557,7 +557,7 @@ msgstr "Traducción inglesa (Shaw)"
 #. [about]
 #: data/core/about.cfg:1607
 msgid "Esperanto Translation"
-msgstr "Traducción esperanto"
+msgstr "Traducción al esperanto"
 
 #. [about]
 #: data/core/about.cfg:1626
