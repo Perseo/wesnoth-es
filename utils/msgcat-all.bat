@@ -23,3 +23,4 @@ C:\Program Files\poedit\bin\msgcat.exe C:\wesnoth-es\wesnoth-trow\es.po -o C:\we
 C:\Program Files\poedit\bin\msgcat.exe C:\wesnoth-es\wesnoth-tutorial\es.po -o C:\wesnoth-es\wesnoth-tutorial\es.po
 C:\Program Files\poedit\bin\msgcat.exe C:\wesnoth-es\wesnoth-units\es.po -o C:\wesnoth-es\wesnoth-units\es.po
 C:\Program Files\poedit\bin\msgcat.exe C:\wesnoth-es\wesnoth-utbs\es.po -o C:\wesnoth-es\wesnoth-utbs\es.po
+pause
