@@ -15,8 +15,8 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-09-04 11:42+0200\n"
-"PO-Revision-Date: 2010-07-27 18:21-0400\n"
-"Last-Translator: PeterPorty <p_llorens@hotmail.com>\n"
+"PO-Revision-Date: 2011-11-01 22:43+0100\n"
+"Last-Translator: Diego Grande <dgrande90@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -68,9 +68,8 @@ msgstr "Señor"
 
 #. [campaign]: id=The_Rise_of_Wesnoth
 #: data/campaigns/The_Rise_Of_Wesnoth/_main.cfg:22
-#, fuzzy
 msgid "(Expert level, 24 scenarios.)"
-msgstr "(Nivel experto 25 escenarios)."
+msgstr "(Nivel experto 24 escenarios)."
 
 #. [campaign]: id=The_Rise_of_Wesnoth
 #: data/campaigns/The_Rise_Of_Wesnoth/_main.cfg:22
@@ -231,6 +230,7 @@ msgstr ""
 
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:108
+#, fuzzy
 msgid ""
 "You’re showing initiative, son! I’m proud of you! Yes, you may lead our "
 "forces to battle, it is time — but I’ll stay near to keep an eye on you. "
@@ -238,7 +238,6 @@ msgid ""
 msgstr ""
 "¡Estás mostrando iniciativa, hijo! ¡Estoy orgulloso de ti! Puedes guiar "
 "nuestras fuerzas para la batalla, pero permaneceré cerca para vigilarte. "
-"Habrá más asaltos de los que podamos ver, creo. "
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:113
@@ -246,8 +245,8 @@ msgid ""
 "They’re Wesfolk, reavers and thieves by nature; rare is the summer they do "
 "not raid us. What mystery is in it now?"
 msgstr ""
-"Son bandidos y ladrones por naturaleza; raro es el verano que no nos "
-"asaltan. ¿Qué misterio hay en esto ahora?"
+"Son Wesfolk, bandidos y ladrones por naturaleza; raro es el verano que no "
+"nos asaltan. ¿Qué misterio hay en esto ahora?"
 
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:118
@@ -256,8 +255,8 @@ msgid ""
 "that could utterly destroy them, why would they compound their troubles by "
 "raising a quarrel with another king?"
 msgstr ""
-"Estos no son tiempos normales. Cuando el Príncipe de la Bahía del Sur haya "
-"levantado un multitud que pueda destruirlos totalmente, ¿por qué habrían "
+"Estos no son tiempos normales. Ahora que el Príncipe de la Bahía del Sur ha "
+"levantado una multitud que puede destruirlos totalmente, ¿por qué habrían "
 "ellos de agravar sus problemas entrando en conflicto con otro rey?"
 
 #. [message]: speaker=Prince Haldric
@@ -273,17 +272,17 @@ msgid ""
 "Even supposing they could win through us, why court the wrath of the greater "
 "kingdoms?"
 msgstr ""
-"No creo. El príncipe puede evadirse en las tierras salvajes; al sur y al "
-"este de aquí hay más asentamientos de nuestra gente y hay un grave peligro "
-"sobre ellos. Incluso suponiendo que puedan ganar, ¿por qué cortejar a la ira "
-"de los grandes reinos?"
+"Es poco probable. El príncipe puede evadirse en las tierras salvajes; al sur "
+"y al este de aquí hay más asentamientos de nuestra gente y se cierne un "
+"grave peligro sobre ellos. Incluso suponiendo que puedan ganar, ¿por qué "
+"cortejar a la ira de los grandes reinos?"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:131
 msgid ""
 "We must inquire of the survivors after we defeat them. Onward to victory!"
 msgstr ""
-"Debemos interrogar a los supervivientes después de que los venzamos. ¡A la "
+"Debemos interrogar a los supervivientes una vez ganemos la batalla. ¡A la "
 "victoria!"
 
 #. [message]: speaker=Wesfolk Leader
@@ -315,7 +314,7 @@ msgstr "¡Invoco el derecho de rendición! No me matéis..."
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:173
 msgid "Why have you come to trouble our lands?"
-msgstr "¿Por qué habéis venido a incordiar a nuestras tierras?"
+msgstr "¿Por qué habéis venido a nuestras tierras a traer problemas?"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:177
@@ -340,9 +339,9 @@ msgid ""
 "distant west! Now even we Wesfolk must flee or be slaves."
 msgstr ""
 "Permitieron que los terrores de los infiernos entraran en esta isla. "
-"¡Construyeron un gran portal de piedra al corazón del hogar de los orcos en "
-"el lejano occidente! Ahora incluso los Wesfolk tenemos que huir, o nos harán "
-"esclavos."
+"¡Construyeron un gran portal de piedra al corazón de la patria de los orcos "
+"en el lejano occidente! Ahora incluso nosotros, los Wesfolk debemos huir "
+"para no ser convertidos en esclavos."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:189
@@ -357,8 +356,8 @@ msgid ""
 "hope."
 msgstr ""
 "Habéis pasado demasiado tiempo en esta isla. Te aseguro que los orcos "
-"existen. Ahora mismo hay media docena de puertas a su tierra natal. No hay "
-"esperanza."
+"existen. Ahora mismo hay media docena de puertas que llevan a su tierra "
+"natal. No queda esperanza."
 
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:197
@@ -366,14 +365,14 @@ msgid ""
 "We must prepare the defenses! Haldric, stay at the keep. I must go and "
 "fortify our frontier."
 msgstr ""
-"¡Debemos preparar las defensas! Haldric, mantente en la torre. Debo ir y "
+"¡Debemos preparar las defensas! Haldric, mantente en la torre. Debo ir a "
 "fortificar nuestra frontera."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:201
 msgid "My forces are defeated, under your customs of surrender I will go now."
 msgstr ""
-"Mis fuerzas han sido derrotadas, así que siguiendo vuestras costumbres de "
+"Mis fuerzas han sido derrotadas, así que siguiendo vuestras condiciones de "
 "rendición, me iré ahora."
 
 #. [message]: speaker=King Eldaric IV
@@ -383,9 +382,9 @@ msgid ""
 "that you may invoke surrender but once. If we meet again, I won’t be so "
 "merciful."
 msgstr ""
-"Puedes ir. Asegúrate de no molestarnos más, ya que la costumbre establece "
-"que sólo se puede pedir rendición una vez. Si nos encontramos de nuevo, no "
-"seré tan clemente."
+"Puedes ir. Asegúrate de no molestarnos más, ya que la regla establece que "
+"sólo se puede pedir rendición una vez. Si nos encontramos de nuevo, no seré "
+"tan clemente."
 
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:225
@@ -397,7 +396,7 @@ msgstr ""
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:236
 msgid "Die, Wesfolk scum!"
-msgstr "¡Muere, escoria de Wesfolk!"
+msgstr "¡Muere, escoria Wesfolk!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:248
@@ -407,7 +406,7 @@ msgstr "¡Siente mi ira, sabandija!"
 #. [scenario]: id=02_The_Fall
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:4
 msgid "The Fall"
-msgstr "La caída"
+msgstr "La Caída"
 
 #. [side]: type=Noble Fighter, id=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:28
@@ -517,8 +516,8 @@ msgid ""
 "That’s awful! And it only gets worse. That Wesfolk rabble has set up shop "
 "again in the south pass..."
 msgstr ""
-"¡Es horrible! Y sólo puede empeorar. Esa chusma de Wesfolk se ha vendido de "
-"nuevo en el paso del sur..."
+"¡Es horrible! Y sólo puede empeorar. Esa chusma Wesfolk se han establecido "
+"en el paso del sur..."
 
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:198
@@ -528,14 +527,13 @@ msgid ""
 "haste."
 msgstr ""
 "¡Es el único camino para salir del valle! ¡Es desastroso! Debemos acabar con "
-"esa escoria de Wesfolk y huir hacia el sur. Nuestro hogar está perdido. "
+"esa escoria  Wesfolk y huir hacia el sur. Nuestro hogar está perdido. "
 "Debemos apresurarnos."
 
 #. [message]: speaker=Tan-Rarbag
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:203
-#, fuzzy
 msgid "So, <i>human</i>, care to make your final stand?"
-msgstr "Así que HUMANO, ¿estás preparado para tu último combate?"
+msgstr "Así que <i>humano</i>, ¿estás preparado para tu último combate?"
 
 #. [message]: speaker=Tan-Erang
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:208
@@ -574,7 +572,7 @@ msgstr ""
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:280
 msgid "Haldric, what say you on this matter?"
-msgstr "Haldric, ¿qué piensas sobre todo esto?"
+msgstr "Haldric, ¿qué opinas sobre todo esto?"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:285
@@ -591,8 +589,7 @@ msgstr ""
 #. [message]: speaker=Wesfolk Leader
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:293
 msgid "Let there be peace between us, our survival depends on it."
-msgstr ""
-"Permite que haya paz entre nosotros, nuestra supervivencia depende de ello."
+msgstr "Debemos llevarnos bien, nuestra supervivencia depende de ello."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:301
@@ -618,9 +615,9 @@ msgstr "Tus palabras no son creíbles. ¡Prepárate para reunirte con tus dioses
 
 #. [message]: speaker=Wesfolk Leader
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:346
-#, fuzzy
 msgid "Arrogant fools! (<i>Reaches into pocket</i>) <i>Poof</i>!"
-msgstr "¡Arrogantes estúpidos! (metiendo la mano en el bolsillo) ¡PUF!"
+msgstr ""
+"¡Arrogantes estúpidos! (<i>metiendo la mano en el bolsillo</i>)<i> ¡PUF!</i>"
 
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:374
@@ -633,8 +630,8 @@ msgid ""
 "She’s clever! Maybe I made the wrong choice. Well, at least she left some of "
 "her gold behind..."
 msgstr ""
-"¡Es muy hábil! Quizás tomé la decisión equivocada. Bien, al menos dejó algo "
-"de su oro..."
+"¡Es muy inteligente! Quizás tomé la decisión equivocada. Bien, al menos dejó "
+"algo de su oro..."
 
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:398
@@ -643,8 +640,7 @@ msgid ""
 "to hold off these vile monsters for as long as I can."
 msgstr ""
 "Hijo, debes liderar a nuestra gente a través del paso del sur. Me mantendré "
-"en la retaguardia para retener a esas viles criaturas a tanta distancia como "
-"me sea posible."
+"en la retaguardia para retener a esas viles criaturas todo el tiempo posible."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:402
@@ -676,7 +672,7 @@ msgstr "¡Nuestro hogar! ¡A dónde iremos!"
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:457
 msgid "There can be no looking back! We must go south."
-msgstr "¡No se puede mirar atrás! Debemos ir al sur."
+msgstr "¡No debemos mirar atrás! Debemos ir al sur."
 
 #. [scenario]: id=03_A_Harrowing_Escape
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:4
@@ -771,9 +767,9 @@ msgid ""
 "They’re already holding the mouth of the pass. We have to get out of the "
 "mountain pass before winter comes or we’re all dead meat!"
 msgstr ""
-"Argh, ¡la vanguardia orca debe habernos rodeado aún más allá del este! Ya "
-"ocupan la entrada del paso. ¡Tendremos que dejar el paso de la montaña antes "
-"de que llegue el invierno o seremos fiambres!"
+"Argh, ¡la vanguardia orca debe habernos rodeado aún más allá hacia el este! "
+"Ya ocupan la entrada del paso. ¡Tendremos que dejar el paso de la montaña "
+"antes de que llegue el invierno o seremos hombres muertos!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:138
@@ -857,7 +853,6 @@ msgstr ""
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:224
-#, fuzzy
 msgid ""
 "We’re trapped in the pass! I can see their reinforcements! All is lost! Is "
 "that... Is that snow...? We’re doomed!"
@@ -1571,7 +1566,7 @@ msgstr ""
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:244
 msgid "We will help. "
-msgstr ""
+msgstr "Nosotros os ayudaremos."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:244
@@ -1946,7 +1941,7 @@ msgstr "Regreso al bosque viejo"
 #. [side]: type=Wose, id=Talodulborentan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:34
 msgid "Talodulborentan"
-msgstr ""
+msgstr "Talodulborentan"
 
 #. [side]: type=Wose, id=Talodulborentan
 #. [side]: type=Wose, id=Gullatendronnorbum
@@ -1960,7 +1955,7 @@ msgstr "Pueblo de los árboles"
 #. [side]: type=Wose, id=Gullatendronnorbum
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:44
 msgid "Gullatendronnorbum"
-msgstr ""
+msgstr "Gullatendronnorbum"
 
 #. [event]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:87
@@ -2304,7 +2299,7 @@ msgstr "Granjero furioso"
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:230
 msgid "Cowardly:"
-msgstr ""
+msgstr "Cobardemente:"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:231
@@ -2328,7 +2323,7 @@ msgstr "Normal: Huye en el segundo barco"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:240
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:245
 msgid "Heroic:"
-msgstr ""
+msgstr "Heroico:"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:241
@@ -3665,7 +3660,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:405
 msgid "You can now recruit merfolk!"
-msgstr ""
+msgstr "¡Ahora ya puedes reclutar sirenidos!"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:432
@@ -4002,7 +3997,7 @@ msgstr "No resulta tranquilizador."
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:379
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:482
 msgid "<i>Clack</i>! <i>Clack!</i>"
-msgstr ""
+msgstr "<i>Clack</i>! <i>Clack!</i>"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/13_Peoples_in_Decline.cfg:316
@@ -4088,7 +4083,7 @@ msgstr "Chompey la serpiente"
 #. [case]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/14_Rough_Landing.cfg:242
 msgid "Graarrrrrr!"
-msgstr ""
+msgstr "Graarrrrrr!"
 
 #. [case]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/14_Rough_Landing.cfg:248
@@ -4098,7 +4093,7 @@ msgstr "Scaly la serpiente"
 #. [case]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/14_Rough_Landing.cfg:249
 msgid "Roarrrrrr!"
-msgstr ""
+msgstr "Roarrrrrr!"
 
 #. [case]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/14_Rough_Landing.cfg:255
@@ -4108,7 +4103,7 @@ msgstr "Toothey la serpiente"
 #. [case]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/14_Rough_Landing.cfg:256
 msgid "Hissssss!"
-msgstr ""
+msgstr "Hissssss!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/14_Rough_Landing.cfg:351
@@ -4411,7 +4406,7 @@ msgstr ""
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:322
 msgid "May the currents carry you swiftly, my friend. "
-msgstr ""
+msgstr "Que las corrientes te lleven con prontitud, amigo mio."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:326
@@ -5569,7 +5564,7 @@ msgstr "¡He encontrado el cofre de los orcos! Está lleno de oro."
 #. [case]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:530
 msgid "Norte"
-msgstr ""
+msgstr "Norte"
 
 #. [message]: speaker=Norte
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:542
@@ -5591,6 +5586,7 @@ msgstr "¡Una oración por la inmortalidad!"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:567
 msgid "These monsters seem like they want to be embraced by my hammer!"
 msgstr ""
+"¡Parece que estos monstruos quieren ser <i>acariciados</i> por mi martillo!"
 
 #. [case]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:574
@@ -5952,7 +5948,7 @@ msgstr ""
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:135
 msgid "<i>What?!</i>"
-msgstr ""
+msgstr "<i>¿¡Qué?!</i>"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:139
@@ -6230,11 +6226,15 @@ msgstr "¡Un necio, o una banda de desesperados refugiados!"
 
 #. [message]: speaker=Lich-Lord Jevyan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:337
+#, fuzzy
 msgid ""
 "Casting fire is the least of the Ruby's abilities. You are twice a fool, for "
 "having failed to plumb more than its most trivial use and for having given "
 "it away."
 msgstr ""
+"Invocar fuego es la menor de las hanilidades con las que cuenta Ruby. Eres "
+"doblemente estúpido, tanto por haber sondeado su uso mas trivial como por "
+"haverlo revelado."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:341
@@ -6549,7 +6549,7 @@ msgstr ""
 #. [message]: speaker=Familiar
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:1349
 msgid "<i>Clack</i>! <i>Splat</i>!"
-msgstr ""
+msgstr "<i>Clack</i>! <i>Splat</i>!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:1362
@@ -6936,11 +6936,14 @@ msgid ""
 "spirit or minor demon drawn into them. A familiar may act as a spy or "
 "messenger for its master."
 msgstr ""
+"Los hechiceros de gran poder tienen a veces familiares, criaturas dentro de "
+"las cuales ha sido atrapado un espiritu o demonio menor. Un familiar puede "
+"actuar como espia o mensajero para su maestro."
 
 #. [attack]: type=blade
 #: data/campaigns/The_Rise_Of_Wesnoth/units/Familiar.cfg:32
 msgid "bite"
-msgstr ""
+msgstr "mordisco"
 
 #. [unit_type]: id=Noble Commander, race=human
 #: data/campaigns/The_Rise_Of_Wesnoth/units/Noble_Commander.cfg:4
