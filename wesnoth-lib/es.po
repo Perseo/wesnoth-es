@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-10-17 23:28+0200\n"
-"PO-Revision-Date: 2011-10-31 11:17-0500\n"
+"PO-Revision-Date: 2011-11-03 12:40-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
@@ -867,10 +867,9 @@ msgstr "Aldea de pantano"
 
 #. [terrain_type]: id=mermen-village
 #: data/core/terrain.cfg:1604
-#, fuzzy
 #| msgid "Swamp Merfolk Village"
 msgid "Merfolk Village"
-msgstr "Aldea sirénida pantanosa"
+msgstr "Aldea sirénida"
 
 #. [terrain_type]: id=village_overlay
 #: data/core/terrain.cfg:1619
@@ -1667,7 +1666,6 @@ msgstr "error OOS"
 
 #. [toggle_button]: id=ignore_all
 #: data/gui/default/window/game_save_oos.cfg:143
-#, fuzzy
 #| msgid "Ignore All"
 msgid "Ignore all"
 msgstr "Ignorar todos"
@@ -2130,7 +2128,6 @@ msgstr "Oro por aldea"
 
 #. [toggle_button]: id=fog
 #: data/gui/default/window/mp_create_game.cfg:460
-#, fuzzy
 #| msgid "Fog of War"
 msgid "Fog of war"
 msgstr "Niebla de guerra"
@@ -2451,7 +2448,6 @@ msgid "%I:%M %p"
 msgstr "%I:%M %p"
 
 #: src/game_preferences_display.cpp:163
-#, fuzzy
 #| msgid "Full Screen"
 msgid "Full screen"
 msgstr "Pantalla completa"
@@ -3850,7 +3846,7 @@ msgstr "Configuración de accesos rápidos"
 
 #: src/preferences_display.cpp:282 src/preferences_display.cpp:351
 msgid "Press desired Hotkey (Esc cancels)"
-msgstr "Presione la tecla deseada (ESC cancela)"
+msgstr "Presione la tecla deseada (Esc cancela)"
 
 #: src/preferences_display.cpp:301
 msgid "Action"
