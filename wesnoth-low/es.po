@@ -368,12 +368,12 @@ msgstr ""
 "Los elfos jamás habían sido gente marcial, no estaban preparados para la "
 "inevitable guerra contra los orcos. Los amigos, Kalenz y Landar, alcanzaron "
 "su madurez el mismo año que Erlornas se enfrentó contra los primeros "
-"invasores orcos. A lo largo de la siguiente década, las incursiones orcas "
+"invasores orcos. A lo largo de la siguiente década las incursiones orcas "
 "aumentaron enormemente, y su sombra, amenazadora, se alzaba sobre los elfos "
 "como nunca antes.\n"
 "\n"
-"Ésta es la historia de Kalenz, y de los elfos, en tiempos de un ingente "
-"Wesnoth."
+"Ésta es la historia de Kalenz y Landar, de los elfos, en tiempos del incipiente "
+"Wesnoth de los humanos."
 
 #. [side]
 #. [side]: id=Velon, type=Elvish Captain
