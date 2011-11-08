@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-11-01 16:41-0500\n"
+"PO-Revision-Date: 2011-11-08 10:33-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
@@ -4811,7 +4811,6 @@ msgstr ""
 #: src/menu_events.cpp:2332 src/menu_events.cpp:2335 src/menu_events.cpp:2337
 #: src/menu_events.cpp:2339 src/menu_events.cpp:2341 src/menu_events.cpp:2368
 #: src/menu_events.cpp:2370 src/menu_events.cpp:2372 src/menu_events.cpp:2386
-#, fuzzy
 #| msgid "<nick>"
 msgid "<nickname>"
 msgstr "<apodo>"
@@ -4870,7 +4869,6 @@ msgstr ""
 "partida en curso que Ud. esté observando o jugando."
 
 #: src/menu_events.cpp:2362
-#, fuzzy
 #| msgid "<nick> <message>"
 msgid "<nickname> <message>"
 msgstr "<apodo> <mensaje>"
@@ -5372,7 +5370,6 @@ msgid "Variable not found"
 msgstr "Variable no encontrada"
 
 #: src/menu_events.cpp:3515
-#, fuzzy
 #| msgid ""
 #| "Invalid alignment: '$alignment', needs to be one of lawful, neutral, "
 #| "chaotic or liminal."
@@ -5381,7 +5378,7 @@ msgid ""
 "chaotic, or liminal."
 msgstr ""
 "Alineamiento inválido: «$alignment», es necesario que sea «lawful», "
-"«neutral» o «chaotic»."
+"«neutral», «chaotic» o «liminal»."
 
 #: src/menu_events.cpp:3571
 msgid "Do you wish to clear all of your discovered units from help?"
@@ -5720,7 +5717,6 @@ msgid "Random start time"
 msgstr "Tiempo de comienzo aleatorio"
 
 #: src/multiplayer_create.cpp:89
-#, fuzzy
 #| msgid "Fog Of War"
 msgid "Fog of war"
 msgstr "Niebla de guerra"
