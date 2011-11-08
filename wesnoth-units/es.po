@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-02-16 18:40-0500\n"
+"PO-Revision-Date: 2011-11-07 19:27-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
@@ -1660,7 +1660,7 @@ msgstr "Limpia-niebla"
 #. [unit_type]: id=Direwolf Rider, race=wolf
 #: data/core/units/goblins/Direwolf_Rider.cfg:4
 msgid "Direwolf Rider"
-msgstr "Jinete de gran lobo"
+msgstr "Jinete de lobo terrible"
 
 #. [unit_type]: id=Direwolf Rider, race=wolf
 #: data/core/units/goblins/Direwolf_Rider.cfg:21
@@ -1677,8 +1677,8 @@ msgid ""
 "the orcish assassins, making a swipe from these beasts’ paws into a most "
 "deadly stroke."
 msgstr ""
-"Los 'grandes lobos' se diferencian de la variedad común sólo en el tamaño y "
-"en el color. Normalmente alcanzan una altura mayor que la del lomo de un "
+"Los 'lobos terribles' se diferencian de la variedad común sólo en el tamaño "
+"y en el color. Normalmente alcanzan una altura mayor que la del lomo de un "
 "caballo y tienen un apetito consecuente con su tamaño. Sólo un loco iría a "
 "su encuentro. Los goblins, con un gran coste para ellos mismos, han "
 "conseguido domesticarlos y usarlos como montura.\n"
@@ -2594,9 +2594,8 @@ msgstr ""
 
 #. [attack]: type=impact
 #: data/core/units/humans/Loyalist_Shock_Trooper.cfg:37
-#, fuzzy
 msgid "flail"
-msgstr "cola"
+msgstr "mangual"
 
 #. [unit_type]: id=Spearman, race=human
 #: data/core/units/humans/Loyalist_Spearman.cfg:4
@@ -3854,7 +3853,7 @@ msgstr "bola de barro"
 #. [unit_type]: id=Giant Rat, race=monster
 #: data/core/units/monsters/Giant_Rat.cfg:4
 msgid "Giant Rat"
-msgstr ""
+msgstr "Rata gigante"
 
 #. [unit_type]: id=Giant Rat, race=monster
 #: data/core/units/monsters/Giant_Rat.cfg:18
@@ -4013,17 +4012,15 @@ msgstr ""
 
 #. [unit_type]: id=Direwolf, race=wolf
 #: data/core/units/monsters/Wolf_Dire.cfg:4
-#, fuzzy
 #| msgid "Direwolf Rider"
 msgid "Direwolf"
-msgstr "Jinete de gran lobo"
+msgstr "Lobo terrible"
 
 #. [unit_type]: id=Great Wolf, race=wolf
 #: data/core/units/monsters/Wolf_Great.cfg:4
-#, fuzzy
 #| msgid "Great Troll"
 msgid "Great Wolf"
-msgstr "Gran troll"
+msgstr "Gran lobo"
 
 #. [unit_type]: id=Yeti, race=monster
 #: data/core/units/monsters/Yeti.cfg:4
@@ -5458,7 +5455,6 @@ msgstr ""
 #~ msgid "long sword"
 #~ msgstr "espada"
 
-#, fuzzy
 #~| msgid "Elder Mage"
 #~ msgid "Elder Falcon"
 #~ msgstr "Mago anciano"
