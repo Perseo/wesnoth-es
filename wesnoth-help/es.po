@@ -685,12 +685,12 @@ msgstr ""
 #. [topic]: id=drakish_language
 #: data/core/encyclopedia/drakes.cfg:187
 msgid "Drakish, language"
-msgstr ""
+msgstr "Dracos, lenguaje"
 
 #. [topic]: id=drakish_language
 #: data/core/encyclopedia/drakes.cfg:188
 msgid "The language spoken by the drakes."
-msgstr ""
+msgstr "La lengua hablada por los dracos."
 
 #. [section]: id=geography
 #. [topic]: id=..geography
@@ -710,11 +710,13 @@ msgid ""
 "A river rising in the <ref>dst='heart_mountains' text='Heart Mountains'</"
 "ref> and running east to the Listra."
 msgstr ""
+"Un río que nace en las <ref>dst='heart_mountains' text='montañas profundas'</"
+"ref> y corre hacia el este para desembocar en el Listra."
 
 #. [topic]: id=great_ocean
 #: data/core/encyclopedia/geography.cfg:31
 msgid "Great Ocean"
-msgstr ""
+msgstr "Gran océano"
 
 #. [topic]: id=great_ocean
 #: data/core/encyclopedia/geography.cfg:32
@@ -723,14 +725,25 @@ msgid ""
 "and all rivers eventually flow to it. Far to the west in the the Great Ocean "
 "is a huge archipelago called <ref>dst='morogor' text='Morogor'</ref>."
 msgstr ""
+"Se extiende al oeste del <ref>dst='great_continent' text='continente'</ref> "
+"y todos los ríos acaban desembocando en él. Lejos hacia el oeste, en el gran "
+"océano hay un enorme archipielago llamado <ref>dst='morogor' text='Morogor'</"
+"ref>."
 
 #. [topic]: id=morogor
 #: data/core/encyclopedia/geography.cfg:37
 msgid "Morogor"
-msgstr ""
+msgstr "Morogor"
 
 #. [topic]: id=morogor
 #: data/core/encyclopedia/geography.cfg:40
+#, fuzzy
+#| msgid ""
+#| "Archipelago, located somewhere in the <ref>dst='great_ocean' text='Great "
+#| "ocean'</ref> west of the <ref>dst='green_isle' text='Green Isle'</ref> "
+#| "and east of the <ref>dst=old_continent text='Old Continent'</ref>.\n"
+#| "It is mostly inhabited by <ref>dst='..race_drake' text='drakes'</ref>.\n"
+#| "The central island of the archipelago is also called ‘Morogor’."
 msgid ""
 "Archipelago, located somewhere in the <ref>dst='great_ocean' text='Great "
 "Ocean'</ref> west of the <ref>dst='green_isle' text='Green Isle'</ref> and "
@@ -738,6 +751,12 @@ msgid ""
 "It is mostly inhabited by <ref>dst='..race_drake' text='drakes'</ref>.\n"
 "The central island of the archipelago is also called ‘Morogor’."
 msgstr ""
+"Archipielago, localizado en alguna parte del <ref>dst='great_ocean' "
+"text='gran océano'</ref> al este de la <ref>dst='green_isle' text='isla "
+"verde'</ref> y al este del <ref>dst=old_continent text='viejo continente'</"
+"ref>.\n"
+"Está habitado mayormente por <ref>dst='..race_drake' text='dracos'</ref>.\n"
+"La isla central del archipielago también recibe el nombre de 'Morogor'."
 
 #. [topic]: id=green_isle
 #: data/core/encyclopedia/geography.cfg:45
@@ -753,12 +772,12 @@ msgstr "Isla verde"
 msgid ""
 "A bigger island lying in the <ref>dst='great_ocean' text='Great Ocean'</ref>."
 msgstr ""
-"Una fase del <ref>dst='breeding_cycle' text='ciclo reproductivo'</ref>."
+"Una gran isla situada en el <ref>dst='great_ocean' text='gran océano'</ref>."
 
 #. [topic]: id=old_continent
 #: data/core/encyclopedia/geography.cfg:51
 msgid "Old Continent"
-msgstr ""
+msgstr "Viejo continente"
 
 # Ver futuras notas acerca del significado de "breed".
 #. [topic]: id=old_continent
@@ -775,7 +794,7 @@ msgstr ""
 #. [topic]: id=great_continent
 #: data/core/encyclopedia/geography.cfg:57
 msgid "Great Continent"
-msgstr ""
+msgstr "Gran continente"
 
 #. [topic]: id=great_continent
 #: data/core/encyclopedia/geography.cfg:58
@@ -784,6 +803,9 @@ msgid ""
 "Wesnoth'</ref> lies. Its west coast is surrounded by the "
 "<ref>dst='great_ocean' text='Great Ocean'</ref>."
 msgstr ""
+"El continente donde se encuentra el <ref>dst='kingdom_wesnoth' text='Kingdom "
+"of Wesnoth'</ref>. Su costa oeste está bañada por las aguas del "
+"<ref>dst='great_ocean' text='gran océano'</ref>."
 
 #. [topic]: id=irdya
 #: data/core/encyclopedia/geography.cfg:63
@@ -798,11 +820,15 @@ msgid ""
 "rarely used in the era depicted by the main map. People normally just say "
 "“the world” or, poetically, “the wide green world”."
 msgstr ""
+"El nombre del mundo dónde el reino de ..... está situado es 'Irdya'. Este "
+"termino, sin embargo, era usado muy raramente en la época en que se emplaza "
+"el mapa principal. La gente simplemente decía 'el mundo' o, poéticamente, "
+"'el gran mundo verde'."
 
 #. [topic]: id=kingdom_wesnoth
 #: data/core/encyclopedia/geography.cfg:69
 msgid "Kingdom of Wesnoth"
-msgstr ""
+msgstr "Reino de Wesnoth"
 
 #. [topic]: id=kingdom_wesnoth
 #: data/core/encyclopedia/geography.cfg:95
@@ -861,11 +887,66 @@ msgid ""
 "south of Aldril. It receives drainage from the Brown Hills and feeds into "
 "the Great River. (Not shown on the main map.)"
 msgstr ""
+"El reino de Wesnoth está emplazado en la parte norte-central del "
+"<ref>dst='great_continent' text='gran continente'</ref>. La mayor parte de "
+"las campañas oficiales se desarrollan a su alrededor. En el mapa está "
+"delimitado por el gran río al norte, la orilla del gran oceano al oeste, el "
+"Aethenwood al <ref>dst='southwest_elven_lands' text='sudoeste'</ref>, y el "
+"pantano de las picaduras al sudeste (la esquina de abajo a la derecha en el "
+"mapa).\n"
+"\n"
+"Por encima del río Aethen, al sur del fuerte de Tath, está una zona "
+"fronteriza westhoniana.  Está delimitada al sur (fuera ya del mapa) por un "
+"denso bosque del cual Aethenwood es solo la parte más septentrional.\n"
+"    • Ciudades destacables:\n"
+"          ◦ Weldyn: La capital de Wesnoth.\n"
+"          ◦ Aldril: Ciudad situada en la bahía de las perlas.\n"
+"          ◦ Blackwater Port: Ciudad al sur de la bahía de las perlas.\n"
+"          ◦ Carcyn: Localizada entre el bosque grís y el gran río.\n"
+"          ◦ Dan’Tonk: La ciudad más grande de Wesnoth, localizada en el "
+"centro del país, justo al noroeste de Weldyn.\n"
+"          ◦ Soradoc: El puesto de avanzada más septentrional de Wesnoth, "
+"controla la zona de unión entre el río Weldyn y el gran río.\n"
+"          ◦ Fort Tahn: El puesto fronterizo más austral, controla el norte y "
+"el sur del camino que cruza el río Aethen.\n"
+"          ◦ Tath: Importante ciudad fortificada al norte de Dan’Tonk, ejerce "
+"control sobre las tierras salvajes al este de las colinas pardas y el norte "
+"del vado de Abez.\n"
+"\n"
+"    • Accidentes geográficos importantes:\n"
+"          ◦ La montaña de los grifos: Hogar de los legendarios grifos.\n"
+"          ◦ El vado de Abez: La parte más estrecha del gran río, "
+"habitualmente está bajo control de las tropas westonianas.\n"
+"          ◦ Río Weldyn: Nace del gran río y se dirige al sur.\n"
+"          ◦ La gran planicie central: Area delimitada por Weldyn, Dan'Tonk, "
+"y el fuerte Tatn, está llanura es el granero de Wesnoth y hogar de la mayor "
+"parte de su población.\n"
+"          ◦ Colinas Dulatus: Estás onduladas colinas que rodean la gran "
+"panicie central contribuyen mucho a la ganadería y agricultura de Wesnoth.\n"
+"          ◦ Colinas pardas: Los terrenos baldíos que rodean a la montaña de "
+"los grifos son un área bastante despoblada y en ocasiones, muy peligrosos .\n"
+"          ◦ Llanos de los caballos: Región de onduladas llanuras justo al "
+"sur del gran río, delimitada por el bosque de Glyn al oeste y por el río "
+"Weldyn al este; el límite al sur confluye con la planicie central. Hogar de "
+"los poderosos clanes; los mejores caballos de Wesnoth son criados aquí.\n"
+"          ◦ Colinas de Estmark: Una zona bastante grande que se extiende al "
+"sur del gran río y al este del río Weldyn. Su zona más nórdico, la más "
+"cercan al río Weldyn, ha estado varias veces controlada por los westonianos, "
+"pero el poder del reino es tenúe en el mejor de los casos y el pillaje "
+"comunes.\n"
+"          ◦ El bosque de Glyn: También conocido como el bosque real, recibe "
+"su nombre de uno de los hijos de Haldric II.\n"
+"          ◦ Bosque grís: Un gran bosque en el corazón de las tierras "
+"salvajes de Wesnoth, localizado entre Carcyn y Aldril y se dice que está "
+"encantado.\n"
+"          ◦ El pantano verde: Un gran pantano en el corazón de las tierras "
+"salvajes de Wesnoth, al sur de Aldril. Se desagua en las colinas pardas y "
+"contribuye a engrosar el gran río. (No aparece en el mapa principal)."
 
 #. [topic]: id=elensefar
 #: data/core/encyclopedia/geography.cfg:100
 msgid "Elensefar"
-msgstr ""
+msgstr "Elensefar"
 
 #. [topic]: id=elensefar
 #: data/core/encyclopedia/geography.cfg:107
@@ -886,12 +967,27 @@ msgid ""
 "          ◦ <ref>dst='great_river' text='Great River'</ref>: It is very wide "
 "at this point, and only ships can cross it."
 msgstr ""
+"Elensefar algunas veces es una provincia del <ref>dst='kingdom_wesnoth' "
+"text='reino de Wesnoth'</ref> algunas veces es un país independiente y a "
+"veces tiene una tratado federativo con Wesnoth. Sus fronteras son el gran "
+"río al norte, una línea poco definida con Wesnoth al este, la bahía de las "
+"perlas al sur y el <ref>dst='great_ocean' text='gran océano'</ref> al oeste. "
+"Para más información, consultese la narrativa histórica de Wesnoth.\n"
+"    • Ciudades notables:\n"
+"          ◦ Elensefar: La capital, localizada en una isla en el delta del "
+"<ref>dst='great_river' text='gran río'</ref>.\n"
+"          ◦ Carcyn: Ciudad en la frontera con Wesnoth, disputada con este "
+"reino.\n"
+"    • Accidentes geográficos de importancia:\n"
+"          ◦ <ref>dst='great_river' text='EL gran río'</ref>: Es muy ancho en "
+"este punto, y solo los barcos pueden cruzarlo.\n"
 
 #. [topic]: id=northlands
 #: data/core/encyclopedia/geography.cfg:112
 msgid "Northlands"
-msgstr ""
+msgstr "Tierras norteñas"
 
+# ¿Significa algo longlier?
 #. [topic]: id=northlands
 #: data/core/encyclopedia/geography.cfg:130
 msgid ""
@@ -935,11 +1031,47 @@ msgid ""
 "          ◦ Great River: The origin of this river is somewhere in the east "
 "of the northern lands"
 msgstr ""
+"No hay gobierno en lar tierras norteñas. Numerosos grupos de orcos, dracos, "
+"enanos, bárbaros e incluso elfos pueblan la región. Lsa fronteras meridonal "
+"y orientel no están definidas, la frontera al sur es el "
+"<ref>dst='great_river' text='gran río'</ref>, y la frontera occidental es el "
+"<ref>dst='great_ocean' text='gran océano'</ref>.\n"
+"\n"
+"    • Ciudades notables:\n"
+"          ◦ Glamdrol: Una capital tribal orca.\n"
+"          ◦ Romyr: Otra capital tribla orca.\n"
+"          ◦ Wesmere: Hogar del Ka'lian - el consejo elfo.\n"
+"          ◦ Puertas enanas: Una ciudad mixta de humanos y enanos en la "
+"región de Knalga en la parte nórdico de las montañas profundas. Un gran "
+"enclave comercial.\n"
+"          ◦ Dallben y Delwyn: Ciudades humanas originalmente construidas por "
+"los colonizadores que cruzaron el gran río durante la expansión en la época "
+"dorada de Wesnoth. Ahora están abandonadas. El area boscosa al noreste de "
+"Elensefar, dónde se encuentran estas ciudades, fue llamada provincia Annuvin "
+"por los hombres pero era conocida como Wesmere por los elfos.\n"
+"\n"
+"    • Accidentes geográficos de importancia:\n"
+"          ◦ Las montañas profundas: Una barrera virtualmente impasable entre "
+"la tierra del río y las llanuras norteñas.\n"
+"          ◦ Pantano del terror: Una ciénaga enorme enclavada entre las "
+"mntañas profundas y el gran río. Un lugar muy peligroso.\n"
+"          ◦ Lago Vrug: Un gran largo de montaña cuyos ríos horadan el único "
+"camino a través de las montañas nórdicoes.\n"
+"          ◦ Arkan-thoria: EL río que nace en el lago Vrug. Este es su nombre "
+"élfico; entre los humanos es llamado Longlier.\n"
+"          ◦ Río Listra: Un afluente del gran río que corre hacia el sur y en "
+"el que confluye el Arkan-thoria.\n"
+"          ◦ El bosque de Lintanir: La porción más nórdico del gran bosque "
+"boreal, un gigantesco bosque cuyos extremos nórdico y oriental solo son "
+"conocidos por los elfos. Su capital, Elensiria, muy pocas veces a sido "
+"visitada por humanos.\n"
+"          ◦ Great River: El nacimiento de este río se pierde en algún lugar "
+"del este de las tierras norteñas."
 
 #. [topic]: id=southwest_elven_lands
 #: data/core/encyclopedia/geography.cfg:135
 msgid "Southwest Elven Lands"
-msgstr ""
+msgstr "Las tierras élficas del sudoeste"
 
 #. [topic]: id=southwest_elven_lands
 #: data/core/encyclopedia/geography.cfg:141
@@ -956,6 +1088,17 @@ msgid ""
 "the southwest—much farther than is charted—and is home to <ref>dst='.."
 "race_elf' text='elves'</ref>."
 msgstr ""
+"Los elfos del bosque están separados de aquellos del norte, y sólo tienen "
+"intermitentes relaciones con ellos y con el resto de paises. Su fronteras "
+"son el pantano verde al noreste, el desierto (no mostrado) al sur, y el "
+"<ref>dst='great_ocean' text='gran océano'</ref> al oeste.\n"
+"\n"
+"    • Ciudades notables:\n"
+"          ◦ Ninguna conocida.\n"
+"    • Accidentes geográficos de importancia:\n"
+"          ◦ EL bosque de Aethen: El mayor bosque al sur, se extiende lejos "
+"hacia el sudoeste - mucho más lejos de lo trazado - y es el hogar de "
+"<ref>dst='..race_elf' text='los elfos'</ref>."
 
 #. [topic]: id=heart_mountains
 #: data/core/encyclopedia/geography.cfg:146
