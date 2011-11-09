@@ -14,19 +14,21 @@
 # Robert Romero <sildurin@gmail.com>, 2006.
 # Sergi March <sergi.march@gmail.com>, 2008.
 # Ignacio R. Morelle <shikadilord@users.sourceforge.net>, 2008, 2009.
+# Aelonin <quianaaelonin@gmail.com>, 2011.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-11-07 19:27-0500\n"
-"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
+"PO-Revision-Date: 2011-11-09 01:03+0100\n"
+"Last-Translator: Aelonin <quianaaelonin@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. [unit_type]: id=Dwarvish Dragonguard, race=dwarf
 #. [unit_type]: id=Dwarvish Masked Dragonguard, race=dwarf
@@ -1664,7 +1666,6 @@ msgstr "Jinete de lobo terrible"
 
 #. [unit_type]: id=Direwolf Rider, race=wolf
 #: data/core/units/goblins/Direwolf_Rider.cfg:21
-#, fuzzy
 msgid ""
 "‘Dire wolves’ differ from the common variety only in size and color. They "
 "typically stand taller than a horse at the shoulder, and have an appetite to "
@@ -1678,16 +1679,16 @@ msgid ""
 "deadly stroke."
 msgstr ""
 "Los 'lobos terribles' se diferencian de la variedad común sólo en el tamaño "
-"y en el color. Normalmente alcanzan una altura mayor que la del lomo de un "
-"caballo y tienen un apetito consecuente con su tamaño. Sólo un loco iría a "
-"su encuentro. Los goblins, con un gran coste para ellos mismos, han "
-"conseguido domesticarlos y usarlos como montura.\n"
+"y color. Normalmente alcanzan una altura que superior a la de un caballo y "
+"tienen un apetito consecuente con su tamaño. Sólo un loco iría a su "
+"encuentro. Los goblins, con un gran coste para ellos mismos, han conseguido "
+"domesticarlos y usarlos como montura.\n"
 "\n"
-"Las garras de un lobo no se cuentan normalmente entre las armas naturales "
-"más peligrosas que poseen estas bestias, pero en unas bestias de su tamaño, "
-"son más gruesas y largas que clavos de acero. Sus jinetes untan las "
-"delanteras con veneno, uno no muy diferente del que usan los asesinos orcos, "
-"haciendo que un ataque de las garras de estas bestias sea un golpe mortal."
+"Las garras de un lobo habitualmente no se cuentan entre las armas naturales "
+"más peligrosas, pero en unas bestias de su tamaño, son más gruesas y largas "
+"que clavos de acero. Sus jinetes untan las delanteras con veneno, uno no muy "
+"diferente del que usan los asesinos orcos, haciendo que un ataque de las "
+"garras de estas bestias sea un golpe mortal."
 
 #. [unit_type]: id=Goblin Impaler, race=goblin
 #: data/core/units/goblins/Impaler.cfg:4
