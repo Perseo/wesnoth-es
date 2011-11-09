@@ -10,19 +10,21 @@
 # Roberto Romero <sildurin@gmail.com>, 2006, 2007.
 # Sergi March <sergi.march@gmail.com>, 2008.
 # Ignacio R. Morelle <shikadilord@users.sourceforge.net>, 2008, 2009.
+# Aelonin <quianaaelonin@gmail.com>, 2011.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-09-04 11:42+0200\n"
-"PO-Revision-Date: 2011-11-08 20:19+0100\n"
-"Last-Translator: Diego Grande <dgrande90@gmail.com>\n"
+"PO-Revision-Date: 2011-11-09 03:32+0100\n"
+"Last-Translator: Aelonin <quianaaelonin@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Poedit-Language: Spanish\n"
 
 #. [scenario]: id=22_The_Rise_of_Wesnoth
@@ -80,8 +82,8 @@ msgid ""
 "with Lich-Lord Jevyan awaits...\n"
 "\n"
 msgstr ""
-"Lleve al príncipe Haldric a través de la destrucción de Isla Verde y a "
-"través del océano para establecer el futuro glorioso reino de Wesnoth. El "
+"Lidere al príncipe Haldric a través de la destrucción de Isla Verde y a "
+"través del océano para establecer el mismísimo reino de Wesnoth. El "
 "enfrentamiento con el señor Liche Jevyan le espera... \n"
 "\n"
 
@@ -153,7 +155,7 @@ msgstr "Haldric"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:43
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:38
 msgid "Wesfolk Leader"
-msgstr "Líder Wesfolk"
+msgstr "Líder wesfolk"
 
 #. [side]: type=Wesfolk Outcast, id=Wesfolk Leader
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:50
@@ -170,7 +172,7 @@ msgstr "Rey Eldaric IV"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:70
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:157
 msgid "Defeat the Wesfolk Leader"
-msgstr "Derrotar al líder de Wesfolk"
+msgstr "Derrotar al líder wesfolk"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:74
@@ -219,7 +221,7 @@ msgid ""
 "It looks like a Wesfolk rabble have seized the Northern Keep! Prepare for "
 "battle, Haldric!"
 msgstr ""
-"¡Parece que la chusma de Wesfolk domina la Torre norte! ¡Prepárate para la "
+"¡Parece que la chusma wesfolk domina la Torre norte! ¡Prepárate para la "
 "Batalla, Haldric!"
 
 #. [message]: speaker=Prince Haldric
@@ -245,7 +247,7 @@ msgid ""
 "They’re Wesfolk, reavers and thieves by nature; rare is the summer they do "
 "not raid us. What mystery is in it now?"
 msgstr ""
-"Son Wesfolk, bandidos y ladrones por naturaleza; raro es el verano que no "
+"Son wesfolk, bandidos y ladrones por naturaleza; raro es el verano que no "
 "nos asaltan. ¿Qué misterio hay en esto ahora?"
 
 #. [message]: speaker=King Eldaric IV
@@ -340,7 +342,7 @@ msgid ""
 msgstr ""
 "Permitieron que los terrores de los infiernos entraran en esta isla. "
 "¡Construyeron un gran portal de piedra al corazón de la patria de los orcos "
-"en el lejano occidente! Ahora incluso nosotros, los Wesfolk debemos huir "
+"en el lejano occidente! Ahora incluso nosotros, los wesfolk debemos huir "
 "para no ser convertidos en esclavos."
 
 #. [message]: speaker=Prince Haldric
@@ -396,7 +398,7 @@ msgstr ""
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:236
 msgid "Die, Wesfolk scum!"
-msgstr "¡Muere, escoria Wesfolk!"
+msgstr "¡Muere, escoria wesfolk!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:248
@@ -406,7 +408,7 @@ msgstr "¡Siente mi ira, sabandija!"
 #. [scenario]: id=02_The_Fall
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:4
 msgid "The Fall"
-msgstr "La Caída"
+msgstr "La caída"
 
 #. [side]: type=Noble Fighter, id=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:28
@@ -495,7 +497,7 @@ msgstr "Muerte del rey Eldaric IV"
 #. [objective]: condition=lose
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:169
 msgid "Orcs kill the Wesfolk Leader"
-msgstr "Que los orcos maten al líder de Wesfolk"
+msgstr "Que los orcos maten al líder wesfolk"
 
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:187
@@ -516,7 +518,7 @@ msgid ""
 "That’s awful! And it only gets worse. That Wesfolk rabble has set up shop "
 "again in the south pass..."
 msgstr ""
-"¡Es horrible! Y sólo puede empeorar. Esa chusma Wesfolk se han establecido "
+"¡Es horrible! Y sólo puede empeorar. Esa chusma wesfolk se han establecido "
 "en el paso del sur..."
 
 #. [message]: speaker=King Eldaric IV
@@ -527,7 +529,7 @@ msgid ""
 "haste."
 msgstr ""
 "¡Es el único camino para salir del valle! ¡Es desastroso! Debemos acabar con "
-"esa escoria  Wesfolk y huir hacia el sur. Nuestro hogar está perdido. "
+"esa escoria  wesfolk y huir hacia el sur. Nuestro hogar está perdido. "
 "Debemos apresurarnos."
 
 #. [message]: speaker=Tan-Rarbag
@@ -548,7 +550,7 @@ msgstr "Esto se va a poner feo..."
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:221
 msgid "Hurry! Only death awaits in this valley!"
-msgstr "¡Adelante! ¡Sólo la muerte aguarda en este valle!"
+msgstr "¡Aprisa! ¡Sólo la muerte nos aguarda en este valle!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:265
@@ -872,7 +874,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:268
 msgid "GO HOME! AIN’T NUTTIN TO SEE HEER!"
-msgstr "¡A CASA! ¡AQUÍ NO HAY NADA QUE VER!"
+msgstr "¡A CASA! ¡'QUÍ N'AY N'A QUE VE'!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:278
@@ -905,8 +907,8 @@ msgid ""
 "<i>Swamp</i>?! I’m under five feet tall, and I don’t float! ... Argh, have "
 "it your way."
 msgstr ""
-"¡UN PANTANO! Mido metro y medio de alto, ¡y no floto! Agh, toma tú ese "
-"camino."
+"¡<i>Un pantano</i>! Mido metro y medio de alto, ¡y no floto! ... Agh, "
+"habremos de hacerlo a tu manera."
 
 #. [option]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:303
@@ -2186,7 +2188,7 @@ msgid ""
 "the Lich-Lords’ dark pact with the orcs, in no small part because your fool "
 "Prince of Southbay convinced them that their immortal un-lives were over!"
 msgstr ""
-"¡Soy Lady Jessene, una noble, una princesa de los Wesfolk! He sido "
+"¡Soy Lady Jessene, una noble, una princesa de los wesfolk! He sido "
 "traicionada por los señores liches y el oscuro pacto que han sellado con los "
 "orcos, ¡en buena parte porque vuestro inepto príncipe de Bahía del Sur los "
 "convenció de que su inmortalidad se había agotado!"
@@ -2443,10 +2445,10 @@ msgid ""
 "will help you defend these walls as long as we can."
 msgstr ""
 "Bien, somos los últimos refugiados de nuestras tierras, ya que los orcos nos "
-"pisan los talones. Hay Wesfolks entre nosotros. Nos han prestado servicio. "
-"Serán evacuados también. Hemos viajado desde muy lejos, y transportamos a "
-"muchos heridos, pero ayudaremos en la defensa de estas murallas todo lo que "
-"podamos."
+"pisan los talones. Hay gente wesfolk entre nosotros. Nos han prestado "
+"servicio. Serán evacuados también. Hemos viajado desde muy lejos, y "
+"transportamos a muchos heridos, pero ayudaremos en la defensa de estas "
+"murallas todo lo que podamos."
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:326
@@ -2454,7 +2456,7 @@ msgid ""
 "I thank you, my lord. But we are to bring these Wesfolk too? It would be... "
 "highly irregular. Are you sure, my lord?"
 msgstr ""
-"Os lo agradezco, mi señor. ¿Pero transportaremos también a estos Wesfolk? "
+"Os lo agradezco, mi señor. ¿Pero transportaremos también a estos wesfolk? "
 "Sería... altamente irregular. ¿Estáis seguro, mi señor?"
 
 #. [message]: speaker=Prince Haldric
@@ -2508,8 +2510,8 @@ msgid ""
 "<i>“Bring these Wesfolk too? It would be... highly irregular.”</i> Bah! I’ll "
 "show you irregular..."
 msgstr ""
-"<<¿Transportaremos también a estos Wesfolk? Sería... altamente irregular.>> "
-"¡Bah! Te voy a enseñar yo lo que es irregular..."
+"<i>«¿Transportaremos también a estos wesfolk? Sería... altamente "
+"irregular.»</i> ¡Bah! Te voy a enseñar yo lo que es irregular..."
 
 #. [message]: speaker=Ut'Tan-Vrork
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:382
@@ -2794,7 +2796,7 @@ msgstr ""
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:268
 msgid "Some pep talk. The book will probably be in the Old Wesfolk tongue."
 msgstr ""
-"Vaya arenga. El libro estará probablemente en la antigua lengua Wesfolk."
+"Vaya arenga. El libro estará probablemente en la antigua lengua wesfolk."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:272
@@ -3077,7 +3079,7 @@ msgid ""
 "here after the Wesfolk war!"
 msgstr ""
 "¡Que un rey desterró a dos magos gemelos y a sus devotos seguidores aquí "
-"abajo tras la guerra de Wesfolk!"
+"abajo tras la Guerra Wesfolk!"
 
 #. [message]: speaker=Daellyn the Red
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/10_Sewer_of_Southbay.cfg:176
@@ -3241,7 +3243,7 @@ msgid ""
 "Hmph! It matters little now. What’s this? You bring a Wesfolk waif with you. "
 "Put her out with the others!"
 msgstr ""
-"¡Hmph! Poco importa ahora. ¿Qué es esto? Traes a una Wesfolk contigo. "
+"¡Hmph! Poco importa ahora. ¿Qué es esto? Traes a una wesfolk contigo. "
 "¡Llévala afuera con los otros!"
 
 #. [message]: speaker=Lady Jessene
@@ -3266,7 +3268,7 @@ msgid ""
 "What? On your word alone, boy? And what of the other Wesfolk that have "
 "drifted to our gate?"
 msgstr ""
-"¿Qué? ¿Sólo porque tu lo digas, chico? ¿Y qué hay de los otros Wesfolk que "
+"¿Qué? ¿Sólo porque tu lo digas, chico? ¿Y qué hay de los otros wesfolk que "
 "se agolpan ante nuestras puertas?"
 
 #. [message]: speaker=Prince Haldric
@@ -3284,7 +3286,7 @@ msgid ""
 msgstr ""
 "Y porque puedo mejorar el trato. Puedo salvar las vidas de toda la gente de "
 "la isla. Lo haré si juras por el alma de tu primogénito que permitirás a "
-"todos los Wesfolk que puedan entrar en la ciudad, y que participen en lo que "
+"todos los wesfolk que puedan entrar en la ciudad, y que participen en lo que "
 "debe ocurrir después."
 
 #. [message]: speaker=King Addroran IX
@@ -6277,7 +6279,7 @@ msgstr "Vamos, aguarda un segundo..."
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:457
 msgid "For the Wesfolk!"
-msgstr "¡Por los Wesfolk!"
+msgstr "¡Por los wesfolk!"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:471
@@ -6790,7 +6792,7 @@ msgid ""
 "building a true ‘Kingdom of Wesnoth’. I... I think a Queen’s crown would sit "
 "well upon that flame-colored hair of yours, Jessene."
 msgstr ""
-"Hay muchos Wesfolk entre lo que queda de mi gente. Debemos permanecer unidos "
+"Hay muchos wesfolk entre lo que queda de mi gente. Debemos permanecer unidos "
 "bajo un mismo estandarte. Te necesitaré a mi lado si hay alguna esperanza de "
 "construir un auténtico «Reino de Wesnoth». Creo que una corona de Reina de "
 "quedará bien en tu pelo del color del fuego, Jessene."
@@ -7005,7 +7007,7 @@ msgstr ""
 #. [unit_type]: id=Wesfolk Lady, race=human
 #: data/campaigns/The_Rise_Of_Wesnoth/units/Wesfolk_Lady.cfg:4
 msgid "female^Wesfolk Lady"
-msgstr "Dama Wesfolk"
+msgstr "Dama wesfolk"
 
 #. [unit_type]: id=Wesfolk Leader, race=human
 #. [unit_type]: id=Wesfolk Lady, race=human
@@ -7018,7 +7020,7 @@ msgid ""
 "in her veins and in the battlefield she has earned valuable experience, "
 "which continues increasing with time, as does her natural leadership."
 msgstr ""
-"Nacida en la aristocracia Wesfolk, ella y su gente fueron excluidos de la "
+"Nacida en la aristocracia wesfolk, ella y su gente fueron excluidos de la "
 "sociedad por sus señores, que traicionaron a su lealtad cuando una guerra "
 "contra la gente de Haldric estaba siendo perdida. Esta paria aún conserva su "
 "nobleza en sus venas y en el campo de batalla ha ganado una valiosa "
@@ -7042,12 +7044,12 @@ msgstr "honda"
 #. [unit_type]: id=Wesfolk Leader, race=human
 #: data/campaigns/The_Rise_Of_Wesnoth/units/Wesfolk_Leader.cfg:4
 msgid "female^Wesfolk Leader"
-msgstr "Líder Wesfolk"
+msgstr "Líder wesfolk"
 
 #. [unit_type]: id=Wesfolk Outcast, race=human
 #: data/campaigns/The_Rise_Of_Wesnoth/units/Wesfolk_Outcast.cfg:4
 msgid "female^Wesfolk Outcast"
-msgstr "Paria Wesfolk"
+msgstr "Paria wesfolk"
 
 #. [unit_type]: id=Wesfolk Outcast, race=human
 #: data/campaigns/The_Rise_Of_Wesnoth/units/Wesfolk_Outcast.cfg:22
@@ -7058,7 +7060,7 @@ msgid ""
 "in her veins and in the battlefield she has earned valuable experience, "
 "which she can lend to her people for turning a fight in their favor."
 msgstr ""
-"Nacida en la aristocracia Wesfolk, ella y su gente fueron excluidos de la "
+"Nacida en la aristocracia wesfolk, ella y su gente fueron excluidos de la "
 "sociedad por sus señores, que traicionaron a su lealtad cuando una guerra "
 "contra la gente de Haldric estaba siendo perdida. Esta paria aún conserva su "
 "nobleza en sus venas y en el campo de batalla ha ganado una valiosa "
@@ -7275,8 +7277,8 @@ msgid ""
 "dirty lot."
 msgstr ""
 "Éramos prósperos, fuertes y numerosos. Vivíamos en una tierra rica con "
-"muchos reyes. Entonces ELLOS llegaron, los Wesfolk. Eran malvados, crueles y "
-"sucios."
+"muchos reyes. Entonces <i>ellos</i> llegaron, los wesfolk. Eran una escoria "
+"malvada, cruel y sucia."
 
 #. [part]
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-story.cfg:17
@@ -7286,7 +7288,7 @@ msgid ""
 "used dark magic, commanding vengeful spirits and legions of walking dead..."
 msgstr ""
 "Eran los refugiados vencidos de alguna guerra, huyendo de sus hogares, en "
-"una tierra aún más lejana, al oeste. Los Wesfolk no eran numerosos, pero "
+"una tierra aún más lejana, al oeste. Los wesfolk no eran numerosos, pero "
 "usaban magia oscura, guiando espíritus vengativos y legiones de muertos "
 "vivientes..."
 
@@ -7299,7 +7301,7 @@ msgid ""
 "war we gleaned our first shards of knowledge about magic."
 msgstr ""
 "Después de un periodo de grandes batallas se alcanzó la paz. Nosotros "
-"dominábamos la mayor parte de la isla, mientras que los Wesfolk fueron "
+"dominábamos la mayor parte de la isla, mientras que los wesfolk fueron "
 "arrinconados en las tierras más marginales. Enfrentándonos a sus malvadas "
 "legiones nos fortalecimos. De hecho, fue en esta guerra donde aprendimos "
 "nuestras primeras lecciones sobre magia."
@@ -7358,7 +7360,7 @@ msgstr ""
 "había descubierto la tierra del este cayó enfermo y murió bajo extrañas "
 "circunstancias. A su hermano pequeño, siguiente en la línea al trono, le "
 "irritó el que el ojo de la sospecha se cerniera sobre él.Conspiró para "
-"empezar una guerra de distracción con los pobres reinos Wesfolk y sus "
+"empezar una guerra de distracción con los pobres reinos wesfolk y sus "
 "señores liches."
 
 #. [part]
@@ -7368,7 +7370,7 @@ msgid ""
 "Isle to make war with the Wesfolk. This is where our story begins..."
 msgstr ""
 "El nuevo príncipe heredero partió con el ejército más grande jamás visto en "
-"la isla para atacar a los Wesfolk. Aquí es donde nuestra historia comienza..."
+"la isla para atacar a los wesfolk. Aquí es donde nuestra historia comienza..."
 
 #. [part]
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-story.cfg:70
@@ -7434,7 +7436,7 @@ msgstr ""
 "Aguaclara. Es muy probable que haya sido la ciudad más grande de la isla a "
 "salvo de los acontecimientos de la Guerra Wesfolk. Los señores liches "
 "estropearon casi toda la tierra entorno al río durante el curso de la gran "
-"batalla. Ahora el pantano es el hogar de un culto que imita al Wesfolk."
+"batalla. Ahora el pantano es el hogar de un culto que imita al wesfolk."
 
 #. [part]
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-story.cfg:127
