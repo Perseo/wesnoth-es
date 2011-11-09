@@ -17,8 +17,8 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-09-04 11:42+0200\n"
-"PO-Revision-Date: 2011-11-09 13:57+0100\n"
-"Last-Translator: Aelonin <quianaaelonin@gmail.com>\n"
+"PO-Revision-Date: 2011-11-09 08:10-0500\n"
+"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgstr ""
 #: data/campaigns/The_Rise_Of_Wesnoth/_main.cfg:10
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:4
 msgid "The Rise of Wesnoth"
-msgstr "El Despertar de Wesnoth"
+msgstr "El despertar de Wesnoth"
 
 #. [campaign]: id=The_Rise_of_Wesnoth
 #: data/campaigns/The_Rise_Of_Wesnoth/_main.cfg:11
@@ -874,7 +874,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:268
 msgid "GO HOME! AIN’T NUTTIN TO SEE HEER!"
-msgstr "¡A CASA! ¡'QUÍ N'AY N'Á QUE VÉ'!"
+msgstr "¡A CASA! ¡’QUÍ N’AY N’Á QUE VÉ’!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:278
@@ -923,7 +923,7 @@ msgstr "Intuyo que a estas alturas las tierras centrales estarán en ruinas."
 # Una vara son aprox 0.84m, y un pie son 0.30m, los cálculos no son perfectos, pero no tratamos de tener precisión matemática si no crear ambiente. (No sabemos si menos de 5 pies significa 1.40 cm, 1.30cm, etc, sabemos que está entre 1.20m y 1.50m [para los "locos" de las matemáticas que busquen precisión ])
 #
 # La vara se usaba bastante en los países hispanos, por ello la he escogido.
-# NOTA: En Brasil, creo, eran 1.10m, pero no es una traducción que nos incumba. 
+# NOTA: En Brasil, creo, eran 1.10m, pero no es una traducción que nos incumba.
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:312
 msgid ""
@@ -1314,12 +1314,12 @@ msgstr "¡Cierra el pico! Vamos a por ellos."
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:215
 msgid "SE — The Oldwood. Enter at Your Own Risk!"
-msgstr "SE - El bosque viejo. ¡Entre bajo su propio riesgo!"
+msgstr "SE — El bosque viejo. ¡Entre bajo su propio riesgo!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:236
 msgid "SW — Southbay."
-msgstr "SO - Bahía del Sur."
+msgstr "SO — Bahía del Sur."
 
 #. [event]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:260
@@ -2540,7 +2540,7 @@ msgstr "Vado del hombre muerto"
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:464
 msgid "The River Road — To the Swamp of Esten."
-msgstr "La carretera del río - al Pantano de Esten."
+msgstr "La carretera del río — al Pantano de Esten."
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:562
@@ -2618,7 +2618,7 @@ msgstr ""
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:896
 msgid "Let me have peace in Death! My love, I’ll be there soon—"
-msgstr "¡déjame encontrar paz en la muerte! Mi amor, pronto estaré contigo--"
+msgstr "¡déjame encontrar paz en la muerte! Mi amor, pronto estaré contigo—"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:901
@@ -2656,7 +2656,7 @@ msgid ""
 "know that lich you have petrified just outside of Southbay—"
 msgstr ""
 "Posees el Rubí de Fuego, pero no tienes idea de para qué sirve, ¿cierto? "
-"Sabes que el liche que petrificaste en las afueras de Bahía del Sur-"
+"Sabes que el liche que petrificaste en las afueras de Bahía del Sur—"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:940
@@ -4410,7 +4410,7 @@ msgstr "Seguro que éste no era el recibimiento que esperabas."
 #. [scenario]: id=16_The_Kalian
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:4
 msgid "The Ka’lian"
-msgstr "El Ka'lian"
+msgstr "El Ka’lian"
 
 #. [side]: type=Elvish Shyde, id=Lady Dionli
 #. [side]: type=Elvish Champion, id=Lord Logalmier
@@ -4440,7 +4440,7 @@ msgstr "Señor Aryad"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:137
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/18_A_Spy_in_the_Woods.cfg:102
 msgid "Lord El’Isomithir"
-msgstr "Señor El'Isomithir"
+msgstr "Señor El’Isomithir"
 
 #. [option]: id=16_The_Kalian
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:145
@@ -4565,7 +4565,7 @@ msgid ""
 "Haldric and his companions find themselves before the Ka’lian, or the "
 "Council of Elven Lords."
 msgstr ""
-"Haldric y sus compañeros se encuentran ante el Ka'lian, el Consejo de "
+"Haldric y sus compañeros se encuentran ante el Ka’lian, el Consejo de "
 "señores élficos."
 
 #. [message]: speaker=Lord Logalmier
@@ -4905,7 +4905,7 @@ msgstr "Ya lo veremos."
 #. [message]: speaker=Shek'kahan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:401
 msgid "Who dares disturb Shek’kahan the Terrible?"
-msgstr "¿Quién osa molestar a Shek'kahan el Terrible?"
+msgstr "¿Quién osa molestar a Shek’kahan el Terrible?"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:405
@@ -5814,7 +5814,7 @@ msgid ""
 "You again! You will sssuffer for your attack against my people! Shek’kahan, "
 "our Naga friendsss— You’ll pay! We have new friends now."
 msgstr ""
-"Tú otra vez. ¡¡Sssufrirásss por haber atacado a mi gente!! Shek'kahan, "
+"Tú otra vez. ¡¡Sssufrirásss por haber atacado a mi gente!! Shek’kahan, "
 "nuestros amigos nagasss— ¡Lo pagarás caro! Ahora tenemos nuevos amigos."
 
 #. [message]: speaker=Tan-Halg
@@ -7194,7 +7194,7 @@ msgstr "Un viejo amigo"
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-nlmsg.cfg:13
 msgid "I still think I should be called ‘Dragonbane’."
-msgstr "Aún creo que debería ser llamado 'Matadragones'."
+msgstr "Aún creo que debería ser llamado «Matadragones»."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-nlmsg.cfg:17
