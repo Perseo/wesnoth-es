@@ -16,14 +16,15 @@
 # Ignacio R. Morelle <shikadilord@users.sourceforge.net>, 2008, 2009.
 # Gustavo Gingins <gusgins@gmail.com>, 2009.
 # Víctor <quianaaelonin@gmail.com>, 2011.
+# Aelonin <quianaaelonin@gmail.com>, 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-09-14 23:48+0200\n"
-"Last-Translator: Víctor <quianaaelonin@gmail.com>\n"
+"PO-Revision-Date: 2011-11-10 02:31+0100\n"
+"Last-Translator: Aelonin <quianaaelonin@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -52,8 +53,9 @@ msgid ""
 "until one of the combatants is slain, or 30 rounds of attacks have occurred."
 msgstr ""
 "Berserk:\n"
-"Usado tanto ofensiva como defensivamente, este ataque alarga la lucha hasta "
-"la muerte de uno de los combatientes, con un máximo de 30 rondas de ataques."
+"Usado tanto de forma ofensiva como defensiva, este ataque alarga la lucha "
+"hasta la muerte de uno de los combatientes, con un máximo de 30 rondas de "
+"ataques."
 
 #. [chance_to_hit]: id=magical
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:835
@@ -669,7 +671,7 @@ msgstr ""
 #. [topic]: id=drakish_script
 #: data/core/encyclopedia/drakes.cfg:181
 msgid "Drakish, script"
-msgstr "Dracos, escritura"
+msgstr "Dracónica, escritura"
 
 #. [topic]: id=drakish_script
 #: data/core/encyclopedia/drakes.cfg:182
@@ -678,14 +680,14 @@ msgid ""
 "text='ceramic'</ref> tablets by members of the <ref>dst='recorder' "
 "text='Recorder'</ref> vocation."
 msgstr ""
-"El lenguaje manuscrito de los dracos. Recopilado en tabletas de "
+"El lenguaje escrito de los dracos. Recopilado en tabletas de "
 "<ref>dst='ceramic' text='cerámica'</ref> por los miembros de el gremio de "
 "los <ref>dst='recorder' text='grabadores'</ref>."
 
 #. [topic]: id=drakish_language
 #: data/core/encyclopedia/drakes.cfg:187
 msgid "Drakish, language"
-msgstr "Dracos, lenguaje"
+msgstr "Dracónico, lenguaje"
 
 #. [topic]: id=drakish_language
 #: data/core/encyclopedia/drakes.cfg:188
@@ -711,7 +713,7 @@ msgid ""
 "ref> and running east to the Listra."
 msgstr ""
 "Un río que nace en las <ref>dst='heart_mountains' text='montañas profundas'</"
-"ref> y corre hacia el este para desembocar en el Listra."
+"ref>, fluye hacia el este para desembocar en el río Listra."
 
 #. [topic]: id=great_ocean
 #: data/core/encyclopedia/geography.cfg:31
@@ -726,9 +728,9 @@ msgid ""
 "is a huge archipelago called <ref>dst='morogor' text='Morogor'</ref>."
 msgstr ""
 "Se extiende al oeste del <ref>dst='great_continent' text='continente'</ref> "
-"y todos los ríos acaban desembocando en él. Lejos hacia el oeste, en el gran "
-"océano hay un enorme archipielago llamado <ref>dst='morogor' text='Morogor'</"
-"ref>."
+"y todos los ríos acaban desembocando en él. Lejos, hacia el oeste, en el "
+"gran océano se encuentra un enorme archipielago denominado "
+"<ref>dst='morogor' text='Morogor'</ref>."
 
 #. [topic]: id=morogor
 #: data/core/encyclopedia/geography.cfg:37
@@ -737,7 +739,6 @@ msgstr "Morogor"
 
 #. [topic]: id=morogor
 #: data/core/encyclopedia/geography.cfg:40
-#, fuzzy
 #| msgid ""
 #| "Archipelago, located somewhere in the <ref>dst='great_ocean' text='Great "
 #| "ocean'</ref> west of the <ref>dst='green_isle' text='Green Isle'</ref> "
@@ -751,28 +752,26 @@ msgid ""
 "It is mostly inhabited by <ref>dst='..race_drake' text='drakes'</ref>.\n"
 "The central island of the archipelago is also called ‘Morogor’."
 msgstr ""
-"Archipielago, localizado en alguna parte del <ref>dst='great_ocean' "
-"text='gran océano'</ref> al este de la <ref>dst='green_isle' text='isla "
-"verde'</ref> y al este del <ref>dst=old_continent text='viejo continente'</"
-"ref>.\n"
+"Archipiélago situado en algún lugar del <ref>dst='great_ocean' text='gran "
+"océano'</ref>, al oeste de la <ref>dst='green_isle' text='isla verde'</ref> "
+"y al este del <ref>dst=old_continent text='viejo continente'</ref>.\n"
 "Está habitado mayormente por <ref>dst='..race_drake' text='dracos'</ref>.\n"
-"La isla central del archipielago también recibe el nombre de 'Morogor'."
+"La isla central del archipiélago también recibe el nombre de «Morogor»."
 
 #. [topic]: id=green_isle
 #: data/core/encyclopedia/geography.cfg:45
-#, fuzzy
 msgid "Green Isle"
 msgstr "Isla verde"
 
 #. [topic]: id=green_isle
 #: data/core/encyclopedia/geography.cfg:46
-#, fuzzy
 #| msgid ""
 #| "A portion of the <ref>dst='breeding_cycle' text='breeding cycle'</ref>."
 msgid ""
 "A bigger island lying in the <ref>dst='great_ocean' text='Great Ocean'</ref>."
 msgstr ""
-"Una gran isla situada en el <ref>dst='great_ocean' text='gran océano'</ref>."
+"Una isla de gran tamaño situada en el <ref>dst='great_ocean' text='gran "
+"océano'</ref>."
 
 #. [topic]: id=old_continent
 #: data/core/encyclopedia/geography.cfg:51
@@ -782,14 +781,12 @@ msgstr "Viejo continente"
 # Ver futuras notas acerca del significado de "breed".
 #. [topic]: id=old_continent
 #: data/core/encyclopedia/geography.cfg:52
-#, fuzzy
 msgid ""
 "Lies to the west of <ref>dst='morogor' text='Morogor'</ref> across the "
 "<ref>dst='great_ocean' text='Great Ocean'</ref>."
 msgstr ""
-"Una gigantesca estructura con forma de castillo que es hogar de una "
-"<ref>dst='flight' text='bandada'</ref>. Contiene el <ref>dst='breeding_pen' "
-"text='area de incubación.'</ref>."
+"Se encuentra al oeste de <ref>dst='morogor' text='Morogor'</ref> cruzando el "
+"<ref>dst='great_ocean' text='gran océano'</ref>."
 
 #. [topic]: id=great_continent
 #: data/core/encyclopedia/geography.cfg:57
@@ -803,8 +800,8 @@ msgid ""
 "Wesnoth'</ref> lies. Its west coast is surrounded by the "
 "<ref>dst='great_ocean' text='Great Ocean'</ref>."
 msgstr ""
-"El continente donde se encuentra el <ref>dst='kingdom_wesnoth' text='Kingdom "
-"of Wesnoth'</ref>. Su costa oeste está bañada por las aguas del "
+"El continente donde se encuentra el <ref>dst='kingdom_wesnoth' text='reino "
+"de Wesnoth'</ref>. Su costa oeste está bañada por las aguas del "
 "<ref>dst='great_ocean' text='gran océano'</ref>."
 
 #. [topic]: id=irdya
@@ -820,10 +817,10 @@ msgid ""
 "rarely used in the era depicted by the main map. People normally just say "
 "“the world” or, poetically, “the wide green world”."
 msgstr ""
-"El nombre del mundo dónde el reino de ..... está situado es 'Irdya'. Este "
-"termino, sin embargo, era usado muy raramente en la época en que se emplaza "
-"el mapa principal. La gente simplemente decía 'el mundo' o, poéticamente, "
-"'el gran mundo verde'."
+"El nombre del mundo dónde el reino de <ref>dst='kingdom_wesnoth' "
+"text='Wesnoth'</ref> está situado es ‘Irdya’. Este término, sin embargo, es "
+"usado muy raramente en la época representada en el mapa principal. La gente "
+"simplemente dice «el mundo» o, poéticamente, «el vasto mundo verde»."
 
 #. [topic]: id=kingdom_wesnoth
 #: data/core/encyclopedia/geography.cfg:69
@@ -832,6 +829,7 @@ msgstr "Reino de Wesnoth"
 
 #. [topic]: id=kingdom_wesnoth
 #: data/core/encyclopedia/geography.cfg:95
+#, fuzzy
 msgid ""
 "The Kingdom of Wesnoth is located in the north-central portion of the "
 "<ref>dst='great_continent' text='Great Continent'</ref>. Most of the "
@@ -887,37 +885,37 @@ msgid ""
 "south of Aldril. It receives drainage from the Brown Hills and feeds into "
 "the Great River. (Not shown on the main map.)"
 msgstr ""
-"El reino de Wesnoth está emplazado en la parte norte-central del "
+"El reino de Wesnoth está emplazado en la parte norcentral del "
 "<ref>dst='great_continent' text='gran continente'</ref>. La mayor parte de "
-"las campañas oficiales se desarrollan a su alrededor. En el mapa está "
-"delimitado por el gran río al norte, la orilla del gran oceano al oeste, el "
-"Aethenwood al <ref>dst='southwest_elven_lands' text='sudoeste'</ref>, y el "
-"pantano de las picaduras al sudeste (la esquina de abajo a la derecha en el "
-"mapa).\n"
+"las campañas oficiales se desarrollan con relación a él. Tomando el mapa "
+"principal como referencia; queda delimitado por el gran río al norte, la "
+"orilla del gran océano al oeste, el bosque de Aethenwood al "
+"<ref>dst='southwest_elven_lands' text='sudoeste'</ref>, y el pantano Amargo "
+"al sudeste (esquina inferior izquierda del mapa).\n"
 "\n"
-"Por encima del río Aethen, al sur del fuerte de Tath, está una zona "
-"fronteriza westhoniana.  Está delimitada al sur (fuera ya del mapa) por un "
-"denso bosque del cual Aethenwood es solo la parte más septentrional.\n"
+"Cruzado el río Aethen, al sur del fuerte de Tath, es zona fronteriza "
+"wesnothiana. Está delimitada al sur (fuera del mapa) por un denso bosque del "
+"cual Aethenwood es solo la parte más septentrional.\n"
 "    • Ciudades destacables:\n"
 "          ◦ Weldyn: La capital de Wesnoth.\n"
 "          ◦ Aldril: Ciudad situada en la bahía de las perlas.\n"
 "          ◦ Blackwater Port: Ciudad al sur de la bahía de las perlas.\n"
-"          ◦ Carcyn: Localizada entre el bosque grís y el gran río.\n"
+"          ◦ Carcyn: Localizada entre el bosque gris y el gran río.\n"
 "          ◦ Dan’Tonk: La ciudad más grande de Wesnoth, localizada en el "
 "centro del país, justo al noroeste de Weldyn.\n"
-"          ◦ Soradoc: El puesto de avanzada más septentrional de Wesnoth, "
-"controla la zona de unión entre el río Weldyn y el gran río.\n"
-"          ◦ Fort Tahn: El puesto fronterizo más austral, controla el norte y "
-"el sur del camino que cruza el río Aethen.\n"
-"          ◦ Tath: Importante ciudad fortificada al norte de Dan’Tonk, ejerce "
-"control sobre las tierras salvajes al este de las colinas pardas y el norte "
-"del vado de Abez.\n"
+"          ◦ Soradoc: El destacamento más septentrional de Wesnoth, controla "
+"la zona dónde confluyen el río Weldyn y el gran río.\n"
+"          ◦ Fort Tahn: El puesto fronterizo más meridional, vigila la vía "
+"que cruza de norte a sur el río Aethen.\n"
+"          ◦ Tath: Significativa ciudad fortificada al norte de Dan’Tonk, "
+"ejerce control sobre las tierras salvajes al este de las colinas pardas y el "
+"norte del vado de Abez.\n"
 "\n"
 "    • Accidentes geográficos importantes:\n"
 "          ◦ La montaña de los grifos: Hogar de los legendarios grifos.\n"
-"          ◦ El vado de Abez: La parte más estrecha del gran río, "
+"          ◦ El vado de Abez: Franja poco profunda, de aguas someras, "
 "habitualmente está bajo control de las tropas westonianas.\n"
-"          ◦ Río Weldyn: Nace del gran río y se dirige al sur.\n"
+"          ◦ Río Weldyn: Nace del gran río y se dirige al sur.¿?Seguro\n"
 "          ◦ La gran planicie central: Area delimitada por Weldyn, Dan'Tonk, "
 "y el fuerte Tatn, está llanura es el granero de Wesnoth y hogar de la mayor "
 "parte de su población.\n"
@@ -1102,7 +1100,6 @@ msgstr ""
 
 #. [topic]: id=heart_mountains
 #: data/core/encyclopedia/geography.cfg:146
-#, fuzzy
 msgid "Heart Mountains"
 msgstr "Montañas profundas"
 
@@ -1117,7 +1114,7 @@ msgstr ""
 #. [topic]: id=far_north
 #: data/core/encyclopedia/geography.cfg:152
 msgid "Far North"
-msgstr ""
+msgstr "Lejano norte"
 
 #. [topic]: id=far_north
 #: data/core/encyclopedia/geography.cfg:176
@@ -1189,7 +1186,7 @@ msgstr "Habilidades"
 #. [topic]: id=..weapon_specials
 #: data/core/help.cfg:48 data/core/help.cfg:99
 msgid "Weapon Specials"
-msgstr "Habilidades especiales"
+msgstr "Propiedades especiales de armas"
 
 #. #-#-#-#-#  wesnoth-help.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [section]: id=factions_section
@@ -1248,13 +1245,15 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Por el momento esta unidad es desconocida. Debe descubrirla durante el juego "
+"Por el momento, desconoce esta unidad. Debe descubrirla durante el juego "
 "para poder ver su descripción."
 
+# No estoy seguro de que sea la mejor traducción ya que "introducción" ya está en otro lugar, pero tampoco parece convencerme "visión/vista general".
 #. [topic]: id=introduction_topic
 #: data/core/help.cfg:117
+#, fuzzy
 msgid "Overview"
-msgstr "Introducción"
+msgstr "Vista general"
 
 #. [topic]: id=introduction_topic
 #: data/core/help.cfg:120
@@ -1271,13 +1270,13 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"La batalla por Wesnoth es un juego de estrategia fantástica por turnos, con "
-"un enfoque poco usual entre los juegos modernos de estrategia. Mientras "
-"otros juegos buscan la complejidad de reglas y sistema de juego, en la "
-"batalla por Wesnoth se persigue todo lo contrario. Esto no hace simple al "
-"juego, sino al contrario: a partir de unas reglas simples pueden crearse "
-"grandes estrategias, haciendo que el juego sea fácil de aprender pero "
-"difícil de dominar con maestría."
+"<italic>La batalla por Wesnoth</italic> es un juego de estrategia por turnos "
+"de índole fantástica, con un enfoque poco usual entre los juegos modernos de "
+"estrategia. Mientras otros juegos buscan la complejidad de reglas y sistema "
+"de juego, en la batalla por Wesnoth se persigue todo lo contrario. Esto no "
+"hace simple al juego, sino al contrario: a partir de unas reglas simples "
+"pueden crearse grandes estrategias, haciendo que el juego sea fácil de "
+"aprender pero difícil de dominar con maestría."
 
 #. [topic]: id=fundamentals
 #: data/core/help.cfg:132
