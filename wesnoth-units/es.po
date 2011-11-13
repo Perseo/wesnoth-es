@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-11-08 19:46-0500\n"
+"PO-Revision-Date: 2011-11-12 23:51-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
@@ -5105,7 +5105,7 @@ msgstr ""
 #. [unit_type]: id=Chocobone, race=undead
 #: data/core/units/undead/Skele_Chocobone.cfg:4
 msgid "Chocobone"
-msgstr "Chocobo"
+msgstr "Chocobo esquelético"
 
 #. [unit_type]: id=Chocobone, race=undead
 #: data/core/units/undead/Skele_Chocobone.cfg:24
