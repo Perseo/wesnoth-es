@@ -177,7 +177,7 @@ msgstr ""
 "buscarse la vida, se había convertido en líder de una pequeña banda de "
 "jinetes mercenarios, que eran contratados como guardias de caravanas "
 "mercantes. Afortunadamente para el pueblo, cuando Bjarn era apenas un "
-"aprendiz de mago, hizo un par de amuletos, para su hermano y para sí, con "
+"aprendiz de mago, hizo un par de amuletos, para su hermano y para si, con "
 "los cuales se podrían contactar mutuamente en caso de que urgiese la "
 "necesidad. Petición que Baran acababa de enviar."
 
@@ -209,7 +209,7 @@ msgstr ""
 "\n"
 "¿Rechazará la petición? No sé si quiera si guarda su amuleto; llevamos sin "
 "dirigirnos la palabra desde aquél aciago día en Toen Caric. Si no acude por "
-"mi, quizá, al menos, vuelva para socorrer nuestro pueblo cuando más lo "
+"mi, quizá, al menos, vuelva para socorrer nuestro pueblo cuando éste más lo "
 "necesita."
 
 #. [part]
@@ -224,7 +224,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:91
 msgid "Slay Mordak, the evil mage"
-msgstr "Mate a Mordak, el mago negro"
+msgstr "Mate a Mordak, el mago maligno"
 
 #. [objective]: condition=lose
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:95
@@ -1008,7 +1008,7 @@ msgstr "Guardia del castillo"
 #. [objective]: condition=win
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:210
 msgid "Rescue Baran"
-msgstr "Rescate a Bara"
+msgstr "Rescate a Baran"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:309
@@ -1062,7 +1062,7 @@ msgid ""
 "it may be; cut him loose, and let’s be rid of him."
 msgstr ""
 "Después de todo el adepto no nos llevó por mal camino. Mantendré mi palabra, "
-"por mucho que me disguste;  suéltenlo, y librémonos de él."
+"por mucho que me disguste;  suéltenlo, déjenle libre."
 
 #. [message]: speaker=Guard_leader
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:380
@@ -1382,10 +1382,10 @@ msgstr ""
 "27 V, 363 AW\n"
 "Extracto del diario de Baran de Maghre\n"
 "\n"
-"A pesar de estar ya más calmado, habitualmente mi mente retorna a Toen "
-"Caric. Habríamos podido repeler a los orcos con no demasiadas bajas — la "
-"pinza que planeo Arvith por seguro hubiese funcionado si no hubiese sido por "
-"mi. Fui un insensato al dejar atrás a mis hombres — herí al señor de la "
+"A pesar de estar ya más calmado, mis pensamientos no dejan de retornar a "
+"Toen Caric. Habríamos podido repeler a los orcos con no demasiadas bajas — "
+"la pinza que planeo Arvith por seguro hubiese funcionado si no hubiese sido "
+"por mi. Fui un insensato al dejar atrás a mis hombres — herí al señor de la "
 "guerra y le forcé a retirarse, pero a un precio muy superior frente a tan "
 "ínfima ganancia. Aquellos que seguían mis órdenes podrían haberse salvado si "
 "yo hubiese estado con ellos.\n"
@@ -1610,7 +1610,7 @@ msgstr ""
 "y Baran, el suyo; además, no hemos tenido apenas oportunidad de "
 "reencontrarnos, de nuevo. Sin embargo, mientras que la compañía, conmigo, ha "
 "de pasar por esta parte del reino al mando de un nuevo patrón, me bastó solo "
-"con pedir una licencia para visitar a mi hermano para que me concediese."
+"con pedir una licencia para visitar a mi hermano para que me la concediese."
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:34
