@@ -1,4 +1,5 @@
 # Alvin Eloy Luna Castro <alvineloy@gmail.com>, 2011.
+# Aelonin <quianaaelonin@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
@@ -7,7 +8,7 @@ msgstr ""
 "PO-Revision-Date: 2011-09-22 21:01-0400\n"
 "Last-Translator: Alvin Eloy Luna Castro <alvineloy@gmail.com>\n"
 "Language-Team: Spanish <kde-i18n-doc@kde.org>\n"
-"Language: \n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -71,7 +72,7 @@ msgid ""
 "all life in Wesnoth?\n"
 "\n"
 msgstr ""
-"Wesnoth parece caer inexorablemente en el caos, cuando merodeadores orcos "
+"Wesnoth se sume inexorablemente en el caos, cuando merodeadores orcos "
 "ingresan al sur por el río Abez, y criaturas misteriosas y mortales vagan en "
 "la noche.\n"
 "¿Quién es el Ihiah-Malal oscuro?\n"
@@ -101,7 +102,7 @@ msgstr "Gráficos"
 #. [about]
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:84
 msgid "Additional thanks to"
-msgstr "Agradecimientos adicionales a"
+msgstr "Agradecimientos adicionales para"
 
 #. [scenario]: id=01_Overture
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:3
@@ -131,8 +132,11 @@ msgstr "Tercer oráculo"
 #. [side]: type=Mage of Light, id=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:45
 msgid "Fourth Oracle"
-msgstr "Quarto oráculo"
+msgstr "Cuarto oráculo"
 
+# ¿Por qué "crónica y leyenda"  para "tale"?	
+#
+# La historia trata de Delfador, Delfador el Grande, un personaje que en wesnoth ha pasado a la historia; y como todas estas historias, se rodean de mito y de leyenda; sin embargo, a su vez, el bardo/trovador/narrador clama contarnos su historia, la de verdad, sus crónicas... Es una técnica literario-travadoresca, prometer una historia fantasiosa, mítica, y a su vez, asegurar que es cierta... al menos en parte.
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:57
 #, fuzzy
@@ -141,10 +145,9 @@ msgid ""
 "tale of how he became the most famous and powerful of all the mages of "
 "Wesnoth."
 msgstr ""
-"Ésta es la verdadera historia de Delfador el Grande, de los tiempos que no "
-"utilizó tal nombre. La verdadera historia de cómo se hizo famoso y del poder "
-"de la mayoría de los seres de Wesnoth. Sería la gran epoca del héroe, pero "
-"ya es pasado. "
+"Os presento la historia de Delfador el Grande, desde sus más humildes "
+"comienzos; crónica y, a su vez, leyenda de cómo logró tal renombre al ser el "
+"más poderoso de los magos de Wesnoth."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:60
@@ -152,20 +155,22 @@ msgid ""
 "It begins on the Isle of Alduin, at the Academy which trains mages from "
 "throughout the Great Continent."
 msgstr ""
-"Empieza en la Isla de Alduin, en la academia que entrena a magos de todo el "
-"Gran Continente."
+"Comencemos en la isla de Alduin, en su academia, que entrena a magos de todo "	
+"el gran continente."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:63
+#, fuzzy
 msgid ""
 "After ten years of training, two tests stand between that apprentice and "
 "attainment of the degree of Mage:"
 msgstr ""
-"Luego de dies días de entrenamiento, dos pruebas se interponen para que el "
-"aprendiz pueda llegar al grado de mago:"
+"Comencemos en la isla de Alduin, en su academia, que entrena a magos de todo "
+"el gran continente."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:66
+#, fuzzy
 msgid "<i>The New Mage Ceremony</i>"
 msgstr "<i>La ceremonia del nuevo mago</i>"
 
