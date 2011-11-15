@@ -979,7 +979,7 @@ msgstr ""
 "reino.\n"
 "    • Accidentes geográficos de importancia:\n"
 "          ◦ <ref>dst='great_river' text='EL gran río'</ref>: Es muy ancho en "
-"este punto, y solo los barcos pueden cruzarlo.\n"
+"este punto, y solo los barcos pueden cruzarlo."
 
 #. [topic]: id=northlands
 #: data/core/encyclopedia/geography.cfg:112
