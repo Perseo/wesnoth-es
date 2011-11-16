@@ -21,7 +21,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-11-07 17:23+0100\n"
+"POT-Creation-Date: 2011-11-16 12:43+0100\n"
 "PO-Revision-Date: 2011-11-16 17:44-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
@@ -738,12 +738,6 @@ msgstr "Morogor"
 
 #. [topic]: id=morogor
 #: data/core/encyclopedia/geography.cfg:40
-#| msgid ""
-#| "Archipelago, located somewhere in the <ref>dst='great_ocean' text='Great "
-#| "ocean'</ref> west of the <ref>dst='green_isle' text='Green Isle'</ref> "
-#| "and east of the <ref>dst=old_continent text='Old Continent'</ref>.\n"
-#| "It is mostly inhabited by <ref>dst='..race_drake' text='drakes'</ref>.\n"
-#| "The central island of the archipelago is also called ‘Morogor’."
 msgid ""
 "Archipelago, located somewhere in the <ref>dst='great_ocean' text='Great "
 "Ocean'</ref> west of the <ref>dst='green_isle' text='Green Isle'</ref> and "
@@ -764,8 +758,6 @@ msgstr "Isla verde"
 
 #. [topic]: id=green_isle
 #: data/core/encyclopedia/geography.cfg:46
-#| msgid ""
-#| "A portion of the <ref>dst='breeding_cycle' text='breeding cycle'</ref>."
 msgid ""
 "A bigger island lying in the <ref>dst='great_ocean' text='Great Ocean'</ref>."
 msgstr ""
@@ -2898,7 +2890,6 @@ msgstr ""
 
 #. [topic]: id=traits_aged
 #: data/core/help.cfg:476
-#| msgid "trait^Undead"
 msgid "trait^Aged"
 msgstr "Anciano"
 
@@ -4441,37 +4432,31 @@ msgstr "Medianoche"
 
 #. [time]: id=second_watch_hour1
 #: data/core/macros/schedules.cfg:174
-#| msgid "Second Watch"
 msgid "Second Watch — First Hour"
 msgstr "Noche cerrada — Hora primera"
 
 #. [time]: id=second_watch_hour2
 #: data/core/macros/schedules.cfg:186
-#| msgid "Second Watch"
 msgid "Second Watch — Second Hour"
 msgstr "Noche cerrada — Hora segunda"
 
 #. [time]: id=second_watch_hour3
 #: data/core/macros/schedules.cfg:198
-#| msgid "Second Watch"
 msgid "Second Watch — Third Hour"
 msgstr "Noche cerrada — Hora tercera"
 
 #. [time]: id=second_watch_hour4
 #: data/core/macros/schedules.cfg:210
-#| msgid "Second Watch"
 msgid "Second Watch — Fourth Hour"
 msgstr "Noche cerrada — Hora cuarta"
 
 #. [time]: id=second_watch_hour5
 #: data/core/macros/schedules.cfg:222
-#| msgid "Second Watch"
 msgid "Second Watch — Fifth Hour"
 msgstr "Noche cerrada — Hora quinta"
 
 #. [time]: id=second_watch_hour6
 #: data/core/macros/schedules.cfg:234
-#| msgid "Second Watch"
 msgid "Second Watch — Sixth Hour"
 msgstr "Noche cerrada — Hora sexta"
 
@@ -4581,7 +4566,6 @@ msgid " This unit is capable of basic healing."
 msgstr " Esta unidad es capaz de realizar sanamiento básico."
 
 #: data/core/macros/special-notes.cfg:17
-#| msgid " This unit is capable of basic healing."
 msgid " This unit is capable of rapid healing."
 msgstr ""
 
@@ -4735,9 +4719,6 @@ msgstr ""
 "los enemigos fijados como blanco, pero sólo durante el ataque."
 
 #: data/core/macros/special-notes.cfg:77
-#| msgid ""
-#| " The unit has magical attacks, which always have a high chance of hitting "
-#| "an opponent."
 msgid ""
 " This unit has magical attacks, which always have a high chance of hitting "
 "an opponent."
