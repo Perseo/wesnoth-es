@@ -22,8 +22,8 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-11-16 23:18+0100\n"
-"Last-Translator: Aelonin <quianaaelonin@gmail.com>\n"
+"PO-Revision-Date: 2011-11-16 17:44-0500\n"
+"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -218,7 +218,7 @@ msgid "Breeding Pen"
 msgstr "alimentación"
 
 # >Depende de lo que sea un aerie. Será un o una.
-#  
+#
 # Además de lo del aerie, non-sentient =/= insensibles. La idea de non-sentient es la de no tener conciencia; y en el contexto, va más allá. La situación que describe es:
 # "Las hembras/criadoras no tienen conciencia/raciocinio, y viven en las fortalezas-nido, "reclusas" en un área destinado a follarlas... y las vigila el "Dominante"[Jefe, el líder]"
 # En otras palabras, las hembras en la sociedad draconiana no tienen libertad ni voluntad, solo son un "trámite" necesario para tener más crías." (Nótese la enorme crítica que hay en esto a ciertas sociedades e ideologías...)
@@ -2509,7 +2509,7 @@ msgstr ""
 #. [topic]: id=traits_quick
 #: data/core/help.cfg:370
 msgid "Quick"
-msgstr "Rápido(a)"
+msgstr "Rápido"
 
 #. [topic]: id=traits_quick
 #: data/core/help.cfg:371
@@ -2633,7 +2633,7 @@ msgid ""
 msgstr ""
 "Para las criaturas silvestres de baja cognición, los hogares de los seres "
 "dotados de consciencia difícilmente ofrecen cobijo. Resultado de ello, una "
-"unidad <italic>text='salvaje'</italics> recibirá no más de un 50% de defensa "
+"unidad <italic>text='salvaje'</italic> recibirá no más de un 50% de defensa "
 "en villas terrestres."
 
 #. [topic]: id=traits_loyal
@@ -2746,7 +2746,7 @@ msgid ""
 "<italic>text='Elemental'</italic> units are immune to poison, drain, and "
 "plague."
 msgstr ""
-"Las unidades con el rasgo «<italic>text='elemental'</italic>» son inmunes al "
+"Las unidades con el rasgo <italic>text='elemental'</italic> son inmunes al "
 "veneno, además tampoco funcionan en ellos el drenado y la plaga."
 
 #. [topic]: id=traits_elemental
@@ -2829,7 +2829,7 @@ msgstr ""
 #. [topic]: id=traits_dim
 #: data/core/help.cfg:454
 msgid "Dim"
-msgstr "Obtuso(a)"
+msgstr "Obtuso"
 
 #. [topic]: id=traits_dim
 #: data/core/help.cfg:455
@@ -2857,7 +2857,7 @@ msgstr ""
 #. [topic]: id=traits_slow
 #: data/core/help.cfg:462
 msgid "Slow"
-msgstr "Lento(a)"
+msgstr "Lento"
 
 #. [topic]: id=traits_slow
 #: data/core/help.cfg:463
@@ -2900,7 +2900,7 @@ msgstr ""
 #: data/core/help.cfg:476
 #| msgid "trait^Undead"
 msgid "trait^Aged"
-msgstr "Anciano(a)"
+msgstr "Anciano"
 
 #. [topic]: id=traits_aged
 #: data/core/help.cfg:477
@@ -6013,21 +6013,6 @@ msgstr "Sección de ayuda de «La batalla por Wesnoth»"
 #, fuzzy
 msgid "Parse error when parsing help text: "
 msgstr "Error durante el procesado de la ayuda: "
-
-#, fuzzy
-#~| msgid "race^Human"
-#~ msgid "race^Khalifate Human"
-#~ msgstr "Humano"
-
-#, fuzzy
-#~| msgid "race+female^Human"
-#~ msgid "race+female^Khalifate Human"
-#~ msgstr "Humana"
-
-#, fuzzy
-#~| msgid "race+plural^Mechanical"
-#~ msgid "race+plural^Khalifate"
-#~ msgstr "Mecánicos"
 
 #~ msgid "race^Falcon"
 #~ msgstr "Halcón"
