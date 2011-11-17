@@ -2444,7 +2444,7 @@ msgstr ""
 "\n"
 "Los rasgos disponibles para todas las criaturas salvo para los no muertos "
 "son <ref>dst='traits_intelligent' text='inteligente'</ref>, "
-"<ref>dst='traits_quick' text='rápido(a)'</ref>, <ref>dst='traits_resilient' "
+"<ref>dst='traits_quick' text='rápido'</ref>, <ref>dst='traits_resilient' "
 "text='resistente'</ref>, y <ref>dst='traits_strong' text='fuerte'</ref>."
 
 #. [topic]: id=..traits_section
