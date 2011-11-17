@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-07-09 09:00+0200\n"
+"POT-Creation-Date: 2011-11-16 12:43+0100\n"
 "PO-Revision-Date: 2009-12-15 23:47+0100\n"
 "Last-Translator: Diego J. <diegojromerolopez@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
@@ -190,7 +190,7 @@ msgstr "Derrota a Bashnark"
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:103
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:167
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_Troll_Bridge.cfg:126
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:347
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:355
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:131
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:124
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:124
@@ -557,6 +557,10 @@ msgid "Bandits"
 msgstr "Bandidos"
 
 #. [part]
+#. "march" is *not* a typo for "marsh" here.
+#. In archaic English, "march" means "border".
+#. (The same word, as "-mark", is in the name of "the Estmarks":
+#. the hills of the eastern border.)
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:132
 msgid ""
 "Angarthing and Aiglondur and the dwarvish troop traveled swiftly to the east "
@@ -578,7 +582,7 @@ msgstr "Ayude a Marth-Tak derrotar a Gothras"
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:171
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_Troll_Bridge.cfg:130
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:351
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:359
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:135
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:128
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:128
@@ -807,13 +811,13 @@ msgid "No bandits in this village."
 msgstr "No hay bandidos en esta aldea."
 
 #. [objective]: condition=win
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:343
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:351
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:215
 msgid "Defeat all enemies"
 msgstr "Derrote a todos los enemigos"
 
 #. [message]: speaker=Aiglondur
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:368
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:376
 #, fuzzy
 msgid ""
 "Stay alert, everyone, and keep together. This is bandit country — more than "
@@ -823,7 +827,8 @@ msgstr ""
 "bastante probable que sea de donde Gothras y su pandilla provenían."
 
 #. [message]: role=Scout
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:373
+#. "muckle" = Scottish/archaic English meaning "great" or "large"
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:381
 #, fuzzy
 msgid ""
 "Nae sign o’ bandits I can see, captain — but there are three muckle hosts of "
@@ -833,7 +838,7 @@ msgstr ""
 "asentamientos orcos allá al este de nosotros."
 
 #. [message]: speaker=Aiglondur
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:377
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:385
 msgid ""
 "What’s this? Large orcish war-bands so close to the Alliance’s border? That "
 "can only mean trouble."
@@ -842,7 +847,7 @@ msgstr ""
 "la Alianza? Eso sólo puede significar problemas."
 
 #. [message]: speaker=Tan-Malgar
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:381
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:389
 #, fuzzy
 msgid ""
 "Well, boys, we were planning to invade the Northern Alliance anyway... These "
@@ -852,17 +857,17 @@ msgstr ""
 "estos enanos deberían servir como un suculento aperitivo."
 
 #. [message]: speaker=Tan-Grolak
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:385
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:393
 msgid "Yeah, boss. Anything to get away from those masked ones..."
 msgstr "Sí, jefe. Lo que sea para no meternos con esos enmascarados..."
 
 #. [message]: speaker=Tan-Malgar
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:389
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:397
 msgid "Be silent. We are orc warriors; we do not flee foes."
 msgstr "Silencio. Somos guerreros orcos; no huimos de nuestros enemigos."
 
 #. [message]: speaker=Tan-Uthkar
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:393
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:401
 msgid "But, given a choice, we fight the weaker foe first."
 msgstr ""
 "Pero, dada la oportunidad, luchamos contra el enemigo más débil primero."
@@ -1733,15 +1738,16 @@ msgstr ""
 msgid "The Court of Karrag"
 msgstr "La corte de Karrag"
 
-#. [side]: type=Dwarvish Rune Lord, id=Karrag
+#. [side]: type=Dwarvish Rune Lord prerevelation, id=Karrag
 #. [unit]: type=Lich, id=Karrag
+#. [side]: type=Dwarvish Rune Lord, id=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:46
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:264
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:47
 msgid "Karrag"
 msgstr "Karrag"
 
-#. [side]: type=Dwarvish Rune Lord, id=Karrag
+#. [side]: type=Dwarvish Rune Lord prerevelation, id=Karrag
 #. [side]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:54
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:75
@@ -1948,7 +1954,7 @@ msgstr ""
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:344
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1240
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1239
 msgid ""
 "Without Dulcatulos to explain our actions to the Kal Karthans we’ll have to "
 "fight them, too. Our mission has failed."
@@ -2105,7 +2111,7 @@ msgstr ""
 "Oscuridad saben qué engendro infernal invocará ese liche. ¡HACHAS ARRIBA!"
 
 #. [message]: speaker=Dranath
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:520
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:519
 msgid ""
 "You cannot pass, fools. The doors I guard are sealed by the power of the "
 "Hammer itself."
@@ -2114,12 +2120,12 @@ msgstr ""
 "del mismísimo Martillo."
 
 #. [message]: speaker=second_unit
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:525
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:524
 msgid "We’ll see about that!"
 msgstr "¡Ya lo veremos!"
 
 #. [message]: speaker=unit
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:560
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:559
 msgid ""
 "It seems that guard spoke truth. These doors cannot be forced open by any "
 "means we have!"
@@ -2128,7 +2134,7 @@ msgstr ""
 "forzadas a abrirse por ninguno de nuestros medios!"
 
 #. [message]: speaker=Angarthing
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:564
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:563
 msgid ""
 "I sense these bindings to be the work of common sorcery, not the power of "
 "the Hammer. Usually to each such locking spell there is some sort of key. If "
@@ -2140,67 +2146,67 @@ msgstr ""
 "seríamos capaces de abrir estas puertas."
 
 #. [message]: speaker=unit
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:590
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:589
 msgid "The key has been uttered, these doors should open..."
 msgstr "He pronunciado la llave, estas puertas deberían abrirse..."
 
 #. [message]: speaker=unit
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:601
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:600
 msgid "There we go... faugh, what is that smell!"
 msgstr "Ahí vamos... faugh, ¡qué es este apestoso olor!"
 
 #. [message]: speaker=unit
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:638
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:637
 msgid "I think I hear noises, ahead of us..."
 msgstr "Creo escuchar ruido, adelante nuestro..."
 
 #. [message]: speaker=Karrag
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:656
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:655
 msgid "Fresh blood! Exactly what I need to complete the rite."
 msgstr "¡Sangre fresca! Justo lo que necesito para completar el ritual."
 
 #. [message]: speaker=unit
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:677
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:676
 msgid "It’s locked, but nothing that our hammers can’t manage."
 msgstr ""
 "Está cerrado, pero no es nada de lo que nuestros martillos no puedan "
 "encargarse."
 
 #. [message]: speaker=unit
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:699
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:698
 msgid "A scroll with some strange writing on it..."
 msgstr "Un pergamino con algo de escritura extraña..."
 
 #. [message]: speaker=Angarthing
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:704
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:703
 msgid "I believe that will be the key-spell for that sealed door."
 msgstr "Sospecho que se trata del hechizo que abre esa puerta sellada."
 
 #. [message]: speaker=Angarthing
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:709
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:708
 #, fuzzy
 msgid "(<i>Reads</i>) <i>Kannin a’kana du’masi a’forigln de’amp.</i>"
 msgstr "(lee) Kannin a'kana du'masi a'forigln de'amp."
 
 #. [message]: speaker=Angarthing
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:714
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:713
 #, fuzzy
 msgid "Now try the door again. It should open."
 msgstr "Ahora intentad la puerta una vez más, debería abrirse."
 
 #. [message]: speaker=unit
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:734
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:755
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:733
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:754
 msgid "A door. Perhaps Karrag is hiding in here..."
 msgstr "Una puerta. Quizá Karrag se oculta allí..."
 
 #. [message]: speaker=unit
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:774
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:773
 msgid "150 gold pieces. This should help."
 msgstr "150 piezas de oro. Esto debería ayudar."
 
 #. [message]: speaker=unit
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:795
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:794
 msgid ""
 "150 gold pieces. I wonder why Karrag would choose to store his gold here."
 msgstr ""
@@ -2208,7 +2214,7 @@ msgstr ""
 "aquí."
 
 #. [message]: speaker=unit
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:818
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:817
 msgid ""
 "An old caved-in passageway. Perhaps if we clear away some of this rubble we "
 "may be able to get through..."
@@ -2217,33 +2223,33 @@ msgstr ""
 "podríamos atravesarlo..."
 
 #. [message]: speaker=unit
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:839
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:838
 msgid "Another old caved-in passageway..."
 msgstr "Otro viejo pasadizo excavado..."
 
 #. [unit]: type=Dwarvish Steelclad, id=Trisi
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:876
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:875
 msgid "Trisi"
 msgstr "Trisi"
 
 #. [unit]: type=Dwarvish Steelclad, id=Malifen
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:928
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:927
 msgid "Malifen"
 msgstr "Malifen"
 
 #. [unit]: type=Dwarvish Thunderguard, id=Borras
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:980
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:979
 msgid "Borras"
 msgstr "Borras"
 
 #. [unit]: type=Dwarvish Steelclad, id=Zamak
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1032
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1031
 msgid "Zamak"
 msgstr "Zamak"
 
 #. [message]: speaker=unit
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1076
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1125
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1075
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1124
 msgid ""
 "When I step on this rune, I feel strange indeed. I feel like I am being "
 "pulled somewhere else, but at the same time being held back by an equally "
@@ -2254,8 +2260,8 @@ msgstr ""
 "igualmente poderosa me mantiene aquí."
 
 #. [message]: speaker=Angarthing
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1081
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1130
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1080
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1129
 msgid ""
 "It seems to be some sort of a teleportation device. What’s more, the "
 "bindings that are preventing it from working seem to be the same ones that "
@@ -2266,13 +2272,13 @@ msgstr ""
 "aquéllas puertas selladas."
 
 #. [message]: speaker=Aragoth
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1169
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1168
 #, fuzzy
 msgid "Our master’s ritual must not be interrupted. Stop them!"
 msgstr "El ritual de nuestro amo no debe ser interrumpido. ¡Detenedlos!"
 
 #. [message]: speaker=unit
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1184
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1183
 #, fuzzy
 msgid ""
 "Yon doors are big, tightly locked — and, I would imagine, well barricaded. "
@@ -2282,7 +2288,7 @@ msgstr ""
 "defendidas. Esto nos tomará un tiempo."
 
 #. [message]: speaker=Aiglondur
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1189
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1188
 msgid ""
 "Go through that rubble yonder; see if you can dig up some sort of battering "
 "ram."
@@ -2291,24 +2297,24 @@ msgstr ""
 "ellos."
 
 #. [message]: speaker=narrator
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1195
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1194
 msgid "One hour later"
 msgstr "Una hora después"
 
 #. [message]: speaker=Aiglondur
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1200
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1199
 msgid "The door is about to give. Brace yourselves, everyone."
 msgstr "La puerta está por ceder. Preparaos, todos."
 
 #. [message]: speaker=Karrag
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1219
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1218
 msgid "No! No! No! Dirtgrubbers must die! The true people must rule all!"
 msgstr ""
 "¡No! ¡No! ¡No! ¡Los rastreros deben morir! ¡La gente de verdad debe "
 "gobernarlo todo!"
 
 #. [message]: speaker=Aiglondur
-#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1224
+#: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1223
 msgid "The ‘true people’ speak through our axes. Die, foul lich."
 msgstr ""
 "La «gente de verdad» habla a través de nuestras hachas. Muere, liche maldito."
@@ -2488,7 +2494,7 @@ msgid "Dwarvish Annalist"
 msgstr "Analista enano"
 
 #. [unit_type]: id=Dwarvish Annalist, race=dwarf
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:22
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:21
 msgid ""
 "Dwarvish Annalists are the historians of this ancient and proud race. They "
 "are few in number, and their very existence is not generally known to the "
@@ -2502,16 +2508,16 @@ msgstr ""
 "otros del veneno."
 
 #. [attack]: type=impact
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:39
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:42
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Witness.cfg:44
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:32
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:35
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Witness.cfg:37
 msgid "morningstar"
 msgstr "lucero del alba"
 
 #. [attack]: type=impact
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:116
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:125
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Witness.cfg:126
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:109
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:118
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Witness.cfg:119
 msgid "bolas"
 msgstr "boleadoras"
 
@@ -2521,7 +2527,7 @@ msgid "Dwarvish Loremaster"
 msgstr "Maestro del saber enano"
 
 #. [unit_type]: id=Dwarvish Loremaster, race=dwarf
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:24
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:23
 msgid ""
 "Loremasters are the sages of the dwarvish race. Their counsel is greatly "
 "valued by war-leaders and chieftains, and they are viewed with awe by "
@@ -2537,28 +2543,28 @@ msgstr ""
 "se halle un maestro del saber, se halla el alma de los enanos. Además de las "
 "habilidades de los Analistas, poseen una habilidad limitada de sanación."
 
-#. [unit_type]: id=Dwarvish Masked Dragonguard
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Dragonguard.cfg:7
+#. [unit_type]: id=Dwarvish Masked Dragonguard, race=dwarf
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Dragonguard.cfg:4
 msgid "Dwarvish Masked Dragonguard"
 msgstr "Guardián del dragón enmascarado"
 
-#. [unit_type]: id=Dwarvish Masked Fighter
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Fighter.cfg:7
+#. [unit_type]: id=Dwarvish Masked Fighter, race=dwarf
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Fighter.cfg:4
 msgid "Dwarvish Masked Fighter"
 msgstr "Luchador enmascarado"
 
-#. [unit_type]: id=Dwarvish Masked Guardsman
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Guardian.cfg:7
+#. [unit_type]: id=Dwarvish Masked Guardsman, race=dwarf
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Guardsman.cfg:4
 msgid "Dwarvish Masked Guardsman"
 msgstr "Guardia enmascarado"
 
-#. [unit_type]: id=Dwarvish Masked Lord
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:7
+#. [unit_type]: id=Dwarvish Masked Lord, race=dwarf
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:4
 msgid "Dwarvish Masked Lord"
 msgstr "Señor enmascarado"
 
-#. [unit_type]: id=Dwarvish Masked Lord
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:9
+#. [unit_type]: id=Dwarvish Masked Lord, race=dwarf
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:18
 msgid ""
 "Feared in dwarven legend is the Dwarf Lord who masks his face, using the "
 "formidable fighting powers of his kind without accounting to his peers and "
@@ -2577,23 +2583,23 @@ msgstr ""
 "diversas distancias. Pese a ser lentos para caminar, estos enanos son un "
 "testamento de la habilidad de su raza."
 
-#. [unit_type]: id=Dwarvish Masked Sentinel
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Sentinel.cfg:7
+#. [unit_type]: id=Dwarvish Masked Sentinel, race=dwarf
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Sentinel.cfg:4
 msgid "Dwarvish Masked Sentinel"
 msgstr "Centinela enmascarado"
 
-#. [unit_type]: id=Dwarvish Masked Stalwart
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Stalwart.cfg:7
+#. [unit_type]: id=Dwarvish Masked Stalwart, race=dwarf
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Stalwart.cfg:4
 msgid "Dwarvish Masked Stalwart"
 msgstr "Defensor enmascarado"
 
-#. [unit_type]: id=Dwarvish Masked Steelclad
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Steelclad.cfg:7
+#. [unit_type]: id=Dwarvish Masked Steelclad, race=dwarf
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Steelclad.cfg:4
 msgid "Dwarvish Masked Steelclad"
 msgstr "Guardián de acero enmascarado"
 
-#. [unit_type]: id=Dwarvish Masked Steelclad
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Steelclad.cfg:11
+#. [unit_type]: id=Dwarvish Masked Steelclad, race=dwarf
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Steelclad.cfg:18
 msgid ""
 "More experienced Dwarvish fighters wear heavy chain mail and plate armor, "
 "for which they are rightly famous. In the dark dreams of dwarvenkind, some "
@@ -2604,47 +2610,15 @@ msgstr ""
 "los más obscuros cuentos de los enanos, algunos ocultan sus rostros bajo "
 "grandes máscaras."
 
-#. [unit_type]: id=Dwarvish Masked Thunderer
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderer.cfg:7
+#. [unit_type]: id=Dwarvish Masked Thunderer, race=dwarf
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderer.cfg:4
 msgid "Dwarvish Masked Thunderer"
 msgstr "Atronador enmascarado"
 
-#. [unit_type]: id=Dwarvish Masked Thunderguard
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderguard.cfg:7
+#. [unit_type]: id=Dwarvish Masked Thunderguard, race=dwarf
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderguard.cfg:4
 msgid "Dwarvish Masked Thunderguard"
 msgstr "Guardián del trueno enmascarado"
-
-#. [unit_type]: id=Dwarvish Rune Lord, race=dwarf
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:6
-msgid "Dwarvish Runemaster"
-msgstr "Maestro rúnico enano"
-
-#. [unit_type]: id=Dwarvish Rune Lord, race=dwarf
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:27
-msgid ""
-"Except for those with almost supernatural skill, the highest rank a "
-"runecrafter can rise to is that of the Dwarvish Runemaster. Striking blows "
-"nearly as powerful as those of the best warriors, they would be fearsome "
-"without their craft, but with it they are also nigh on invincible, since "
-"their runes cause the physical blows of their enemies to deal less damage "
-"than would be expected."
-msgstr ""
-"Salvo por aquellos con habilidades casi sobrenaturales, el rango más alto "
-"que un artesano rúnico puede alcanzar es el de Maestro Rúnico. Golpes de "
-"martillo casi tan poderosos como aquéllos de los mejores guerreros, serían "
-"temibles incluso sin su arte, pero con éste son prácticamente invencibles, "
-"ya que las inscripciones rúnicas en sus armas y armaduras causan que los "
-"golpes enemigos les inflijan menos daño de lo esperado."
-
-#. [attack]: type=impact
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:32
-msgid "hammer"
-msgstr "martillo"
-
-#. [attack]: type=cold
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:96
-msgid "chill tempest"
-msgstr "tempestad gélida"
 
 #. [unit_type]: id=Dwarvish Witness, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Witness.cfg:10
@@ -2652,7 +2626,7 @@ msgid "Dwarvish Witness"
 msgstr "Testigo enano"
 
 #. [unit_type]: id=Dwarvish Witness, race=dwarf
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Witness.cfg:28
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Witness.cfg:27
 msgid ""
 "A Witness functions as the eyes of the dwarves’ history, a deep lore that "
 "they never share with outsiders. The presence of a Witness inspires dwarvish "
@@ -2674,7 +2648,7 @@ msgstr ""
 #: data/campaigns/The_Hammer_of_Thursagan/utils/abilities.cfg:4
 #, fuzzy
 msgid ""
-"The presence of this unit inspires own units next to it to deal more damage "
+" The presence of this unit inspires own units next to it to deal more damage "
 "in combat, though this only applies to units of lower or equal level."
 msgstr ""
 " La presencia de esta unidad inspira a las unidades propias adyacentes a "
@@ -2788,6 +2762,30 @@ msgid ""
 "darkness!"
 msgstr ""
 "¡Aaarrgh! ¡Aunque muero, la flama de la justicia os enviará a la oscuridad!"
+
+#~ msgid "Dwarvish Runemaster"
+#~ msgstr "Maestro rúnico enano"
+
+#~ msgid ""
+#~ "Except for those with almost supernatural skill, the highest rank a "
+#~ "runecrafter can rise to is that of the Dwarvish Runemaster. Striking "
+#~ "blows nearly as powerful as those of the best warriors, they would be "
+#~ "fearsome without their craft, but with it they are also nigh on "
+#~ "invincible, since their runes cause the physical blows of their enemies "
+#~ "to deal less damage than would be expected."
+#~ msgstr ""
+#~ "Salvo por aquellos con habilidades casi sobrenaturales, el rango más alto "
+#~ "que un artesano rúnico puede alcanzar es el de Maestro Rúnico. Golpes de "
+#~ "martillo casi tan poderosos como aquéllos de los mejores guerreros, "
+#~ "serían temibles incluso sin su arte, pero con éste son prácticamente "
+#~ "invencibles, ya que las inscripciones rúnicas en sus armas y armaduras "
+#~ "causan que los golpes enemigos les inflijan menos daño de lo esperado."
+
+#~ msgid "hammer"
+#~ msgstr "martillo"
+
+#~ msgid "chill tempest"
+#~ msgstr "tempestad gélida"
 
 #~ msgid "Time runs out"
 #~ msgstr "El tiempo se acabe"
