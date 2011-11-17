@@ -6837,7 +6837,6 @@ msgstr "caótico"
 msgid "lawful"
 msgstr "legal"
 
-# LIMINAL es una palabra del idioma latín, que hace referencia al crepúsculo (alba u ocaso). No hay traducción al español.  Para singular se utilizará la palabra LIMINAL, sin importar el género de la unidad, en plural se utilizará la palabra LIMINALES.  (AELC)
 #: src/unit_types.cpp:976
 msgid "liminal"
 msgstr "crepuscular"
@@ -6854,7 +6853,6 @@ msgstr "caótica"
 msgid "female^lawful"
 msgstr "legal"
 
-# LIMINAL es una palabra del idioma latín, que hace referencia al crepúsculo (alba u ocaso). No hay traducción al español.  Para singular se utilizará la palabra LIMINAL, sin importar el género de la unidad, en plural se utilizará la palabra LIMINALES.  (AELC)
 #: src/unit_types.cpp:977
 msgid "female^liminal"
 msgstr "crepuscular"
@@ -6930,7 +6928,6 @@ msgstr ""
 #~ msgid "Max HP bonus +"
 #~ msgstr "Máxima bonificación en PV +"
 
-# LIMINAL es una palabra del idioma latín, que hace referencia al crepúsculo (alba u ocaso). No hay traducción al español.  Para singular se utilizará la palabra LIMINAL, sin importar el género de la unidad, en plural se utilizará la palabra LIMINALES.  (AELC)
 #~ msgid ""
 #~ "Liminal units fight better during twilight while fighting normally during "
 #~ "day and night.\n"
