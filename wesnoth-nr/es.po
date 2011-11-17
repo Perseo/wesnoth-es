@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-11-07 17:23+0100\n"
+"POT-Creation-Date: 2011-11-16 12:43+0100\n"
 "PO-Revision-Date: 2009-12-15 23:38+0100\n"
 "Last-Translator: Diego J. <diegojromerolopez@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
@@ -274,6 +274,7 @@ msgstr ""
 "apoyados por un pequeño, mas poderoso ejército élfico."
 
 #. [part]
+#. tyrant -> Queen Asheviere from Heir to the Throne.
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:45
 #, fuzzy
 msgid ""
@@ -2722,9 +2723,13 @@ msgstr ""
 
 #. [message]: speaker=Krash
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1004
+#, fuzzy
+#| msgid ""
+#| "It’s an escape tunnel. The hole wasn’t big enough for me to go through "
+#| "but one you little guys you might fit."
 msgid ""
 "It’s an escape tunnel. The hole wasn’t big enough for me to go through but "
-"one you little guys you might fit."
+"one of you little guys might fit."
 msgstr ""
 "Es un túnel de escape. El agujero no era suficientemente grande para yo "
 "poder salir, pero uno de vosotros más pequeños podría pasar a través de él."
@@ -4980,6 +4985,8 @@ msgstr ""
 "desorganizar a los orcos una vez más."
 
 #. [part]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:63
 msgid ""
 "That will be very difficult. We did that last time and they will no doubt be "
@@ -5434,7 +5441,7 @@ msgid ""
 "Don’t! Please, my friend, listen. The orcs are on the rise again and they "
 "are threatening to complete their conquest of Knalga and convert it into an "
 "orcish stronghold. We can’t let that happen! That’s why we have come here, "
-"to seek yours and your brothers help in defeating the orcs."
+"to seek your and your brother’s help in defeating the orcs."
 msgstr ""
 "¡No! Por favor, amigo, escuchadme. Los orcos se han vuelto a organizar y "
 "amenazan con concretar su conquista de Knalga y convertirla en una fortaleza "
@@ -7648,7 +7655,9 @@ msgstr ""
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:247
-msgid "Pff, foolish human. What in the world gave you that idea."
+#, fuzzy
+#| msgid "Pff, foolish human. What in the world gave you that idea."
+msgid "Pff, foolish human. What in the world gave you that idea?"
 msgstr "Uff, humano necio. Qué cosa en el mundo os pudo haber dado tal idea."
 
 #. [message]: speaker=Ro'Arthian
@@ -9549,6 +9558,7 @@ msgstr ""
 "Rakshas."
 
 #. [part]
+#. "espied" is correct here, it's a deliberate archaism
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:112
 msgid ""
 "Moments later a gryphon swooped down from overhead and reported battle in a "

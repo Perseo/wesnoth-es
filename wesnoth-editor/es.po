@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-11-07 17:23+0100\n"
+"POT-Creation-Date: 2011-11-16 12:43+0100\n"
 "PO-Revision-Date: 2011-09-05 20:54-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
@@ -259,7 +259,9 @@ msgid "Map creation failed."
 msgstr "Falló la creación del mapa."
 
 #: src/editor/editor_controller.cpp:520
-msgid "Choose a mask to apply"
+#, fuzzy
+#| msgid "Choose a mask to apply"
+msgid "Choose a Mask to Apply"
 msgstr "Escoja una máscara a aplicar"
 
 #: src/editor/editor_controller.cpp:527
@@ -267,7 +269,9 @@ msgid "Error loading mask"
 msgstr "Error al cargar la máscara"
 
 #: src/editor/editor_controller.cpp:542
-msgid "Choose target map"
+#, fuzzy
+#| msgid "Choose target map"
+msgid "Choose Target Map"
 msgstr "Escoja mapa de destino"
 
 #: src/editor/editor_controller.cpp:549 src/editor/editor_controller.cpp:739

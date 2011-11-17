@@ -16,7 +16,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-09-04 11:42+0200\n"
+"POT-Creation-Date: 2011-11-16 12:43+0100\n"
 "PO-Revision-Date: 2011-11-09 08:10-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
@@ -5428,10 +5428,6 @@ msgstr ""
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:267
-#| msgid ""
-#| "Jevyan is here... His familiar, that bat. He won’t let such a lucrative "
-#| "prize as the Ruby of Fire just slip away. Especially when he sees that he "
-#| "has the advantage."
 msgid ""
 "Jevyan is here... His familiar, that skull. He won’t let such a lucrative "
 "prize as the Ruby of Fire just slip away. Especially when he sees that he "
@@ -6185,10 +6181,6 @@ msgstr ""
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:341
-#| msgid ""
-#| "Fool human, you shouldn’t give such toys to elves! Bah! It matters little "
-#| "to me. I’m no wizard. All I got is my axe. Heh, heh. It’s all I need — "
-#| "prepare to die, orcish scum!"
 msgid ""
 "You shouldn’t give such toys to elves! Bah! It matters little to me. I’m no "
 "wizard. All I got is my axe. Heh, heh. It’s all I need — prepare to die, "
@@ -7079,7 +7071,7 @@ msgid "Wose Sapling"
 msgstr "Wose retoño"
 
 #. [unit_type]: id=Wose Sapling, race=wose
-#: data/campaigns/The_Rise_Of_Wesnoth/units/Wose_Sapling.cfg:25
+#: data/campaigns/The_Rise_Of_Wesnoth/units/Wose_Sapling.cfg:24
 msgid ""
 "Rarely seen, even by Elves, a Wose is an order of creature about which "
 "little is known. The Elves are the source of most of this knowledge; they "
@@ -7103,7 +7095,7 @@ msgstr ""
 "embargo, no están acostumbrados a moverse, ni lo hacen rápido."
 
 #. [attack]: type=impact
-#: data/campaigns/The_Rise_Of_Wesnoth/units/Wose_Sapling.cfg:31
+#: data/campaigns/The_Rise_Of_Wesnoth/units/Wose_Sapling.cfg:30
 msgid "crush"
 msgstr "aplastar"
 

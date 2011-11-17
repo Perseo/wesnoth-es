@@ -21,8 +21,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-11-16 17:44-0500\n"
+"POT-Creation-Date: 2011-11-16 12:43+0100\n"
+"PO-Revision-Date: 2011-11-16 19:41-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
@@ -738,12 +738,6 @@ msgstr "Morogor"
 
 #. [topic]: id=morogor
 #: data/core/encyclopedia/geography.cfg:40
-#| msgid ""
-#| "Archipelago, located somewhere in the <ref>dst='great_ocean' text='Great "
-#| "ocean'</ref> west of the <ref>dst='green_isle' text='Green Isle'</ref> "
-#| "and east of the <ref>dst=old_continent text='Old Continent'</ref>.\n"
-#| "It is mostly inhabited by <ref>dst='..race_drake' text='drakes'</ref>.\n"
-#| "The central island of the archipelago is also called ‘Morogor’."
 msgid ""
 "Archipelago, located somewhere in the <ref>dst='great_ocean' text='Great "
 "Ocean'</ref> west of the <ref>dst='green_isle' text='Green Isle'</ref> and "
@@ -764,8 +758,6 @@ msgstr "Isla verde"
 
 #. [topic]: id=green_isle
 #: data/core/encyclopedia/geography.cfg:46
-#| msgid ""
-#| "A portion of the <ref>dst='breeding_cycle' text='breeding cycle'</ref>."
 msgid ""
 "A bigger island lying in the <ref>dst='great_ocean' text='Great Ocean'</ref>."
 msgstr ""
@@ -2452,7 +2444,7 @@ msgstr ""
 "\n"
 "Los rasgos disponibles para todas las criaturas salvo para los no muertos "
 "son <ref>dst='traits_intelligent' text='inteligente'</ref>, "
-"<ref>dst='traits_quick' text='rápido(a)'</ref>, <ref>dst='traits_resilient' "
+"<ref>dst='traits_quick' text='rápido'</ref>, <ref>dst='traits_resilient' "
 "text='resistente'</ref>, y <ref>dst='traits_strong' text='fuerte'</ref>."
 
 #. [topic]: id=..traits_section
@@ -2648,7 +2640,7 @@ msgid ""
 "upkeep cost at the end of every turn, which is equal to their level. Loyal "
 "units do not incur this cost."
 msgstr ""
-"Las unidades <italics>text='leales'<italics> no exigen que las mantengan. La "
+"Las unidades <italic>text='leales'<italic> no exigen que las mantengan. La "
 "mayoría de las unidades requieren un coste de mantenimiento al final de cada "
 "turno igual a su nivel. Las unidades leales no tienen este coste."
 
@@ -2684,7 +2676,7 @@ msgstr "No muerto"
 msgid ""
 "<italic>text='Undead'</italic> units are immune to poison, drain, and plague."
 msgstr ""
-"Los <italics>text='no muertos'</italics> son inmunes al veneno, además "
+"Los <italic>text='no muertos'</italic> son inmunes al veneno, además "
 "tampoco funcionan en ellos el drenado y la plaga."
 
 #. [topic]: id=traits_undead
@@ -2730,7 +2722,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Las unidades mecánicas generalmente tienen «Mecánico» como su único rasgo. "
+"Las unidades mecánicas generalmente tienen «mecánico» como su único rasgo. "
 "Dado que las unidades mecánicas en realidad no están vivas, el drenado, "
 "envenenamiento y la plaga no tienen efecto sobre ellos."
 
@@ -2760,8 +2752,8 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Las unidades elementales generalmente tienen «mecánico» como su único rasgo. "
-"Dado que las unidades elementales son entes de energía, el drenado, "
+"Las unidades elementales generalmente tienen «elemental» como su único "
+"rasgo. Dado que las unidades elementales son entes de energía, el drenado, "
 "envenenamiento y la plaga no tienen efecto en ellos."
 
 #. [topic]: id=traits_dextrous
@@ -2775,7 +2767,7 @@ msgid ""
 "<italic>text='Dextrous'</italic> units do 1 more damage for every successful "
 "strike in ranged combat."
 msgstr ""
-"Las unidades con el rasgo <italics>text='diestro'</italics> infligen un "
+"Las unidades con el rasgo <italic>text='diestro'</italic> infligen un "
 "punto adicional de daño por cada ataque a distancia exitoso."
 
 #. [topic]: id=traits_dextrous
@@ -2821,7 +2813,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Las unidades <italics>text='vitales'</italic> reciben 1 PV más, junto a 1 PV "
+"Las unidades <italic>text='vitales'</italic> reciben 1 PV más, junto a 1 PV "
 "por nivel más de lo normal. Descansan tras cada turno en el que no luchen, y "
 "les sana los habituales 2 PV. El daño que sufren por envenenamiento se ve "
 "reducido en un cuarto."
@@ -2837,7 +2829,7 @@ msgid ""
 "Units with trait <italic>text='dim'</italic> suffer a 20% increase in "
 "experience required to advance."
 msgstr ""
-"Las unidades <italics>text='obtusas'<italics> sufren un aumento en un 20% de "
+"Las unidades <italic>text='obtusas'<italic> sufren un aumento en un 20% de "
 "la experiencia requerida para avanzar niveles."
 
 #. [topic]: id=traits_dim
@@ -2898,7 +2890,6 @@ msgstr ""
 
 #. [topic]: id=traits_aged
 #: data/core/help.cfg:476
-#| msgid "trait^Undead"
 msgid "trait^Aged"
 msgstr "Anciano"
 
@@ -4441,37 +4432,31 @@ msgstr "Medianoche"
 
 #. [time]: id=second_watch_hour1
 #: data/core/macros/schedules.cfg:174
-#| msgid "Second Watch"
 msgid "Second Watch — First Hour"
 msgstr "Noche cerrada — Hora primera"
 
 #. [time]: id=second_watch_hour2
 #: data/core/macros/schedules.cfg:186
-#| msgid "Second Watch"
 msgid "Second Watch — Second Hour"
 msgstr "Noche cerrada — Hora segunda"
 
 #. [time]: id=second_watch_hour3
 #: data/core/macros/schedules.cfg:198
-#| msgid "Second Watch"
 msgid "Second Watch — Third Hour"
 msgstr "Noche cerrada — Hora tercera"
 
 #. [time]: id=second_watch_hour4
 #: data/core/macros/schedules.cfg:210
-#| msgid "Second Watch"
 msgid "Second Watch — Fourth Hour"
 msgstr "Noche cerrada — Hora cuarta"
 
 #. [time]: id=second_watch_hour5
 #: data/core/macros/schedules.cfg:222
-#| msgid "Second Watch"
 msgid "Second Watch — Fifth Hour"
 msgstr "Noche cerrada — Hora quinta"
 
 #. [time]: id=second_watch_hour6
 #: data/core/macros/schedules.cfg:234
-#| msgid "Second Watch"
 msgid "Second Watch — Sixth Hour"
 msgstr "Noche cerrada — Hora sexta"
 
@@ -4581,7 +4566,6 @@ msgid " This unit is capable of basic healing."
 msgstr " Esta unidad es capaz de realizar sanamiento básico."
 
 #: data/core/macros/special-notes.cfg:17
-#| msgid " This unit is capable of basic healing."
 msgid " This unit is capable of rapid healing."
 msgstr ""
 
@@ -4735,9 +4719,6 @@ msgstr ""
 "los enemigos fijados como blanco, pero sólo durante el ataque."
 
 #: data/core/macros/special-notes.cfg:77
-#| msgid ""
-#| " The unit has magical attacks, which always have a high chance of hitting "
-#| "an opponent."
 msgid ""
 " This unit has magical attacks, which always have a high chance of hitting "
 "an opponent."
