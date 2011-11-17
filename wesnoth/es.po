@@ -16,13 +16,15 @@
 # Gustavo Gingins <gusgins@gmail.com>, 2009.
 # Alvin Eloy Luna Castro <alvineloy@gmail.com>, 2011.
 # Ignacio Riquelme Morelle <shadowm2006@gmail.com>, 2011.
+# Aelonin <quianaaelonin@gmail.com>, 2011.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-11-08 10:33-0500\n"
-"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
+"PO-Revision-Date: 2011-11-17 00:16+0100\n"
+"Last-Translator: Aelonin <quianaaelonin@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -337,7 +339,7 @@ msgstr "(Fácil)"
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:46
 msgid "Soldier"
-msgstr ""
+msgstr "Soldado"
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:47
@@ -6472,7 +6474,7 @@ msgstr "Especial de arma:"
 
 #: src/reports.cpp:773
 msgid "None"
-msgstr ""
+msgstr "Ninguno"
 
 #: src/reports.cpp:965
 msgid "Lawful units: "
@@ -6488,7 +6490,7 @@ msgstr "Unidades caóticas: "
 
 #: src/reports.cpp:968
 msgid "Liminal units: "
-msgstr "Unidades liminales: "
+msgstr "Unidades crepusculares: "
 
 #: src/reports.cpp:1181
 msgid "Observers:"
@@ -6840,7 +6842,7 @@ msgstr "legal"
 # LIMINAL es una palabra del idioma latín, que hace referencia al crepúsculo (alba u ocaso). No hay traducción al español.  Para singular se utilizará la palabra LIMINAL, sin importar el género de la unidad, en plural se utilizará la palabra LIMINALES.  (AELC)
 #: src/unit_types.cpp:976
 msgid "liminal"
-msgstr "liminal"
+msgstr "crepuscular"
 
 #: src/unit_types.cpp:976
 msgid "neutral"
@@ -6857,7 +6859,7 @@ msgstr "legal"
 # LIMINAL es una palabra del idioma latín, que hace referencia al crepúsculo (alba u ocaso). No hay traducción al español.  Para singular se utilizará la palabra LIMINAL, sin importar el género de la unidad, en plural se utilizará la palabra LIMINALES.  (AELC)
 #: src/unit_types.cpp:977
 msgid "female^liminal"
-msgstr "liminal"
+msgstr "crepuscular"
 
 #: src/unit_types.cpp:977
 msgid "female^neutral"

@@ -7,13 +7,15 @@
 # Roberto Romero <sildurin@gmail.com>, 2007.
 # Sergi March <sergi.march@gmail.com>, 2008.
 # Ignacio Riquelme Morelle <shadowm2006@gmail.com>, 2008, 2009, 2010, 2011.
+# Aelonin <quianaaelonin@gmail.com>, 2011.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-11-03 12:40-0500\n"
-"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
+"PO-Revision-Date: 2011-11-17 15:16+0100\n"
+"Last-Translator: Aelonin <quianaaelonin@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -768,7 +770,7 @@ msgstr "Ciudad humana"
 #, fuzzy
 #| msgid "Ruined Hill Stone Village"
 msgid "Windmill Village"
-msgstr "Aldea de piedras en ruinas"
+msgstr "Aldea con molino de viento"
 
 #. [terrain_type]: id=city_village_wno
 #: data/core/terrain.cfg:1293
@@ -1085,10 +1087,9 @@ msgstr "Puente de madera"
 #. [terrain_type]: id=rotbridgediag2
 #: data/core/terrain.cfg:1931 data/core/terrain.cfg:1943
 #: data/core/terrain.cfg:1955
-#, fuzzy
 #| msgid "Wooden Bridge"
 msgid "Rotting Bridge"
-msgstr "Puente de madera"
+msgstr "Puente de madera putrefacto"
 
 #. [terrain_type]: id=stone_bridge
 #: data/core/terrain.cfg:1969 data/core/terrain.cfg:1981
@@ -1112,7 +1113,7 @@ msgstr "Externo al mapa"
 #. [terrain_type]: id=off_map2
 #: data/core/terrain.cfg:2057
 msgid "Experimental Fake Map Edge"
-msgstr "Borde de mapa falso experimental"
+msgstr "Borde de mapa falso, experimental"
 
 #. [toggle_button]: id=shroud
 #. [terrain_type]: id=shroud
@@ -1255,15 +1256,14 @@ msgstr "Ninguno"
 
 #. [label]
 #: data/gui/default/window/addon_uninstall_list.cfg:51
-#, fuzzy
 #| msgid "Update Add-ons"
 msgid "Uninstall Add-ons"
-msgstr "Actualizar complementos"
+msgstr "Desintalar complementos"
 
 #. [scroll_label]
 #: data/gui/default/window/addon_uninstall_list.cfg:70
 msgid "Choose the add-ons you want to remove."
-msgstr ""
+msgstr "Marque los complementos que desea eliminar."
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=remove
@@ -1471,15 +1471,14 @@ msgstr "Redimensionar mapa"
 
 #. [label]: id=title
 #: data/gui/default/window/editor_set_starting_position.cfg:50
-#, fuzzy
 #| msgid "Choose theme"
 msgid "Choose Player"
-msgstr "Elegir tema"
+msgstr "Elija jugador"
 
 #. [label]: id=message
 #: data/gui/default/window/editor_set_starting_position.cfg:70
 msgid "Which player should start here?"
-msgstr ""
+msgstr "¿Qué jugador ha de comenzar aquí?"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
@@ -1507,7 +1506,7 @@ msgstr "Siguiente"
 #, fuzzy
 #| msgid "Custom lighting setting"
 msgid "Custom lighting settings"
-msgstr "Personalizar iluminación"
+msgstr "Personalizar preferencias de iluminación"
 
 #. [toggle_button]: id=custom_tod_auto_refresh
 #: data/gui/default/window/editor_settings.cfg:114
@@ -1780,7 +1779,6 @@ msgstr "Escoja su idioma preferido:"
 #. [button]: id=ok
 #: data/gui/default/window/language_selection.cfg:128
 #: data/gui/default/window/language_selection.cfg:129 src/hotkeys.cpp:204
-#, fuzzy
 #| msgid "Change language"
 msgid "Change Language"
 msgstr "Cambiar idioma"
@@ -1902,7 +1900,7 @@ msgstr "No ignorado"
 #. [toggle_button]: id=filter_vacant_slots
 #: data/gui/default/window/lobby_main.cfg:598
 msgid "Vacant slots"
-msgstr "Slots vacantes"
+msgstr "Plazas libres"
 
 #. [toggle_button]: id=filter_invert
 #: data/gui/default/window/lobby_main.cfg:604
@@ -1950,12 +1948,14 @@ msgstr "Observar"
 #. [toggle_button]: id=skip_replay
 #: data/gui/default/window/lobby_main.cfg:704
 msgid "Quick replay"
-msgstr "Respuesta rápida"
+msgstr ""
+"Repetici\n"
+"on rápida"
 
 #. [label]
 #: data/gui/default/window/lobby_player_info.cfg:38
 msgid "Player Info — "
-msgstr "Inf. de jugador -"
+msgstr "Inf. de jugador —"
 
 #. [button]: id=start_whisper
 #: data/gui/default/window/lobby_player_info.cfg:70
@@ -1964,21 +1964,18 @@ msgstr "Enviar mensaje privado"
 
 #. [button]: id=add_to_friends
 #: data/gui/default/window/lobby_player_info.cfg:99
-#, fuzzy
 #| msgid "Add As Friend"
 msgid "Add to Friends"
-msgstr "Añadir como amigo"
+msgstr "Añadir a «amigos»"
 
 #. [button]: id=add_to_ignores
 #: data/gui/default/window/lobby_player_info.cfg:108
-#, fuzzy
 #| msgid "Add As Ignore"
 msgid "Add to Ignores"
-msgstr "Añadir como ignorado"
+msgstr "Añadir a «ignorados»"
 
 #. [button]: id=remove_from_list
 #: data/gui/default/window/lobby_player_info.cfg:117
-#, fuzzy
 #| msgid "Remove from list"
 msgid "Remove from List"
 msgstr "Eliminar de la lista"
@@ -2221,9 +2218,9 @@ msgstr "Recordatorio de contraseña"
 msgid "Multiplayer"
 msgstr "Multijugador"
 
+# Por favor, no eliminar la coletilla "(Sólo en inglés)"
 #. [text_box]: id=user_name
 #: data/gui/default/window/mp_method_selection.cfg:90
-#, fuzzy
 #| msgid ""
 #| "You may login to the official multiplayer server with your forum username "
 #| "and password.\n"
@@ -2245,7 +2242,7 @@ msgstr ""
 "proveer una contraseña sólo si deseas utilizar un nombre de usuario "
 "registrado.\n"
 "\n"
-"El foro de la Batalla por Wesnoth se encuentra en http://www.wesnoth.org/"
+"El foro de «La Batalla por Wesnoth» se encuentra en http://www.wesnoth.org/"
 "forum/ (sólo en inglés)."
 
 #. [column]
@@ -2961,7 +2958,6 @@ msgid "infinite"
 msgstr "Infinito"
 
 #: src/game_preferences_display.cpp:950
-#, fuzzy
 #| msgid "Chat Lines: "
 msgid "Chat lines: "
 msgstr "Líneas de conversación: "
@@ -3011,7 +3007,6 @@ msgid "Advanced section^Advanced"
 msgstr "Avanzada"
 
 #: src/game_preferences_display.cpp:1292
-#, fuzzy
 #| msgid "Choose theme"
 msgid "Choose Theme"
 msgstr "Elegir tema"
