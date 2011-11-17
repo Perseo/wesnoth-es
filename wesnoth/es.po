@@ -22,15 +22,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-<<<<<<< HEAD
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
 "PO-Revision-Date: 2011-11-17 00:16+0100\n"
 "Last-Translator: Aelonin <quianaaelonin@gmail.com>\n"
-=======
-"POT-Creation-Date: 2011-11-16 12:43+0100\n"
-"PO-Revision-Date: 2011-11-08 10:33-0500\n"
-"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
->>>>>>> dab0264d3a4d51c956d4b1ddb425164f07b98a11
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
