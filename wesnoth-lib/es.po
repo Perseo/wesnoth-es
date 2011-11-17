@@ -2227,7 +2227,7 @@ msgstr ""
 "proveer una contraseña sólo si deseas utilizar un nombre de usuario "
 "registrado.\n"
 "\n"
-"El foro de «La Batalla por Wesnoth» se encuentra en http://www.wesnoth.org/"
+"El foro de «La batalla por Wesnoth» se encuentra en http://www.wesnoth.org/"
 "forum/ (sólo en inglés)."
 
 #. [column]
@@ -2287,7 +2287,7 @@ msgstr "Ayuda"
 #. [button]: id=help
 #: data/gui/default/window/title_screen.cfg:147
 msgid "Show Battle for Wesnoth help"
-msgstr "Mostrar la ayuda de la Batalla por Wesnoth"
+msgstr "Mostrar la ayuda de «La batalla por Wesnoth»"
 
 #. [button]: id=previous_tip
 #: data/gui/default/window/title_screen.cfg:162
