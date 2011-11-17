@@ -20,8 +20,8 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-05-30 20:47+0200\n"
-"PO-Revision-Date: 2011-07-26 17:14-0000\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2011-07-29 18:28+0100\n"
+"Last-Translator: Javier C.H. <javier_los_herejes@hotmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -187,7 +187,6 @@ msgstr ""
 # ¿Qué es esto?
 #. [topic]: id=aerie
 #: data/core/encyclopedia/drakes.cfg:13
-#, fuzzy
 msgid "Aerie"
 msgstr "Aeria"
 
@@ -204,9 +203,8 @@ msgstr ""
 
 #. [topic]: id=breeding_pen
 #: data/core/encyclopedia/drakes.cfg:19
-#, fuzzy
 msgid "Breeding Pen"
-msgstr "alimentación"
+msgstr "Zona de incubación"
 
 # Depende de lo que sea un aerie. Será un o una.
 #. [topic]: id=breeding_pen
@@ -387,7 +385,6 @@ msgstr "Incubación"
 # ¿Como narices llamamos a la cría de un draco? ¿Draconito? ¿Dracollito? xD
 #. [topic]: id=hatchling
 #: data/core/encyclopedia/drakes.cfg:91
-#, fuzzy
 msgid "Hatchling"
 msgstr "Polluelo"
 
@@ -409,7 +406,6 @@ msgstr "Novato"
 
 #. [topic]: id=fledgling
 #: data/core/encyclopedia/drakes.cfg:98
-#, fuzzy
 msgid ""
 "A young drake that has seen another generation hatch. If the "
 "<ref>dst='flight' text='flight'</ref> can afford the loss of a generation "
@@ -417,7 +413,7 @@ msgid ""
 msgstr ""
 "Un joven draco que ha visto nacer otra generación. Si la <ref>dst='flight' "
 "text='manada'</ref> puede afrontar la pérdida de una generación se inicia el "
-"<ref>dst='swarming' text='Swarming'</ref>."
+"<ref>dst='swarming' text='revoloteo'</ref>."
 
 #. [topic]: id=breeder
 #: data/core/encyclopedia/drakes.cfg:103
@@ -447,7 +443,6 @@ msgstr "Huevo, draco"
 
 #. [topic]: id=egg
 #: data/core/encyclopedia/drakes.cfg:110
-#, fuzzy
 msgid ""
 "The <ref>dst=caste text='caste'</ref> the <ref>dst='hatchling' "
 "text='Hatchling'</ref> will belongs to is determined by the time it is laid "
@@ -506,9 +501,8 @@ msgstr ""
 
 #. [topic]: id=intendant
 #: data/core/encyclopedia/drakes.cfg:133
-#, fuzzy
 msgid "Intendant"
-msgstr "Inteligente"
+msgstr "Intendente"
 
 #. [topic]: id=intendant
 #: data/core/encyclopedia/drakes.cfg:134
@@ -529,29 +523,25 @@ msgstr ""
 
 #. [topic]: id=swarm
 #: data/core/encyclopedia/drakes.cfg:139
-#, fuzzy
 msgid "Swarm"
-msgstr "enjambre"
+msgstr "Enjambre"
 
 #. [topic]: id=swarm
 #: data/core/encyclopedia/drakes.cfg:140
-#, fuzzy
 msgid ""
 "The <ref>dst='swarmlings' text='Swarmlings'</ref> that have left the "
 "<ref>dst='aerie' text='aerie'</ref> to found a new one."
 msgstr ""
-"Los <ref>dst='swarmlings' text='Swarmlings'</ref> que han dejado la "
+"Los <ref>dst='swarmlings' text='volantones'</ref> que han dejado la "
 "<ref>dst='aerie' text='aeria'</ref> para encontrar una nueva."
 
 #. [topic]: id=swarming
 #: data/core/encyclopedia/drakes.cfg:145
-#, fuzzy
 msgid "Swarming"
-msgstr "enjambre"
+msgstr "Revoloteo"
 
 #. [topic]: id=swarming
 #: data/core/encyclopedia/drakes.cfg:146
-#, fuzzy
 msgid ""
 " The <ref>dst='flight' text='flight'</ref> for a new drake <ref>dst='aerie' "
 "text='aerie'</ref> that recurs every <ref>dst='breeding_cycle' "
@@ -560,7 +550,7 @@ msgstr ""
 " La formación de una nueva <ref>dst='flight' text='bandada'</ref> para "
 "fundar una <ref>dst='aerie' text='aeria'</ref> que ocurre "
 "cada<ref>dst='breeding_cycle' text='ciclo reproductivo'</ref>. Ver "
-"<ref>dst='swarm' text='Swarm'</ref>."
+"<ref>dst='swarm' text='enjambre'</ref>."
 
 #. [topic]: id=runners
 #: data/core/encyclopedia/drakes.cfg:151
@@ -719,7 +709,6 @@ msgstr ""
 
 #. [topic]: id=green_isle
 #: data/core/encyclopedia/geography.cfg:45
-#, fuzzy
 msgid "Green Isle"
 msgstr "Isla verde"
 
@@ -933,7 +922,7 @@ msgstr ""
 "reino.\n"
 "    • Accidentes geográficos de importancia:\n"
 "          ◦ <ref>dst='great_river' text='EL gran río'</ref>: Es muy ancho en "
-"este punto, y solo los barcos pueden cruzarlo.\n"
+"este punto, y solo los barcos pueden cruzarlo."
 
 #. [topic]: id=northlands
 #: data/core/encyclopedia/geography.cfg:112
@@ -1055,7 +1044,6 @@ msgstr ""
 
 #. [topic]: id=heart_mountains
 #: data/core/encyclopedia/geography.cfg:146
-#, fuzzy
 msgid "Heart Mountains"
 msgstr "Montañas profundas"
 
@@ -1066,12 +1054,16 @@ msgid ""
 "text='river'</ref> country and the <ref>dst='far_north' text='Northern "
 "Plains'</ref>."
 msgstr ""
+"Una barrera fisicamente infranqueable entre la zona del río "
+"<ref>dst='arkan_thoria' text='arkan thoria'</ref> y el las "
+"<ref>dst='far_north' text='llanuras del norte'</ref>."
 
 #. [topic]: id=far_north
 #: data/core/encyclopedia/geography.cfg:152
 msgid "Far North"
-msgstr ""
+msgstr "Norte lejano"
 
+# ¿Que es el clannate? ¿La jefatura del clan? ¿el matriarcado? No se... a  mi me suena que en las tribus orcas mandaban las mujeres... xD Así que pongo matriarcado...
 #. [topic]: id=far_north
 #: data/core/encyclopedia/geography.cfg:176
 msgid ""
@@ -1107,6 +1099,39 @@ msgid ""
 "          ◦ River Bork\n"
 "          ◦ Wild Steppe"
 msgstr ""
+"Frío, duro, e inaccesible, el norte lejano es el ancestral hogar del "
+"matriarcado orco. Queda al norte de las <ref>dst='heart_mountains' "
+"text='montañas profundas'</ref>, a las que los orcos llaman Haggid-Dargor y "
+"las reclaman (sin nigún mérito) bajo su dominio. Hacia el borde oriental se "
+"encuentran las tribus no-alineadas de la estepa salvaje, que se sienten "
+"fuera del control del matriarcado, a ratos vagabundeando con los salvajes "
+"bárbaros humanos, a ratos luchando contra los altos elfos de las llanuras "
+"del norte (conocidos con elfos del norte en las tierras humanas). Estos "
+"mismos altos elfos residen más al este, dónde se rumorea que dirigen un gran "
+"reino.\n"
+"\n"
+"    • Ciudades notables:\n"
+"          ◦ Barag Gor, la ciudad natal del consejo orco\n"
+"          ◦ Bitok\n"
+"          ◦ Borstep\n"
+"          ◦ Castelfrang\n"
+"          ◦ Farzi\n"
+"          ◦ Festog\n"
+"          ◦ Grisbi\n"
+"          ◦ Lmarig\n"
+"          ◦ Melmog\n"
+"          ◦ Prestim\n"
+"          ◦ Tirigaz\n"
+"    • Accidentes geográficos de importancia:\n"
+"          ◦ Pantano de la desolación\n"
+"          ◦ Montañas de Dorth\n"
+"          ◦ Montes de Haag\n"
+"          ◦ Bosque verde\n"
+"          ◦ Bosque del silencio\n"
+"          ◦ Bosque de Thelien\n"
+"          ◦ Río Oumph\n"
+"          ◦ Río Bork\n"
+"          ◦ Estepa salvaje"
 
 #. [section]: id=introduction
 #. [topic]: id=..introduction
@@ -1211,7 +1236,6 @@ msgstr "Introducción"
 
 #. [topic]: id=introduction_topic
 #: data/core/help.cfg:120
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -1224,13 +1248,13 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"La batalla por Wesnoth es un juego de estrategia fantástica por turnos, con "
-"un enfoque poco usual entre los juegos modernos de estrategia. Mientras "
-"otros juegos buscan la complejidad de reglas y sistema de juego, en la "
-"batalla por Wesnoth se persigue todo lo contrario. Esto no hace simple al "
-"juego, sino al contrario: a partir de unas reglas simples pueden crearse "
-"grandes estrategias, haciendo que el juego sea fácil de aprender pero "
-"difícil de dominar con maestría."
+"<italic>text='La batalla por Wesnoth'</italic> es un juego de estrategia "
+"fantástica por turnos, con un enfoque poco usual entre los juegos modernos "
+"de estrategia. Mientras otros juegos buscan la complejidad de reglas y "
+"sistema de juego, en <italic>text='la batalla por Wesnoth'</italic> se "
+"persigue todo lo contrario. Esto no hace simple al juego, sino al contrario: "
+"a partir de unas reglas simples pueden crearse grandes estrategias, haciendo "
+"que el juego sea fácil de aprender pero difícil de dominar con maestría."
 
 #. [topic]: id=fundamentals
 #: data/core/help.cfg:132
@@ -1239,7 +1263,6 @@ msgstr "Fundamentos del juego"
 
 #. [topic]: id=fundamentals
 #: data/core/help.cfg:133
-#, fuzzy
 msgid ""
 "These pages outline all you need to know to play <italic>text='Battle for "
 "Wesnoth'</italic>. They cover how to play and the basic mechanics behind the "
@@ -1247,15 +1270,15 @@ msgid ""
 "come across new aspects of the game. For more detailed information on "
 "special situations and exceptions, please follow the links included."
 msgstr ""
-"Estas páginas esbozan todo lo que tiene que saber para jugar a la batalla "
-"por Wesnoth. A medida que juegue, se irá añadiendo más información a estas "
-"páginas para cubrir los aspectos del juego que vayan apareciendo. Si desea "
-"conocer todas las excepciones y situaciones especiales, por favor, siga los "
-"enlaces que se indican."
+"Estas páginas esbozan todo lo que tiene que saber para jugar a "
+"<italic>text='la batalla por Wesnoth'</italic>. A medida que juegue, se irá "
+"añadiendo más información a estas páginas para cubrir los aspectos del juego "
+"que vayan apareciendo. Si desea tener información más detallada para "
+"situaciones especiales o excepciones, por favor, siga los enlaces que se "
+"irán indicando."
 
 #. [topic]: id=fundamentals
 #: data/core/help.cfg:135
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -1269,13 +1292,13 @@ msgstr ""
 "\n"
 "\n"
 "Para empezar, es mejor que pulse con el ratón en el botón "
-"<italic>text=Tutorial</italic> que hay en el menú principal. Esto lo llevará "
-"a un tutorial interactivo que le enseñará los fundamentos de Wesnoth. Tras "
-"él, le recomendamos que juegue la campaña Heredero al trono en primer lugar. "
-"Para ello, pinche en <italic>text=Campañas</italic> y luego en "
-"<italic>text='Heredero al trono'</italic>. Ya que la batalla por Wesnoth "
-"puede ser un juego complicado, puede que quiera empezar en el nivel "
-"<italic>text=Fácil</italic>."
+"<italic>text=tutorial</italic> que hay en el menú principal. Esto lo llevará "
+"a un tutorial interactivo que le enseñará los fundamentos de Wesnoth. "
+"Después de este tutorial, es recomendable que juegue la campaña 'heredero al "
+"trono' en primer lugar. Para ello, pinche en <italic>text=Campañas</italic> "
+"y luego en <italic>text='Heredero al trono'</italic>. Ya que "
+"<italic>text='la batalla por Wesnoth'</italic> puede ser un juego "
+"complicado, puede que quiera empezar en el nivel <italic>text=fácil</italic>."
 
 #. [topic]: id=fundamentals
 #: data/core/help.cfg:138
@@ -1300,7 +1323,6 @@ msgstr "Acerca del juego"
 
 #. [topic]: id=about_game
 #: data/core/help.cfg:144
-#, fuzzy
 msgid ""
 "The game takes place over a series of battles, called "
 "<italic>text='scenarios'</italic>. Each scenario pits your troops against "
@@ -1310,17 +1332,17 @@ msgid ""
 "other people connected to that network. If your computer has a connection to "
 "the Internet, you can play against other people across the Internet."
 msgstr ""
-"En el juego tienen lugar una serie de batallas, denominadas escenarios. Cada "
-"escenario enfrenta sus tropas con las tropas de uno o más adversarios. Puede "
-"jugar contra el ordenador, o con sus amigos, utilizando todos el mismo "
-"ordenador por turnos (denominado juego «silla caliente»). Si su ordenador "
-"está conectado a una red local, también podrá jugar contra gente que esté "
-"conectada en esa red. Si su ordenador tiene una conexión a Internet, podrá "
-"jugar contra otras personas a través de Internet."
+"En el juego tienen lugar una serie de batallas, denominadas "
+"<italic>text='escenarios'</italic>. Cada escenario enfrenta sus tropas con "
+"las tropas de uno o más adversarios. Puede jugar contra el ordenador, o con "
+"sus amigos, utilizando todos el mismo ordenador por turnos (denominado juego "
+"«silla caliente»). Si su ordenador está conectado a una red local, también "
+"podrá jugar contra gente que esté conectada en esa red. Si su ordenador "
+"tiene conexión a internet, podrá jugar contra otras personas a través de "
+"internet."
 
 #. [topic]: id=about_game
 #: data/core/help.cfg:146
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -1331,10 +1353,10 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Las campañas son una colección de escenarios puestos uno detrás de otro, a "
-"modo de historia. En una campaña, a menudo necesitará jugar de modo más "
-"cuidadoso, preservando sus mejores tropas del daño para poder utilizarlas "
-"más tarde en posteriores escenarios de la campaña."
+"Las <italic>text='campañas'</italic> consisten en una serie de escenarios "
+"sucesivos, que van contando una historia. En una campaña, a menudo "
+"necesitará jugar con más cuidado, protegiendo sus mejores tropas para poder "
+"utilizarlas más tarde en posteriores escenarios de la campaña."
 
 #. [topic]: id=victory_and_defeat
 #: data/core/help.cfg:152
@@ -1343,7 +1365,6 @@ msgstr "Victoria y Derrota"
 
 #. [topic]: id=victory_and_defeat
 #: data/core/help.cfg:153
-#, fuzzy
 msgid ""
 "Pay careful attention to the <bold>text='Objectives'</bold> pop-up box at "
 "the beginning of each scenario. Usually you will achieve victory by killing "
@@ -1352,17 +1373,16 @@ msgid ""
 "designated point, say, or rescuing someone, or solving a puzzle, or holding "
 "out against a siege until a certain number of turns have elapsed."
 msgstr ""
-"Presta suma atención al cuadro emergente de los Objetivos al principio de "
-"cada escenario. Por lo general, conseguirás la victoria por matar a todos "
-"los líderes enemigos, y sólo serás derrotado si matan a tu líder. Pero los "
-"escenarios pueden tener otros objetivos de victoria - llevar a tu líder a un "
-"punto designado, por ejemplo, o rescatar a alguien, o la solución de un "
-"puzzle, o resistir un sitio hasta que un cierto número de turnos hayan "
-"transcurrido."
+"Presta suma atención al cuadro emergente de los <bold>text='objectivos'</"
+"bold> al principio de cada escenario. Por lo general, conseguirás la "
+"victoria por matar a todos los líderes enemigos, y sólo serás derrotado si "
+"matan a tu líder. Pero los escenarios pueden tener otros objetivos de "
+"victoria - llevar a tu líder a un punto designado, por ejemplo, o rescatar a "
+"alguien, o la solución de un puzzle, o resistir un sitio hasta que un cierto "
+"número de turnos hayan transcurrido."
 
 #. [topic]: id=victory_and_defeat
 #: data/core/help.cfg:155
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -1373,10 +1393,11 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Cuando ganes un escenario, el mapa se volverá gris y el botón «Fin de Turno» "
-"cambiará a «Fin de escenario». Ahora puedes hacer cosas como modificar las "
-"opciones de guardado o (si estás en modo multijugador) chatear con otros "
-"jugadores antes de pulsar ese botón para avanzar."
+"Cuando ganes un escenario, el mapa se volverá gris y el botón "
+"<bold>text='fin de turno'</bold> cambiará a <bold>text='finalizar "
+"escenario'</bold>. Ahora puedes hacer cosas como modificar las opciones de "
+"guardado o (si estás en modo multijugador) chatear con otros jugadores antes "
+"de pulsar ese botón para avanzar."
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:162
@@ -1385,7 +1406,6 @@ msgstr "Reclutar y reincorporar"
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:163
-#, fuzzy
 msgid ""
 "Each side begins with one leader in their keep. At the start of any battle, "
 "and at times during it, you will need to recruit <ref>dst='..units' "
@@ -1401,14 +1421,15 @@ msgstr ""
 "Cada bando comienza con un líder en su torreón. Al comienzo de cada batalla, "
 "y a veces durante ella, necesitará reclutar <ref>dst='..units' "
 "text='unidades'</ref> para su ejército. Para ello, ha de tener a su líder "
-"(por ejemplo, Konrad en la campaña Heredero al trono) en la casilla del "
-"torreón de un <ref>dst='terrain_castle' text='castillo'</ref>. Entonces "
-"podrá reclutar tan sólo con escoger Reclutar en el menú, o bien pulsando el "
-"botón derecho en un hexágono y seleccionando la opción "
-"<italic>text=Reclutar</italic>. Al hacer esto, se mostrará el menú de "
-"reclutamiento, donde se listan las unidades disponibles para reclutar, junto "
-"con su coste en piezas de oro. Haga clic en una unidad para ver sus "
-"estadísticas, y luego presione el botón Reclutar para hacerlo."
+"(por ejemplo, Konrad en la campaña <italic>text='heredero al trono'</"
+"italic>) en la casilla del torreón de un <ref>dst='terrain_castle' "
+"text='castillo'</ref>. Entonces podrá reclutar tan sólo con escoger "
+"<bold>text='reclutar'</bold> en el menú, o bien pulsando el botón derecho en "
+"un hexágono y seleccionando la opción <italic>text=reclutar</italic>. Al "
+"hacer esto, se mostrará el menú de reclutamiento, donde se muestran las "
+"unidades disponibles, junto con su coste en piezas de oro. Haga clic en una "
+"unidad para ver sus estadísticas, y luego presione el botón reclutar para "
+"hacerlo."
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:165
@@ -1430,7 +1451,6 @@ msgstr ""
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:167
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -1440,7 +1460,7 @@ msgstr ""
 "\n"
 "\n"
 "Las unidades reclutadas aparecen con dos <ref>dst='..traits_section' "
-"text='Rasgos'</ref> aleatorios que modifican sus estadísticas."
+"text='rasgos'</ref> aleatorios que modifican sus estadísticas."
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:169
@@ -1460,7 +1480,6 @@ msgstr ""
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:171
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -1472,7 +1491,7 @@ msgstr ""
 "\n"
 "Tenga en mente que las unidades no sólo cuestan oro cuando se las recluta o "
 "se las reincorpora, sino que también requieren un costo de mantención. Lea "
-"la sección <ref>dst='income_and_upkeep' text='Recaudación y mantenimiento'</"
+"la sección <ref>dst='income_and_upkeep' text='recaudación y mantenimiento'</"
 "ref> para obtener más información."
 
 #. [topic]: id=orbs
@@ -1491,13 +1510,11 @@ msgstr ""
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:180
-#, fuzzy
 msgid " green if it hasn’t moved this turn,"
 msgstr " verde si la unidad no se ha movido este turno,"
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:181
-#, fuzzy
 msgid " yellow if it has moved, but could still move further or attack, or"
 msgstr ""
 " amarillo si se ha movido, pero aún le queda capacidad de movimiento o "
@@ -1508,16 +1525,15 @@ msgstr ""
 msgid ""
 " red if it can no longer move or attack, or the user ended the unit’s turn."
 msgstr ""
+"rojo si no puede moverse más o atacar, o el jugador a terminado su turno."
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:183
-#, fuzzy
 msgid " blue if the unit is an ally you do not control."
-msgstr "Azul si la unidad es aliada y no tiene control sobre ella."
+msgstr " azul si la unidad es aliada y no tiene control sobre ella."
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:184
-#, fuzzy
 msgid " Enemy units have no orb on top of their energy bar."
 msgstr "Las unidades enemigas no tienen orbes encima de sus barras de energía."
 
@@ -1528,7 +1544,6 @@ msgstr "Puntos de vida y experiencia"
 
 #. [topic]: id=hitpoints
 #: data/core/help.cfg:192
-#, fuzzy
 msgid ""
 "Each unit has a certain number of <italic>text='hitpoints'</italic> (HP). If "
 "the hitpoints of a unit drop below 1, the unit dies. Each unit also has a "
@@ -1536,11 +1551,11 @@ msgid ""
 "recruited unit starts with no experience points, and gains experience by "
 "fighting enemies."
 msgstr ""
-"Cada unidad tiene un cierto número de puntos de vida (PV). Si los puntos de "
-"vida de una unidad descienden por debajo de 1, la unidad muere. Cada unidad "
-"tiene también un cierto número de puntos de experiencia (PX). Una unidad "
-"recién reclutada comienza sin puntos de experiencia, y gana experiencia "
-"luchando contra enemigos."
+"Cada unidad tiene un cierto número de <italic>text='puntos de vida'</italic> "
+"(PV). Si los puntos de vida de una unidad descienden por debajo de 1, la "
+"unidad muere. Cada unidad tiene también un cierto número de puntos de "
+"experiencia (PX). Una unidad recién reclutada comienza sin puntos de "
+"experiencia, y gana experiencia luchando contra enemigos."
 
 #. [topic]: id=hitpoints
 #: data/core/help.cfg:196
@@ -1574,7 +1589,6 @@ msgstr "Movimiento"
 
 #. [topic]: id=movement
 #: data/core/help.cfg:205
-#, fuzzy
 msgid ""
 "Movement in <italic>text='Battle for Wesnoth'</italic> is simple. Click on "
 "the unit you wish to move to select it, then click on the hex you wish to "
@@ -1589,21 +1603,21 @@ msgid ""
 "up its movement. Ending a move in a village you don’t already own will also "
 "use up a unit’s movement, but will still allow it to attack."
 msgstr ""
-"El movimiento en La Batalla por Wesnoth es simple. Seleccione con el ratón "
-"la unidad que desea mover y a continuación el hexágono donde desea que se "
-"mueva. Cuando esté seleccionada una unidad, se iluminan todos los hexágonos "
-"a los que puede moverse, y se oscurecen aquellos a los que no. Al llevar el "
-"ratón a uno de los hexágonos iluminados, aparecerá el valor de defensa que "
-"tendría la unidad en caso de encontrarse en él. Si llevamos el ratón a uno "
-"de los hexágonos oscuros aparecerá el número de turnos que la unidad "
-"necesitará para llegar hasta allí, y si pincha en él hará que la unidad se "
-"mueva hacia allá por el camino más rápido durante el turno en curso y los "
-"siguientes. Si no utiliza todo el movimiento de la unidad en el primer "
-"movimiento, es posible moverla de nuevo. Esto es útil cuando se desea "
-"intercambiar el lugar de dos unidades. Atacar con una unidad utiliza todo su "
-"movimiento. Acabar el movimiento en una aldea que no era de nuestra "
-"propiedad también usará todo el movimiento de la unidad, pero todavía podrá "
-"atacar."
+"El movimiento en <italic>text='la batalla por wesnoth'</italic> es simple. "
+"Seleccione con el ratón la unidad que desea mover y a continuación el "
+"hexágono donde desea que se mueva. Cuando esté seleccionada una unidad, se "
+"iluminan todos los hexágonos a los que puede moverse, y se oscurecen "
+"aquellos a los que no. Al llevar el ratón a uno de los hexágonos iluminados, "
+"aparecerá el valor de defensa que tendría la unidad en caso de encontrarse "
+"en él. Si llevamos el ratón a uno de los hexágonos oscuros aparecerá el "
+"número de turnos que la unidad necesitará para llegar hasta allí, y si "
+"pincha en él hará que la unidad se mueva hacia allá por el camino más rápido "
+"durante el turno en curso y los siguientes. Si no utiliza todo el movimiento "
+"de la unidad en el primer movimiento, es posible moverla de nuevo. Esto es "
+"útil cuando se desea intercambiar el lugar de dos unidades. Atacar con una "
+"unidad utiliza todo su movimiento. Acabar el movimiento en una aldea que no "
+"era de nuestra propiedad también usará todo el movimiento de la unidad, pero "
+"todavía podrá atacar."
 
 #. [topic]: id=movement
 #: data/core/help.cfg:207
@@ -2575,7 +2589,7 @@ msgstr ""
 #. [topic]: id=traits_feral
 #: data/core/help.cfg:399
 msgid "Feral"
-msgstr ""
+msgstr "Salvaje"
 
 #. [topic]: id=traits_feral
 #: data/core/help.cfg:400
@@ -2585,6 +2599,11 @@ msgid ""
 "units receive a maximum of 40% defense in any land-based village regardless "
 "of base terrain."
 msgstr ""
+"Los utensilios de las criaturas inteligentes no son fáciles de usar por "
+"algunas criaturas salvajes de reducida inteligencia. Como resultado, las "
+"unidades <italic>text='salvajes'</italic> reciben un máximo de un 40% de "
+"defensa en cualquier tipo de terreno en que haya una ciudad, sin importar el "
+"terreno en que esta se encuentre."
 
 #. [topic]: id=traits_loyal
 #: data/core/help.cfg:405
@@ -4391,7 +4410,7 @@ msgstr "Máxima bonificación en PV +3, Máximos XP +20%"
 #. [illuminated_time]: id=indoors_illum
 #: data/core/macros/schedules.cfg:70 data/core/macros/schedules.cfg:76
 msgid "Indoors"
-msgstr ""
+msgstr "interiores"
 
 #. [time]: id=deep_underground
 #. [illuminated_time]: id=deep_underground_illum
@@ -4769,17 +4788,17 @@ msgstr "Lucha normalmente durante momentos desfavorables del día o la noche"
 #. [trait]: id=feral
 #: data/core/macros/traits.cfg:190
 msgid "feral"
-msgstr ""
+msgstr "salvaje"
 
 #. [trait]: id=feral
 #: data/core/macros/traits.cfg:191
 msgid "female^feral"
-msgstr ""
+msgstr "salvaje"
 
 #. [trait]: id=feral
 #: data/core/macros/traits.cfg:192
 msgid "Receive only 50% defense in land-based villages"
-msgstr ""
+msgstr "Recibe solo un 50% de defensa en terrenos donde haya una ciudad."
 
 #. [trait]: id=weak
 #: data/core/macros/traits.cfg:208
@@ -4845,6 +4864,12 @@ msgid ""
 "especially when encountered in groups. Typically nocturnal, they are often "
 "kept (and occasionally tamed) by those who share their love of the night."
 msgstr ""
+"Existen murcielagos de todas las formas y tamaños, y la mayoría de ellos son "
+"inofensivos en realidad, alimentándose de insectos y otros animales "
+"pequeños. Las razas más grandes y agresivas son conocidas por suponer una "
+"amenaza para los humanos y otras razas, además de a su ganado, sobre todo "
+"cuando se reúnen en grupos. Habitualmente nocturnos, son mantenidos (y "
+"ocasionalmente domesticados) por aquellos que comparten su amor por la noche."
 
 #. [race]: id=drake
 #: data/core/units.cfg:54
@@ -4929,6 +4954,74 @@ msgid ""
 "a relatively cold climate, a feature which has allowed them to populate even "
 "some of the mountains of the far north of the Great Continent."
 msgstr ""
+"Los dracos son criaturas grandes, aladas y de aliento flamígero, "
+"reminiscencia de los verdaderos dragones. Habitualmente, un draco adulto "
+"levanta más de tres metros sobre el suelo y puede pesar fácilmente más que "
+"un hombre y su montura juntos. Su piel está compuesta de duras escamas, "
+"resistentes a casi todos los golpes físicos excepto los de penetración y "
+"frío. La mayoría de los dracos son capaces de volar y viajar largas "
+"distancias velozmente. Sin embargo, su obvio peso y sus grandes proporciones "
+"limitan su capacidad para el vuelo haciéndolos, de alguna manera, estar en "
+"desventaja en el aire. Cuando es posible, usan accidentes del terreno como "
+"puedan ser colinas, montañas o arboles como puntos de despegue para alcanzar "
+"mayor altura y velocidad. Afortunadamente para sus enemigos son todavía unas "
+"criaturas algo torpes y sorprendentemente lentas en el combate. Esto, "
+"combinado con su gran tamaño, los hace ser blancos fáciles para cualquiera "
+"que les ataque.\n"
+"\n"
+"Los dracos son criaturas mágicas por naturaleza, con un misterioso fuego "
+"interno alimentando sus entrañas. Esto puede observarse fácilmente cuando "
+"uno de ellos muere en combate; su fuego interno se desata, convirtiendo sus "
+"restos en cenizas. Su fuego interior es también una gran desventaja; los "
+"hace extremadamente vulnerables a los ataques de frío. A pesar de su "
+"naturaleza mágica, los dracos son incapaces de canalizar la magia o "
+"controlarla. Incluso cuando la magia imbuida en el cuerpo de un draco le "
+"permite escupir fuego y le da la vida, no tienen el control total de las "
+"funciones de su magia.\n"
+"<header>text='Sociedad'</header>\n"
+"Los dracos son una raza relativamente belicosa y como mejor pueden ser "
+"descritas sus sociedades es como una cultura marcial y combativa. El núcleo "
+"de una tribu draconiana es una pequeño grupo de guerreros veteranos "
+"encabezados por un respetado - o simplemente temido - <ref>dst='dominant' "
+"text='draco dominante'</ref> que dirige la sociedad con mano de hierro. De "
+"cada draco se espera que se gane su puesto en la jerarquía, obedeciendo a "
+"sus superiores y comandando a sus inferiores. Entrar en la élite gobernante "
+"sólo es posible desafiando y derrotando a un superior en combate singular, "
+"que es el modo en que la propia jerarquía está establecida. El uso del "
+"engaño de cualquier tipo hacia un compañero draco es, sin excepción, "
+"considerado una cobardía inaceptable.\n"
+"\n"
+"Mientras que su naturaleza belicosa y su sentido territorial les lleva a "
+"defender sus territorios salvajemente, los dracos rara vez invaden o entran "
+"en zona ocupadas por otras razas mayores. En lugar de esto, se asientan en "
+"áreas despobladas para establecer su propio territorio allí. Se alimentan "
+"principalmente de la piezas mayores que cazan en los llanos cercanos a sus "
+"hogares, pero los polluelos y las castas menores entre los adultos son "
+"conocidas por alimentarse también de un tipo concreto de musgo y hongos que "
+"cultivan en las profundidades de sus cavernas. La única tecnología que "
+"valoran los dracos es la forja de armaduras, y armas, y ni conocen ni "
+"necesitan otra ciencia o cultura aparte de esta. Sin embargo las pocas "
+"herramientas que realizan no tienen rival en calidad, solo igualadas por las "
+"producidas por las más finas fundiciones enanas.\n"
+"\n"
+"Los dracos nacen de huevos y habitualmente viven de 20 a 30 años. La muerte "
+"en batalla es el modo de dejar este mundo preferido por los dracos. Al "
+"contrario que los miembros más viejos de otras razas, los dracos se vuelven "
+"más agresivos y desconsiderados hacia el final de sus vidas, quizá para "
+"ayudar a asegurar su lugar en las heroicas leyendas de su pueblo.\n"
+"\n"
+"<header>text='Geografía'</header>\n"
+"Los dracos son originarios de un archipiélago de islas volcánicas llamado "
+"<ref>dst='morogor' text='Morogor'</ref> en el <ref>dst='great_ocean' "
+"text='gran océano'</ref>. Una combinación de presión demográfico y el "
+"hundimiento de muchas de sus islas natales ha llevado a las colonias "
+"draconianas a extenderse por todo el <ref>dst='great_continent' text='gran "
+"continente'</ref>. Los dracos tienden a crear sus hogares en cavernas "
+"montañosas cerca de volcanes para proteger sus huevos, polluelos y forjas. "
+"Mientras los dracos por naturaleza prefieren climas cálidos, su fuego "
+"interno es capaz de mantenerlos incluso en condiciones de frío relativo, una "
+"característica que ha permitido a muchas de sus tribus asentarse en las "
+"montañas al norte del gran continente."
 
 #. [race]: id=dwarf
 #: data/core/units.cfg:89
@@ -5098,6 +5191,43 @@ msgid ""
 "trolls. Many of their settlements cannot be reliably dated, undoubtedly "
 "having existed for over a millennium."
 msgstr ""
+"Comparados con los humanos, los elfos son algo más altos, más ágiles pero "
+"menos fuertes y tenaces. Tienen orejas ligeramente puntiagudas, piel pálida "
+"y pelo habitualmente rubio. Pocas diferencias entre humanos y elfos son tan "
+"pronunciadas como la vida excepcionalmente larga de los elfos - muchos, si "
+"no son reclamados por la enfermedad, heridas o la guerra, viven plenamente "
+"dos siglos y medio. Mientras que algunos elfos que poseen una gran aptitud "
+"para la magia son conocidos por haber vivido casi otro siglo completo, la "
+"mayoría de los elfos se van haciendo físicamente frágiles en algún punto "
+"entre los 250 y 300 años de edad y mueren rápidamente (generalmente en uno o "
+"dos años) después.\n"
+"\n"
+"Los elfos están, en pequeña escala, imbuidos de magia por naturaleza. Aún "
+"cuando la mayoría son incapaces de canalizarla directamente, su presencia "
+"les otorga sus agudos sentidos y su larga vida. Muchos elfos tienen "
+"habilidades derivadas de la magia como pueden ser su puntería o su agilidad, "
+"que les permite conseguir objetivos que la mayoría de otros seres "
+"encontrarían imposibles. Los elfos aprenden a canalizar su poder de una "
+"manera más concreta pueden hacerse verdaderamente formidables en su uso. "
+"Muchos eligen usar este don para curar y sanar a los demás.\n"
+"\n"
+"Unos pocos elfos, adentrándose en los profundos caminos de la magia y el "
+"misticismo, se hacen sensibles a la presencia del frío acero y pueden ser "
+"incluso quemados por ella. Las leyendas elfas apuntan a que esto era más "
+"común en el pasado.\n"
+"\n"
+"Los elfos emplean gran parte de su tiempo en pulir sus talentos y "
+"habilidades. Aquellos que no perfeccionan las artes mágicas dedican su "
+"tiempo a perfeccionar sus habilidades físicas. La mayoría de las tropas "
+"élficas llevan arcos y ninguna otra raza puede competir con sus arqueros en "
+"velocidad o puntería. A menudo se encuentran a disgusto en espacios abiertos "
+"y yermos. Principalmente viven en los bosques del gran continente; el "
+"Aethenwood  en el sudoeste, Wesmere en el noroeste, y los grandes bosques "
+"del norte de los cuales Lintanir solo es el vértice más meridional.\n"
+"\n"
+"Los elfos son la más antigua de las razas del continente, con la posible "
+"excepción de los troles. Muchos de su asentamientos no pueden ser datados "
+"con fiabilidad, pero indudablemente han estado allí más de un milenio."
 
 #. [race]: id=goblin
 #: data/core/units.cfg:130
@@ -5135,6 +5265,26 @@ msgid ""
 "exception of jobs that require the brute strength of true orcs. Those the "
 "orcs revel in as proof of their prowess."
 msgstr ""
+"Los goblins han nacido, a pesar de su apariencia, como medio-hermanos de los "
+"orcos y son miembros de la misma raza. Mientras que otras razas tienen a sus "
+"hijos de uno en uno o en parejas, los orcos tienen grandes camadas de niños "
+"de una vez, haciendo que sus poblaciones crezcan más bien rápido. Entre "
+"cualquier camada, solo habrá uno o dos orcos de verdad, que crecerán hasta "
+"el tamaño y la fuerza máximas de su raza. Otros serán medio-orcos, "
+"notablemente más débiles que sus hermanos mayores, y relegados a tareas de "
+"apoyo en el combate, como la arquería. El resto, habitualmente la mitad o "
+"más de la camada, serán goblins. Los goblins son enfermizos y bastante "
+"endebles, rara vez superan la estatura y complexión de un niño humano. Los "
+"goblins han nacido para una vida de semi-esclavitud a sus hermanos mayores, "
+"y son usados como carne de cañón en las batallas. Prosperan en el rencor por "
+"su trágico destino; en parte porque son muy numerosos, y también porque sus "
+"hermanos orcos están bien concienciados de cuan dependientes son de los "
+"goblins.\n"
+"\n"
+"Los goblins desempeñan las cargas de labor manual que necesitan los orcos, "
+"con la única excepción de aquellos trabajos que requieren la fuerza bruta de "
+"los verdaderos orcos.  Esos orcos que luego se van de juerga como prueba de "
+"su hazaña."
 
 #. [race]: id=gryphon, description=
 #: data/core/units.cfg:147
@@ -5207,6 +5357,47 @@ msgid ""
 "general, the Clan warriors are less organized than the civilized fighters, "
 "and the strengths and weaknesses of these groups complement each other."
 msgstr ""
+"La raza de los hombres es extremadamente diversa. Incluso cuando "
+"originalmente proceden del viejo continente se han extendido por todo el "
+"mundo y derivado en muchas razas y culturas distintas. Incluso cuando no "
+"están imbuidos de magia como otras criaturas, los humanos pueden aprender a "
+"usarla y son capaces de aprender más tipos que las demás raza. No tienen "
+"habilidades especiales o aptitudes excepto su versatibilidad e impulso. "
+"Aunque tienen conflictos muy a menudo con otras razas, también pueden llegar "
+"a formar alianzas con las menos agresivas como los elfos o enanos. Los menos "
+"escrupulosos tampoco dudan en contratar mercenarios orcos. No tienen "
+"enemigos naturales, aunque la mayoría de los hombres, como mucha gente de "
+"otras razas, siente un desagrado instintivo hacia los no-muertos. Los "
+"hombres son más bajos que los elfos, pero más altos que los enanos. Su color "
+"de piel puede variar, de casi blanco a marrón oscuro.\n"
+"\n"
+"<header>text='Súbditos de la corona'</header>\n"
+"Existen muchos grupos diferentes de hombres, pero la mayoría de los que "
+"viven en el gran continente viven bajo el gobierno de la corona de Wesnoth. "
+"Los humanos que aparecieron por primera vez en el gran continente lo "
+"hicieron desde una lejana tierra, lejos al oeste cruzando el oceano, la isla "
+"verde, y establecieron rápidamente su capital en la ciudad interior de "
+"Weldyn. A lo largo de los siglos siguiente han levantado numerosas ciudades "
+"a lo largo y ancho del continente. Los soldados de la corona de Wesnoth "
+"protegen el país, formando la mayor fuerza militar organizada en todo el "
+"mundo conocido. Sus guerreros provienen de las principales provincias, donde "
+"todos los hombres son reclutados a temprana edad.\n"
+"\n"
+"<header>text='Los hombres de los clanes'</header>\n"
+"Las provincias orientales de Wesnoth, conocidas como el hogar de los clanes, "
+"tienen una geografía consistente en más abiertas llanuras y ondulantes "
+"colinas que las occidentales y más civilizadas provincias. Son el hogar de "
+"los clanes de caballos, que están aliados con la corona de Wesnoth pero que "
+"operan por separado y mantienen su propia identidad. Algunos los consideran "
+"un estado tributario, que envía comida y soldados a la corona a cambio de "
+"protección. Otros dicen que están en estado de igualdad con la mitad oeste "
+"de Wesnoth. En cualquier caso, las provincias orientales no tienen un "
+"ejército a base de reclutamientos como lo tiene Wesnoth. El entrenamiento "
+"para la lucha es parte del estilo de vida de los clanes; los padres enseñan "
+"a sus hijos a montar a caballo, luchar y disparar una arco desde que son "
+"pequeños. En general, los guerreros de los clanes están menos organizados "
+"que los luchadores más civilizados, pero las fuerzas y las debilidades de "
+"cada uno se compensan con las del otro."
 
 #. [race]: id=lizard, description=
 #: data/core/units.cfg:181
@@ -5241,6 +5432,10 @@ msgid ""
 "intelligent being. Most mechanical things neither move nor think on their "
 "own, but some do so as a result of magical enchantment."
 msgstr ""
+"No animados ni por la nigromancia ni por la vida natural, el término "
+"<italic>text='mecánico'</italic> describe un artefacto creado por un ser "
+"inteligente. La mayoría de los objetos mecánicos no se mueven ni piensan por "
+"si solos, pero algunos los hacen como resultado de un encantamiento mágico."
 
 #. [race]: id=merman
 #: data/core/units.cfg:203
@@ -5270,6 +5465,17 @@ msgid ""
 "ocean. They are typically wary of dry land, as they are awkward and clumsy "
 "there and they struggle greatly to move over rough or forested terrain."
 msgstr ""
+"Algo parecidos a una fusión entre humanos y peces, el pueblo de los "
+"sirénidos es una raza enigmática con atributos marinos y humanos a la vez. "
+"Tienen fuertes colas que les impulsan en un rápido movimientos en cualquier "
+"medio acuático mientras que sus diestras manos y sus inteligentes mentes les "
+"permiten una hechura y una artesanía muy finas al hacer herramientas. Semi-"
+"acuáticos por naturaleza, los sirénidos pueden respirar tanto en el agua "
+"como en tierra sin ninguna dificultad.  Aunque son capaces de sobrevivir en "
+"tierra, son mucho más ágiles en el agua y raramente se les encuentra lejos "
+"de ella. Son típicamente cautelosos en tierra firme,  pues son torpes y "
+"desmañados en ella y les cuesta mucho moverse a través de terreno "
+"accidentado o boscoso."
 
 #. [race]: id=monster
 #: data/core/units.cfg:214
@@ -5294,6 +5500,9 @@ msgid ""
 "wilderness, ocean depths, and other climes of the world. They figure largely "
 "in the tales and nightmares of its denizens, as well."
 msgstr ""
+"El término 'monstruo' incorpora muchas bestias que se guarecen en cuevas, "
+"yermos, profundidades marinas, y otros hábitat del mundo. Aparecen a menudo "
+"en los cuentos y en las pesadillas de sus vecinos, también."
 
 #. [race]: id=naga
 #: data/core/units.cfg:224
@@ -5328,6 +5537,20 @@ msgid ""
 "themselves at odds with merfolk when their territories overlap, but overall "
 "nagas tend to favor swamps and rivers as much as open water."
 msgstr ""
+"Las serpentinas nagas son una de las razas más incomprendidas en el gran "
+"continente. En parte por su naturaleza xenófoba y en parte por su extraño "
+"entorno. Las nagas son una de las pocas razas capaces de moverse con cierta "
+"habilidad en el agua, dándoles acceso a un mundo entero realmente prohibido "
+"para la población terrestre y que además los separa de los seres terrestres "
+"que rehuyen. Sin embargo, no son verdaderas criaturas marinas, y su "
+"imposibilidad para respirar dentro del agua les hace temer el abismo que se "
+"abre bajo ellas. La vida en áreas costeras les deja una ruta de escape a "
+"tierra contra los habitantes de las profundidades mientras que les mantiene "
+"alejados de aquellos que viajan a pie, ala o pezuña. A pesar de que las "
+"nagas pueden parecer un poco frágiles, son frecuentemente más rápidas y "
+"ágiles que sus oponentes. A veces se encuentran en confrontaciones con los "
+"sirénidos cuando sus terrenos se superponen, pero en el fondo las nagas "
+"prefieren los ríos y los pantanos tanto como el mar abierto."
 
 #. [race]: id=ogre
 #: data/core/units.cfg:234
@@ -5362,6 +5585,21 @@ msgid ""
 "is a sign of cooperation, domestication, or simply mutual opportunism is not "
 "known."
 msgstr ""
+"Los ogros son una raza salvaje e incivilizada que vagan por las tierras "
+"salvajes del gran continente. Físicamente, recuerdan a hombres y orcos pero "
+"son más grandes y más fuertes. Incluso sus adolescentes son más que un reto "
+"para muchos hombres. Los ogros desconfían de las zonas muy pobladas y "
+"habitualmente las evitan o son expulsados de ellas por la fuerza. En su "
+"lugar, acechan en la áreas montañosas en los confines de la civilización, "
+"donde los hambrientos bandidos ogros suponen una amenaza constante para los "
+"viajeros y las caravanas. Aun cuando los ogros no son particularmente "
+"inteligentes o despiertos, su dureza y su fuerza física les hace ser una "
+"valiosa ventaja en los ejércitos de otras razas. Son especialmente "
+"apreciados por comandantes tan salvajes que no les importa la brutalidad de "
+"los ogros. Se conoce poco de su biología o sociedad, si es que "
+"verdaderamente se puede decir que tengan alguna, pero se dice que atacan "
+"junto con los lobos y otras bestias. No se sabe si esto es una señal de "
+"cooperación, domesticación o simplemente oportunismo mutuo."
 
 #. [race]: id=orc
 #: data/core/units.cfg:245
@@ -5711,7 +5949,7 @@ msgstr "Mecánicos"
 #. [race]: id=khalifate
 #: data/core/units.cfg:327
 msgid "This race does not have a description yet."
-msgstr ""
+msgstr "Esta raza carece de descripción todavía."
 
 #. [race]: id=falcon, description=
 #: data/core/units.cfg:336
