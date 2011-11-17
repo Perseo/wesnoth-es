@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-11-07 17:23+0100\n"
+"POT-Creation-Date: 2011-11-16 12:43+0100\n"
 "PO-Revision-Date: 2011-11-17 15:16+0100\n"
 "Last-Translator: Aelonin <quianaaelonin@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
@@ -1087,7 +1087,6 @@ msgstr "Puente de madera"
 #. [terrain_type]: id=rotbridgediag2
 #: data/core/terrain.cfg:1931 data/core/terrain.cfg:1943
 #: data/core/terrain.cfg:1955
-#| msgid "Wooden Bridge"
 msgid "Rotting Bridge"
 msgstr "Puente de madera putrefacto"
 
@@ -1256,7 +1255,6 @@ msgstr "Ninguno"
 
 #. [label]
 #: data/gui/default/window/addon_uninstall_list.cfg:51
-#| msgid "Update Add-ons"
 msgid "Uninstall Add-ons"
 msgstr "Desintalar complementos"
 
@@ -1470,7 +1468,6 @@ msgstr "Copiar terreno del borde"
 
 #. [label]: id=title
 #: data/gui/default/window/editor_set_starting_position.cfg:50
-#| msgid "Choose theme"
 msgid "Choose Player"
 msgstr "Elija jugador"
 
@@ -1778,7 +1775,6 @@ msgstr "Escoja su idioma preferido:"
 #. [button]: id=ok
 #: data/gui/default/window/language_selection.cfg:128
 #: data/gui/default/window/language_selection.cfg:129 src/hotkeys.cpp:204
-#| msgid "Change language"
 msgid "Change Language"
 msgstr "Cambiar idioma"
 
@@ -1963,19 +1959,16 @@ msgstr "Enviar mensaje privado"
 
 #. [button]: id=add_to_friends
 #: data/gui/default/window/lobby_player_info.cfg:99
-#| msgid "Add As Friend"
 msgid "Add to Friends"
 msgstr "Añadir a «amigos»"
 
 #. [button]: id=add_to_ignores
 #: data/gui/default/window/lobby_player_info.cfg:108
-#| msgid "Add As Ignore"
 msgid "Add to Ignores"
 msgstr "Añadir a «ignorados»"
 
 #. [button]: id=remove_from_list
 #: data/gui/default/window/lobby_player_info.cfg:117
-#| msgid "Remove from list"
 msgid "Remove from List"
 msgstr "Eliminar de la lista"
 
@@ -2220,13 +2213,6 @@ msgstr "Multijugador"
 # Por favor, no eliminar la coletilla "(Sólo en inglés)"
 #. [text_box]: id=user_name
 #: data/gui/default/window/mp_method_selection.cfg:90
-#| msgid ""
-#| "You may login to the official multiplayer server with your forum username "
-#| "and password.\n"
-#| "Note that registration is not required to join the server: you need to "
-#| "supply a password only if you wish to use a registered username.\n"
-#| "\n"
-#| "The Battle for Wesnoth forum can be found at http://www.wesnoth.org/forum/"
 msgid ""
 "You may login to the official multiplayer server with your forum username "
 "and password.\n"
@@ -2957,7 +2943,6 @@ msgid "infinite"
 msgstr "Infinito"
 
 #: src/game_preferences_display.cpp:950
-#| msgid "Chat Lines: "
 msgid "Chat lines: "
 msgstr "Líneas de conversación: "
 
@@ -3006,7 +2991,6 @@ msgid "Advanced section^Advanced"
 msgstr "Avanzada"
 
 #: src/game_preferences_display.cpp:1292
-#| msgid "Choose theme"
 msgid "Choose Theme"
 msgstr "Elegir tema"
 

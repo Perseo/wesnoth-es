@@ -2676,8 +2676,8 @@ msgstr "No muerto"
 msgid ""
 "<italic>text='Undead'</italic> units are immune to poison, drain, and plague."
 msgstr ""
-"Los <italic>text='no muertos'</italic> son inmunes al veneno, además "
-"tampoco funcionan en ellos el drenado y la plaga."
+"Los <italic>text='no muertos'</italic> son inmunes al veneno, además tampoco "
+"funcionan en ellos el drenado y la plaga."
 
 #. [topic]: id=traits_undead
 #: data/core/help.cfg:417
@@ -2767,8 +2767,8 @@ msgid ""
 "<italic>text='Dextrous'</italic> units do 1 more damage for every successful "
 "strike in ranged combat."
 msgstr ""
-"Las unidades con el rasgo <italic>text='diestro'</italic> infligen un "
-"punto adicional de daño por cada ataque a distancia exitoso."
+"Las unidades con el rasgo <italic>text='diestro'</italic> infligen un punto "
+"adicional de daño por cada ataque a distancia exitoso."
 
 #. [topic]: id=traits_dextrous
 #: data/core/help.cfg:441
