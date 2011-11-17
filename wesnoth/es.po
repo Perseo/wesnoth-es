@@ -21,19 +21,19 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-16 12:43+0100\n"
-"PO-Revision-Date: 2011-04-10 01:58-0300\n"
-"Last-Translator: Ignacio Riquelme Morelle <shadowm2006@gmail.com>\n"
-"Language-Team: Spanish <es@li.org>\n"
+"PO-Revision-Date: 2011-11-08 10:33-0500\n"
+"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
+"Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);X-Generator: KBabel 1.11.4X-"
-"Generator: KBabel 1.11.4\n"
-"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:4
+#, fuzzy
+#| msgid "Compressed Saves"
 msgid "Compressed saves"
 msgstr "Partidas guardadas comprimidas"
 
@@ -46,11 +46,15 @@ msgstr "Confirmar eliminar partidas guardadas"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:18
+#, fuzzy
+#| msgid "Mouse Scrolling"
 msgid "Mouse scrolling"
 msgstr "Desplazamiento con ratón"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:25
+#, fuzzy
+#| msgid "Middle-click Scrolling"
 msgid "Middle-click scrolling"
 msgstr "Desplazamiento con clic del botón medio"
 
@@ -77,16 +81,22 @@ msgstr "Efecto del tiempo local de la luz del día (usa más memoria)"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:47
+#, fuzzy
+#| msgid "Show Titlescreen Animation"
 msgid "Show titlescreen animation"
 msgstr "Mostrar animación de pantalla principal"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:54
+#, fuzzy
+#| msgid "Show Combat"
 msgid "Show combat"
 msgstr "Mostrar combate"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:61
+#, fuzzy
+#| msgid "Ping Timeout"
 msgid "Ping timeout"
 msgstr "Sonido de tiempo vencido"
 
@@ -190,8 +200,10 @@ msgstr ""
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:157
+#, fuzzy
+#| msgid "Discover all units in help."
 msgid "Show all unit types in help"
-msgstr ""
+msgstr "Descubrir todas las unidades en los archivos de ayuda"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:158
@@ -319,10 +331,8 @@ msgstr ""
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:46
-#, fuzzy
-#| msgid "Easy"
 msgid "(Easy)"
-msgstr "Fácil"
+msgstr "(Fácil)"
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:46
@@ -331,10 +341,8 @@ msgstr ""
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:47
-#, fuzzy
-#| msgid "Normal"
 msgid "(Normal)"
-msgstr "Normal"
+msgstr "(Normal)"
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:47
@@ -343,10 +351,8 @@ msgstr ""
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:48
-#, fuzzy
-#| msgid "Hard"
 msgid "(Hard)"
-msgstr "Difícil"
+msgstr "(Difícil)"
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:48
@@ -367,17 +373,13 @@ msgstr ""
 #. [side]: id=Bravo, type=Elvish Archer
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:24
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:41
-#, fuzzy
-#| msgid "Players: "
 msgid "Players"
-msgstr "Jugadores: "
+msgstr "Jugadores"
 
 #. [side]: id=Charlie, type=Orcish Grunt
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:53
-#, fuzzy
-#| msgid "Enemy village"
 msgid "Enemies"
-msgstr "Aldea enemiga"
+msgstr "Enemigos"
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:73
@@ -391,24 +393,18 @@ msgstr ""
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:87
-#, fuzzy
-#| msgid "Difficulty: "
 msgid "Difficulty: Easy"
-msgstr "Dificultad: "
+msgstr "Dificultad: Fácil"
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:90
-#, fuzzy
-#| msgid "Difficulty: "
 msgid "Difficulty: Normal"
-msgstr "Dificultad: "
+msgstr "Dificultad: Normal"
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:93
-#, fuzzy
-#| msgid "Difficulty: "
 msgid "Difficulty: Hard"
-msgstr "Dificultad: "
+msgstr "Dificultad: Difícil"
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:100
@@ -496,7 +492,7 @@ msgstr "Edición de texto en inglés"
 #. [about]
 #: data/core/about.cfg:1234
 msgid "Afrikaans Translation"
-msgstr "Traducción afrikáans"
+msgstr "Traducción al afrikáans"
 
 #. [about]
 #: data/core/about.cfg:1254
@@ -561,7 +557,7 @@ msgstr "Traducción inglesa (Shaw)"
 #. [about]
 #: data/core/about.cfg:1611
 msgid "Esperanto Translation"
-msgstr "Traducción esperanto"
+msgstr "Traducción al esperanto"
 
 #. [about]
 #: data/core/about.cfg:1630
@@ -746,7 +742,7 @@ msgstr "Traducción al vietnamita"
 #. [about]
 #: data/core/about.cfg:2739
 msgid "RACV’s Translation"
-msgstr "Traducción de la RACV"
+msgstr "Traducción al idioma de la RACV"
 
 #. [about]
 #: data/core/about.cfg:2746
@@ -2111,9 +2107,9 @@ msgstr "Objetivo de bonificación:"
 #. [note]: description=<b>
 #: data/core/macros/objective-utils.cfg:74
 #, fuzzy
-#| msgid "Remote scenario"
+#| msgid "Choose next scenario"
 msgid "This is the last scenario."
-msgstr "Escenario remoto"
+msgstr "Seleccione el siguiente escenario"
 
 #. [message]: speaker=narrator
 #: data/core/macros/scenario-utils.cfg:62
@@ -2276,12 +2272,12 @@ msgstr "Carretera de $name,Paso de $name,Camino de $name"
 #. [language]
 #: data/english.cfg:25
 msgid "$name River,River $name"
-msgstr "Río de $name, Río $name"
+msgstr "Río de $name,Río $name"
 
 #. [language]
 #: data/english.cfg:26
 msgid "$name Forest,$name|’s Forest"
-msgstr "Bosque $name, Bosque de $name"
+msgstr "Bosque $name,Bosque de $name,Selva $name,Selva de $name"
 
 #. [language]
 #: data/english.cfg:27
@@ -2291,7 +2287,7 @@ msgstr "Lago $name"
 #. [language]
 #: data/english.cfg:28
 msgid "$name|’s Peak,Mount $name"
-msgstr "Pico de $name, Monte $name"
+msgstr "Pico de $name,Monte $name"
 
 #. [language]
 #: data/english.cfg:29
@@ -2630,7 +2626,7 @@ msgstr "<i>― Haldric II, 42YW, Manual de Análisis Táctico: Volumen I</i>"
 #: data/hardwired/tips.cfg:52
 #, fuzzy
 #| msgid ""
-#| "If you are playing with <b>Shroud</b> or <b>Fog of war</b> active, you "
+#| "If you are playing with <b>Shroud</b> or <b>Fog of War</b> active, you "
 #| "won’t know what you’re facing. In this case, long-range scouting units "
 #| "are worth their cost. Try to choose scouts that can easily move across "
 #| "the surrounding terrain, because units can only see as far as they can "
@@ -2762,7 +2758,7 @@ msgstr ""
 #: data/hardwired/tips.cfg:88
 #, fuzzy
 #| msgid ""
-#| "On maps where <i>Shroud</i> or <i>Fog of war</i> has been enabled, all "
+#| "On maps where <i>Shroud</i> or <i>Fog of War</i> has been enabled, all "
 #| "units’ sightlines are limited by their maximum movement. If you have some "
 #| "valuable but slow units, keep at least one fast unit with them so that "
 #| "you are not caught out by a surprise attack."
@@ -3475,7 +3471,7 @@ msgstr "Punto de vista"
 #. [menu]: id=skip-animation, type=checkbox
 #: data/themes/macros.cfg:147
 #, fuzzy
-#| msgid "Skip Animation"
+#| msgid "Skip animation"
 msgid "Skip animation"
 msgstr "Saltar animación"
 
@@ -3577,7 +3573,7 @@ msgstr "(presione $hotkey para seguir moviéndose)"
 
 #: src/addon/manager.cpp:423
 msgid "unit_byte^B"
-msgstr ""
+msgstr "B"
 
 #: src/addon/manager.cpp:440
 msgid "addon_type^Campaign"
@@ -3657,10 +3653,8 @@ msgid "Downloading add-on: $addon_title|..."
 msgstr "Descargando complemento: $addon_title|..."
 
 #: src/addon/manager.cpp:586 src/addon/manager.cpp:1135
-#, fuzzy
-#| msgid "Download"
 msgid "Downloading..."
-msgstr "Descargar"
+msgstr "Descargando..."
 
 #: src/addon/manager.cpp:598
 msgid ""
@@ -3834,10 +3828,8 @@ msgid "Confirm"
 msgstr "Confirmar"
 
 #: src/addon/manager.cpp:1128
-#, fuzzy
-#| msgid "Connecting to Server..."
 msgid "Connecting..."
-msgstr "Conectando al servidor..."
+msgstr "Conectando..."
 
 #: src/addon/manager.cpp:1128
 msgid "Requesting list of add-ons"
@@ -4024,10 +4016,8 @@ msgid "%a %b %d %H:%M %Y"
 msgstr "%a %b %d %H:%M %Y"
 
 #: src/dialogs.cpp:454 src/savegame.cpp:136
-#, fuzzy
-#| msgid "%a %b %d %H:%M %Y"
 msgid "%a %b %d %I:%M %p %Y"
-msgstr "%a %b %d %H:%M %Y"
+msgstr "%a %b %d %I:%M %p %Y"
 
 #: src/dialogs.cpp:470
 msgid "#(Invalid)"
@@ -4056,6 +4046,8 @@ msgid "Turn"
 msgstr "Turno"
 
 #: src/dialogs.cpp:511
+#, fuzzy
+#| msgid "Scenario Start"
 msgid "Scenario start"
 msgstr "Inicio del escenario"
 
@@ -4078,17 +4070,15 @@ msgstr "%H:%M"
 
 #: src/dialogs.cpp:550 src/reports.cpp:1218 src/savegame.cpp:176
 msgid "%I:%M %p"
-msgstr ""
+msgstr "%I:%M %p"
 
 #: src/dialogs.cpp:555 src/savegame.cpp:181
 msgid "%A, %H:%M"
 msgstr "%A, %H:%M"
 
 #: src/dialogs.cpp:558 src/savegame.cpp:184
-#, fuzzy
-#| msgid "%A, %H:%M"
 msgid "%A, %I:%M %p"
-msgstr "%A, %H:%M"
+msgstr "%A, %I:%M %p"
 
 #: src/dialogs.cpp:562 src/savegame.cpp:188
 msgid "%b %d"
@@ -4293,7 +4283,7 @@ msgstr "Turno "
 #: src/gui/dialogs/lobby/lobby_data.cpp:300 src/multiplayer_lobby.cpp:549
 #, fuzzy
 #| msgid "Vacant Slot:"
-#| msgid_plural "Vacant slots:"
+#| msgid_plural "Vacant Slots:"
 msgid "Vacant Slot:"
 msgid_plural "Vacant Slots:"
 msgstr[0] "Posición vacante:"
@@ -4795,6 +4785,8 @@ msgid "aliases:"
 msgstr "alias:"
 
 #: src/menu_events.cpp:2302
+#, fuzzy
+#| msgid "(A) - admin command"
 msgid "(A) — admin command"
 msgstr "(A) - comando administrativo"
 
@@ -4821,8 +4813,6 @@ msgstr ""
 #: src/menu_events.cpp:2334 src/menu_events.cpp:2337 src/menu_events.cpp:2339
 #: src/menu_events.cpp:2341 src/menu_events.cpp:2343 src/menu_events.cpp:2370
 #: src/menu_events.cpp:2372 src/menu_events.cpp:2374 src/menu_events.cpp:2388
-#, fuzzy
-#| msgid "<nick>"
 msgid "<nickname>"
 msgstr "<apodo>"
 
@@ -4880,8 +4870,6 @@ msgstr ""
 "partida en curso que Ud. esté observando o jugando."
 
 #: src/menu_events.cpp:2364
-#, fuzzy
-#| msgid "<nick> <message>"
 msgid "<nickname> <message>"
 msgstr "<apodo> <mensaje>"
 
@@ -4941,7 +4929,7 @@ msgstr "Elimina su nombre de usuario."
 msgid "Update details for your nickname. For possible details see '/details'."
 msgstr ""
 "Actualiza los detalles de su nombre de usuario.  Para una lista de posibles "
-"detalles vea '/details'."
+"detalles vea «/details»."
 
 #: src/menu_events.cpp:2386
 msgid "<detail> <value>"
@@ -4998,6 +4986,8 @@ msgid "Room query."
 msgstr "Consulta de partida."
 
 #: src/menu_events.cpp:2508
+#, fuzzy
+#| msgid "(D) - debug only, (N) - network only, (A) - admin only"
 msgid "(D) — debug only, (N) — network only, (A) — admin only"
 msgstr "(D) - sólo depuración, (N) - sólo red, (A) - sólo administrativo"
 
@@ -5217,7 +5207,7 @@ msgstr "Alterna la visualización de códigos de terreno en los hexágonos."
 
 #: src/menu_events.cpp:2632
 #, fuzzy
-#| msgid "Toggle Planning Mode."
+#| msgid "Toggle planning mode."
 msgid "Toggle planning mode."
 msgstr "Modo de planificación alternativo."
 
@@ -5382,16 +5372,12 @@ msgid "Variable not found"
 msgstr "Variable no encontrada"
 
 #: src/menu_events.cpp:3517
-#, fuzzy
-#| msgid ""
-#| "Invalid alignment: '$alignment', needs to be one of lawful, neutral, "
-#| "chaotic or liminal."
 msgid ""
 "Invalid alignment: '$alignment', needs to be one of lawful, neutral, "
 "chaotic, or liminal."
 msgstr ""
-"Alineamiento inválido: '$alignment', es necesario que sea «Legal», «Neutral» "
-"o «Caótico»."
+"Alineamiento inválido: «$alignment», es necesario que sea «lawful», "
+"«neutral», «chaotic» o «liminal»."
 
 #: src/menu_events.cpp:3573
 msgid "Do you wish to clear all of your discovered units from help?"
@@ -5478,10 +5464,8 @@ msgid "Do you want to continue?"
 msgstr "¿Desea guardar su partida?"
 
 #: src/multiplayer.cpp:250
-#, fuzzy
-#| msgid "Warning: "
 msgid "Warning"
-msgstr "Advertencia: "
+msgstr "Advertencia"
 
 #: src/multiplayer.cpp:294
 msgid "Bad data received from server"
@@ -5858,14 +5842,20 @@ msgid "Turns: "
 msgstr "Turnos: "
 
 #: src/multiplayer_create.cpp:374
+#, fuzzy
+#| msgid "Unlimited Turns"
 msgid "Unlimited turns"
 msgstr "Turnos ilimitados"
 
 #: src/multiplayer_create.cpp:402
+#, fuzzy
+#| msgid "Init. Limit: "
 msgid "Init. limit: "
 msgstr "Límite inicial: "
 
 #: src/multiplayer_create.cpp:407
+#, fuzzy
+#| msgid "Turn Bonus: "
 msgid "Turn bonus: "
 msgstr "Turnos bonificados: "
 
@@ -5874,14 +5864,20 @@ msgid "Reservoir: "
 msgstr "Reserva: "
 
 #: src/multiplayer_create.cpp:416
+#, fuzzy
+#| msgid "Action Bonus: "
 msgid "Action bonus: "
 msgstr "Acciones bonificadas: "
 
 #: src/multiplayer_create.cpp:423
+#, fuzzy
+#| msgid "Village Gold: "
 msgid "Village gold: "
 msgstr "Oro por aldea: "
 
 #: src/multiplayer_create.cpp:429
+#, fuzzy
+#| msgid "Experience Modifier: "
 msgid "Experience modifier: "
 msgstr "Modificador de experiencia: "
 
@@ -5918,6 +5914,8 @@ msgid "Join Game"
 msgstr "Unirse a la partida"
 
 #: src/multiplayer_lobby.cpp:743
+#, fuzzy
+#| msgid "Quick Replays"
 msgid "Quick replays"
 msgstr "Repetición rápida"
 
@@ -5930,6 +5928,8 @@ msgid "Quit"
 msgstr "Salir"
 
 #: src/multiplayer_lobby.cpp:746
+#, fuzzy
+#| msgid "Apply Filter"
 msgid "Apply filter"
 msgstr "Aplicar filtro"
 
@@ -5938,10 +5938,14 @@ msgid "Invert"
 msgstr "Invertir"
 
 #: src/multiplayer_lobby.cpp:748
+#, fuzzy
+#| msgid "Vacant Slots"
 msgid "Vacant slots"
 msgstr "Posiciones vacantes"
 
 #: src/multiplayer_lobby.cpp:749
+#, fuzzy
+#| msgid "Friends in Game"
 msgid "Friends in game"
 msgstr "Amigos en la partida"
 
@@ -6382,7 +6386,7 @@ msgstr "(Atq / def)"
 
 #: src/reports.cpp:443
 #, fuzzy
-#| msgid "Experience modifier: "
+#| msgid "Experience Modifier: "
 msgid "Experience Modifier: "
 msgstr "Modificador de experiencia: "
 
@@ -6626,75 +6630,75 @@ msgstr "$error, valor «$value» en $pos"
 
 #: src/serialization/string_utils.cpp:299
 msgid "prefix_milli^m"
-msgstr ""
+msgstr "m"
 
 #: src/serialization/string_utils.cpp:300
 msgid "prefix_micro^µ"
-msgstr ""
+msgstr "µ"
 
 #: src/serialization/string_utils.cpp:301
 msgid "prefix_nano^n"
-msgstr ""
+msgstr "n"
 
 #: src/serialization/string_utils.cpp:302
 msgid "prefix_pico^p"
-msgstr ""
+msgstr "p"
 
 #: src/serialization/string_utils.cpp:303
 msgid "prefix_femto^f"
-msgstr ""
+msgstr "f"
 
 #: src/serialization/string_utils.cpp:304
 msgid "prefix_atto^a"
-msgstr ""
+msgstr "a"
 
 #: src/serialization/string_utils.cpp:305
 msgid "prefix_zepto^z"
-msgstr ""
+msgstr "z"
 
 #: src/serialization/string_utils.cpp:306
 msgid "prefix_yocto^y"
-msgstr ""
+msgstr "y"
 
 #: src/serialization/string_utils.cpp:318
 msgid "prefix_kibi^K"
-msgstr ""
+msgstr "K"
 
 #: src/serialization/string_utils.cpp:319
 msgid "prefix_kilo^k"
-msgstr ""
+msgstr "k"
 
 #: src/serialization/string_utils.cpp:321
 msgid "prefix_mega^M"
-msgstr ""
+msgstr "M"
 
 #: src/serialization/string_utils.cpp:322
 msgid "prefix_giga^G"
-msgstr ""
+msgstr "G"
 
 #: src/serialization/string_utils.cpp:323
 msgid "prefix_tera^T"
-msgstr ""
+msgstr "T"
 
 #: src/serialization/string_utils.cpp:324
 msgid "prefix_peta^P"
-msgstr ""
+msgstr "P"
 
 #: src/serialization/string_utils.cpp:325
 msgid "prefix_exa^E"
-msgstr ""
+msgstr "E"
 
 #: src/serialization/string_utils.cpp:326
 msgid "prefix_zetta^Z"
-msgstr ""
+msgstr "Z"
 
 #: src/serialization/string_utils.cpp:327
 msgid "prefix_yotta^Y"
-msgstr ""
+msgstr "Y"
 
 #: src/serialization/string_utils.cpp:341
 msgid "infix_binary^i"
-msgstr ""
+msgstr "i"
 
 #: src/statistics_dialog.cpp:70 src/statistics_dialog.cpp:126
 msgid "Recruits"
@@ -6881,6 +6885,9 @@ msgstr "Reemplazar con $player"
 msgid "Whiteboard Options"
 msgstr ""
 
+#~ msgid "Reload and execute lua code"
+#~ msgstr "Recargar y ejecutar código lua"
+
 #~ msgid "Choose the add-on to remove."
 #~ msgstr "Seleccione el complemento que desea quitar."
 
@@ -6893,7 +6900,6 @@ msgstr ""
 #~ msgid "Add-on '$addon|' deleted."
 #~ msgstr "El complemento «$addon|» ha sido eliminado."
 
-#, fuzzy
 #~| msgid "Invalid location"
 #~ msgid "Invalid WML found"
 #~ msgstr "Ubicación inválida"
