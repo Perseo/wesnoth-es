@@ -1,7 +1,9 @@
 #!/bin/sh
 
 #
-# Script to run msgcat on all of the po files
+# Script to update po files after a po update
+# Requires a wesnoth checkout named "wesnoth" in the root of your home directory and
+# a git clone named "wesnoth-es" in the root of your home directory
 #
 
 LANG=es
