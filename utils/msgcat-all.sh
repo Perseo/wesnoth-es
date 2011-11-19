@@ -35,6 +35,6 @@ DIRS=" \
 	wesnoth-utbs"
 
 for d in $DIRS; do
-	echo Updating ${d}/${LANG}.po
+	echo Running msgcat on ${d}/${LANG}.po
 	msgcat ${d}/${LANG}.po -o $d/${LANG}.po
 done
