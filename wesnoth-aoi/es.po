@@ -10,16 +10,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-05-30 20:47+0200\n"
+"POT-Creation-Date: 2011-11-16 12:43+0100\n"
 "PO-Revision-Date: 2010-07-27 17:50-0400\n"
 "Last-Translator: PeterPorty <p_llorens@hotmail.com>\n"
-"Language-Team: Spanish <es@li.org>\n"
+"Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.4\n"
 
 #. [campaign]: id=An_Orcish_Incursion
 #: data/campaigns/An_Orcish_Incursion/_main.cfg:11
@@ -194,6 +193,8 @@ msgstr ""
 "desconocido para él."
 
 #. [part]
+#. "northern marches" is *not* a typo for "northern marshes" here.
+#. In archaic English, "march" means "border country".
 #: data/campaigns/An_Orcish_Incursion/scenarios/01_Defend_the_Forest.cfg:83
 msgid ""
 "The orcs were first sighted from the north marches of the great forest of "
@@ -1251,6 +1252,14 @@ msgid "Do it. We’ll have a guest soon."
 msgstr "Hacedlo. Tendremos un invitado pronto."
 
 #. [message]: speaker=narrator
+#. "Faerie" in this paragraph is a rare, poetic word in
+#. English. It is the proper name of a magical otherworld
+#. associated with elves - actually, originally with
+#. fairies, but before Tolkien the boundary between elves
+#. and fairies was extremely blurry. In Wesnoth it is
+#. deliberately unclear whether Faerie is a place that is
+#. the source of magical power or a label for the inner
+#. nonhuman/magical nature of the Elves.  Translate freely.
 #: data/campaigns/An_Orcish_Incursion/scenarios/05_Linaera_the_Quick.cfg:198
 msgid ""
 "Erlornas closed his eyes and brought his hands forward, joined palms forming "

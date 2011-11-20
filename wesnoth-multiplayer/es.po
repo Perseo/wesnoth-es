@@ -18,16 +18,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-05-30 20:47+0200\n"
+"POT-Creation-Date: 2011-11-16 12:43+0100\n"
 "PO-Revision-Date: 2011-07-25 15:07-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
-"Language-Team: Spanish <es@li.org>\n"
+"Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.4\n"
 
 #. [generic_multiplayer]: id=user_map
 #: data/multiplayer/_main.cfg:8
@@ -49,24 +48,12 @@ msgstr "Por defecto"
 msgid "Age of Heroes"
 msgstr "La era de los héroes"
 
-# Default = ¿predeterminado?
-#. [era]: id=era_khalifate
-#: data/multiplayer/eras.cfg:200
-msgid "Default + Khalifate"
-msgstr "Predeterminado + Califato"
-
 #. [multiplayer_side]: id=Drakes, type=Drake Flare
 #. [multiplayer_side]: id=Drakes, type=random
 #: data/multiplayer/factions/drakes-aoh.cfg:4
 #: data/multiplayer/factions/drakes-default.cfg:4
 msgid "Drakes"
 msgstr "Dracos"
-
-# Califato o Kalifato
-#. [multiplayer_side]: id=khalifate, type=Muharib
-#: data/multiplayer/factions/khalifate-default.cfg:4
-msgid "Khalifate"
-msgstr "Califato"
 
 #. [multiplayer_side]: id=Knalgan Alliance, type=Dwarvish Steelclad
 #. [multiplayer_side]: id=Knalgan Alliance, type=random
@@ -103,6 +90,122 @@ msgstr "Rebeldes"
 msgid "Undead"
 msgstr "No muertos"
 
+#. [multiplayer]: id=multiplayer_Aethermaw
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:4
+#, fuzzy
+#| msgid "2p — The Freelands"
+msgid "2p — Aethermaw"
+msgstr "2 jug. — Las Tierras Libres"
+
+#. [multiplayer]: id=multiplayer_Aethermaw
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:6
+msgid ""
+"Long ago, the Great Mage Sulla was imprisoned in the Aethermaw, a nexus of "
+"mystical energy whose chaotic nature was able to prevent her escape. Over "
+"the centuries, however, Sulla gradually attuned her powers to the maelstrom "
+"of disorder that is the Aethermaw, and has now begun to project its "
+"influence onto the material plane, drawing in entire regions of land from "
+"hundreds of different worlds, realities and time-periods. She experiments "
+"with these disparate pieces of the cosmos, manipulating them, merging them "
+"and sending them back and forth between the Aethermaw and their place of "
+"origin. Perhaps, as her mastery over the Aethermaw grows, Sulla will one day "
+"break free of its bonds. Until that time comes, she will continue to amuse "
+"herself by arranging battles between the mortal beings unlucky enough to be "
+"drawn into its depths. Designed by Doc Paterson."
+msgstr ""
+
+#. [side]
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:22
+#: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:49
+#: data/multiplayer/scenarios/2p_Cynsaun_Battlefield.cfg:22
+#: data/multiplayer/scenarios/2p_Den_of_Onis.cfg:37
+#: data/multiplayer/scenarios/2p_Elensefar_Courtyard.cfg:34
+#: data/multiplayer/scenarios/2p_Hamlets.cfg:22
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:48
+#: data/multiplayer/scenarios/2p_Howling_Ghost_Badlands.cfg:47
+#: data/multiplayer/scenarios/2p_Sablestone_Delta.cfg:21
+#: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:67
+#: data/multiplayer/scenarios/2p_The_Freelands.cfg:22
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:67
+#: data/multiplayer/scenarios/2p_Weldyn_Channel.cfg:21
+#: data/multiplayer/scenarios/3p_Alirok_Marsh.cfg:20
+#: data/multiplayer/scenarios/3p_Island_of_the_Horatii.cfg:20
+#: data/multiplayer/scenarios/3p_Morituri.cfg:20
+#: data/multiplayer/scenarios/4p_Hamlets.cfg:21
+#: data/multiplayer/scenarios/4p_Hamlets.cfg:57
+#: data/multiplayer/scenarios/4p_Morituri.cfg:18
+#: data/multiplayer/scenarios/4p_Morituri.cfg:51
+#: data/multiplayer/scenarios/4p_Xanthe_Chaos.cfg:31
+#: data/multiplayer/scenarios/4p_Xanthe_Chaos.cfg:42
+#: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:20
+#: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:32
+#: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:44
+#: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:80
+#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:26
+#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:74
+#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:122
+msgid "teamname^North"
+msgstr "Norte"
+
+#. [side]
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:34
+#: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:61
+#: data/multiplayer/scenarios/2p_Cynsaun_Battlefield.cfg:35
+#: data/multiplayer/scenarios/2p_Den_of_Onis.cfg:26
+#: data/multiplayer/scenarios/2p_Elensefar_Courtyard.cfg:22
+#: data/multiplayer/scenarios/2p_Hamlets.cfg:33
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:60
+#: data/multiplayer/scenarios/2p_Howling_Ghost_Badlands.cfg:36
+#: data/multiplayer/scenarios/2p_Sablestone_Delta.cfg:32
+#: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:55
+#: data/multiplayer/scenarios/2p_The_Freelands.cfg:33
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:55
+#: data/multiplayer/scenarios/2p_Weldyn_Channel.cfg:32
+#: data/multiplayer/scenarios/4p_Hamlets.cfg:33
+#: data/multiplayer/scenarios/4p_Hamlets.cfg:45
+#: data/multiplayer/scenarios/4p_Morituri.cfg:29
+#: data/multiplayer/scenarios/4p_Morituri.cfg:40
+#: data/multiplayer/scenarios/4p_Xanthe_Chaos.cfg:20
+#: data/multiplayer/scenarios/4p_Xanthe_Chaos.cfg:53
+#: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:64
+#: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:20
+#: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:56
+#: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:68
+msgid "teamname^South"
+msgstr "Sur"
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:277
+#, fuzzy
+#| msgid "Designed by Doc Paterson."
+msgid "Aethermaw — Created by Doc Paterson"
+msgstr "Diseñado por Doc Paterson."
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:291
+msgid ""
+"The Great Mage Sulla has transported your armies to this bizarre nexus, and "
+"demands that you amuse her by doing battle.\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"<span color='red'>Note:</span>\n"
+"\n"
+"<span color='green'>Units may not move into a hex with a rock cairn. They "
+"may, however, be recruited to, and move from, such hexes.</span>\n"
+"\n"
+"<span color='green'>Beginning on turn 4, the Great Mage Sulla will begin to "
+"unite the two halves of the battlefield. The process will be complete by the "
+"end of turn 6.</span>\n"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:304
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:321
+msgid "The Aethermaw growls."
+msgstr ""
+
 #. [multiplayer]: id=multiplayer_Arcanclave_Citadel
 #: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:6
 msgid "2p — Arcanclave Citadel"
@@ -111,13 +214,25 @@ msgstr "2 jug. — Ciudadela de Arcanclave"
 #. [multiplayer]: id=multiplayer_Arcanclave_Citadel
 #: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:7
 msgid ""
-"Arcanclave Citadel is the central stronghold of the Arcanclave region. It "
-"was finished in the year 968 YW, and served as the military headquarters of "
-"Cynsaun the First. Designed by Doc Paterson."
+"Long ago, countless centuries before the time of Haldric, and far beyond the "
+"easternmost reaches of Lintanir Forest, great and terrible wars were fought. "
+"The records tell of a powerful battle-mage, a brilliant tactician and "
+"practitioner of the arcane arts, who had been given the title of Dauntless "
+"by his followers. At the battle of Arcanclave, Dauntless and his armies did "
+"battle with a savage race of sorcerer-demons known as the Kah Ruuk. "
+"Surrounded by tens of thousands of Kah Ruuk, Dauntless used his magic to "
+"summon a powerful earth elemental (who, for unknown reasons, owed Dauntless "
+"a debt of gratitude). The elemental raised great stones from deep within the "
+"earth, forming them, in mere moments, into the walls and battlements of a "
+"massive fortress. Thousands of Kah Ruuk perished in their attempt to overrun "
+"Arcanclave Citadel, and Dauntless and his men were victorious that day. More "
+"than one thousand years later, the Warrior-Queen Cynsaun the First drove a "
+"clan of necromancers from the ruins of Arcanclave Citadel, and, in the years "
+"that followed, converted the region into a military stronghold. It is "
+"rumored that several powerful artifacts, remnants from the reign of the "
+"Great Mage Dauntless, may yet remain hidden, lost somewhere within the "
+"granite and obsidian walls of Arcanclave Citadel. Designed by Doc Paterson."
 msgstr ""
-"La ciudadela de Arcanclave es el baluarte central de la región de "
-"Arcanclave. Se terminó en el año 968 YW, y sirvió como cuartel general para "
-"Cynsaun I . Diseñado por doc Paterson"
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:22
@@ -195,64 +310,6 @@ msgstr ""
 "Estas cuevas fueron alguna vez el escondite de Chak'kso Ney'yks, un "
 "legendario Basilisco antiguo. Las formas petrificadas de sus víctimas siguen "
 "en pie como monumento a su salvaje poder."
-
-#. [side]
-#: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:49
-#: data/multiplayer/scenarios/2p_Cynsaun_Battlefield.cfg:22
-#: data/multiplayer/scenarios/2p_Den_of_Onis.cfg:37
-#: data/multiplayer/scenarios/2p_Elensefar_Courtyard.cfg:34
-#: data/multiplayer/scenarios/2p_Hamlets.cfg:22
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:21
-#: data/multiplayer/scenarios/2p_Howling_Ghost_Badlands.cfg:48
-#: data/multiplayer/scenarios/2p_Sablestone_Delta.cfg:21
-#: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:67
-#: data/multiplayer/scenarios/2p_The_Freelands.cfg:22
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:72
-#: data/multiplayer/scenarios/2p_Weldyn_Channel.cfg:21
-#: data/multiplayer/scenarios/3p_Alirok_Marsh.cfg:20
-#: data/multiplayer/scenarios/3p_Island_of_the_Horatii.cfg:20
-#: data/multiplayer/scenarios/3p_Morituri.cfg:20
-#: data/multiplayer/scenarios/4p_Hamlets.cfg:21
-#: data/multiplayer/scenarios/4p_Hamlets.cfg:57
-#: data/multiplayer/scenarios/4p_Morituri.cfg:18
-#: data/multiplayer/scenarios/4p_Morituri.cfg:51
-#: data/multiplayer/scenarios/4p_Xanthe_Chaos.cfg:31
-#: data/multiplayer/scenarios/4p_Xanthe_Chaos.cfg:42
-#: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:20
-#: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:32
-#: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:44
-#: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:80
-#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:26
-#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:74
-#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:122
-msgid "teamname^North"
-msgstr "Norte"
-
-#. [side]
-#: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:61
-#: data/multiplayer/scenarios/2p_Cynsaun_Battlefield.cfg:35
-#: data/multiplayer/scenarios/2p_Den_of_Onis.cfg:26
-#: data/multiplayer/scenarios/2p_Elensefar_Courtyard.cfg:22
-#: data/multiplayer/scenarios/2p_Hamlets.cfg:33
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:32
-#: data/multiplayer/scenarios/2p_Howling_Ghost_Badlands.cfg:37
-#: data/multiplayer/scenarios/2p_Sablestone_Delta.cfg:32
-#: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:55
-#: data/multiplayer/scenarios/2p_The_Freelands.cfg:33
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:59
-#: data/multiplayer/scenarios/2p_Weldyn_Channel.cfg:32
-#: data/multiplayer/scenarios/4p_Hamlets.cfg:33
-#: data/multiplayer/scenarios/4p_Hamlets.cfg:45
-#: data/multiplayer/scenarios/4p_Morituri.cfg:29
-#: data/multiplayer/scenarios/4p_Morituri.cfg:40
-#: data/multiplayer/scenarios/4p_Xanthe_Chaos.cfg:20
-#: data/multiplayer/scenarios/4p_Xanthe_Chaos.cfg:53
-#: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:64
-#: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:20
-#: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:56
-#: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:68
-msgid "teamname^South"
-msgstr "Sur"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:101
@@ -714,13 +771,22 @@ msgstr "2 jug. — Pronóstico oscuro (supervivencia)"
 
 #. [multiplayer]: id=multiplayer_2p_Dark_Forecast
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:8
+#, fuzzy
+#| msgid ""
+#| "Dark Forecast is a survival scenario for solitaire or two-player team-"
+#| "based play against randomly AI spawned units. Victory is achieved by "
+#| "surviving all enemy waves. During the course of play, the terrain will "
+#| "change based on random weather effects.\n"
+#| "\n"
+#| "Note: You need to use map settings for the scenario to work right."
 msgid ""
 "Dark Forecast is a survival scenario for solitaire or two-player team-based "
-"play against randomly AI spawned units. Victory is achieved by surviving all "
-"enemy waves. During the course of play, the terrain will change based on "
-"random weather effects.\n"
+"play against randomly-spawned AI units. Victory is achieved by surviving and "
+"defeating all enemy waves. During the course of play, the terrain will "
+"change based on random weather effects.\n"
 "\n"
-"Note: You need to use map settings for the scenario to work right."
+"Note: You need to use the default map settings for the scenario to work "
+"right."
 msgstr ""
 "Pronóstico oscuro es un escenario de supervivencia para jugar en solitario o "
 "con dos jugadores en equipo para jugar contra las unidades generadas "
@@ -789,64 +855,93 @@ msgstr "Revuelta"
 msgid "teamname^Human"
 msgstr "Humanos"
 
-# Tampoco se que es esto otro
 #. [then]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1386
-msgid "Single player mode — uses the reduced strength spawns."
-msgstr "Modo de un jugador — utiliza engendramientos de fuerza reducida"
+#, fuzzy
+#| msgid "Death of your team leaders"
+msgid "Death of your leader"
+msgstr "Muerte de los líderes de su equipo."
 
-# No se que es esto
+#. [then]
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1387
+msgid ""
+"Since your team has only one leader, the enemy waves will not be at full "
+"strength."
+msgstr ""
+
 #. [else]
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1389
-msgid "Two player mode — uses the full strength spawns."
-msgstr "Modo de dos jugadores — utiliza engendramientos a plena fuerza."
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1390
+#, fuzzy
+#| msgid "Death of your team leaders"
+msgid "Death of both of your team’s leaders"
+msgstr "Muerte de los líderes de su equipo."
 
-#. [objectives]
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1409
-msgid "Survive and defeat the waves of opposition."
-msgstr "Sobrevive y derrota las oleadas del adversario."
+#. [else]
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1391
+msgid ""
+"Since your team has two leaders, the enemy waves will be at full strength."
+msgstr ""
 
 #. [objective]: condition=win
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1411
-msgid "Defeat all waves"
-msgstr "Derrota todas las oleadas"
-
-#. [objective]: condition=lose
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1415
-msgid "Lose all your team’s leaders"
-msgstr "Muerte de todos los líderes de su equipo."
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1412
+#, fuzzy
+#| msgid "Survive all enemy attacks"
+msgid "Survive and defeat all enemy waves"
+msgstr "Sobrevive a todos los ataques enemigos."
 
 #. [message]: speaker=narrator
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1426
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1432
 msgid "Dark Forecast — a random survival scenario"
 msgstr "Pronóstico oscuro — un escenario de supervivencia aleatorio."
 
 #. [message]: speaker=narrator
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1449
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1452
+#, fuzzy
+#| msgid ""
+#| "Your aim is to survive the spawning waves and defeat the final arch-"
+#| "enemies.\n"
+#| "\n"
+#| "The spawning waves are generated randomly and will different each time "
+#| "Dark Forecast is played.\n"
+#| "\n"
+#| "\n"
+#| "They appear along the north, south and west map edges — though they are "
+#| "most likely to spawn on the west edge. The spawn waves appear at somewhat "
+#| "regular intervals.\n"
+#| "\n"
+#| "\n"
+#| "The weather will also change randomly, affecting the layout of the map.\n"
+#| "\n"
+#| "\n"
+#| "\n"
+#| "<span color='red'>Dark Forecast was made by:</span>\n"
+#| "\n"
+#| "<span color='green'>jb</span>\n"
+#| "— map design, spawn groups and scenario concept\n"
+#| "\n"
+#| "<span color='green'>Rhuvaen</span>\n"
+#| "— WML implementation"
 msgid ""
-"Your aim is to survive the spawning waves and defeat the final arch-"
-"enemies.\n"
+"Your aim is to survive the spawning waves of units and defeat the final "
+"archenemies.\n"
 "\n"
-"The spawning waves are generated randomly and will different each time Dark "
-"Forecast is played.\n"
+"The spawning waves are randomly generated and will be different each time "
+"Dark Forecast is played.\n"
 "\n"
-"\n"
-"They appear along the north, south and west map edges — though they are most "
-"likely to spawn on the west edge. The spawn waves appear at somewhat regular "
+"They appear along the north, south, and west map edges — though they are "
+"most likely to spawn on the west edge. The waves appear at somewhat regular "
 "intervals.\n"
-"\n"
 "\n"
 "The weather will also change randomly, affecting the layout of the map.\n"
 "\n"
 "\n"
+"<b>Dark Forecast was made by:</b>\n"
 "\n"
-"<span color='red'>Dark Forecast was made by:</span>\n"
+"<span color='green'>jb:</span>\n"
+"• Map design, spawn groups, and scenario concept\n"
 "\n"
-"<span color='green'>jb</span>\n"
-"— map design, spawn groups and scenario concept\n"
-"\n"
-"<span color='green'>Rhuvaen</span>\n"
-"— WML implementation"
+"<span color='green'>Rhuvaen:</span>\n"
+"• WML implementation"
 msgstr ""
 "Su objetivo es sobrevivir las oleadas enviadas y derrotar a los enemigos "
 "finales.\n"
@@ -874,12 +969,12 @@ msgstr ""
 "— implementación WML"
 
 #. [message]
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1454
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1457
 msgid "So this is the accursed valley — a land ours for the taking."
 msgstr "Así que este es el valle maldito — una tierra libre para tomarla."
 
 #. [message]
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1458
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1461
 msgid ""
 "The inhabitants are rumored to be a strange alliance of man and beast, and "
 "our claim is not going to be unopposed. We must be prepared for the "
@@ -890,7 +985,7 @@ msgstr ""
 "las sorpresas en esta tierra."
 
 #. [message]
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1462
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1465
 msgid ""
 "Then let us discover what lies in waiting and teach them not to oppose our "
 "claim."
@@ -899,7 +994,7 @@ msgstr ""
 "nuestra demanda."
 
 #. [message]: speaker=unit
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1499
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1502
 msgid ""
 "Ugh! How can this be? Defeated by mere barbarians! My gods have forsaken "
 "me..."
@@ -908,7 +1003,7 @@ msgstr ""
 "me han abandonado..."
 
 #. [message]: speaker=second_unit
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1513
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1516
 msgid ""
 "Cheers of your enemy are the last thing you hear as you slip into death..."
 "their joy fills your last moments with pure hate."
@@ -917,7 +1012,7 @@ msgstr ""
 "hacia la muerte... su alegría llena tus últimos momentos con puro odio."
 
 #. [message]
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1535
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1538
 msgid ""
 "The enemy cheers as a dark mist rises from the land, engulfing you. As "
 "ghostly wisps drain away your will, you realize that your time in this land "
@@ -966,7 +1061,7 @@ msgstr ""
 "solía ser laa gloriosa ciudad de Elensefar."
 
 #. [time]: id=underground_illum
-#: data/multiplayer/scenarios/2p_Elensefar_Courtyard.cfg:111
+#: data/multiplayer/scenarios/2p_Elensefar_Courtyard.cfg:114
 msgid "Underground"
 msgstr "Bajo tierra"
 
@@ -1003,18 +1098,113 @@ msgstr ""
 "en un campo de batalla sutilmente dividido. Diseñado por Doc Paterson."
 
 #. [multiplayer]: id=multiplayer_Hornshark_Island
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:5
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:24
 msgid "2p — Hornshark Island"
 msgstr "2 jug. — La isla de los tiburones cornudos"
 
 #. [multiplayer]: id=multiplayer_Hornshark_Island
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:6
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:26
 msgid ""
-"Players must navigate the dispersive terrain of this small but "
-"topographically dense island."
+"Players must forge strange alliances with the local inhabitants, in order to "
+"survive on this most unusual of islands. Designed by Doc Paterson."
 msgstr ""
-"Los jugadores deben moverse por el terreno dispersivo de esta pequeña aunque "
-"topográficamente densa isla."
+
+#. [unit]: type=Young Ogre, id=Baby Baby Bo
+#. [unit]: type=Young Ogre, id=Big Baby Bo
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:90
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:164
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:203
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:275
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:325
+msgid "Big Baby Bo"
+msgstr ""
+
+#. [unit]: type=Drake Fighter, id=Rawffus the Dim
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:103
+msgid "Rawffus the Dim"
+msgstr ""
+
+#. [unit]: type=Dwarvish Scout, id=Kolbur
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:152
+msgid "Kolbur"
+msgstr ""
+
+#. [unit]: type=Dwarvish Scout, id=Vilhelm Viskitynnyri
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:177
+msgid "Vilhelm Viskitynnyri"
+msgstr ""
+
+#. [unit]: type=Woodsman, id=Clockwork Boy
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:236
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:248
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:623
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:635
+msgid "Clockwork Boy"
+msgstr ""
+
+#. [unit]: type=Orcish Leader, id=Neki the Brutal
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:298
+msgid "Neki the Brutal"
+msgstr ""
+
+#. [unit]: type=Elvish Fighter, id=Drowsk Calbeht
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:338
+msgid "Drowsk Calbeht"
+msgstr ""
+
+#. [unit]: id=Rzrrt the Dauntless, type=Soulless
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:398
+msgid "Rzrrt the Dauntless"
+msgstr ""
+
+#. [unit]: id=Sorrek, Chosen of Death, type=Skeleton
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:437
+msgid "Sorrek, Chosen of Death"
+msgstr ""
+
+#. [unit]: type=Young Ogre, id=Baby Baby Dro
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:477
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:551
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:590
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:662
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:712
+msgid "Big Baby Dro"
+msgstr ""
+
+#. [unit]: type=Drake Fighter, id=Gawffus the Dim
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:490
+msgid "Gawffus the Dim"
+msgstr ""
+
+#. [unit]: type=Dwarvish Scout, id=Rublok
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:539
+msgid "Rublok"
+msgstr ""
+
+#. [unit]: type=Dwarvish Scout, id=Ulysses Mantyjuuri
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:564
+msgid "Ulysses Mantyjuuri"
+msgstr ""
+
+#. [unit]: type=Orcish Leader, id=Neki the Brute
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:685
+msgid "Neki the Brute"
+msgstr ""
+
+#. [unit]: type=Elvish Fighter, id=Claiomh Dubh
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:725
+msgid "Claiomh Dubh"
+msgstr ""
+
+#. [unit]: id=Tyxrrn the Dauntless, type=Soulless
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:784
+msgid "Tyxrrn the Dauntless"
+msgstr ""
+
+#. [unit]: id=Rukhos, Chosen of Death, type=Skeleton
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:823
+msgid "Rukhos, Chosen of Death"
+msgstr ""
 
 #. [multiplayer]: id=multiplayer_Howling_Ghost_Badlands
 #: data/multiplayer/scenarios/2p_Howling_Ghost_Badlands.cfg:5
@@ -1057,6 +1247,11 @@ msgid ""
 msgstr ""
 "Los jugadores deben atravesar todo tipo de terreno en pos de la victoria en "
 "este mapa para duelos con distintos frentes."
+
+#. [effect]: type=arcane
+#: data/multiplayer/scenarios/2p_Silverhead_Crossing.cfg:82
+msgid "evil eye"
+msgstr ""
 
 #. [trait]: id=remove_hp
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:23
@@ -1163,86 +1358,84 @@ msgstr ""
 "de Oriente."
 
 #. [multiplayer]: id=multiplayer_thousand_stings_garrison
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:36
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:37
 msgid "2p — Thousand Stings Garrison"
 msgstr "2 jug. — Guarnición de mil aguijones"
 
 #. [multiplayer]: id=multiplayer_thousand_stings_garrison
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:38
-msgid "Designed by Doc Paterson."
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:39
+#, fuzzy
+#| msgid "Designed by Doc Paterson."
+msgid "A strange place. Designed by Doc Paterson"
 msgstr "Diseñado por Doc Paterson."
 
 #. [side]
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:85
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:86
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:87
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:88
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:89
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:90
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:91
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:92
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:93
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:94
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:95
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:96
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:97
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:98
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:99
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:100
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:101
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:102
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:103
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:104
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:105
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:106
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:107
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:108
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:109
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:110
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:111
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:112
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:113
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:114
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:115
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:116
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:117
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:118
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:119
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:120
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:121
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:122
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:123
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:124
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:125
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:126
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:127
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:128
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:129
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:130
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:131
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:132
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:133
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:134
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:135
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:136
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:137
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:138
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:139
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:140
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:141
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:142
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:143
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:144
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:145
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:146
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:147
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:148
+#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:149
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:150
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:154
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:158
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:162
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:166
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:170
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:174
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:178
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:182
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:186
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:190
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:194
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:198
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:202
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:206
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:210
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:214
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:218
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:222
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:226
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:230
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:234
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:238
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:242
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:246
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:250
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:254
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:258
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:262
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:266
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:270
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:274
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:278
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:282
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:286
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:290
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:294
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:298
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:302
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:306
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:310
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:314
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:318
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:322
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:326
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:330
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:334
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:338
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:342
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:346
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:350
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:354
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:358
-#: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:362
-#| msgid "statue"
 msgid "Statue"
 msgstr "Estatua"
 
@@ -1431,13 +1624,14 @@ msgstr ""
 #: data/multiplayer/scenarios/4p_Isars_Cross.cfg:56
 #: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:20
 #: data/multiplayer/scenarios/4p_Siege_Castles.cfg:58
+#: data/multiplayer/scenarios/5p_Auction-X.cfg:45
 #: data/multiplayer/scenarios/6p_Hexcake.cfg:29
 #: data/multiplayer/scenarios/6p_Hexcake.cfg:40
 #: data/multiplayer/scenarios/6p_Hexcake.cfg:73
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:50
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:62
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:110
-msgid "teamname^South-West"
+msgid "teamname^Southwest"
 msgstr "Equipo sudoeste"
 
 #. [side]
@@ -1445,11 +1639,12 @@ msgstr "Equipo sudoeste"
 #: data/multiplayer/scenarios/4p_Isars_Cross.cfg:44
 #: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:44
 #: data/multiplayer/scenarios/4p_Siege_Castles.cfg:34
+#: data/multiplayer/scenarios/5p_Auction-X.cfg:21
 #: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:53
 #: data/multiplayer/scenarios/6p_Hexcake.cfg:18
 #: data/multiplayer/scenarios/6p_Hexcake.cfg:51
 #: data/multiplayer/scenarios/6p_Hexcake.cfg:62
-msgid "teamname^North-East"
+msgid "teamname^Northeast"
 msgstr "Equipo noreste"
 
 #. [multiplayer]: id=multiplayer_King_of_the_Hill
@@ -1481,19 +1676,21 @@ msgstr ""
 #: data/multiplayer/scenarios/4p_Loris_River.cfg:37
 #: data/multiplayer/scenarios/4p_Loris_River.cfg:48
 #: data/multiplayer/scenarios/4p_Siege_Castles.cfg:46
+#: data/multiplayer/scenarios/5p_Auction-X.cfg:33
 #: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:42
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:38
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:86
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:98
-msgid "teamname^South-East"
-msgstr "Equipo sudeste"
+msgid "teamname^Southeast"
+msgstr "Equipo sudoeste"
 
 #. [side]
 #: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:56
 #: data/multiplayer/scenarios/4p_Loris_River.cfg:26
 #: data/multiplayer/scenarios/4p_Loris_River.cfg:59
 #: data/multiplayer/scenarios/4p_Siege_Castles.cfg:22
-msgid "teamname^North-West"
+#: data/multiplayer/scenarios/5p_Auction-X.cfg:57
+msgid "teamname^Northwest"
 msgstr "Equipo noroeste"
 
 #. [multiplayer]: id=multiplayer_Lagoon
@@ -1634,26 +1831,6 @@ msgstr ""
 "a todos contra todos y la mejor manera de determinar cuanto es mediante una "
 "subasta, la MÁS BAJA gana. Es un mapa muy pequeño por lo que se recomiendan "
 "75 de oro para los otros jugadores."
-
-#. [side]
-#: data/multiplayer/scenarios/5p_Auction-X.cfg:21
-msgid "teamname^Northeast"
-msgstr "Equipo noreste"
-
-#. [side]
-#: data/multiplayer/scenarios/5p_Auction-X.cfg:33
-msgid "teamname^Southeast"
-msgstr "Equipo sudoeste"
-
-#. [side]
-#: data/multiplayer/scenarios/5p_Auction-X.cfg:45
-msgid "teamname^Southwest"
-msgstr "Equipo sudoeste"
-
-#. [side]
-#: data/multiplayer/scenarios/5p_Auction-X.cfg:57
-msgid "teamname^Northwest"
-msgstr "Equipo noroeste"
 
 #. [side]
 #: data/multiplayer/scenarios/5p_Auction-X.cfg:69
@@ -1839,7 +2016,6 @@ msgstr ""
 # Aquí decía una cosa rarísima de un "pastel hexagonal" o algo así...
 #. [multiplayer]: id=multiplayer_Volcano
 #: data/multiplayer/scenarios/6p_Volcano.cfg:7
-#| msgid "6p — Hexcake"
 msgid "6p — Volcano"
 msgstr "6 jug. — Volcán"
 
@@ -2032,6 +2208,59 @@ msgid ""
 msgstr ""
 "Una prueba de rendimiento de wesnoth, usa --no-delay --multiplayer --"
 "scenario=wesbench_shroud_walk --exit-at-end."
+
+# Default = ¿predeterminado?
+#~ msgid "Default + Khalifate"
+#~ msgstr "Predeterminado + Califato"
+
+# Califato o Kalifato
+#~ msgid "Khalifate"
+#~ msgstr "Califato"
+
+# Tampoco se que es esto otro
+#~ msgid "Single player mode — uses the reduced strength spawns."
+#~ msgstr "Modo de un jugador — utiliza engendramientos de fuerza reducida"
+
+# No se que es esto
+#~ msgid "Two player mode — uses the full strength spawns."
+#~ msgstr "Modo de dos jugadores — utiliza engendramientos a plena fuerza."
+
+#~ msgid "Survive and defeat the waves of opposition."
+#~ msgstr "Sobrevive y derrota las oleadas del adversario."
+
+#~ msgid "Defeat all waves"
+#~ msgstr "Derrota todas las oleadas"
+
+#~ msgid "Lose all your team’s leaders"
+#~ msgstr "Muerte de todos los líderes de su equipo."
+
+#~ msgid ""
+#~ "Arcanclave Citadel is the central stronghold of the Arcanclave region. It "
+#~ "was finished in the year 968 YW, and served as the military headquarters "
+#~ "of Cynsaun the First. Designed by Doc Paterson."
+#~ msgstr ""
+#~ "La ciudadela de Arcanclave es el baluarte central de la región de "
+#~ "Arcanclave. Se terminó en el año 968 YW, y sirvió como cuartel general "
+#~ "para Cynsaun I . Diseñado por doc Paterson"
+
+#~ msgid ""
+#~ "Players must navigate the dispersive terrain of this small but "
+#~ "topographically dense island."
+#~ msgstr ""
+#~ "Los jugadores deben moverse por el terreno dispersivo de esta pequeña "
+#~ "aunque topográficamente densa isla."
+
+#~ msgid "teamname^South-West"
+#~ msgstr "Equipo sudoeste"
+
+#~ msgid "teamname^North-East"
+#~ msgstr "Equipo noreste"
+
+#~ msgid "teamname^South-East"
+#~ msgstr "Equipo sudeste"
+
+#~ msgid "teamname^North-West"
+#~ msgstr "Equipo noroeste"
 
 #~ msgid "Survive for 32 turns."
 #~ msgstr "Sobrevivir durante 32 turnos."
