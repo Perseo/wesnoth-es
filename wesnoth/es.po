@@ -23,8 +23,8 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-11-17 00:16+0100\n"
-"Last-Translator: Aelonin <quianaaelonin@gmail.com>\n"
+"PO-Revision-Date: 2011-11-09 00:16-0300\n"
+"Last-Translator: Ignacio Riquelme Morelle <shadowm2006@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -37,60 +37,52 @@ msgstr ""
 #, fuzzy
 #| msgid "Compressed Saves"
 msgid "Compressed saves"
-msgstr "Partidas guardadas comprimidas"
+msgstr "Comprimir partidas guardadas"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:11
-#, fuzzy
 #| msgid "Confirm deleting saves"
 msgid "Confirm deleting saves"
-msgstr "Confirmar eliminar partidas guardadas"
+msgstr "Confirmar eliminación de partidas guardadas"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:18
-#, fuzzy
 #| msgid "Mouse Scrolling"
 msgid "Mouse scrolling"
-msgstr "Desplazamiento con ratón"
+msgstr "Desplazar con ratón"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:25
-#, fuzzy
 #| msgid "Middle-click Scrolling"
 msgid "Middle-click scrolling"
-msgstr "Desplazamiento con clic del botón medio"
+msgstr "Desplazar con clic del botón medio"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:32
-#, fuzzy
 #| msgid "Keep scrolling when mouse leaves window"
 msgid "Keep scrolling when mouse leaves window"
-msgstr "Seguir desplazándose cuando el cursor deja la ventana"
+msgstr "Continuar desplazamiento cuando el cursor abandona la ventana"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:39
-#, fuzzy
 #| msgid "Local time of day light"
 msgid "Local time of day area lighting"
-msgstr "Tiempo local de la luz del día"
+msgstr "Iluminación local de hora del día"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:40
-#, fuzzy
 #| msgid "Local time of day light effect (use more memory)."
 msgid "Custom lighting for local time of day areas (uses more memory)"
-msgstr "Efecto del tiempo local de la luz del día (usa más memoria)"
+msgstr "Iluminación local en áreas de hora del día (usa más memoria)"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:47
-#, fuzzy
 #| msgid "Show Titlescreen Animation"
 msgid "Show titlescreen animation"
 msgstr "Mostrar animación de pantalla principal"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:54
-#, fuzzy
 #| msgid "Show Combat"
 msgid "Show combat"
 msgstr "Mostrar combate"
@@ -117,14 +109,12 @@ msgstr ""
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:72
-#, fuzzy
 #| msgid "Accept whisper messages from friends only"
 msgid "Accept whispers from friends only"
-msgstr "Aceptar mensajes susurrados sólo por amigos"
+msgstr "Aceptar únicamente susurros de amigos"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:79
-#, fuzzy
 #| msgid "Auto-open whisper windows in lobby"
 msgid "Auto-open whisper windows in lobby"
 msgstr "Abrir automáticamente ventanas de susurros en la sala de entrada"
@@ -145,25 +135,25 @@ msgstr "Sonidos de la sala de entrada"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:100
-#, fuzzy
 #| msgid "Disable notifications"
 msgid "Disable notifications"
-msgstr "Desactiva notificaciones"
+msgstr "Desactivar notificaciones"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:107
 msgid "Reverse time graphics"
-msgstr ""
+msgstr "Invertir gráficos de hora del día"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:108
 msgid "Choose whether the sun moves left-to-right or right-to-left"
 msgstr ""
+"Especifica si el sol se mueve de izquierda a derecha, o derecha a izquierda"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:115
 msgid "Follow unit actions"
-msgstr ""
+msgstr "Seguir acciones de unidades"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:116
@@ -171,15 +161,16 @@ msgid ""
 "Choose whether the map view should scroll to a unit when an action or move "
 "is animated"
 msgstr ""
+"Especifica si la vista del mapa debe desplazarse a las unidades al animar "
+"acciones o movimientos"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:132
 msgid "Chat message aging"
-msgstr ""
+msgstr "Duración de mensajes de conversación"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:133
-#, fuzzy
 #| msgid ""
 #| "Number of seconds to wait for a ping reply before we time out. Disable "
 #| "with 0."
@@ -187,25 +178,24 @@ msgid ""
 "Number of minutes to wait before clearing an ingame chat message. Set to 0 "
 "to disable"
 msgstr ""
-"Número de segundos a esperar, por un sonido de respuesta, antes que se "
-"detenga el tiempo.  Desactivar con 0."
+"Minutos a esperar antes de ocultar mensajes de conversación durante una "
+"partida. Desactivar con 0"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:143
 msgid "Use 12-hour clock format"
-msgstr ""
+msgstr "Usar formato de 12 horas"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:150
 msgid "Confirm loading of saves from a different version"
-msgstr ""
+msgstr "Confirmar carga de partidas de versiones anteriores"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:157
-#, fuzzy
 #| msgid "Discover all units in help."
 msgid "Show all unit types in help"
-msgstr "Descubrir todas las unidades en los archivos de ayuda"
+msgstr "Mostrar todos las unidades en la ayuda"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:158
@@ -213,56 +203,60 @@ msgid ""
 "Show all unit types in the help (requires restart). This does not alter the "
 "list of encountered units"
 msgstr ""
+"Muestra todos los tipos de unidades en la ayuda del juego (requiere "
+"reinicio). Esto no altera la lista de unidades encontradas"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:166
 msgid "Joystick support"
-msgstr ""
+msgstr "Soporte de joystick"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:173
 msgid "Joystick: number of the scroll X-axis joystick"
-msgstr ""
+msgstr "Soporte de joystick: número del joystick para despl. horizontal"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:183
 msgid "Joystick: number of the scroll X-axis"
-msgstr ""
+msgstr "Soporte de joystick: número del eje para despl. horizontal"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:193
 msgid "Joystick: number of the scroll Y-axis joystick"
-msgstr ""
+msgstr "Soporte de joystick: número del joystick para despl. vertical"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:203
 msgid "Joystick: number of the scroll Y-axis"
-msgstr ""
+msgstr "Soporte de joystick: número del eje para despl. vertical"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:213
 msgid "Joystick: deadzone of the scrolling stick"
-msgstr ""
+msgstr "Soporte de joystick: zona muerta del control de despl."
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:223
 msgid "Joystick: number of the cursor X-axis joystick"
 msgstr ""
+"Soporte de joystick: número del joystick para despl. del cursor horizontal"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:233
 msgid "Joystick: number of the cursor X-axis"
-msgstr ""
+msgstr "Soporte de joystick: número del eje para despl. del cursor horizontal"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:243
 msgid "Joystick: number of the cursor Y-axis joystick"
 msgstr ""
+"Soporte de joystick: número del joystick para despl. del cursor vertical"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:253
 msgid "Joystick: number of the cursor Y-axis"
-msgstr ""
+msgstr "Soporte de joystick: número del eje para despl. del cursor vertical"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:263
@@ -324,12 +318,14 @@ msgstr "envenenado"
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:43
 msgid "TestCamp"
-msgstr ""
+msgstr "TestCamp"
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:45
 msgid "Test campaign used to check if new campaign syntax is working."
 msgstr ""
+"Campaña de prueba utilizada para verificar si la nueva sintaxis de campañas "
+"funciona correctamente."
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:46
@@ -349,7 +345,7 @@ msgstr "(Normal)"
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:47
 msgid "Lord"
-msgstr ""
+msgstr "Señor"
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:48
@@ -359,17 +355,17 @@ msgstr "(Difícil)"
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:48
 msgid "High Lord"
-msgstr ""
+msgstr "Alto Señor"
 
 #. [about]
 #: data/campaigns/test_campaign/_main.cfg:52
 msgid "Test campaign test [about] entry"
-msgstr ""
+msgstr "Entrada [about] de prueba de la campaña de prueba"
 
 #. [scenario]: id=01_Grass
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:4
 msgid "Test campaign - first scenario (grass)"
-msgstr ""
+msgstr "Campaña de prueba - primer escenario (pradera)"
 
 #. [side]: id=Alpha, type=Elvish Fighter
 #. [side]: id=Bravo, type=Elvish Archer
@@ -386,12 +382,12 @@ msgstr "Enemigos"
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:73
 msgid "Passed test color"
-msgstr ""
+msgstr "Color de prueba exitosa"
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:80
 msgid "Failed test color"
-msgstr ""
+msgstr "Color de prueba fallida"
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:87
@@ -410,31 +406,27 @@ msgstr "Dificultad: Difícil"
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:100
-#, fuzzy
 #| msgid "Campaign: $campaign_name"
 msgid "Main campaign define"
-msgstr "Campaña: $campaign_name"
+msgstr "Definición principal de la campaña"
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:111
-#, fuzzy
 #| msgid "Campaign Design"
 msgid "Extra campaign define"
-msgstr "Diseño de campañas"
+msgstr "Definición adicional de la campaña"
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:122
-#, fuzzy
 #| msgid "Multiplayer"
 msgid "Multiplayer define"
-msgstr "Multijugador"
+msgstr "Definición multijugador"
 
 #. [objective]: condition=win
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:132
-#, fuzzy
 #| msgid "Defeat enemy leader(s)"
 msgid "Defeat enemy leader"
-msgstr "Derrotar a los líderes enemigos"
+msgstr "Derrotar al líder enemigo"
 
 #. [about]
 #: data/core/about.cfg:7
@@ -449,7 +441,7 @@ msgstr "Administración de propósito general y coordinación"
 #. [about]
 #: data/core/about.cfg:254
 msgid "Artwork and Graphics"
-msgstr "Trabajo artístico y gráficos"
+msgstr "Arte y gráficos"
 
 #. [about]
 #: data/core/about.cfg:638
@@ -469,12 +461,12 @@ msgstr "Diseño de campañas"
 #. [about]
 #: data/core/about.cfg:762
 msgid "Multiplayer Maps and Balancing"
-msgstr "Equilibrado y mapas para multijugador"
+msgstr "Balance y mapas multijugador"
 
 #. [about]
 #: data/core/about.cfg:803
 msgid "Packagers"
-msgstr "Empaquetadores"
+msgstr "Distribuidores"
 
 #. [about]
 #: data/core/about.cfg:878
@@ -499,62 +491,62 @@ msgstr "Traducción al afrikáans"
 #. [about]
 #: data/core/about.cfg:1254
 msgid "Arabic Translation"
-msgstr "Traducción arábica"
+msgstr "Traducción al árabe"
 
 #. [about]
 #: data/core/about.cfg:1261
 msgid "Basque Translation"
-msgstr "Traducción vasca"
+msgstr "Traducción al vasco"
 
 #. [about]
 #: data/core/about.cfg:1274
 msgid "Bulgarian Translation"
-msgstr "Traducción búlgara"
+msgstr "Traducción al búlgaro"
 
 #. [about]
 #: data/core/about.cfg:1293
 msgid "Catalan Translation"
-msgstr "Traducción catalana"
+msgstr "Traducción al catalán"
 
 #. [about]
 #: data/core/about.cfg:1334
 msgid "Chinese Translation"
-msgstr "Traducción china"
+msgstr "Traducción al chino"
 
 #. [about]
 #: data/core/about.cfg:1396
 msgid "Chinese (Taiwan) Translation"
-msgstr "Traducción china (Taiwan)"
+msgstr "Traducción al chino (Taiwan)"
 
 #. [about]
 #: data/core/about.cfg:1406
 msgid "Croatian Translation"
-msgstr "Traducción croata"
+msgstr "Traducción al croata"
 
 #. [about]
 #: data/core/about.cfg:1413
 msgid "Czech Translation"
-msgstr "Traducción checa"
+msgstr "Traducción al checo"
 
 #. [about]
 #: data/core/about.cfg:1473
 msgid "Danish Translation"
-msgstr "Traducción danesa"
+msgstr "Traducción al danés"
 
 #. [about]
 #: data/core/about.cfg:1504
 msgid "Dutch Translation"
-msgstr "Traducción holandesa"
+msgstr "Traducción al holandés"
 
 #. [about]
 #: data/core/about.cfg:1565
 msgid "English (GB) Translation"
-msgstr "Traducción inglesa (GB)"
+msgstr "Traducción al inglés (GB)"
 
 #. [about]
 #: data/core/about.cfg:1587
 msgid "English (Shaw) Translation"
-msgstr "Traducción inglesa (Shaw)"
+msgstr "Traducción al inglés (Shaw)"
 
 #. [about]
 #: data/core/about.cfg:1611
@@ -564,87 +556,87 @@ msgstr "Traducción al esperanto"
 #. [about]
 #: data/core/about.cfg:1630
 msgid "Estonian Translation"
-msgstr "Traducción estonia"
+msgstr "Traducción al estonio"
 
 #. [about]
 #: data/core/about.cfg:1640
 msgid "Filipino Translation"
-msgstr "Traducción filipina"
+msgstr "Traducción al filipino"
 
 #. [about]
 #: data/core/about.cfg:1650
 msgid "Finnish Translation"
-msgstr "Traducción finesa"
+msgstr "Traducción al finlandés"
 
 #. [about]
 #: data/core/about.cfg:1696
 msgid "French Translation"
-msgstr "Traducción francesa"
+msgstr "Traducción al francés"
 
 #. [about]
 #: data/core/about.cfg:1852
 msgid "Friulian Translation"
-msgstr "Traducción friuliana"
+msgstr "Traducción al friulano"
 
 #. [about]
 #: data/core/about.cfg:1859
 msgid "Galician Translation"
-msgstr "Traducción gallega"
+msgstr "Traducción al gallego"
 
 #. [about]
 #: data/core/about.cfg:1895
 msgid "German Translation"
-msgstr "Traducción alemana"
+msgstr "Traducción al alemán"
 
 #. [about]
 #: data/core/about.cfg:1962
 msgid "Greek Translation"
-msgstr "Traducción griega"
+msgstr "Traducción al griego"
 
 #. [about]
 #: data/core/about.cfg:1999
 msgid "Hebrew Translation"
-msgstr "Traducción hebrea"
+msgstr "Traducción al hebreo"
 
 #. [about]
 #: data/core/about.cfg:2012
 msgid "Hungarian Translation"
-msgstr "Traducción húngara"
+msgstr "Traducción al húngaro"
 
 #. [about]
 #: data/core/about.cfg:2073
 msgid "Icelandic Translation"
-msgstr "Traducción islandesa"
+msgstr "Traducción al islandés"
 
 #. [about]
 #: data/core/about.cfg:2083
 msgid "Indonesian Translation"
-msgstr "Traducción indonesia"
+msgstr "Traducción al indonesio"
 
 #. [about]
 #: data/core/about.cfg:2106
 msgid "Irish Translation"
-msgstr "Traducción irlandesa"
+msgstr "Traducción al irlandés"
 
 #. [about]
 #: data/core/about.cfg:2113
 msgid "Italian Translation"
-msgstr "Traducción italiana"
+msgstr "Traducción al italiano"
 
 #. [about]
 #: data/core/about.cfg:2148
 msgid "Japanese Translation"
-msgstr "Traducción japonesa"
+msgstr "Traducción al japonés"
 
 #. [about]
 #: data/core/about.cfg:2216
 msgid "Korean Translation"
-msgstr "Traducción coreana"
+msgstr "Traducción al coreano"
 
 #. [about]
 #: data/core/about.cfg:2224
 msgid "Latin Translation"
-msgstr "Traducción latina"
+msgstr "Traducción al latín"
 
 #. [about]
 #: data/core/about.cfg:2251
@@ -654,22 +646,22 @@ msgstr "Traducción al letón"
 #. [about]
 #: data/core/about.cfg:2262
 msgid "Lithuanian Translation"
-msgstr "Traducción lituana"
+msgstr "Traducción al lituano"
 
 #. [about]
 #: data/core/about.cfg:2284
 msgid "Macedonian Translation"
-msgstr "Traducción macedonia"
+msgstr "Traducción al macedonio"
 
 #. [about]
 #: data/core/about.cfg:2291
 msgid "Marathi Translation"
-msgstr "Traducción maratí"
+msgstr "Traducción al maratí"
 
 #. [about]
 #: data/core/about.cfg:2300
 msgid "Norwegian Translation"
-msgstr "Traducción noruega"
+msgstr "Traducción al noruego"
 
 #. [about]
 #: data/core/about.cfg:2325
@@ -679,62 +671,62 @@ msgstr "Traddución al anglosajón"
 #. [about]
 #: data/core/about.cfg:2334
 msgid "Polish Translation"
-msgstr "Traducción polaca"
+msgstr "Traducción al polaco"
 
 #. [about]
 #: data/core/about.cfg:2374
 msgid "Portuguese Translation"
-msgstr "Traducción portuguesa"
+msgstr "Traducción al portugués"
 
 #. [about]
 #: data/core/about.cfg:2381
 msgid "Portuguese (Brazil) Translation"
-msgstr "Traducción portuguesa (Brasil)"
+msgstr "Traducción al portugués (Brasil)"
 
 #. [about]
 #: data/core/about.cfg:2423
 msgid "Romanian Translation"
-msgstr "Traducción rumana"
+msgstr "Traducción al rumano"
 
 #. [about]
 #: data/core/about.cfg:2431
 msgid "Russian Translation"
-msgstr "Traducción rusa"
+msgstr "Traducción al ruso"
 
 #. [about]
 #: data/core/about.cfg:2513
 msgid "Serbian Translation"
-msgstr "Traducción serbia"
+msgstr "Traducción al serbio"
 
 #. [about]
 #: data/core/about.cfg:2532
 msgid "Slovak Translation"
-msgstr "Traducción eslovaca"
+msgstr "Traducción al eslovaco"
 
 #. [about]
 #: data/core/about.cfg:2558
 msgid "Slovenian Translation"
-msgstr "Traducción eslovena"
+msgstr "Traducción al esloveno"
 
 #. [about]
 #: data/core/about.cfg:2574
 msgid "Spanish Translation"
-msgstr "Traducción española"
+msgstr "Traducción al español"
 
 #. [about]
 #: data/core/about.cfg:2644
 msgid "Swedish Translation"
-msgstr "Traducción sueca"
+msgstr "Traducción al sueco"
 
 #. [about]
 #: data/core/about.cfg:2685
 msgid "Turkish Translation"
-msgstr "Traducción turca"
+msgstr "Traducción al turco"
 
 #. [about]
 #: data/core/about.cfg:2707
 msgid "Valencian (southern Catalan) Translation"
-msgstr "Traducción valenciana (catalán del sur)"
+msgstr "Traducción al valenciano (Catalán del sur)"
 
 #. [about]
 #: data/core/about.cfg:2720
@@ -764,8 +756,8 @@ msgid ""
 "In this scenario, you may issue instructions to an allied side by right-"
 "clicking on a unit that belongs to it."
 msgstr ""
-"En este escenario, Ud. puede darle instrucciones a un bando aliado haciendo "
-"clic con el botón derecho en una unidad del bando deseado."
+"En este escenario, puede darle instrucciones a un bando aliado haciendo clic "
+"con el botón derecho en una unidad del bando deseado."
 
 #. [overview_message_has_instructions]: speaker=narrator
 #. [overview_message_no_instructions]: speaker=narrator
@@ -879,8 +871,7 @@ msgstr "Defender una ubicación..."
 #: data/core/macros/ai_controller.cfg:368
 msgid "Right-click to select a location to defend"
 msgstr ""
-"Presione el botón derecho del ratón para seleccionar una ubicación para "
-"defenderla"
+"Presione el botón derecho del ratón para seleccionar una ubicación a defender"
 
 #. [set_menu_item]: id=ai_controller_defend_location_picker
 #: data/core/macros/ai_controller.cfg:375
@@ -895,7 +886,7 @@ msgstr "concentrándose en defender el área alrededor de $x1|,$y1|."
 #. [print]
 #: data/core/macros/ai_controller.cfg:434
 msgid "Location selection canceled"
-msgstr "Cancelada la selección de ubicación"
+msgstr "Selección de ubicación cancelada"
 
 #. [revoke_objective_orders]
 #: data/core/macros/ai_controller.cfg:449
@@ -957,7 +948,7 @@ msgstr "Mover líder a..."
 #: data/core/macros/ai_controller.cfg:977
 msgid "Right-click to select a location to move leader to"
 msgstr ""
-"Presione el botón derecho del ratón para seleccionar una ubicacióna dónde "
+"Presione el botón derecho del ratón para seleccionar una ubicación a dónde "
 "mover el líder"
 
 #: data/core/macros/ai_controller.cfg:978
@@ -983,12 +974,12 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/core/macros/items.cfg:23
 msgid "You have come across a wishing well. What would you like to wish for?"
-msgstr "Ha encontrado con un pozo de deseos. ¿Qué le gustaría desear?"
+msgstr "Ha encontrado un pozo de los deseos. ¿Qué le gustaría desear?"
 
 #. [option]: speaker=narrator
 #: data/core/macros/items.cfg:26
 msgid "A swift victory"
-msgstr "Una victoria rápida"
+msgstr "Una rápida victoria"
 
 #. [message]: speaker=unit
 #: data/core/macros/items.cfg:34
@@ -1012,7 +1003,7 @@ msgstr "Deseo que esta única pieza de oro me sea devuelta con creces."
 #. [option]: speaker=narrator
 #: data/core/macros/items.cfg:54
 msgid "Peace throughout Wesnoth."
-msgstr "Paz en todo Wesnoth."
+msgstr "Paz en todo Wesnoth"
 
 #. [message]: speaker=unit
 #: data/core/macros/items.cfg:62
@@ -1022,7 +1013,7 @@ msgstr "La única cosa que vale la pena pedir es la paz en toda la tierra."
 #. [option]: speaker=narrator
 #: data/core/macros/items.cfg:68
 msgid "Don’t make a wish."
-msgstr "No pedir ningún deseo."
+msgstr "No pedir ningún deseo"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:206
@@ -1048,16 +1039,16 @@ msgstr "Veneno"
 #: data/core/macros/items.cfg:247
 msgid "Poison is seeping through the veins of this unit at this very moment."
 msgstr ""
-"Se está filtrando veneno en las venas de esta unidad en este preciso momento."
+"El veneno se filtra por las venas de esta unidad en este preciso momento."
 
 #: data/core/macros/items.cfg:267
 msgid ""
 "Sprinkling this water on melee weapons grants them the <i>arcane</i> damage "
 "type until the end of the current scenario. Should $unit.name use it?"
 msgstr ""
-"Rociar esta agua en las armas de combate cuerpo a cuerpo les otorga la "
-"habilidadde causar daño tipo <i>arcano</i> hasta el final del escenario "
-"actual. ¿$unit.name ha de usarla?"
+"Rociar esta agua en las armas de combate cuerpo a cuerpo otorga la habilidad "
+"de causar daño de tipo <i>arcano</i> hasta el final del escenario actual. "
+"¿$unit.name ha de usarla?"
 
 #: data/core/macros/items.cfg:268
 msgid "holy water^Take it"
@@ -1069,8 +1060,7 @@ msgstr "Dejarla"
 
 #: data/core/macros/items.cfg:270
 msgid "I am not suited to the use of this item! Let another take it."
-msgstr ""
-"¡No estoy capacitado para usar este objeto! Dejemos que otro lo recoja."
+msgstr "¡No estoy capacitado para usar este objeto! Dejad que otro lo tome."
 
 #. [object]
 #: data/core/macros/items.cfg:272
@@ -1083,8 +1073,8 @@ msgid ""
 "This water will make melee weapons have the <i>arcane</i> damage type until "
 "the end of the current scenario."
 msgstr ""
-"Esta agua hará que las armas de combate cuerpo a cuerpo posean la habilidad "
-"de causar daño tipo «arcano» hasta el final del escenario actual."
+"Esta agua otorga a las armas de combate cuerpo a cuerpo la habilidad de "
+"causar daño tipo <i>arcano</i> hasta el final del escenario actual."
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:304
@@ -1124,17 +1114,17 @@ msgstr "Anillo de lentitud"
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:426
 msgid "The bearer of this ring is slowed."
-msgstr "El poseedor de este anillo está ralentizado."
+msgstr "El portador de este anillo ha sido ralentizado."
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:460
 msgid "Staff of Swiftness"
-msgstr "Vara de rapidez"
+msgstr "Bastón de rapidez"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:463
 msgid "This staff will grant the bearer swift movement."
-msgstr "Esta vara dará a su poseedor movimiento rápido."
+msgstr "Este bastón otorga a su portador mayor agilidad al moverse."
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:464
@@ -1147,7 +1137,7 @@ msgstr "¡Sólo los sirénidos pueden usar este objeto!"
 
 #: data/core/macros/items.cfg:514
 msgid "Should $unit.name pick up the trident?"
-msgstr "Debería $unit.name recoger el tridente?"
+msgstr "¿Debería $unit.name tomar el tridente?"
 
 #: data/core/macros/items.cfg:514
 msgid "storm trident^Leave it"
@@ -1177,7 +1167,7 @@ msgstr "tridente de las tormentas"
 #. [effect]: type=fire
 #: data/core/macros/items.cfg:546
 msgid "sceptre of fire"
-msgstr ""
+msgstr "cetro de fuego"
 
 #: data/core/macros/names.cfg:18
 msgid ""
@@ -1192,14 +1182,14 @@ msgid ""
 "Verath,Verditt,Verkon,Verlinn,Vermad,Vertick,Vladnir"
 msgstr ""
 "Egar,Elch,Ga’ash,Gadé Ihn,Gakré Ohm,Galeck,Galsh,Garadin,Garchin,Gark,Garlan,"
-"Garlin ohn,Garrutin,Gart’lo,Garushi,Gashinar,Gashöl,Gaushii,Gaustun,Gegchi,"
-"Gelka Kon,Gelknick,Gillan,Gisharri,Goyst,Grada,Græt Ihn,Grashen,Gravlan,Gray,"
-"Grelnit,Grenn ohn,Gretz,Gribbel,Gridda,Grish,Gron ih,Ka,Kahn Ih,Karigan,"
-"Karri Kon,Karron,Kasp,Kegrid,Kerath Ihn,Kerath Kor,Klash,Kon Garashé,Kraag,"
-"Krall Ohn,Kran Kor,Krash,Kraslar,Krenli,Kruggen,Kun,Mah Toa,Mal,Margian,"
-"Marhildian,Markan,Markinos,Mar Ohn,Marra Di’lek,Marrito,Marritos,Merkush,"
+"Garlin Ohn,Garrutin,Gart’lo,Garushi,Gashinar,Gashol,Gaushii,Gaustun,Gegchi,"
+"Gelka Kon,Gelknick,Gillan,Gisharri,Gost,Grada,Græt Ihn,Grashen,Gravlan,Grag,"
+"Grelnit,Grenn Ohn,Greth,Gribbel,Gridda,Grish,Gron Ihn,Ka,Kahn Ih,Karigan,"
+"Karri Kon,Karron,Kask,Kegrid,Kerath Ihn,Kerath Kor,Klash,Kon Garashé,Kraag,"
+"Krall Ohn,Kran Kor,Krash,Kraslar,Krenli,Kruggen,Kun,Mah Toa,Margian,"
+"Mar’Ildian,Markan,Markinos,Mar Ohn,Marra Di’lek,Marrito,Marritos,Merkush,"
 "Merritos Gark,Morusté,Murr,Omataké,Reshan,Vashitt,Velnick,Veralon,Veramo,"
-"Verath,Verditt,Verkon,Verlinn,Vermay,Vertick,Vladnir"
+"Verath,Verditt,Verkon,Verlinn,Vermad,Vertick,Vladnir"
 
 #: data/core/macros/names.cfg:19
 msgid ""
@@ -1207,9 +1197,9 @@ msgid ""
 "Eshi,Olath,Omage,Omagrra,Orra Ka,Orridan,Orrida,Oshibi,Vallin,Valnirra,"
 "Valnitt,Velisk,Verra,Vellin Ka,Veshtar,Vushtin"
 msgstr ""
-"Alen Ka,Alinash Mal,Ashijt,Auginet Ka,Auuglann,Damell,Dell,Demla,Dinsill,"
-"Eshyi,Olath,Omage,Omagrra,Orra Ka,Orridan,Orriday,Oshibi,Vallin,Valnirra,"
-"Valnitt,Velisp,Vellin Ka,Vushtin,Werra,Weshter,Wilniss"
+"Alen Ka,Alinash Mal,Ashirt,Auginet Ka,Auuglann,Damell,Dell,Demla,Dinsill,"
+"Eshi,Olath,Omage,Omagrra,Orra Ka,Orridan,Orrida,Oshibi,Vallin,Valnirra,"
+"Valnitt,Velisk,Verra,Vellin Ka,Veshtar,Vushtin"
 
 #: data/core/macros/names.cfg:23
 msgid ""
@@ -1828,6 +1818,80 @@ msgid ""
 "Yusuf,Zafar,Zafir,Zahid,Zahir,Zayd,Zaim,Zayn,Zarif,Zakarriya,Zaki,Zakwan,"
 "Ziyad,Zubayr,Zuhayr"
 msgstr ""
+"Aban,Abbas,Abbud,Abdul-ʿAdl,Abdul-Ahad,Abdul-Alim,Abdul-Aliyy,Abdul-Azim,"
+"Abdul-Aziz,Abdul-Badi,Abdul-Baʿith,Abdul-Baqi,Abdul-Bari,Abdul-Barr,Abdul-"
+"Basir,Abdul-Basit,Abdul-Fattah,Abdul-Ghaffar,Abdul-Ghafur,Abdul-Ghani,Abdul-"
+"Hadi,Abdul-Hafiz,Abdul-Hakam,Abdul-Hakim,Abdul-Halim,Abdul-Hamid,Abdul-Haqq,"
+"Abdul-Hasib,Abdul-Hayy,Abdul-Jabbar,Abdul-Jalil,Abdul-Karim,Abdul-Khabir,"
+"Abdul-Khaliq,Abdul-Latif,Abdul-Malik,Abdul-Majid,Abdul-Matin,Abdul-Mubdiʾ,"
+"Abdul-Mughni,Abdul-Muhaimin,Abdul-Muhsi,Abdul-Muhyi,Abdul-Muʿid,Abdul-Muʿizz,"
+"Abdul-Mujib,Abdul-Mumin,Abdul-Muqaddim,Abdul-Muqtadir,Abdul-Musawwir,Abdul-"
+"Mutaʿal,Abdul-Nafi,Abdul-Nasser,Abdul-Nasir,Abdul-Nur,Abdul-Qadir,Abdul-"
+"Qahhar,Abdul-Qawi,Abdul-Qayyum,Abdul-Quddus,Abdul-Rafi,Abdul-Rahim,Abdul-"
+"Rahman,Abdul-Rashid,Abdul-Raʿuf,Abdul-Razzaq,Abdul-Shakur,Abdul-Tawwab,Abdul-"
+"Wadud,Abdul-Wahhab,Abdul-Wahid,Abdul-Wajid,Abdul-Wakil,Abdul-Wali,Abdul-"
+"Waliy,Abdul-Warith,Abdul-Zahir,Abdullah,ʿAbid,ʿAbidin,Abu Bakr,Aby al-Khayr,"
+"Adil,Adham,Adib,ʿAdli,ʿAdnan,ʿAfif,Ahmad,ʿAjib,ʿAkif,Akil,Akram,Alaʾ,Alaʾ al-"
+"Din,Alʿ Abbas,Aladdin,al-Bara,al-Hakam,al-Harith,Alhasan,Alhusain,Ali,Alim,"
+"Almahdi,al-Safi,Altaf,Altair,al-Tayyib,al-Tijani,al-Tufail,Amid,ʿAmid,Amin,"
+"Amir,ʿAmir,Amjad,ʿAmmar,ʿAmro,Anas,Anis,ʿAntarah,Anwar,ʿAqil,Arfan,Arif,"
+"ʿArif,Asad,Asʿad,Asadel,Ashraf,Asif,ʿAsim,Aswad,Ataʿ,Ataʿ Allah,Ataʿ al-"
+"Rahman,Athil,Athir,ʿAtif,ʿAwad,ʿAwf,Aws,Awwab,Ayham,Ayman,Ayser,Ayyub,Aza,"
+"ʿAzab,Azhar,Azim,ʿAziz,ʿAzzam,Badi,Badi al-Zaman,Badr,Badr al-Din,Badri,"
+"Bahaʿ,Bahiyy al-Din,Bahij,Bahir,Bakr,Bakri,Baligh,Bandar,Barakah,Barir,"
+"Bashshar,Basil,Basim,Bassam,Bayezid,Bayhas,Bilal,Bishr,Boulos,Budail,Burhan,"
+"Bushr,Butrus,Dabir,Dani,Darwish,Daʿud,Dhakir,Dhakiy,Dhakwan,Dhul Fiqar,Dirar,"
+"Diya,Diya al-Din,Duqaq,Fadi,Fadil,Fadl,Fadl Allah,Fahd,Fahad,Fahmi,Faisal,"
+"Faʿiz,Fakhir,Fakhr al-Din,Fakhri,Fakih,Falah,Falih,Faraj,Farhan,Farid,Fariq,"
+"Fariq,Faris,Faruq,Fath,Fathi,Fatih,Fatin,Fawwaz,Fawzan,Fawzi,Fayyad,Ferran,"
+"Fida,Fikri,Firas,Fuʿad,Fudail,Gamal,Ghayth,Ghali,Ghalib,Ghanim,Ghassan,"
+"Ghawth,Ghazwan,Ghiyath,Habbab,Habib,Haddad,Hadi,Hafiz,Hakem,Hakim,Halim,"
+"Hamal,Hamas,Hamdan,Hamdi,Hamid,Hamim,Hamzah,Hana,Hanaʾi,Hanbal,Hani,Hanif,"
+"Hannad,Haris,Harith,Harun,Hashim,Hassan,Hatim,Haydar,Haytham,Hayyan,Hazim,"
+"Hilal,Hilmi,Hisham,Hud,Hudad,Hudhafah,Hudhayfah,Humam,Hussein,Husam,Husam al-"
+"Din,Ibrahim,ʿId,Idris,Ihsan,Ihtisham,ʿIkrimah,Ilias,ʿImad,Imad al-Din,Imran,"
+"Imtiyaz,Inʿam,Iqbal,ʿIrfan,ʿIsa,ʿIsam,Ishaq,Ismaʿil,Iyad,Iyas,Izz al-Din,"
+"Jabbar,Jabr,Jabir,Jad Allah,Jaʿfar,Jal,Jalal,Jalal al-Din,Jalil,Jamal,Jamal "
+"al-Din,Jamil,Jarir,Jasim,Jaul,Jaun,Jawad,Jawdah,Jawhar,Jibran,Jibril,Jubair,"
+"Jul,Jumah,Junayd,Juwain,Kadar,Kadin,Kadir,Kahil,Kaliq,Kamal,Kamil,Karam,"
+"Kardal,Karif,Karim,Kasib,Kasim,Katib,Kazim,Khalaf,Khaldun,Khalid,Khalil,"
+"Khalil al-Allah,Khalis,Khatib,Khair al-Din,Khairi,Khoury,Khulus,Khuzaymah,"
+"Kutaiba,Labib,Lablab,Latif,Layth,LuʿayLubayd,Luqman,Lut,Lutfi,Maʿd,Madani,"
+"Mahbub,Mahdi,Mahfuz,Mahir,Mahjub,Mahmud,Mahrus,Maimun,Majd,Majdy,Majd al-Din,"
+"Majid,Makin,Malik,Mamduh,Maʿmun,Maʿin,Mandhur,Mansur,Marghub,Marid,Maʿruf,"
+"Marwan,Marzuq,Mashʿal,Mashhur,Masrur,Masʿud,Masun,Maysarah,Mazhar,Mazin,"
+"Mehmed,Mihran,Mihyar,Mikaʾil,Miqdad,Misbah,Mishʿal,Miyaz,Muʾadh,Muʾawiyah,"
+"Muʾayyad,Mubarak,Mubin,Mudar,Muddaththir,Mufid,Muflih,Muhab,Muhayr,Muhammad,"
+"Muhanna,Muhannad,Muhib,Muhibb,Muhsin,Muhtadi,Muhyi al-Din,Muʿin,Muʿizz,Mujab,"
+"Mujahid,Mukarram,Mukhlis,Mukhtar,Mulham,Mulhim,Muʿmmar,Muʿmin,Mumtaz,Munahid,"
+"Mundhir,Munib,Munif,Munir,Muʿnis,Munjid,Munsif,Muntasir,Murad,Murid,Murshid,"
+"Murtada,Musa,Musʿab,Musaʿid,Mushtaq,Muslih,Muslim,Mutafa,Mutaʾ,Muʿtasim,"
+"Mutawalli,Muʿtazz,Muthanna,Muti,Muwaffaq,Muyassar,Muzaffar,Mussammil,Nabhan,"
+"Nabighah,Nabih,Nabil,Nadhir,Nadim,Nadir,Nafiʾ,Nahid,Naʾil,Naʾim,Naji,Najib,"
+"Najid,Najjar,Najm al-Din,Naʿaman,Namir,Nashʿah,Nashʿat,Nashwan,Nasib,Nasih,"
+"Nasim,Nasir,Nasir al-Din,Nasr,Nasri,Nasuh,Nawaf,Nawfal,Nayif,Nazih,Nazim,"
+"Nazmi,Nibras,Nidal,Nijad,Nimr,Nizar,Nuʿaym,Nuh,Nuhayd,Numair,Nuʿman,Nur al-"
+"Din,Nuri,Nusrah,Nusrat,Omar,Orhan,Osman,Qasim,Qays,Qudamah,Qusay,Qatadah,"
+"Qutaybah,Qutb,Qutuz,Rabah,Rabi,Radi,Rafi,Rafid,Rafiq,Raghib,Rahman,Raʿid,"
+"Raʿif,Rais,Rajaa,Rajab,Raji,Rajih,Rakin,Rami,Ramih,Ramiz,Ramzi,Rani,Rashad,"
+"Rashid,Rasil,Rasin,Rasmi,Rasul,Ratib,Raʿuf,Rayhan,Rayyan,Razin,Ridha,Ridwan,"
+"Rihab,Riyad,Rizq,Ruhi,Rushd,Rushdi,Ruwayd,Saad,Saʿadah,Sab,Sabih,Sabir,Sabri,"
+"Saʿd,Saʿd al-Din,Sadad,Sadid,Sadiq,Saʿdun,Saʿid,Safi,Safiy,Safiy al-Din,"
+"Safuh,Safwah,Safwat,Safwan,Sahib,Sahir,Sahl,Saʾib,Saif,Saif al-Din,Sajid,"
+"Sajjad,Sakhr,Salah,Salah al-Din,Salamah,Salih,Salim,Salman,Sami,Samih,Samir,"
+"Samman,Saqr,Sariyah,Sati,Saud,Sayyid,Shaʿban,Shadi,Shadin,Shafi,Shafiq,"
+"Shahid,Shahin,Shahir,Shakib,Shakir,Shams al-Din,Shamal,Shamil,Shamim,Sharaf,"
+"Sharif,Shawqi,Shihab,Shihab al-Din,Shihad,Shuʿayb,Shukri,Shumayl,Siddiq,"
+"Sinan,Siraj,Siraj al-Din,Sofian,Subhi,Sufyan,Suhayb,Suhayl,Suhaym,Sulaiman,"
+"Sumrah,Suraqah,Suʿud,Tahir,Tahsin,Taym Allah,Taj,Taj al-Din,Talal,Talib,"
+"Tamim,Tamir,Tamam,Tammam,Taqiy,Tarif,Tariq,Taslim,Tawfiq,Tawhid,Taymullah,"
+"Taysir,Tayyib,Thabit,Thamir,Thaqib,Thawab,Thawban,ʿUbaidah,Ubaid,Ubayy,"
+"ʿUdayl,ʿUday,ʿUmar,Umarah,Umair,ʾaUrwah,Usaym,Usama,ʿUtbah,Uthal,Uthman,"
+"Waddah,Wadi,Wadid,Wafiq,Wahab,Wahhab,Wahid,Waʾil,Wajdi,Wajid,Wajih,Wakil,"
+"Walid,Walif,Waliy Allah,Waliy al-Din,Waqar,Waqqas,Ward,Wasif,Wasil,Wasim,"
+"Wazir,Yahya,Yaman,Yaʿqub,Yasar,Yasin,Yasir,Yazan,Yazid,Yunus,Yushua,Yusri,"
+"Yusuf,Zafar,Zafir,Zahid,Zahir,Zayd,Zaim,Zayn,Zarif,Zakarriya,Zaki,Zakwan,"
+"Ziyad,Zubayr,Zuhayr"
 
 #: data/core/macros/names.cfg:47
 msgid ""
@@ -2108,10 +2172,9 @@ msgstr "Objetivo de bonificación:"
 
 #. [note]: description=<b>
 #: data/core/macros/objective-utils.cfg:74
-#, fuzzy
 #| msgid "Choose next scenario"
 msgid "This is the last scenario."
-msgstr "Seleccione el siguiente escenario"
+msgstr "Este es el último escenario."
 
 #. [message]: speaker=narrator
 #: data/core/macros/scenario-utils.cfg:62
@@ -2226,7 +2289,7 @@ msgid ""
 "Neutral units are unaffected by day and night, fighting equally well under "
 "both conditions."
 msgstr ""
-"Las unidades neutrales no se ven afectadas por el día y la noche.  Luchan "
+"Las unidades neutrales no se ven afectadas por el día y la noche. Luchan "
 "igual de bien en ambas condiciones."
 
 #. [language]
@@ -2244,7 +2307,6 @@ msgstr ""
 
 #. [language]
 #: data/english.cfg:20
-#, fuzzy
 #| msgid ""
 #| "Lawful units fight better during the day, and worse at night.\n"
 #| "\n"
@@ -2256,93 +2318,114 @@ msgid ""
 "Day: −25% Damage\n"
 "Night: −25% Damage"
 msgstr ""
-"Las unidades legales luchan mejor de día, y peor de noche.\n"
+"Las unidades crepusculares luchan mejor durante el crepúsculo al inicio y "
+"final del día.\n"
 "\n"
-"Día: +25% del daño\n"
+"Día: −25% del daño\n"
 "Noche: −25% del daño"
 
 #. [language]
 #: data/english.cfg:23
+#, fuzzy
 msgid "$name|’s Bridge,$name|’s Crossing"
 msgstr "Puente de $name,Cruce de $name"
 
 #. [language]
 #: data/english.cfg:24
+#, fuzzy
 msgid "$name|’s Highway,$name|’s Pass,Path of $name"
 msgstr "Carretera de $name,Paso de $name,Camino de $name"
 
 #. [language]
 #: data/english.cfg:25
+#, fuzzy
 msgid "$name River,River $name"
 msgstr "Río de $name,Río $name"
 
 #. [language]
 #: data/english.cfg:26
+#, fuzzy
 msgid "$name Forest,$name|’s Forest"
 msgstr "Bosque $name,Bosque de $name,Selva $name,Selva de $name"
 
 #. [language]
 #: data/english.cfg:27
+#, fuzzy
 msgid "$name Lake"
 msgstr "Lago $name"
 
 #. [language]
 #: data/english.cfg:28
+#, fuzzy
 msgid "$name|’s Peak,Mount $name"
 msgstr "Pico de $name,Monte $name"
 
 #. [language]
 #: data/english.cfg:29
+#, fuzzy
 msgid "$name|’s Swamp,$name|marsh,$name|fen"
 msgstr "Pantano de $name,Marisma de $name,Ciénaga de $name"
 
 #. [language]
 #: data/english.cfg:30
+#, fuzzy
 msgid "$name|bury,$name|ham,$name|ton,$name|bury"
 msgstr "$name|bury,$name|ham,$name|ton,$name|bury"
 
 #. [language]
 #: data/english.cfg:31
+#, fuzzy
 msgid "$name|harbor,$name|port,$lake|port,$lake|harbor"
-msgstr "puerto $name,bahía $name,puerto $lake,bahía $lake"
+msgstr "Puerto $name,Bahía $name,Puerto $lake,Bahía $lake"
 
 #. [language]
 #: data/english.cfg:32
+#, fuzzy
 msgid ""
 "$name|ham,$name|ford,$name|cross,$river|ford,$river|cross,$name on river"
 msgstr "$name|ham,$name|ford,$name|cross,$river|ford,$river|cross,$name en río"
 
 #. [language]
 #: data/english.cfg:33
+#, fuzzy
 msgid ""
 "$river|bridge,$river|bridge,$river|bridge,$name|ham,$name|bridge,$bridge|ham,"
 "$bridge|ton"
-msgstr "Puente de|$river,Puente|$name,$bridge|ham,$bridge|ton"
+msgstr ""
+"Puente de $river,Puente de $river,Puente de $river,$name|ham,Puente de $name,"
+"$bridge|ham,$bridge|ton"
 
 #. [language]
 #: data/english.cfg:34
+#, fuzzy
 msgid "$name|ham,$name|ton,$name|field"
 msgstr "$name|ham,$name|ton,$name|field"
 
 #. [language]
 #: data/english.cfg:35
+#, fuzzy
 msgid ""
 "$name|ham,$name|ton,$name|wood,$name Forest,$forest|wood,$forest|ham,$forest|"
 "ton"
-msgstr "$name|ham,$name|ton,$forest|ham,$forest|ton,Bosque de $name"
+msgstr ""
+"$name|ham,$name|ton,$name|wood,Bosque $name,$forest|wood,$forest|ham,$forest|"
+"ton"
 
 #. [language]
 #: data/english.cfg:36
+#, fuzzy
 msgid "$name|ham,$name|bury,$name|ton,$name|hill,$name|crest"
 msgstr "$name|ham,$name|bury,$name|ton,$name|hill,$name|crest"
 
 #. [language]
 #: data/english.cfg:37
+#, fuzzy
 msgid "$mountain|mont,$mountain|cliff,$mountain|bury,$mountain|ham"
-msgstr "Montaña $mountain,cerro $mountain,$mountain|bury,$mountain|ham"
+msgstr "Montaña $mountain,Cerro $mountain,$mountain|bury,$mountain|ham"
 
 #. [language]
 #: data/english.cfg:38
+#, fuzzy
 msgid ""
 "$name|ham,$name|bury,$name|ton,$name|mont,$name|mont,$name|cliff,$name|cliff"
 msgstr ""
@@ -2350,12 +2433,14 @@ msgstr ""
 
 #. [language]
 #: data/english.cfg:39
+#, fuzzy
 msgid ""
 "$road|’s Rest,$road|’s Waypoint,$road|bury,$road|ham,$name|bury,$name|ham"
 msgstr "Descanso $road,Paso $road,$road|bury,$road|ham,$name|bury,$name|ham "
 
 #. [language]
 #: data/english.cfg:40
+#, fuzzy
 msgid "$name|bury,$name|ham,$name|ton,$swamp|bury,$swamp|ham,$swamp|ton,"
 msgstr "$name|bury,$name|ham,$name|ton,$swamp|bury,$swamp|ham,$swamp|ton,"
 
@@ -2425,14 +2510,14 @@ msgid ""
 "Don’t neglect to earn your leader experience! You need to keep him safe, but "
 "if you coddle him too much he may be too weak to survive future battles."
 msgstr ""
-"¡Es importante que no descuide aumentar los puntos de experiencia de su "
-"líder!  Mantenerlo a salvo es indispensable, pero si lo protege demasiado y "
-"en un nivel demasiado bajo, puede que no sobreviva futuras batallas."
+"¡No descuide los puntos de experiencia de su líder! Mantenerlo a salvo es "
+"indispensable, pero si lo protege demasiado podría no adquirir suficiente "
+"fuerza para sobrevivir batallas futuras."
 
 #. [tip]
 #: data/hardwired/tips.cfg:5 data/hardwired/tips.cfg:137
 msgid "<i>― Great Mage Delfador, 516YW</i>"
-msgstr "<i>― Gran mago Delfador, 516DW</i>"
+msgstr "<i>― Gran mago Delfador, 516 DW</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:8
@@ -2442,11 +2527,11 @@ msgid ""
 "where they are). Use this to make sure the enemy can’t reach your weak or "
 "injured units on his next turn."
 msgstr ""
-"En el menú de «acciones», puede seleccionar «mostrar movimientos del "
-"enemigo» para destacar todas las posibles ubicaciones a las que su enemigo "
-"podría moverse (siempre y cuando usted no mueva sus unidades de sitio).  "
-"Utilice esto para asegurarse de que el enemigo no puede alcanzar a sus "
-"unidades débiles o heridas en turnos siguientes."
+"En el menú de <b>Acciones</b>, puede seleccionar <b>Mostrar movimientos del "
+"enemigo</b> para destacar todas las posibles ubicaciones a las que su "
+"enemigo podría moverse (siempre y cuando usted no mueva sus unidades de "
+"sitio). Utilice esto para asegurarse de que el enemigo no puede alcanzar a "
+"sus unidades débiles o heridas en turnos siguientes."
 
 #. [tip]
 #: data/hardwired/tips.cfg:9 data/hardwired/tips.cfg:21
@@ -2475,15 +2560,15 @@ msgid ""
 "level up. Early in a campaign, try to give killing blows to these units so "
 "you can get some high-level troops sooner."
 msgstr ""
-"Las unidades con el rasgo «inteligente» necesitan menos puntos de "
-"experiencia para subir de nivel.  Al comienzo de una campaña, trate de "
-"utilizar estas unidades para eliminar unidades enemigas, así podrá obtener "
-"unas tropas de niveles más altos en período más corto de tiempo."
+"Las unidades con el rasgo <b>Inteligente</b> necesitan menos puntos de "
+"experiencia para subir de nivel. Al comienzo de una campaña, trate de "
+"utilizar estas unidades para dar el golpe final a sus enemigos; así, podrá "
+"obtener tropas de mejor nivel más pronto."
 
 #. [tip]
 #: data/hardwired/tips.cfg:13
 msgid "<i>― King Konrad, 536YW</i>"
-msgstr "<i>― Rey Konrad, 536YW</i>"
+msgstr "<i>― Rey Konrad, 536 DW</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:16
@@ -2494,15 +2579,15 @@ msgid ""
 "must completely surround skirmishers to immobilize them."
 msgstr ""
 "La táctica de rodear a su oponente es muy poderosa y útil, en particular "
-"contra oponentes rápidos.  Al colocar dos unidades en lados opuestos de un "
-"enemigo, restinge los movimientos de éste a una sola ubicación alrededor "
-"suyo.  Desafortunadamente, necesitará rodear completamente a un Hostigador "
-"saurio para poder inmobilizarlo."
+"contra oponentes rápidos. Al colocar dos unidades en lados opuestos de un "
+"enemigo, restringe los movimientos de éste a una sola ubicación a su "
+"alrededor. Desafortunadamente, necesitará rodear completamente a unidades "
+"hostigadoras para poder inmovilizarlas."
 
 #. [tip]
 #: data/hardwired/tips.cfg:17 data/hardwired/tips.cfg:129
 msgid "<i>― Memoirs of Gweddry, 627YW</i>"
-msgstr "<i>― Memorias de Gweddry, 627YW</i>"
+msgstr "<i>― Memorias de Gweddry, 627 DW</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:20
@@ -2512,11 +2597,11 @@ msgid ""
 "a unit in. Placing units wisely can sometimes let you reach a village a turn "
 "earlier."
 msgstr ""
-"Puede acceder a los comandos «Reclutar» y «Reincorporar» presionando el "
-"botón derecho de su ratón sobre cualquier ubicación en su castillo.  Esto le "
-"permitirá situar una nueva unidad en dicha ubicación.  Situar unidades "
-"sabiamente puede ahorrarle turnos al intentar alcanzar una aldea u otro "
-"lugar."
+"Puede acceder a los comandos <b>Reclutar</b> y <b>Reincorporar</b> "
+"presionando el botón derecho de su ratón sobre cualquier ubicación en su "
+"castillo. Esto le permitirá situar una nueva unidad en dicha ubicación. "
+"Situar unidades sabiamente puede ahorrarle turnos para alcanzar una aldea u "
+"otro lugar."
 
 #. [tip]
 #: data/hardwired/tips.cfg:24
