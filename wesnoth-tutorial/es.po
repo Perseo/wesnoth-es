@@ -9,13 +9,14 @@
 # Sergi March <sergi.march@gmail.com>, 2008.
 # Gustavo Gingins <gusgins@gmail.com>, 2009.
 # Ignacio R. Morelle <shikadilord@users.sourceforge.net>, 2009.
+# J. Cortázar <javier_los_herejes@hotmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-16 12:43+0100\n"
 "PO-Revision-Date: 2011-11-22 21:36+0100\n"
-"Last-Translator: \n"
+"Last-Translator: J. Cortázar <javier_los_herejes@hotmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
