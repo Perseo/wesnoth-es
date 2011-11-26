@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-16 12:43+0100\n"
-"PO-Revision-Date: 2011-11-12 23:53-0500\n"
+"PO-Revision-Date: 2011-11-26 12:13-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
@@ -4063,7 +4063,7 @@ msgstr ""
 #. [female]
 #: data/core/units/nagas/Fighter.cfg:152
 msgid "Nagini Fighter"
-msgstr "Luchadora nagani"
+msgstr "Luchadora nagini"
 
 #. [unit_type]: id=Naga Myrmidon, race=naga
 #: data/core/units/nagas/Myrmidon.cfg:4
@@ -4089,7 +4089,7 @@ msgstr ""
 #. [female]
 #: data/core/units/nagas/Myrmidon.cfg:94
 msgid "Nagini Myrmidon"
-msgstr "Mirmidona nagani"
+msgstr "Mirmidona nagini"
 
 #. [female]
 #: data/core/units/nagas/Myrmidon.cfg:96
@@ -4107,7 +4107,7 @@ msgid ""
 "only are they potent enemies on any open terrain, but their ability to swim "
 "allows them a deadly mobility."
 msgstr ""
-"A las maestras más experimentadas con la espada entre las nagani se les "
+"A las maestras más experimentadas con la espada entre las naginis se les "
 "inicia en la casta del Mirmidón, maestras del arte de la lucha con dos "
 "espadas. Golpean tan rápido como las serpientes a las que se asemejan, y "
 "brincan con gracia evitando los ataques. No sólo son unas poderosas enemigas "
@@ -4140,7 +4140,7 @@ msgstr ""
 #. [female]
 #: data/core/units/nagas/Warrior.cfg:91
 msgid "Nagini Warrior"
-msgstr "Guerrera nagani"
+msgstr "Guerrera nagini"
 
 #. [female]
 #: data/core/units/nagas/Warrior.cfg:93
@@ -4160,8 +4160,8 @@ msgid ""
 "dodge from blows. This makes them potent on land, but the friction of water "
 "greatly impedes their ability to do this."
 msgstr ""
-"Muchas de las jóvenes guerreras nagani suspiran por que llegue el día en que "
-"se hagan merecedoras de su segunda espada. Sus prácticas marciales en la "
+"Muchas de las jóvenes guerreras naginis suspiran por que llegue el día en "
+"que se hagan merecedoras de su segunda espada. Sus prácticas marciales en la "
 "lucha con dos hojas no se parece en nada a aquella de los orcos u otras "
 "razas, ya que han comenzado a aprender el arte de usar su forma enroscada a "
 "su favor, retorciéndose y girando para esquivar los golpes. Esto las hace "
