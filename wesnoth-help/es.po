@@ -22,8 +22,8 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-16 12:43+0100\n"
-"PO-Revision-Date: 2011-11-16 19:41-0500\n"
-"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
+"PO-Revision-Date: 2011-11-30 00:19+0100\n"
+"Last-Translator: Aelonin <quianaaelonin@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -1103,6 +1103,9 @@ msgid ""
 "text='river'</ref> country and the <ref>dst='far_north' text='Northern "
 "Plains'</ref>."
 msgstr ""
+"Una barrera prácticamente impracticable entre las tierras del "
+"<ref>dst='arkan_thoria' text='río'</ref> y las <ref>dst='far_north' "
+"text='llanuras septentrionales'</ref>."
 
 #. [topic]: id=far_north
 #: data/core/encyclopedia/geography.cfg:152
@@ -1244,13 +1247,11 @@ msgstr ""
 # No estoy seguro de que sea la mejor traducción ya que "introducción" ya está en otro lugar, pero tampoco parece convencerme "visión/vista general".
 #. [topic]: id=introduction_topic
 #: data/core/help.cfg:117
-#, fuzzy
 msgid "Overview"
 msgstr "Vista general"
 
 #. [topic]: id=introduction_topic
 #: data/core/help.cfg:120
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -1263,13 +1264,13 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"<italic>La batalla por Wesnoth</italic> es un juego de estrategia por turnos "
-"de índole fantástica, con un enfoque poco usual entre los juegos modernos de "
+"<i>La batalla por Wesnoth</i> es un juego de estrategia por turnos de índole "
+"fantástica, con un enfoque poco usual entre los juegos modernos de "
 "estrategia. Mientras otros juegos buscan la complejidad de reglas y sistema "
-"de juego, en la batalla por Wesnoth se persigue todo lo contrario. Esto no "
-"hace simple al juego, sino al contrario: a partir de unas reglas simples "
-"pueden crearse grandes estrategias, haciendo que el juego sea fácil de "
-"aprender pero difícil de dominar con maestría."
+"de juego, en <i>La batalla por Wesnoth</i> se persigue todo lo contrario. "
+"Esto no hace simple al juego, sino al contrario: a partir de unas reglas "
+"simples pueden crearse grandes estrategias, haciendo que el juego sea fácil "
+"de aprender pero difícil de dominar con maestría."
 
 #. [topic]: id=fundamentals
 #: data/core/help.cfg:132
@@ -1278,7 +1279,6 @@ msgstr "Fundamentos del juego"
 
 #. [topic]: id=fundamentals
 #: data/core/help.cfg:133
-#, fuzzy
 msgid ""
 "These pages outline all you need to know to play <italic>text='Battle for "
 "Wesnoth'</italic>. They cover how to play and the basic mechanics behind the "
@@ -1286,15 +1286,14 @@ msgid ""
 "come across new aspects of the game. For more detailed information on "
 "special situations and exceptions, please follow the links included."
 msgstr ""
-"Estas páginas esbozan todo lo que tiene que saber para jugar a la batalla "
-"por Wesnoth. A medida que juegue, se irá añadiendo más información a estas "
-"páginas para cubrir los aspectos del juego que vayan apareciendo. Si desea "
-"conocer todas las excepciones y situaciones especiales, por favor, siga los "
-"enlaces que se indican."
+"Estas páginas esbozan todo lo que tiene que saber para jugar a <i>La batalla "
+"por Wesnoth</i>. A medida que juegue, se irá añadiendo más información a "
+"estas páginas para cubrir los aspectos del juego que vayan apareciendo. Si "
+"desea conocer todas las excepciones y situaciones especiales, por favor, "
+"siga los enlaces que se indican."
 
 #. [topic]: id=fundamentals
 #: data/core/help.cfg:135
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -1308,13 +1307,13 @@ msgstr ""
 "\n"
 "\n"
 "Para empezar, es mejor que pulse con el ratón en el botón "
-"<italic>text=Tutorial</italic> que hay en el menú principal. Esto lo llevará "
-"a un tutorial interactivo que le enseñará los fundamentos de Wesnoth. Tras "
-"él, le recomendamos que juegue la campaña Heredero al trono en primer lugar. "
-"Para ello, pinche en <italic>text=Campañas</italic> y luego en "
-"<italic>text='Heredero al trono'</italic>. Ya que la batalla por Wesnoth "
+"«<italic>text=Tutorial</italic>» que hay en el menú principal. Esto le "
+"llevará a un tutorial interactivo que le enseñará los fundamentos de "
+"Wesnoth. Tras él, le recomendamos que juegue la campaña Heredero al trono en "
+"primer lugar. Para ello, pinche en «<italic>text=Campañas</italic>» y luego "
+"en <italic>text='Heredero al trono'</italic>. Ya que la batalla por Wesnoth "
 "puede ser un juego complicado, puede que quiera empezar en el nivel "
-"<italic>text=Fácil</italic>."
+"<italic>text=fácil</italic>."
 
 #. [topic]: id=fundamentals
 #: data/core/help.cfg:138
@@ -1328,7 +1327,7 @@ msgstr ""
 "Mientras esté jugando, tenga presente que si sitúa el cursor sobre la "
 "mayoría de los elementos del juego, como la información que se muestra en el "
 "panel de estado, obtendrá una pequeña descripción que le explica más sobre "
-"el elemento. Esta característica le será especialmente útil cuando se "
+"dicho elemento. Esta característica le será especialmente útil cuando se "
 "encuentre con nuevas <ref>dst='..abilities_section' text=habilidades</ref> "
 "por primera vez."
 
@@ -1339,7 +1338,6 @@ msgstr "Acerca del juego"
 
 #. [topic]: id=about_game
 #: data/core/help.cfg:144
-#, fuzzy
 msgid ""
 "The game takes place over a series of battles, called "
 "<italic>text='scenarios'</italic>. Each scenario pits your troops against "
@@ -1349,17 +1347,16 @@ msgid ""
 "other people connected to that network. If your computer has a connection to "
 "the Internet, you can play against other people across the Internet."
 msgstr ""
-"En el juego tienen lugar una serie de batallas, denominadas escenarios. Cada "
-"escenario enfrenta sus tropas con las tropas de uno o más adversarios. Puede "
-"jugar contra el ordenador, o con sus amigos, utilizando todos el mismo "
-"ordenador por turnos (denominado juego «silla caliente»). Si su ordenador "
-"está conectado a una red local, también podrá jugar contra gente que esté "
-"conectada en esa red. Si su ordenador tiene una conexión a Internet, podrá "
-"jugar contra otras personas a través de Internet."
+"En el juego tienen lugar una serie de batallas, denominadas «escenarios». "
+"Cada escenario enfrenta sus tropas con las tropas de uno o más adversarios. "
+"Puede jugar contra el ordenador, o con sus amigos, utilizando todos el mismo "
+"ordenador, por turnos (denominado juego «compartiendo silla»). Si su "
+"ordenador está conectado a una red local, también podrá jugar contra gente "
+"que esté conectada en esa red. Si su ordenador tiene una conexión a "
+"Internet, podrá jugar contra otras personas a través de Internet."
 
 #. [topic]: id=about_game
 #: data/core/help.cfg:146
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -1370,10 +1367,10 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Las campañas son una colección de escenarios puestos uno detrás de otro, a "
-"modo de historia. En una campaña, a menudo necesitará jugar de modo más "
-"cuidadoso, preservando sus mejores tropas del daño para poder utilizarlas "
-"más tarde en posteriores escenarios de la campaña."
+"Una <i>campaña</i> consiste de una colección de escenarios puestos uno "
+"detrás de otro, a modo de historia. En una campaña, a menudo necesitará "
+"jugar de modo más cuidadoso, preservando sus mejores tropas para poder "
+"utilizarlas más tarde en posteriores escenarios de la campaña."
 
 #. [topic]: id=victory_and_defeat
 #: data/core/help.cfg:152
@@ -1382,7 +1379,6 @@ msgstr "Victoria y Derrota"
 
 #. [topic]: id=victory_and_defeat
 #: data/core/help.cfg:153
-#, fuzzy
 msgid ""
 "Pay careful attention to the <bold>text='Objectives'</bold> pop-up box at "
 "the beginning of each scenario. Usually you will achieve victory by killing "
@@ -1391,7 +1387,7 @@ msgid ""
 "designated point, say, or rescuing someone, or solving a puzzle, or holding "
 "out against a siege until a certain number of turns have elapsed."
 msgstr ""
-"Presta suma atención al cuadro emergente de los Objetivos al principio de "
+"Presta suma atención al cuadro emergente «<b>Objetivos</b>» al principio de "
 "cada escenario. Por lo general, conseguirás la victoria por matar a todos "
 "los líderes enemigos, y sólo serás derrotado si matan a tu líder. Pero los "
 "escenarios pueden tener otros objetivos de victoria - llevar a tu líder a un "
@@ -1401,7 +1397,6 @@ msgstr ""
 
 #. [topic]: id=victory_and_defeat
 #: data/core/help.cfg:155
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -1412,10 +1407,10 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Cuando ganes un escenario, el mapa se volverá gris y el botón «Fin de Turno» "
-"cambiará a «Fin de escenario». Ahora puedes hacer cosas como modificar las "
-"opciones de guardado o (si estás en modo multijugador) chatear con otros "
-"jugadores antes de pulsar ese botón para avanzar."
+"Cuando ganes un escenario, el mapa se volverá gris y el botón «<b>Fin de "
+"Turno</b>» cambiará a «<b>Fin de escenario</b>». Ahora puedes hacer cosas "
+"como modificar las opciones de guardado o (si estás en modo multijugador) "
+"chatear con otros jugadores antes de pulsar ese botón para avanzar."
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:162
@@ -1424,7 +1419,6 @@ msgstr "Reclutar y reincorporar"
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:163
-#, fuzzy
 msgid ""
 "Each side begins with one leader in their keep. At the start of any battle, "
 "and at times during it, you will need to recruit <ref>dst='..units' "
@@ -1440,11 +1434,11 @@ msgstr ""
 "Cada bando comienza con un líder en su torreón. Al comienzo de cada batalla, "
 "y a veces durante ella, necesitará reclutar <ref>dst='..units' "
 "text='unidades'</ref> para su ejército. Para ello, ha de tener a su líder "
-"(por ejemplo, Konrad en la campaña Heredero al trono) en la casilla del "
+"(por ejemplo, Konrad en la campaña «Heredero al trono») en la casilla del "
 "torreón de un <ref>dst='terrain_castle' text='castillo'</ref>. Entonces "
-"podrá reclutar tan sólo con escoger Reclutar en el menú, o bien pulsando el "
-"botón derecho en un hexágono y seleccionando la opción "
-"<italic>text=Reclutar</italic>. Al hacer esto, se mostrará el menú de "
+"podrá reclutar tan sólo con escoger «Reclutar» en el menú, o bien pulsando "
+"el botón derecho en un hexágono y seleccionando la opción "
+"«<bold>text=Reclutar</bold>». Al hacer esto, se mostrará el menú de "
 "reclutamiento, donde se listan las unidades disponibles para reclutar, junto "
 "con su coste en piezas de oro. Haga clic en una unidad para ver sus "
 "estadísticas, y luego presione el botón Reclutar para hacerlo."
@@ -1469,7 +1463,6 @@ msgstr ""
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:167
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -1478,8 +1471,8 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Las unidades reclutadas aparecen con dos <ref>dst='..traits_section' "
-"text='Rasgos'</ref> aleatorios que modifican sus estadísticas."
+"Las unidades reclutadas aparecen con dos «<ref>dst='..traits_section' "
+"text='Rasgos'</ref>» aleatorios que modifican sus estadísticas."
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:169
@@ -1499,7 +1492,6 @@ msgstr ""
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:171
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -1510,7 +1502,7 @@ msgstr ""
 "\n"
 "\n"
 "Tenga en mente que las unidades no sólo cuestan oro cuando se las recluta o "
-"se las reincorpora, sino que también requieren un costo de mantención. Lea "
+"se las reincorpora, sino que también requieren un costo de manutención. Lea "
 "la sección <ref>dst='income_and_upkeep' text='Recaudación y mantenimiento'</"
 "ref> para obtener más información."
 
@@ -1530,13 +1522,11 @@ msgstr ""
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:180
-#, fuzzy
 msgid " green if it hasn’t moved this turn,"
 msgstr " verde si la unidad no se ha movido este turno,"
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:181
-#, fuzzy
 msgid " yellow if it has moved, but could still move further or attack, or"
 msgstr ""
 " amarillo si se ha movido, pero aún le queda capacidad de movimiento o "
@@ -1546,19 +1536,19 @@ msgstr ""
 #: data/core/help.cfg:182
 msgid ""
 " red if it can no longer move or attack, or the user ended the unit’s turn."
-msgstr ""
+msgstr " rojo si no puede moverse ni atacar, o el usuario finalizó si turno."
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:183
-#, fuzzy
 msgid " blue if the unit is an ally you do not control."
-msgstr "Azul si la unidad es aliada y no tiene control sobre ella."
+msgstr ""
+" azul si la unidad es aliada y el jugador no se tiene control sobre ella."
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:184
-#, fuzzy
 msgid " Enemy units have no orb on top of their energy bar."
-msgstr "Las unidades enemigas no tienen orbes encima de sus barras de energía."
+msgstr ""
+" Las unidades enemigas no tienen orbes encima de sus barras de energía."
 
 #. [topic]: id=hitpoints
 #: data/core/help.cfg:191
@@ -1567,7 +1557,6 @@ msgstr "Puntos de vida y experiencia"
 
 #. [topic]: id=hitpoints
 #: data/core/help.cfg:192
-#, fuzzy
 msgid ""
 "Each unit has a certain number of <italic>text='hitpoints'</italic> (HP). If "
 "the hitpoints of a unit drop below 1, the unit dies. Each unit also has a "
@@ -1575,11 +1564,11 @@ msgid ""
 "recruited unit starts with no experience points, and gains experience by "
 "fighting enemies."
 msgstr ""
-"Cada unidad tiene un cierto número de puntos de vida (PV). Si los puntos de "
-"vida de una unidad descienden por debajo de 1, la unidad muere. Cada unidad "
-"tiene también un cierto número de puntos de experiencia (PX). Una unidad "
-"recién reclutada comienza sin puntos de experiencia, y gana experiencia "
-"luchando contra enemigos."
+"Cada unidad tiene un cierto número de <i>puntos de vida</i> (PV). Si los "
+"puntos de vida de una unidad descienden por debajo de 1, la unidad muere. "
+"Cada unidad tiene también un cierto número de <i>puntos de experiencia</i> "
+"(PX). Una unidad recién reclutada comienza sin puntos de experiencia, y gana "
+"experiencia luchando contra enemigos."
 
 #. [topic]: id=hitpoints
 #: data/core/help.cfg:196
