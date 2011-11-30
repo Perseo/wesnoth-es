@@ -23,7 +23,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-11-30 23:10+0100\n"
+"PO-Revision-Date: 2011-11-30 23:30+0100\n"
 "Last-Translator: Aelonin <quianaaelonin@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
@@ -2681,7 +2681,7 @@ msgstr ""
 "«<i>caóticas</i>» durante la noche, mientras que las «<i>neutrales</i>» no "
 "se ven afectadas por ninguna de ellas. Adicional a esto, existen unas "
 "unidades menos comunes que luchan mejor durante el crepúsculo, denominadas "
-"«<i>liminales</i>». "
+"«<i>crepusculares</i>». "
 
 #. [tip]
 #: data/hardwired/tips.cfg:45
