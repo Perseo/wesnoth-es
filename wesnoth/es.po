@@ -23,8 +23,8 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-11-09 00:16-0300\n"
-"Last-Translator: Ignacio Riquelme Morelle <shadowm2006@gmail.com>\n"
+"PO-Revision-Date: 2011-11-30 23:10+0100\n"
+"Last-Translator: Aelonin <quianaaelonin@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -2318,8 +2318,8 @@ msgid ""
 "Day: −25% Damage\n"
 "Night: −25% Damage"
 msgstr ""
-"Las unidades crepusculares luchan mejor durante el crepúsculo al inicio y "
-"final del día.\n"
+"Las unidades crepusculares luchan mejor durante el crepúsculo, al alba y "
+"durante el ocaso.\n"
 "\n"
 "Día: −25% del daño\n"
 "Noche: −25% del daño"
@@ -2338,13 +2338,11 @@ msgstr "Carretera de $name,Paso de $name,Camino de $name"
 
 #. [language]
 #: data/english.cfg:25
-#, fuzzy
 msgid "$name River,River $name"
 msgstr "Río de $name,Río $name"
 
 #. [language]
 #: data/english.cfg:26
-#, fuzzy
 msgid "$name Forest,$name|’s Forest"
 msgstr "Bosque $name,Bosque de $name,Selva $name,Selva de $name"
 
@@ -2362,7 +2360,6 @@ msgstr "Pico de $name,Monte $name"
 
 #. [language]
 #: data/english.cfg:29
-#, fuzzy
 msgid "$name|’s Swamp,$name|marsh,$name|fen"
 msgstr "Pantano de $name,Marisma de $name,Ciénaga de $name"
 
@@ -2370,7 +2367,7 @@ msgstr "Pantano de $name,Marisma de $name,Ciénaga de $name"
 #: data/english.cfg:30
 #, fuzzy
 msgid "$name|bury,$name|ham,$name|ton,$name|bury"
-msgstr "$name|bury,$name|ham,$name|ton,$name|bury"
+msgstr "$name|burgo,$name|ham,$name|ton,$name|bury"
 
 #. [language]
 #: data/english.cfg:31
@@ -2612,8 +2609,8 @@ msgid ""
 msgstr ""
 "Algunos reportes estadísticos que le pueden ser de utilidad, se encuentran "
 "localizados bajo el botón «Menú» en la barra superior de la ventanta de "
-"partida.  Por ejemplo, la «Tabla de Estado» le permite saber cómo le va a "
-"sus enemigos en la partida en comparación con usted."
+"partida.  Por ejemplo, la «<b>Tabla de Estado</b>» le permite saber cómo le "
+"va a sus enemigos en la partida en comparación con usted."
 
 #. [tip]
 #: data/hardwired/tips.cfg:28
@@ -2622,10 +2619,10 @@ msgid ""
 "can be very important when moving through difficult terrain such as water or "
 "caves. It can make the difference between being able to move one hex or two."
 msgstr ""
-"Las unidades con el rasgo «rápido» obtienen un punto de movimiento adicional "
-"en cada turno. Esto puede ser muy importante al desplazarse a través de "
-"terrenos difíciles, como el agua o las cuevas, y puede crear una gran "
-"diferencia al tratar de alcanzar un lugar en el menor tiempo posible."
+"Las unidades con el rasgo «<i>rápido</i>» obtienen un punto de movimiento "
+"adicional en cada turno. Esto puede ser muy importante al desplazarse a "
+"través de terrenos difíciles, como el agua o las cuevas, y puede crear una "
+"gran diferencia al tratar de alcanzar un lugar en el menor tiempo posible."
 
 #. [tip]
 #: data/hardwired/tips.cfg:29 data/hardwired/tips.cfg:105
@@ -2671,7 +2668,6 @@ msgstr "<i>― La communidad de Wesnoth</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:44
-#, fuzzy
 #| msgid ""
 #| "<i>Lawful</i> units fight better by day, and <i>chaotic</i> units fight "
 #| "better at night. <i>Neutral</i> units are unaffected by the time of day. "
@@ -2681,10 +2677,11 @@ msgid ""
 "better at night. <i>Neutral</i> units are unaffected by the time of day. The "
 "rare <i>liminal</i> units fight best during twilight."
 msgstr ""
-"Las unidades «legales» luchan mejor durante el día y las «caóticas» durante "
-"la noche, mientras que las «neutrales» no se ven afectadas por ninguna de "
-"ellas.  Adicional a esto, existen unas unidades raras que luchan mejor "
-"durante el crepúsculo, denominadas «liminales». "
+"Las unidades «<i>legales</i>» luchan mejor durante el día y las "
+"«<i>caóticas</i>» durante la noche, mientras que las «<i>neutrales</i>» no "
+"se ven afectadas por ninguna de ellas. Adicional a esto, existen unas "
+"unidades menos comunes que luchan mejor durante el crepúsculo, denominadas "
+"«<i>liminales</i>». "
 
 #. [tip]
 #: data/hardwired/tips.cfg:45
@@ -2711,7 +2708,6 @@ msgstr "<i>― Haldric II, 42YW, Manual de Análisis Táctico: Volumen I</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:52
-#, fuzzy
 #| msgid ""
 #| "If you are playing with <b>Shroud</b> or <b>Fog of War</b> active, you "
 #| "won’t know what you’re facing. In this case, long-range scouting units "
@@ -2724,11 +2720,12 @@ msgid ""
 "their cost. Try to choose scouts that can easily move across the surrounding "
 "terrain, because units can only see as far as they can move in one turn."
 msgstr ""
-"Si estás jugando con «oscuridad» o «niebla de guerra» activada, no sabrás a "
-"lo que te estás enfrentando.  En este caso, las unidades exploradoras de "
-"largo alcance hacen valer su precio.  Trate de elegir exploradores que "
-"puedan moverse fácilmente a través del terreno, ya que las unidades "
-"solamente pueden ver tan lejos como pueden moverse en un turno."
+"Si estás jugando con «<b>oscuridad</b>» o «<b>niebla de guerra</b>» "
+"activada, no sabrás a lo que te estás enfrentando.  En este caso, las "
+"unidades exploradoras de largo alcance hacen valer su precio.  Trate de "
+"elegir exploradores que puedan moverse fácilmente a través del terreno, ya "
+"que las unidades solamente pueden ver tan lejos como pueden moverse en un "
+"turno."
 
 #. [tip]
 #: data/hardwired/tips.cfg:56
@@ -2739,11 +2736,12 @@ msgid ""
 "Description</b> to see which attacks it is resistant to, and which will "
 "affect it the most."
 msgstr ""
-"Hay seis tipos de ataques: «de corte», «de impacto», «de penetración», «de "
-"fuego», «de frío» y «arcano».  Diferentes unidades tienen debilidades en "
-"contra de diferentes tipos de ataques.  Presione el botón derecho del ratón "
-"sobre una unidad y seleccione «Descripción de unidad» para ver a cuáles "
-"ataques es resistente y a cuáles no lo es."
+"Hay seis tipos de ataques: «<i>de corte</i>», «<i>de impacto</i>», «<i>de "
+"penetración</i>», «<i>de fuego</i>», «<i>de frío</i>» y «<i>arcano</i>».  "
+"Diferentes unidades tienen debilidades en contra de diferentes tipos de "
+"ataques.  Presione el botón derecho del ratón sobre una unidad y seleccione "
+"«<b>Descripción de unidad</b>» para ver a cuáles ataques es resistente y a "
+"cuáles no lo es."
 
 #. [tip]
 #: data/hardwired/tips.cfg:60
@@ -2767,12 +2765,12 @@ msgid ""
 "poison will not be removed unless the unit regenerates, or begins a turn in "
 "a village or next to a unit with the <i>Cures</i> ability."
 msgstr ""
-"Las unidades envenenadas perderán ocho puntos de vida (pv) en cada turno "
+"Las unidades envenenadas perderán ocho puntos de vida (PV) en cada turno "
 "hasta que estén a un sólo punto de la muerte.  Permanecerán ante las puertas "
 "de la muerte hasta que se elimine el veneno.  Las unidades sanadoras pueden "
 "prevenir el deterioro de la unidad envenenada, pero no se eliminará el "
 "veneno a menos que la unidad se regenere o comience un turno en una aldea o "
-"al lado de una una unidad con la habilidad de «curar»."
+"al lado de una una unidad con la habilidad de «<i>curar</i>»."
 
 #. [tip]
 #: data/hardwired/tips.cfg:68
@@ -2782,8 +2780,9 @@ msgid ""
 "build up a powerful and experienced army."
 msgstr ""
 "Usted puede reusar unidades de escenarios previos, seleccionando "
-"«Reincorporar» en el menú «Acciones».   Llamando a las mismas unidades una y "
-"otra vez, puede construir un ejército poderoso y experimentado."
+"«<b>Reincorporar</b>» en el menú «<b>Acciones</b>».   Llamando a las mismas "
+"unidades una y otra vez, puede construir un ejército poderoso y "
+"experimentado."
 
 #. [tip]
 #: data/hardwired/tips.cfg:72
@@ -2794,11 +2793,11 @@ msgid ""
 "between them and still create a barrier to the enemy. Beware, though: "
 "skirmishers can pass through these gaps."
 msgstr ""
-"Las unidades de nivel uno o más tienen una «zona de control» en cada una de "
-"las casillas adyacentes a ellas.  Si una unidad entra en una zona de control "
-"enemiga, no se podrá mover más durante ese turno. Esto significa que esas "
-"unidades pueden tener dos casillas vacías entre ellos y todavía crear una "
-"barrera al enemigo.  Sin embargo, las unidades hostigadoras són "
+"Las unidades de nivel uno o más tienen una «<i>zona de control</i>» en cada "
+"una de las casillas adyacentes a ellas.  Si una unidad entra en una zona de "
+"control enemiga, no se podrá mover más durante ese turno. Esto significa que "
+"esas unidades pueden tener dos casillas vacías entre ellos y todavía crear "
+"una barrera al enemigo.  Sin embargo, las unidades hostigadoras son "
 "suficientemente hábiles para ignorar estas zonas."
 
 #. [tip]
@@ -2813,8 +2812,8 @@ msgstr ""
 "Las posibilidades de dañar a una unidad suelen depender de su habilidad para "
 "defenderse en el terreno en el que está.  Sin embargo, los ataques mágicos "
 "tienen un 70% de posibilidades de golpear y las unidades con la habilidad "
-"«tirador» tienen garantizados, por lo menos, un 60% de posibilidades de "
-"golpear cuando atacan en su propio turno."
+"«<i>tirador</i>» tienen garantizados, por lo menos, un 60% de posibilidades "
+"de golpear cuando atacan en su propio turno."
 
 #. [tip]
 #: data/hardwired/tips.cfg:77
@@ -2843,7 +2842,6 @@ msgstr ""
 
 #. [tip]
 #: data/hardwired/tips.cfg:88
-#, fuzzy
 #| msgid ""
 #| "On maps where <i>Shroud</i> or <i>Fog of War</i> has been enabled, all "
 #| "units’ sightlines are limited by their maximum movement. If you have some "
@@ -2855,10 +2853,11 @@ msgid ""
 "valuable but slow units, keep at least one fast unit with them so that you "
 "are not caught out by a surprise attack."
 msgstr ""
-"En los mapas donde se haya habilitado «oscuridad» o «niebla de guerra», el "
-"alcance de todas las unidades está limitado por su número máximo de "
-"movimiento.  Si tiene algunas unidades valiosas, pero lentas, por lo menos, "
-"mantenga una unidad rápida junto a ellas para prevenir ataques por sorpresa."
+"En los mapas donde se haya habilitado «<i>oscuridad</i>» o «<i>niebla de "
+"guerra</i>», el alcance de todas las unidades está limitado por su número "
+"máximo de movimiento. Si tiene algunas unidades valiosas, pero lentas, por "
+"lo menos, mantenga una unidad rápida junto a ellas para prevenir ataques por "
+"sorpresa."
 
 #. [tip]
 #: data/hardwired/tips.cfg:92
@@ -2967,10 +2966,11 @@ msgid ""
 "make room for you on their keep so you can recruit from there, and you can "
 "even capture an enemy’s keep and use that."
 msgstr ""
-"Los «Líderes» pueden reclutar o reicorporar unidades desde cualquier torreón "
-"dentro de un castillo, y no necesariamente en el que empiezan.  Algunas "
-"veces sus aliados podrían dejarle usar su torreón para que usted pueda "
-"reclutar unidades o podría capturar un castillo enemigo y hacerlo desde allí."
+"Los «<i>Líderes</i>» pueden reclutar o reincorporar unidades desde cualquier "
+"torreón dentro de un castillo, y no necesariamente en el que empiezan. "
+"Algunas veces sus aliados podrían dejarle usar su torreón para que usted "
+"pueda reclutar unidades o podría capturar un castillo enemigo y hacerlo "
+"desde allí."
 
 #. [tip]
 #: data/hardwired/tips.cfg:128
@@ -2988,11 +2988,11 @@ msgid ""
 "the same side fight better. You can move these units slowly along your "
 "battle lines and give bonuses to large numbers of lower-level troops."
 msgstr ""
-"Las unidades con la habilidad «Liderazgo» ayudan a tropas de niveles más "
-"bajos, del mismo bando y que se encuentran cercanas, a luchar mejor.  Puede "
-"mover estas unidades lentamente, en conjunto con líneas de batalla, para "
-"otorgarles una bonificación adicional a un número grande de tropas de bajo "
-"nivel."
+"Las unidades con la habilidad «<i>Liderazgo</i>» ayudan a tropas de niveles "
+"más bajos, del mismo bando y que se encuentran cercanas, a luchar mejor.  "
+"Puede mover estas unidades lentamente, en conjunto con líneas de batalla, "
+"para otorgarles una bonificación adicional a un número grande de tropas de "
+"bajo nivel."
 
 #. [tip]
 #: data/hardwired/tips.cfg:136
@@ -3028,7 +3028,8 @@ msgid ""
 "you can undo your move by pressing <b>u</b>."
 msgstr ""
 "Si usted mueve una unidad, pero no ataca ni descubre ninguna información "
-"adicional, puede deshacer ese movimiento pulsando la tecla «U» de su teclado."
+"adicional, puede deshacer ese movimiento pulsando la tecla «<b>U</b>» de su "
+"teclado."
 
 #. [tip]
 #: data/hardwired/tips.cfg:152
@@ -3102,8 +3103,8 @@ msgid ""
 "lower-level units instead."
 msgstr ""
 "En lugar de subir de nivel, las unidades de alto nivel ganan una "
-"bonificación de «avance sobre el máximo nivel» (AMLA por sus siglas en "
-"inglés), lo que usualmente eleva el máximo de los puntos de vida (pv) de "
+"bonificación de «<i>avance sobre el máximo nivel</i>» (AMLA por sus siglas "
+"en inglés), lo que usualmente eleva el máximo de los puntos de vida (pv) de "
 "dicha unidad a 3 puntos y le sana por completo.  Esto es menor que el "
 "beneficio obtenido por subir un nivel, por lo tanto es más útil subir de "
 "nivel a las unidades más débiles."
@@ -3115,8 +3116,8 @@ msgid ""
 "mouse pointer over any button or icon to get a description or explanation of "
 "what it does."
 msgstr ""
-"Casi todos los botones e iconos en Wesnoth poseen una leyenda informativa.  "
-"Ponga el puntero sobre alguno de ellos para obtener una explicación o "
+"Casi todos los botones e iconos en Wesnoth poseen una leyenda informativa. "
+"Sitúe el puntero sobre alguno de ellos para obtener una explicación o "
 "descripción de lo que hace."
 
 #. [tip]
@@ -3143,9 +3144,9 @@ msgid ""
 "retaining the ability to undo, or use the new Whiteboard planning tool."
 msgstr ""
 "No puede deshacer un movimiento que haya mostrado una parte del terreno "
-"oculta porla «Oscuridad» o la «Niebla de guerra».  Active la opción "
-"«Retardar actualización de zonas oscuras» cuando quiera mover unidades y a "
-"la vez preservar la capacidad de deshacer esos movimientos."
+"oculta por la «Oscuridad» o la «Niebla de guerra». Active la opción "
+"«<b>Retardar actualización de zonas oscuras</b>» cuando quiera mover "
+"unidades y a la vez preservar la capacidad de deshacer esos movimientos."
 
 #. [tip]
 #: data/hardwired/tips.cfg:192
@@ -3189,13 +3190,14 @@ msgid ""
 "to escape; slow enemies are almost immobilized, and your own units suffer "
 "less retaliation damage, so it’s quicker to heal them."
 msgstr ""
-"La habilidad «Ralentizar» es extremadamente poderosa por tener un amplio "
-"campo de efectos.  Un enemigo no-muerto obtiene la mitad del beneficio "
-"normal de su habilidad «Drenar», el daño de bonificación de «Carga» o "
-"«Apuñalar por la espalda» es cancelado y la habilidad «Frenesí» es "
-"debilitada.  Los enemigos más rápidos luchan para escapar, los enemigos "
-"lentos son casi inmobilizados y las unidades propias sufren menos daños de "
-"represalias, haciendo que sea más rápido sanarlas."
+"La habilidad «<i>Ralentizar</i>» es extremadamente poderosa por tener un "
+"amplio campo de efectos. Un enemigo no-muerto obtiene la mitad del beneficio "
+"normal de su habilidad «<i>Drenar</i>», el daño de bonificación de "
+"«<i>Carga</i>» o «<i>Apuñalar por la espalda</i>» es cancelado y la "
+"habilidad «<i>Frenesí</i>» es debilitada. Los enemigos más rápidos luchan "
+"para escapar, los enemigos lentos son casi inmovilizados y las unidades "
+"propias sufren menos daños de represalias, haciendo que sea más rápido "
+"sanarlas."
 
 #. [tip]
 #: data/hardwired/tips.cfg:208
@@ -3219,11 +3221,11 @@ msgid ""
 "leadership—or a strong or dextrous unit—whenever the extra point or two of "
 "damage makes a one-hit kill possible."
 msgstr ""
-"Unidades que contienen tres o más ataques  - especialmente ataques mágicos - "
+"Unidades que contienen tres o más ataques - especialmente ataques mágicos - "
 "son ideales para derrotar enemigos con sólo unos pocos puntos de vida "
-"restantes.  Asegúrese de utilizar unidades con liderazgo - o unidades "
-"fuertes o diestras - cuando sea necesario unos puntos adicionales para "
-"derrotar al enemigo de un sólo golpe."
+"restantes. Asegúrese de utilizar unidades con liderazgo - o unidades fuertes "
+"o diestras - cuando sea necesario unos puntos adicionales para derrotar al "
+"enemigo de un sólo golpe."
 
 #. [tip]
 #: data/hardwired/tips.cfg:216
@@ -3233,9 +3235,9 @@ msgid ""
 "exactly what traits a new arrival will have."
 msgstr ""
 "Piense dos veces antes de licenciar a una unidad de la lista de "
-"reincorporar, no importa cuanta experiencia posea.  Es conveniente, algunas "
+"reincorporar, no importa cuanta experiencia posea. Es conveniente, algunas "
 "veces, esperar a ver exactamente el tipo de alineamiento que el enemigo "
-"pueda tener antes de tomar esta decisión.  "
+"pueda tener antes de tomar esta decisión. "
 
 #. [tip]
 #: data/hardwired/tips.cfg:220
@@ -3246,7 +3248,7 @@ msgid ""
 msgstr ""
 "Cuando una de sus unidades fuertes está demasiado herida, haga que vaya a "
 "una aldea, lejos del área de batalla, para que se pueda sanar sin peligro de "
-"muerte.  Esto puede hacer que recupere hasta 10 puntos de vida por cada "
+"muerte. Esto puede hacer que recupere hasta 10 puntos de vida por cada "
 "turno. "
 
 #. [tip]
@@ -3264,8 +3266,8 @@ msgid ""
 msgstr ""
 "Combinar múltiples habilidades especiales puede ser letal.  Mientras que "
 "puede ser difícil, combinar las habilidades especiales <i>liderazgo</i>, "
-"<i>illuminar</i> and <i>carga</i> en contra de un oponente ralentizado, da "
-"unos resultados impresionantes."
+"<i>iluminar</i> y <i>carga</i> en contra de un oponente ralentizado, da unos "
+"resultados impresionantes."
 
 #. [tip]
 #: data/hardwired/tips.cfg:228
@@ -3293,12 +3295,15 @@ msgid ""
 msgstr ""
 "Si sus tropas tienen la desventaja en un mapa determinado ante las tropas "
 "enemigas, trate de colocar sus tropas en lugares donde su enemigo tenga la "
-"misma desventaja.  Evite los lugares donde sus tropas tengan pocas "
-"posibilidades de defenderse en comparación con las de su enemigo.  "
-"Planifique en caso de grandes pérdidas y mantenga el control de las "
-"ubicaciones donde usted se vea favorecido."
+"misma desventaja. Evite los lugares donde sus tropas tengan pocas "
+"posibilidades de defenderse en comparación con las de su enemigo. Planifique "
+"en caso de grandes pérdidas y mantenga el control de las ubicaciones donde "
+"usted se vea favorecido."
 
 # No encontré referencia alguna a unidades FERAL en el idioma español en Wesnoth, así que escogí la palabra que mejor describiera su significada en el idioma inglés, FIERAS
+#
+# Aelonin/Darkmage edit:
+# Traduje "feral" por "salvaje" en wesnoth-help.
 #. [tip]
 #: data/hardwired/tips.cfg:237
 msgid ""
@@ -3306,9 +3311,9 @@ msgid ""
 "if they occupy a village hex, they do not gain any defensive benefits from "
 "the village, although they will still be healed."
 msgstr ""
-"Las unidades «Fieras», como los Murciélagos y demás animales salvajes, deben "
-"evitar las aldeas.  Aunque ellos ocupen dichos lugares y recuperen sus "
-"puntos de vidas, no ganarán ningún punto de defensa adicional como otras "
+"Las unidades «<i>Salvajes</i>», como los murciélagos y demás animales "
+"silverstres, prefieren evitar las aldeas. Aunque ellos ocupen dichos lugares "
+"y recuperen sus puntos de vida, no recibirán defensa adicional como otras "
 "unidades."
 
 #: data/lua/wml-tags.lua:800 src/actions.cpp:1493
@@ -3568,47 +3573,38 @@ msgid "Close"
 msgstr "Cerrar"
 
 #: src/actions.cpp:501
-#, fuzzy
 #| msgid "You don’t have a leader to recruit with."
 msgid "You don’t have a leader to recall with."
-msgstr "No tiene un líder con el que reclutar."
+msgstr "No tiene un líder con el que reincorporar."
 
 #: src/actions.cpp:506
-#, fuzzy
 #| msgid "You must have your leader on a keep to recruit or recall units."
 msgid "None of your leaders is able to recall that unit."
-msgstr ""
-"Debe tener al líder en un torreón para reclutar o reincorporar unidades."
+msgstr "Ninguno de los líderes es puede reincorporar esa unidad."
 
 #: src/actions.cpp:511
-#, fuzzy
 #| msgid "You must have your leader on a keep to recruit or recall units."
 msgid "You must have a leader on a keep who is able to recall that unit."
-msgstr ""
-"Debe tener al líder en un torreón para reclutar o reincorporar unidades."
+msgstr "Debe tener al líder en un torreón para reincorporar esa unidad."
 
 #: src/actions.cpp:516
-#, fuzzy
 #| msgid "There are no vacant castle tiles in which to recruit a unit."
 msgid "There are no vacant castle tiles in which to recall the unit."
-msgstr "No hay zonas del castillo libres para reclutar unidades."
+msgstr "No hay zonas del castillo libres para reincorporar la unidad."
 
 #: src/actions.cpp:586
 msgid "You don’t have a leader to recruit with."
 msgstr "No tiene un líder con el que reclutar."
 
 #: src/actions.cpp:591
-#, fuzzy
 #| msgid "You must have your leader on a keep to recruit or recall units."
 msgid "You must have a leader on a keep who is able to recruit the unit."
-msgstr ""
-"Debe tener al líder en un torreón para reclutar o reincorporar unidades."
+msgstr "Debe tener al líder en un torreón para reclutar esa unidad."
 
 #: src/actions.cpp:596
-#, fuzzy
 #| msgid "There are no vacant castle tiles in which to recruit a unit."
 msgid "There are no vacant castle tiles in which to recruit the unit."
-msgstr "No hay zonas del castillo libres para reclutar unidades."
+msgstr "No hay zonas del castillo libres para reclutar a esa unidad."
 
 #: src/actions.cpp:749 src/actions.cpp:808 src/actions.cpp:1729
 msgid "An invalid attacker weapon got selected."
@@ -3624,7 +3620,7 @@ msgstr "¡Emboscada!"
 
 #: src/actions.cpp:2724
 msgid "Failed teleport! Exit not empty"
-msgstr "¡Falló la teletransportación!  La salida no está vacía"
+msgstr "¡Falló el teletransporte! La salida no está vacía"
 
 #: src/actions.cpp:2769
 msgid "Friendly unit sighted"
@@ -3730,10 +3726,9 @@ msgid "Response"
 msgstr "Respuesta"
 
 #: src/addon/manager.cpp:554
-#, fuzzy
 #| msgid "Requesting list of add-ons"
 msgid "Requesting the addon to be deleted"
-msgstr "Pidiendo lista de complementos"
+msgstr "Pidiendo la eliminación del complemento"
 
 #: src/addon/manager.cpp:580
 msgid "Downloading add-on: $addon_title|..."
