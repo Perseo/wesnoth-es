@@ -6685,7 +6685,7 @@ msgstr "Cierre de etiqueta inesperado"
 #: src/serialization/parser.cpp:208
 msgid "Found invalid closing tag $tag2 for tag $tag1 (opened at $pos)"
 msgstr ""
-"Se ha encontrado una etiqueta de cierre inválida $tag2 de la etiqueta $tag "
+"Se ha encontrado una etiqueta de cierre inválida $tag2 de la etiqueta $tag1 "
 "(abierta en la posición $pos)"
 
 #: src/serialization/parser.cpp:237 src/serialization/parser.cpp:249
