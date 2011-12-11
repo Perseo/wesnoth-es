@@ -23,8 +23,8 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-11-30 23:30+0100\n"
-"Last-Translator: Aelonin <quianaaelonin@gmail.com>\n"
+"PO-Revision-Date: 2011-12-11 17:57-0500\n"
+"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -4828,7 +4828,7 @@ msgstr ""
 
 #: src/menu_events.cpp:2061
 msgid "do not translate the 'all'^[all|<command>]"
-msgstr "no traduzca el «all»^[all|<orden>]"
+msgstr "[all|<orden>]"
 
 #: src/menu_events.cpp:2105
 msgid "Error:"
@@ -5091,7 +5091,7 @@ msgstr "Cambia un bando al/del control de la IA."
 
 #: src/menu_events.cpp:2542
 msgid "do not translate the on/off^[<side> [on/off]]"
-msgstr "no traduzca el on/off^[<bando> [on/off]]"
+msgstr "[<bando> [on/off]]"
 
 #: src/menu_events.cpp:2545
 #, fuzzy
