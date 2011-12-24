@@ -20,8 +20,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-11-16 12:43+0100\n"
-"PO-Revision-Date: 2011-11-12 23:53-0500\n"
+"POT-Creation-Date: 2011-12-19 15:15+0100\n"
+"PO-Revision-Date: 2011-11-26 12:13-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Spanish <http://wiki.wesnoth.org/SpanishTranslation>\n"
 "Language: es\n"
@@ -376,9 +376,9 @@ msgstr ""
 #: data/core/units/monsters/Giant_Spider.cfg:25
 #: data/core/units/monsters/Sea_Serpent.cfg:27
 #: data/core/units/monsters/Water_Serpent.cfg:44
-#: data/core/units/monsters/Wolf.cfg:50
-#: data/core/units/monsters/Wolf_Dire.cfg:34
-#: data/core/units/monsters/Wolf_Great.cfg:34
+#: data/core/units/monsters/Wolf.cfg:49
+#: data/core/units/monsters/Wolf_Dire.cfg:33
+#: data/core/units/monsters/Wolf_Great.cfg:33
 msgid "fangs"
 msgstr "colmillos"
 
@@ -4000,9 +4000,9 @@ msgstr "Lobo"
 #. [unit_type]: id=Wolf, race=wolf
 #. [unit_type]: id=Direwolf, race=wolf
 #. [unit_type]: id=Great Wolf, race=wolf
-#: data/core/units/monsters/Wolf.cfg:35
-#: data/core/units/monsters/Wolf_Dire.cfg:19
-#: data/core/units/monsters/Wolf_Great.cfg:19
+#: data/core/units/monsters/Wolf.cfg:34
+#: data/core/units/monsters/Wolf_Dire.cfg:18
+#: data/core/units/monsters/Wolf_Great.cfg:18
 msgid ""
 "Wolves are aggressive animals that hunt in packs. Although weak "
 "individually, a wolf pack can kill even the strongest man in minutes."
@@ -4063,7 +4063,7 @@ msgstr ""
 #. [female]
 #: data/core/units/nagas/Fighter.cfg:152
 msgid "Nagini Fighter"
-msgstr "Luchadora nagani"
+msgstr "Luchadora nagini"
 
 #. [unit_type]: id=Naga Myrmidon, race=naga
 #: data/core/units/nagas/Myrmidon.cfg:4
@@ -4089,7 +4089,7 @@ msgstr ""
 #. [female]
 #: data/core/units/nagas/Myrmidon.cfg:94
 msgid "Nagini Myrmidon"
-msgstr "Mirmidona nagani"
+msgstr "Mirmidona nagini"
 
 #. [female]
 #: data/core/units/nagas/Myrmidon.cfg:96
@@ -4107,7 +4107,7 @@ msgid ""
 "only are they potent enemies on any open terrain, but their ability to swim "
 "allows them a deadly mobility."
 msgstr ""
-"A las maestras más experimentadas con la espada entre las nagani se les "
+"A las maestras más experimentadas con la espada entre las naginis se les "
 "inicia en la casta del Mirmidón, maestras del arte de la lucha con dos "
 "espadas. Golpean tan rápido como las serpientes a las que se asemejan, y "
 "brincan con gracia evitando los ataques. No sólo son unas poderosas enemigas "
@@ -4140,7 +4140,7 @@ msgstr ""
 #. [female]
 #: data/core/units/nagas/Warrior.cfg:91
 msgid "Nagini Warrior"
-msgstr "Guerrera nagani"
+msgstr "Guerrera nagini"
 
 #. [female]
 #: data/core/units/nagas/Warrior.cfg:93
@@ -4160,8 +4160,8 @@ msgid ""
 "dodge from blows. This makes them potent on land, but the friction of water "
 "greatly impedes their ability to do this."
 msgstr ""
-"Muchas de las jóvenes guerreras nagani suspiran por que llegue el día en que "
-"se hagan merecedoras de su segunda espada. Sus prácticas marciales en la "
+"Muchas de las jóvenes guerreras naginis suspiran por que llegue el día en "
+"que se hagan merecedoras de su segunda espada. Sus prácticas marciales en la "
 "lucha con dos hojas no se parece en nada a aquella de los orcos u otras "
 "razas, ya que han comenzado a aprender el arte de usar su forma enroscada a "
 "su favor, retorciéndose y girando para esquivar los golpes. Esto las hace "
