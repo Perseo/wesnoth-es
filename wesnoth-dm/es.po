@@ -1,3 +1,5 @@
+# Javier C.H. <javier_los_herejes@hotmail.com>, 2011.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
